@@ -1,0 +1,1097 @@
+{
+  "schema_version": "nicn-ai-metadata-v3.2",
+  "source": {
+    "court": "National Industrial Court of Nigeria",
+    "jurisdiction": "Calabar Judicial Division, Cross River State, Nigeria",
+    "source_url": "",
+    "source_id": "35",
+    "document_id": "35",
+    "file_name": "full_text.txt",
+    "downloaded_at": "",
+    "document_type": "judgment",
+    "language": "English",
+    "pages": null,
+    "word_count": 3062,
+    "extraction_status": "complete",
+    "completeness_confidence": "HIGH"
+  },
+  "case": {
+    "title": "Polycarp Felix Inyang v. Essien Bassey Uwe-Bassey & National Programme Coordinator IFAD/FGN/NDDC: CBNRMP/ND",
+    "case_number": "NICN/UY/03/2016",
+    "court": "National Industrial Court of Nigeria",
+    "judicial_division": "Calabar",
+    "judge": "Honourable E. N. N. Agbakoba",
+    "judgment_date": "2017-03-02",
+    "year": 2017,
+    "claimants": [
+      "Polycarp Felix Inyang"
+    ],
+    "defendants": [
+      "Essien Bassey Uwe-Bassey",
+      "National Programme Coordinator IFAD/FGN/NDDC: CBNRMP/ND"
+    ],
+    "appellants": [],
+    "respondents": [],
+    "applicants": [],
+    "interested_parties": [],
+    "counsel": [
+      {
+        "name": "Ernest Usain",
+        "represents": "Claimant"
+      },
+      {
+        "name": "Kingsley Udoh",
+        "represents": "1st Defendant"
+      }
+    ]
+  },
+  "procedural_history": {
+    "originating_proceedings": "Complaint with accompanying frontloaded documents filed on 3rd March 2016.",
+    "procedural_posture": "Preliminary objection filed by 1st defendant on 27th June 2016 challenging jurisdiction on ground that suit is statute barred.",
+    "previous_decisions": [],
+    "interlocutory_applications": [
+      "Notice of Preliminary Objection filed 27th June 2016 by 1st defendant.",
+      "Claimant's motion filed 1st December 2016 to set aside court's order for ruling and for leave to file reply to preliminary objection."
+    ],
+    "appeals": [],
+    "orders_before_trial": [],
+    "procedural_events": [
+      "26th June 2016: Claimant informed court he was served and opposed the preliminary objection.",
+      "12th October 2016: Parties invited to adopt final written addresses; defendant adopted; matter adjourned to 2nd December 2016 for Ruling.",
+      "1st December 2016: Claimant filed motion to set aside order for ruling and reply to preliminary objection.",
+      "Court delivered separate desk ruling on claimant's motion before the main ruling."
+    ]
+  },
+  "facts": {
+    "material_facts": [
+      "Claimant was entitled to monthly allowance of N55,000 which was withheld by the 1st defendant.",
+      "The withheld entitlement totaled N385,000 ranging from March 2015 to September 2015.",
+      "Claimant was in employment during the period March 2015 to September 2015.",
+      "Suit was instituted on 3rd March 2016, five months and 15 days after the cause of action arose in September 2015."
+    ],
+    "chronology": [
+      {
+        "date": "March 2015",
+        "event": "Withholding of claimant's monthly allowance commenced."
+      },
+      {
+        "date": "September 2015",
+        "event": "Last month of withheld allowance; cause of action accrued."
+      },
+      {
+        "date": "3rd March 2016",
+        "event": "Claimant filed suit at National Industrial Court, Calabar Division."
+      },
+      {
+        "date": "27th June 2016",
+        "event": "1st defendant filed Notice of Preliminary Objection."
+      },
+      {
+        "date": "12th October 2016",
+        "event": "Parties adopted final written addresses."
+      },
+      {
+        "date": "1st December 2016",
+        "event": "Claimant filed motion to set aside order for ruling and reply to preliminary objection."
+      },
+      {
+        "date": "2nd March 2017",
+        "event": "Judgment delivered dismissing suit as statute barred."
+      }
+    ],
+    "admitted_facts": [],
+    "disputed_facts": [],
+    "background_facts": [
+      "Claimant was an employee entitled to monthly allowance.",
+      "1st defendant is a public officer."
+    ],
+    "employment_relationship": "Claimant was in employment during March 2015 to September 2015 and was entitled to monthly allowance of N55,000.",
+    "contractual_relationship": "Employment relationship giving rise to entitlement to monthly allowance.",
+    "documentary_evidence": [
+      "Complaint with frontloaded documents",
+      "Statement of Facts",
+      "Notice of Preliminary Objection",
+      "Written Address in Support of Preliminary Objection",
+      "Claimant's reply to preliminary objection",
+      "Motion to set aside order for ruling"
+    ],
+    "witness_evidence": []
+  },
+  "claims_and_reliefs": {
+    "causes_of_action": [
+      "Non-payment of monthly allowance from March 2015 to September 2015."
+    ],
+    "claims": [
+      {
+        "claim": "Payment of N385,000 forthwith",
+        "legal_basis": "Entitlement to monthly allowance",
+        "claimant": "Polycarp Felix Inyang",
+        "against": "Defendants"
+      },
+      {
+        "claim": "Cost of action assessed at N150,000",
+        "legal_basis": "Costs",
+        "claimant": "Polycarp Felix Inyang",
+        "against": "Defendants"
+      },
+      {
+        "claim": "General damages of N5,000,000",
+        "legal_basis": "General damages",
+        "claimant": "Polycarp Felix Inyang",
+        "against": "Defendants"
+      }
+    ],
+    "reliefs_sought": [
+      {
+        "relief_number": "1",
+        "relief": "Payment of Three Hundred and Eighty Five Thousand Naira (N385,000.00) forthwith.",
+        "category": "Monetary"
+      },
+      {
+        "relief_number": "2",
+        "relief": "Cost of the action to be assessed at One Hundred and Fifty Thousand Naira (N150,000.00).",
+        "category": "Costs"
+      },
+      {
+        "relief_number": "3",
+        "relief": "General damage of Five Million Naira (N5,000,000.00).",
+        "category": "Damages"
+      }
+    ],
+    "issues_for_determination": [
+      {
+        "issue_number": "1",
+        "issue": "Whether this action is statute barred.",
+        "raised_by": "1st Defendant"
+      },
+      {
+        "issue_number": "2",
+        "issue": "Whether this Court can dismiss this suit for lack of jurisdiction on account of being statute barred.",
+        "raised_by": "1st Defendant"
+      }
+    ],
+    "questions_of_law": [
+      "Whether the suit is statute barred under Section 2(a) of the Public Officers Protection Law Cap. P.17, Laws of Akwa Ibom State, 2000.",
+      "Whether the court lacks jurisdiction to entertain the suit."
+    ]
+  },
+  "arguments": {
+    "claimant_arguments": [
+      "The matter falls within exceptions to the Public Officers Protection Law because the public officer acted out of the scope of his employment.",
+      "Continuous injury exception applies.",
+      "Contract of employment creates an exception to the doctrine of Public Officer Protection law.",
+      "Claims for wages are not susceptible to Public Officers Protection Law."
+    ],
+    "defendant_arguments": [
+      "The action is statute barred having been filed more than 3 months after the cause of action arose.",
+      "Time begins to run from the date the cause of action accrued.",
+      "The court lacks jurisdiction to entertain a statute-barred suit and should dismiss it."
+    ],
+    "appellant_arguments": [],
+    "respondent_arguments": [],
+    "submissions": [
+      "Defendant: Relied on Section 1(1) of the Public Officers Protection Law, Cap. 104, Vol. 5, Laws of Akwa Ibom State; Section 2(a) of the Public Officers Protection Act, 1916.",
+      "Defendant: Cited Ajayi v. Adebiyi (2012) 11 NWLR (Pt. 1310) 137; Yare v. NSWIC (2013) 219 LRCN (Pt. 2) 8; Hassan v. Aliyu (2010) 17 NWLR (Pt. 1223) 547; Kanu v. Enugu Broadcasting Service & Ors. (2014) 46 NLLR (Pt. 148) 243; Kolo v. FBN Plc (2003) 3 NWLR (Pt. 806) 216; Ofili v. C.S.S. (2008) 2 NWLR (Pt. 1071) 238; Eboigbe v. NNPC (1994) 5 NWLR (Pt. 347) 649; Woherem v. Emeruewa (2004) Vol. 120 LRCN 4752; Aremo II v. Adekanye (2004) Vol. 121 LRCN 4853; Braithwaite v. Skye Bank Plc. (2013) 5 NWLR (Pt. 1346) 1; Ahah v. N.Y.S.C. (2004) 13 NWLR (Pt. 891) 691; Gbadehon v. Kiladejo (2012) 16 NWLR (Pt. 1326) 392; Lado v. CPC (2011) 18 NWLR (Pt. 1279) 689; Katto v. CBN (1999) 9 NWLR (Pt. 213) 149.",
+      "Claimant: Cited CBN v. Okojie [2015] 14 NWLR Pt. 231 at 260; Okoh v. Nigerian Navy [2007] 25 WRN Pt. 1 at 52."
+    ],
+    "party_authorities": [
+      {
+        "party": "Defendant",
+        "authority": "Ajayi v. Adebiyi (2012) 11 NWLR (Pt. 1310) 137",
+        "proposition": "Time begins to run from date cause of action accrued."
+      },
+      {
+        "party": "Defendant",
+        "authority": "Hassan v. Aliyu (2010) 17 NWLR (Pt. 1223) 547",
+        "proposition": "How to determine whether an action is statute barred."
+      },
+      {
+        "party": "Defendant",
+        "authority": "Kanu v. Enugu Broadcasting Service & Ors. (2014) 46 NLLR (Pt. 148) 243",
+        "proposition": "Court looks at writ of summons and statement of claim to determine statute bar."
+      },
+      {
+        "party": "Claimant",
+        "authority": "CBN v. Okojie [2015] 14 NWLR Pt. 231 at 260",
+        "proposition": "Exception where public officer acts outside scope of employment."
+      }
+    ]
+  },
+  "evidence": {
+    "exhibits": [],
+    "witnesses": [],
+    "documentary_evidence": [
+      "Complaint with frontloaded documents",
+      "Statement of Facts",
+      "Notice of Preliminary Objection",
+      "Written Address in Support of Preliminary Objection",
+      "Claimant's reply to preliminary objection"
+    ],
+    "oral_evidence": [],
+    "expert_evidence": [],
+    "evidential_findings": [
+      {
+        "evidence": "Claimant's statement of fact paragraphs 4 and 5",
+        "finding": "Claimant was entitled to monthly allowance of N55,000 withheld by 1st defendant, totaling N385,000 from March 2015 to September 2015.",
+        "credibility": "Accepted"
+      },
+      {
+        "evidence": "Date of filing suit: 3rd March 2016",
+        "finding": "Suit was instituted five months and 15 days after cause of action arose in September 2015.",
+        "credibility": "Accepted"
+      }
+    ]
+  },
+  "judicial_analysis": {
+    "findings_of_fact": [
+      {
+        "issue": "When did the cause of action arise?",
+        "finding": "Cause of action arose in September 2015 when the last payment was due and not paid."
+      },
+      {
+        "issue": "When was the suit instituted?",
+        "finding": "Suit was instituted on 3rd March 2016, five months and 15 days after the cause of action arose."
+      },
+      {
+        "issue": "Was the claimant in employment during the period?",
+        "finding": "Yes, claimant was in employment during March 2015 to September 2015."
+      }
+    ],
+    "findings_of_law": [
+      {
+        "issue": "Whether the action is statute barred",
+        "finding": "The action is statute barred under Section 2(a) of the Public Officers Protection Law Cap. P.17, Laws of Akwa Ibom State, 2000, as it was filed more than 3 months after the cause of action arose."
+      },
+      {
+        "issue": "Whether the court has jurisdiction",
+        "finding": "The court lacks jurisdiction to entertain the suit because it is statute barred."
+      },
+      {
+        "issue": "Whether exceptions apply",
+        "finding": "No exceptions apply; the public officer's motive is irrelevant, and continuous injury exception does not apply because the claim was for a fixed period."
+      }
+    ],
+    "reasoning": "The court determined that the cause of action accrued in September 2015 when the last allowance was due and not paid. The suit was filed on 3rd March 2016, beyond the 3-month period prescribed by Section 2(a) of the Public Officers Protection Law. The court found that the exceptions raised by the claimant (acting outside scope of employment, continuous injury, contract of employment, wages exception) did not apply. The court relied on case law that the motive or propriety of the public officer's act is irrelevant, and that continuous injury requires periodicity of payment, which was absent here as the claim was for a fixed period. Therefore, the suit is statute barred and the court lacks jurisdiction.",
+    "issue_analysis": [
+      {
+        "issue_number": "1",
+        "issue": "Whether this action is statute barred",
+        "arguments": {
+          "claimant": "The matter falls within exceptions: public officer acted outside scope of employment; continuous injury; contract of employment exception; wages not susceptible to Public Officers Protection Law.",
+          "defendant": "The action is statute barred having been filed more than 3 months after the cause of action arose; time begins to run from date cause of action accrued."
+        },
+        "judicial_analysis": "The court found that the cause of action arose in September 2015 and the suit was filed on 3rd March 2016, five months and 15 days later. The applicable law is Section 2(a) of the Public Officers Protection Law Cap. P.17, Laws of Akwa Ibom State, 2000, which requires actions to be commenced within 3 months. The court held that the exceptions raised by the claimant did not apply: the motive of the public officer is irrelevant; continuous injury requires periodicity of payment, but here the claim was for a fixed period; and claims for wages are not exempt. Thus, the action is statute barred.",
+        "holding": "The action is statute barred.",
+        "ratio_decidendi": "An action against a public officer for acts done in pursuance of public duty must be commenced within 3 months of the act, neglect, or default, unless it falls within recognized exceptions such as continuance of injury, which requires periodicity of payment.",
+        "result": "Issue resolved in favour of the defendant."
+      },
+      {
+        "issue_number": "2",
+        "issue": "Whether this Court can dismiss this suit for lack of jurisdiction on account of being statute barred",
+        "arguments": {
+          "claimant": "Not specifically addressed.",
+          "defendant": "Once the court lacks jurisdiction, it must dismiss the suit."
+        },
+        "judicial_analysis": "The court held that jurisdiction is fundamental and absence renders proceedings null and void. Having found the suit statute barred, the court lacks jurisdiction to entertain it and must dismiss it.",
+        "holding": "The court lacks jurisdiction and the suit is dismissed.",
+        "ratio_decidendi": "A court lacking jurisdiction cannot entertain a suit and must dismiss it.",
+        "result": "Issue resolved in favour of the defendant; suit dismissed."
+      }
+    ],
+    "holdings": [
+      {
+        "issue_number": "1",
+        "issue": "Whether this action is statute barred",
+        "holding": "The action is statute barred under Section 2(a) of the Public Officers Protection Law Cap. P.17, Laws of Akwa Ibom State, 2000.",
+        "result": "Defendant's preliminary objection succeeds."
+      },
+      {
+        "issue_number": "2",
+        "issue": "Whether this Court can dismiss this suit for lack of jurisdiction on account of being statute barred",
+        "holding": "The court lacks jurisdiction and the suit is dismissed.",
+        "result": "Suit dismissed."
+      }
+    ],
+    "ratio_decidendi": [
+      {
+        "issue": "Statute bar under Public Officers Protection Law",
+        "principle": "An action against a public officer for acts done in pursuance of public duty must be commenced within 3 months of the act, neglect, or default, unless it falls within recognized exceptions such as continuance of injury, which requires periodicity of payment.",
+        "application": "The claimant's suit was filed more than 3 months after the cause of action arose, and no exception applied.",
+        "holding": "Suit is statute barred and dismissed."
+      }
+    ],
+    "obiter_dicta": [],
+    "legal_principles": [
+      {
+        "principle": "In determining whether a case is statute barred, the court is restricted to the writ of summons and statement of claim.",
+        "context": "Preliminary objection on statute bar.",
+        "source": "Kanu v. Enugu Broadcasting Service & Ors. (2014) 46 NLLR (Pt. 148) 243; Olora v. Adegbitte (2013) 1 NWLR (Pt. 1334) 45."
+      },
+      {
+        "principle": "The motive or propriety of a public officer's act is irrelevant in determining whether an action is statute barred under the Public Officers Protection Act.",
+        "context": "Claimant's argument that officer acted outside scope of employment.",
+        "source": "Rahamaniyya United (Nig.) Ltd v. Ministry for Federal Capital Territory & Ors [2009] 43 WRN 124 CA; Chigbu v. Tonimas (Nig.) Ltd [2006] 31 WRN 179."
+      },
+      {
+        "principle": "For the exception of 'continuance of damage or injury' to apply, there must be periodicity of payment; where payment is for a fixed period, the cause of action accrues when the last payment was due and not paid.",
+        "context": "Claimant's argument of continuous injury.",
+        "source": "Bello & Ors. v. Nigeria Customs Service Board (2015) 53 NLLR (Pt. 179) 343 NIC; LUTH & MB v. Adewole [1998] 5 NWLR (Pt. 550) 406."
+      }
+    ],
+    "statutory_interpretation": [
+      {
+        "statute": "Public Officers Protection Law Cap. P.17, Laws of Akwa Ibom State, 2000",
+        "provision": "Section 2(a)",
+        "interpretation": "Actions against public officers must be commenced within 3 months of the act, neglect, or default, or in case of continuance of damage or injury, within 6 months after the ceasing thereof.",
+        "application": "Claimant's suit was filed more than 3 months after the cause of action arose, and no exception applied, so it is statute barred."
+      }
+    ],
+    "constitutional_analysis": [],
+    "precedent_analysis": [
+      {
+        "authority": "Kanu v. Enugu Broadcasting Service & Ors.",
+        "citation": "(2014) 46 NLLR (Pt. 148) 243",
+        "treatment": "Followed",
+        "proposition": "Court looks at writ of summons and statement of claim to determine statute bar.",
+        "reasoning": "Applied to determine when cause of action arose."
+      },
+      {
+        "authority": "LUTH & MB v. Adewole",
+        "citation": "[1998] 5 NWLR (Pt. 550) 406",
+        "treatment": "Followed",
+        "proposition": "For periodical payments, cause of action accrues from date salaries are due not paid; for fixed period, when last payment was due.",
+        "reasoning": "Applied to find cause of action arose in September 2015."
+      },
+      {
+        "authority": "Rahamaniyya United (Nig.) Ltd v. Ministry for Federal Capital Territory & Ors",
+        "citation": "[2009] 43 WRN 124 CA",
+        "treatment": "Followed",
+        "proposition": "Propriety of act of defendant is not relevant for applicability of Public Officers Protection Act.",
+        "reasoning": "Applied to reject claimant's argument that officer acted outside scope."
+      },
+      {
+        "authority": "Bello & Ors. v. Nigeria Customs Service Board",
+        "citation": "(2015) 53 NLLR (Pt. 179) 343 NIC",
+        "treatment": "Followed",
+        "proposition": "Continuance of injury requires periodicity of payment.",
+        "reasoning": "Applied to reject continuous injury exception."
+      }
+    ],
+    "evidential_findings": [],
+    "judicial_observations": []
+  },
+  "authorities": {
+    "cases_cited": [
+      {
+        "case_name": "Ajayi v. Adebiyi",
+        "citation": "(2012) 11 NWLR (Pt. 1310) 137",
+        "court": "Supreme Court of Nigeria",
+        "year": 2012,
+        "proposition": "Time begins to run from date cause of action accrued.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Yare v. NSWIC",
+        "citation": "(2013) 219 LRCN (Pt. 2) 8",
+        "court": "Supreme Court of Nigeria",
+        "year": 2013,
+        "proposition": "Time begins to run from date cause of action accrued.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Hassan v. Aliyu",
+        "citation": "(2010) 17 NWLR (Pt. 1223) 547",
+        "court": "Supreme Court of Nigeria",
+        "year": 2010,
+        "proposition": "How to determine whether an action is statute barred.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Kanu v. Enugu Broadcasting Service & Ors.",
+        "citation": "(2014) 46 NLLR (Pt. 148) 243",
+        "court": "National Industrial Court",
+        "year": 2014,
+        "proposition": "Court looks at writ of summons and statement of claim to determine statute bar.",
+        "treatment": "Followed",
+        "cited_by": "Defendant and Court",
+        "importance": "Key"
+      },
+      {
+        "case_name": "Kolo v. FBN Plc",
+        "citation": "(2003) 3 NWLR (Pt. 806) 216",
+        "court": "Supreme Court of Nigeria",
+        "year": 2003,
+        "proposition": "Statute bar determination.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Ofili v. C.S.S.",
+        "citation": "(2008) 2 NWLR (Pt. 1071) 238",
+        "court": "Supreme Court of Nigeria",
+        "year": 2008,
+        "proposition": "Statute bar determination.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Eboigbe v. NNPC",
+        "citation": "(1994) 5 NWLR (Pt. 347) 649",
+        "court": "Supreme Court of Nigeria",
+        "year": 1994,
+        "proposition": "Statute bar determination.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Woherem v. Emeruewa",
+        "citation": "(2004) Vol. 120 LRCN 4752",
+        "court": "Supreme Court of Nigeria",
+        "year": 2004,
+        "proposition": "Time begins to run from moment cause of action arose.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Aremo II v. Adekanye",
+        "citation": "(2004) Vol. 121 LRCN 4853",
+        "court": "Supreme Court of Nigeria",
+        "year": 2004,
+        "proposition": "Where action is statute barred, claimant loses right to enforce by judicial process.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Braithwaite v. Skye Bank Plc.",
+        "citation": "(2013) 5 NWLR (Pt. 1346) 1",
+        "court": "Supreme Court of Nigeria",
+        "year": 2013,
+        "proposition": "Court must terminate proceedings if it lacks jurisdiction.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Ahah v. N.Y.S.C.",
+        "citation": "(2004) 13 NWLR (Pt. 891) 691",
+        "court": "Supreme Court of Nigeria",
+        "year": 2004,
+        "proposition": "Court must terminate proceedings if it lacks jurisdiction.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Gbadehon v. Kiladejo",
+        "citation": "(2012) 16 NWLR (Pt. 1326) 392",
+        "court": "Supreme Court of Nigeria",
+        "year": 2012,
+        "proposition": "Jurisdiction is fundamental.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Lado v. CPC",
+        "citation": "(2011) 18 NWLR (Pt. 1279) 689",
+        "court": "Supreme Court of Nigeria",
+        "year": 2011,
+        "proposition": "Jurisdiction is lifeblood of adjudication.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Katto v. CBN",
+        "citation": "(1999) 9 NWLR (Pt. 213) 149",
+        "court": "Supreme Court of Nigeria",
+        "year": 1999,
+        "proposition": "Jurisdiction is fundamental.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "CBN v. Okojie",
+        "citation": "[2015] 14 NWLR Pt. 231 at 260",
+        "court": "Supreme Court of Nigeria",
+        "year": 2015,
+        "proposition": "Exception where public officer acts outside scope of employment.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Okoh v. Nigerian Navy",
+        "citation": "[2007] 25 WRN Pt. 1 at 52",
+        "court": "Supreme Court of Nigeria",
+        "year": 2007,
+        "proposition": "Exception where public officer acts outside scope of employment.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Rahamaniyya United (Nig.) Ltd v. Ministry for Federal Capital Territory & Ors",
+        "citation": "[2009] 43 WRN 124 CA",
+        "court": "Court of Appeal",
+        "year": 2009,
+        "proposition": "Propriety of act of defendant is not relevant for applicability of Public Officers Protection Act.",
+        "treatment": "Followed",
+        "cited_by": "Court",
+        "importance": "Key"
+      },
+      {
+        "case_name": "Chigbu v. Tonimas (Nig.) Ltd",
+        "citation": "[2006] 31 WRN 179; [2006] 9 NWLR (Pt. 986) 189 SC",
+        "court": "Supreme Court of Nigeria",
+        "year": 2006,
+        "proposition": "Propriety of act of defendant is not relevant for applicability of Public Officers Protection Act.",
+        "treatment": "Followed",
+        "cited_by": "Court",
+        "importance": "Key"
+      },
+      {
+        "case_name": "Egbe v. Adefarasin",
+        "citation": "[2002] 14 WRN 57",
+        "court": "Supreme Court of Nigeria",
+        "year": 2002,
+        "proposition": "Conduct of defendant as to whether malicious is irrelevant for statute bar.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Joshua Mnenge v. Nigerian Army",
+        "citation": "Unreported Suit No. NICN/IB/22/2012",
+        "court": "National Industrial Court",
+        "year": 2012,
+        "proposition": "Argument that defendant acted mala fide and outside colour of office is illogical for statute bar.",
+        "treatment": "Followed",
+        "cited_by": "Court",
+        "importance": "Key"
+      },
+      {
+        "case_name": "Bello & Ors. v. Nigeria Customs Service Board",
+        "citation": "(2015) 53 NLLR (Pt. 179) 343 NIC",
+        "court": "National Industrial Court",
+        "year": 2015,
+        "proposition": "Continuance of injury requires periodicity of payment.",
+        "treatment": "Followed",
+        "cited_by": "Court",
+        "importance": "Key"
+      },
+      {
+        "case_name": "Okafor v. A.G, Anambra State",
+        "citation": "(2001) FWLR (Pt. 58) 1127",
+        "court": "Supreme Court of Nigeria",
+        "year": 2001,
+        "proposition": "Definition of continuance of injury.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Carrey v. Bermondsey Metropolitan Borough Council",
+        "citation": "(1903) 675 P. 447; 20 TLR 2",
+        "court": "English Court",
+        "year": 1903,
+        "proposition": "Definition of continuance of injury.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Amamiwe v. The Local School Board",
+        "citation": "(1971) 2 NMLR 57",
+        "court": "Nigerian Court",
+        "year": 1971,
+        "proposition": "Definition of continuance of injury.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Obiefuna v. Okoye",
+        "citation": "(1961) ALL NLR 357",
+        "court": "Supreme Court of Nigeria",
+        "year": 1961,
+        "proposition": "Definition of continuance of injury.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Hon. Runyi Kanu (JP) & Ors. v. Attorney-General & Commissioner for Justice, Cross River State & Ors.",
+        "citation": "(2013) 32 NLLR (Pt. 91) 63 NIC",
+        "court": "National Industrial Court",
+        "year": 2013,
+        "proposition": "For exception of continuance of damage or injury, there must be periodicity of payment.",
+        "treatment": "Followed",
+        "cited_by": "Court",
+        "importance": "Key"
+      },
+      {
+        "case_name": "LUTH & MB v. Adewole",
+        "citation": "[1998] 5 NWLR (Pt. 550) 406",
+        "court": "Supreme Court of Nigeria",
+        "year": 1998,
+        "proposition": "For periodical payments, cause of action accrues from date salaries are due not paid.",
+        "treatment": "Followed",
+        "cited_by": "Court",
+        "importance": "Key"
+      },
+      {
+        "case_name": "Kayili v. Yilbuk",
+        "citation": "(2015) 61 NSCQR 359",
+        "court": "Supreme Court of Nigeria",
+        "year": 2015,
+        "proposition": "Absence of jurisdiction renders proceedings null and void.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Hallmark Bank Plc v. Obasanjo",
+        "citation": "(2014) 4 NWLR (Pt. 1397) 209 C.A.",
+        "court": "Court of Appeal",
+        "year": 2014,
+        "proposition": "Jurisdiction is lifeline of an action.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Achebe v. Nwosu",
+        "citation": "(2003) 7 NWLR (Pt. 818) 103",
+        "court": "Supreme Court of Nigeria",
+        "year": 2003,
+        "proposition": "Jurisdiction is fundamental.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Elabanjo v. Dawodu",
+        "citation": "(2006) 6-7 SC 24",
+        "court": "Supreme Court of Nigeria",
+        "year": 2006,
+        "proposition": "Statute bar determination.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Olora v. Adegbitte",
+        "citation": "(2013) 1 NWLR (Pt. 1334) 45",
+        "court": "Supreme Court of Nigeria",
+        "year": 2013,
+        "proposition": "Court restricted to writ of summons and statement of claim for statute bar.",
+        "treatment": "Followed",
+        "cited_by": "Court",
+        "importance": "Key"
+      },
+      {
+        "case_name": "Egbe v. Adefarasin (No. 2)",
+        "citation": "(1987) 1 NWLR (Pt. 47) 1",
+        "court": "Supreme Court of Nigeria",
+        "year": 1987,
+        "proposition": "Statute bar determination.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "S.B.N. Ltd. v. Pan Atlantic Shipping & Transport Agencies Ltd.",
+        "citation": "(1987) 1 NWLR (Pt. 49) 212",
+        "court": "Supreme Court of Nigeria",
+        "year": 1987,
+        "proposition": "Statute bar determination.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Supporting"
+      }
+    ],
+    "statutes": [
+      {
+        "name": "Public Officers Protection Law Cap. P.17, Laws of Akwa Ibom State, 2000",
+        "provision": "Section 2(a)",
+        "proposition": "Actions against public officers must be commenced within 3 months of the act, neglect, or default, or in case of continuance of damage or injury, within 6 months after the ceasing thereof."
+      },
+      {
+        "name": "Public Officers Protection Act, 1916",
+        "provision": "Section 2(a)",
+        "proposition": "Similar provision on limitation for public officers."
+      },
+      {
+        "name": "Public Officers Protection Law, Cap. 104, Vol. 5, Laws of Akwa Ibom State",
+        "provision": "Section 1(1)",
+        "proposition": "Limitation period for actions against public officers."
+      }
+    ],
+    "constitutional_provisions": [],
+    "regulations": [],
+    "rules": [],
+    "international_instruments": [],
+    "other_authorities": []
+  },
+  "precedent_relationships": [
+    {
+      "authority": "Kanu v. Enugu Broadcasting Service & Ors.",
+      "citation": "(2014) 46 NLLR (Pt. 148) 243",
+      "relationship": "Followed",
+      "proposition": "Court looks at writ of summons and statement of claim to determine statute bar.",
+      "context": "Applied to determine when cause of action arose."
+    },
+    {
+      "authority": "LUTH & MB v. Adewole",
+      "citation": "[1998] 5 NWLR (Pt. 550) 406",
+      "relationship": "Followed",
+      "proposition": "For periodical payments, cause of action accrues from date salaries are due not paid.",
+      "context": "Applied to find cause of action arose in September 2015."
+    },
+    {
+      "authority": "Rahamaniyya United (Nig.) Ltd v. Ministry for Federal Capital Territory & Ors",
+      "citation": "[2009] 43 WRN 124 CA",
+      "relationship": "Followed",
+      "proposition": "Propriety of act of defendant is not relevant for applicability of Public Officers Protection Act.",
+      "context": "Applied to reject claimant's argument that officer acted outside scope."
+    },
+    {
+      "authority": "Bello & Ors. v. Nigeria Customs Service Board",
+      "citation": "(2015) 53 NLLR (Pt. 179) 343 NIC",
+      "relationship": "Followed",
+      "proposition": "Continuance of injury requires periodicity of payment.",
+      "context": "Applied to reject continuous injury exception."
+    }
+  ],
+  "outcome": {
+    "decision": "Preliminary objection succeeds; suit dismissed as statute barred.",
+    "overall_result": "Suit dismissed.",
+    "orders": [
+      "Suit dismissed as statute barred by virtue of Section 1(a) Public Officers Protection Law Cap. P.17, Laws of Akwa Ibom State, 2000.",
+      "No order as to costs."
+    ],
+    "reliefs": [
+      {
+        "relief_number": "1",
+        "relief": "Payment of N385,000 forthwith",
+        "result": "Not granted",
+        "reason": "Suit statute barred."
+      },
+      {
+        "relief_number": "2",
+        "relief": "Cost of action assessed at N150,000",
+        "result": "Not granted",
+        "reason": "Suit statute barred."
+      },
+      {
+        "relief_number": "3",
+        "relief": "General damages of N5,000,000",
+        "result": "Not granted",
+        "reason": "Suit statute barred."
+      }
+    ],
+    "reliefs_granted": [],
+    "reliefs_refused": [],
+    "reliefs_struck_out": [],
+    "reliefs_dismissed": [
+      "All reliefs dismissed."
+    ],
+    "damages": [],
+    "compensation": [],
+    "costs": {
+      "awarded": false,
+      "amount": "",
+      "recipient": "",
+      "details": "No order as to costs."
+    },
+    "interest": {
+      "awarded": false,
+      "rate": "",
+      "start_date": "",
+      "end_date": "",
+      "basis": ""
+    },
+    "compliance_deadline": "",
+    "declarations": [],
+    "injunctions": [],
+    "specific_orders": [],
+    "final_disposition": "Suit dismissed."
+  },
+  "legal_knowledge": {
+    "holdings": [
+      "The action is statute barred under Section 2(a) of the Public Officers Protection Law Cap. P.17, Laws of Akwa Ibom State, 2000.",
+      "The court lacks jurisdiction to entertain the suit and it is dismissed."
+    ],
+    "legal_principles": [
+      "In determining whether a case is statute barred, the court is restricted to the writ of summons and statement of claim.",
+      "The motive or propriety of a public officer's act is irrelevant in determining whether an action is statute barred under the Public Officers Protection Act.",
+      "For the exception of 'continuance of damage or injury' to apply, there must be periodicity of payment; where payment is for a fixed period, the cause of action accrues when the last payment was due and not paid."
+    ],
+    "ratio_decidendi": [
+      "An action against a public officer for acts done in pursuance of public duty must be commenced within 3 months of the act, neglect, or default, unless it falls within recognized exceptions such as continuance of injury, which requires periodicity of payment."
+    ],
+    "obiter_dicta": [],
+    "causes_of_action": [
+      "Non-payment of monthly allowance from March 2015 to September 2015."
+    ],
+    "legal_issues": [
+      "Whether the action is statute barred.",
+      "Whether the court can dismiss the suit for lack of jurisdiction on account of being statute barred."
+    ],
+    "practice_areas": [
+      "Employment Law",
+      "Civil Procedure",
+      "Limitation of Actions"
+    ],
+    "sub_practice_areas": [
+      "Public Officers Protection",
+      "Jurisdiction"
+    ],
+    "legal_concepts": [
+      "Statute Bar",
+      "Limitation Period",
+      "Jurisdiction",
+      "Public Officers Protection",
+      "Continuance of Injury",
+      "Cause of Action"
+    ],
+    "doctrines": [
+      "Public Officers Protection Doctrine",
+      "Limitation of Actions Doctrine"
+    ],
+    "remedies": [
+      "Dismissal of suit"
+    ],
+    "employment_law_topics": [
+      "Non-payment of allowances",
+      "Employment relationship"
+    ],
+    "jurisdictional_issues": [
+      "Lack of jurisdiction due to statute bar."
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "statute barred",
+      "Public Officers Protection Law",
+      "Akwa Ibom State",
+      "limitation",
+      "jurisdiction",
+      "preliminary objection",
+      "monthly allowance",
+      "National Industrial Court",
+      "Calabar"
+    ],
+    "searchable_concepts": [
+      "Public Officers Protection Law Cap. P.17",
+      "Section 2(a)",
+      "3 months limitation",
+      "continuance of injury",
+      "periodicity of payment",
+      "cause of action accrual"
+    ],
+    "semantic_topics": [
+      "Limitation of actions against public officers",
+      "Jurisdictional challenge",
+      "Employment claims and statute bar"
+    ],
+    "legal_entities": [
+      "Polycarp Felix Inyang",
+      "Essien Bassey Uwe-Bassey",
+      "National Programme Coordinator IFAD/FGN/NDDC: CBNRMP/ND",
+      "National Industrial Court of Nigeria",
+      "Public Officers Protection Law"
+    ],
+    "statutes_referenced": [
+      "Public Officers Protection Law Cap. P.17, Laws of Akwa Ibom State, 2000",
+      "Public Officers Protection Act, 1916"
+    ],
+    "cases_referenced": [
+      "Kanu v. Enugu Broadcasting Service & Ors. (2014) 46 NLLR (Pt. 148) 243",
+      "LUTH & MB v. Adewole [1998] 5 NWLR (Pt. 550) 406",
+      "Rahamaniyya United (Nig.) Ltd v. Ministry for Federal Capital Territory & Ors [2009] 43 WRN 124 CA",
+      "Bello & Ors. v. Nigeria Customs Service Board (2015) 53 NLLR (Pt. 179) 343 NIC"
+    ],
+    "citation_phrases": [
+      "statute barred",
+      "Public Officers Protection Law",
+      "Section 2(a)",
+      "continuance of injury",
+      "periodicity of payment"
+    ],
+    "fact_patterns": [
+      "Claimant's monthly allowance withheld by public officer from March to September 2015; suit filed March 2016; preliminary objection on statute bar."
+    ],
+    "relief_types": [
+      "Monetary payment",
+      "Costs",
+      "General damages"
+    ],
+    "decision_types": [
+      "Dismissal",
+      "Preliminary objection upheld"
+    ]
+  },
+  "graph_rag": {
+    "entities": [
+      {
+        "name": "Polycarp Felix Inyang",
+        "type": "Person"
+      },
+      {
+        "name": "Essien Bassey Uwe-Bassey",
+        "type": "Person"
+      },
+      {
+        "name": "National Programme Coordinator IFAD/FGN/NDDC: CBNRMP/ND",
+        "type": "Organization"
+      },
+      {
+        "name": "National Industrial Court of Nigeria",
+        "type": "Court"
+      },
+      {
+        "name": "Public Officers Protection Law Cap. P.17, Laws of Akwa Ibom State, 2000",
+        "type": "Statute"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Polycarp Felix Inyang",
+        "relationship": "claimant in",
+        "target": "Suit NICN/UY/03/2016",
+        "evidence": "Claimant instituted action."
+      },
+      {
+        "source": "Essien Bassey Uwe-Bassey",
+        "relationship": "1st defendant in",
+        "target": "Suit NICN/UY/03/2016",
+        "evidence": "Named as 1st defendant."
+      },
+      {
+        "source": "National Programme Coordinator IFAD/FGN/NDDC: CBNRMP/ND",
+        "relationship": "2nd defendant in",
+        "target": "Suit NICN/UY/03/2016",
+        "evidence": "Named as 2nd defendant."
+      },
+      {
+        "source": "Suit NICN/UY/03/2016",
+        "relationship": "dismissed under",
+        "target": "Public Officers Protection Law Cap. P.17, Laws of Akwa Ibom State, 2000",
+        "evidence": "Suit statute barred under Section 2(a)."
+      }
+    ],
+    "case_relationships": [
+      {
+        "case": "Kanu v. Enugu Broadcasting Service & Ors.",
+        "citation": "(2014) 46 NLLR (Pt. 148) 243",
+        "relationship": "Followed",
+        "context": "Applied to determine statute bar."
+      },
+      {
+        "case": "LUTH & MB v. Adewole",
+        "citation": "[1998] 5 NWLR (Pt. 550) 406",
+        "relationship": "Followed",
+        "context": "Applied to determine cause of action accrual."
+      }
+    ],
+    "statute_relationships": [
+      {
+        "statute": "Public Officers Protection Law Cap. P.17, Laws of Akwa Ibom State, 2000",
+        "provision": "Section 2(a)",
+        "relationship": "applied to bar suit",
+        "context": "Suit filed more than 3 months after cause of action."
+      }
+    ],
+    "legal_principle_relationships": [
+      {
+        "principle": "Statute bar under Public Officers Protection Law",
+        "case": "Kanu v. Enugu Broadcasting Service & Ors.",
+        "relationship": "supported by"
+      },
+      {
+        "principle": "Continuance of injury requires periodicity of payment",
+        "case": "Bello & Ors. v. Nigeria Customs Service Board",
+        "relationship": "supported by"
+      }
+    ]
+  },
+  "citation_network": {
+    "authorities_cited": [
+      "Ajayi v. Adebiyi (2012) 11 NWLR (Pt. 1310) 137",
+      "Yare v. NSWIC (2013) 219 LRCN (Pt. 2) 8",
+      "Hassan v. Aliyu (2010) 17 NWLR (Pt. 1223) 547",
+      "Kanu v. Enugu Broadcasting Service & Ors. (2014) 46 NLLR (Pt. 148) 243",
+      "Kolo v. FBN Plc (2003) 3 NWLR (Pt. 806) 216",
+      "Ofili v. C.S.S. (2008) 2 NWLR (Pt. 1071) 238",
+      "Eboigbe v. NNPC (1994) 5 NWLR (Pt. 347) 649",
+      "Woherem v. Emeruewa (2004) Vol. 120 LRCN 4752",
+      "Aremo II v. Adekanye (2004) Vol. 121 LRCN 4853",
+      "Braithwaite v. Skye Bank Plc. (2013) 5 NWLR (Pt. 1346) 1",
+      "Ahah v. N.Y.S.C. (2004) 13 NWLR (Pt. 891) 691",
+      "Gbadehon v. Kiladejo (2012) 16 NWLR (Pt. 1326) 392",
+      "Lado v. CPC (2011) 18 NWLR (Pt. 1279) 689",
+      "Katto v. CBN (1999) 9 NWLR (Pt. 213) 149",
+      "CBN v. Okojie [2015] 14 NWLR Pt. 231 at 260",
+      "Okoh v. Nigerian Navy [2007] 25 WRN Pt. 1 at 52",
+      "Rahamaniyya United (Nig.) Ltd v. Ministry for Federal Capital Territory & Ors [2009] 43 WRN 124 CA",
+      "Chigbu v. Tonimas (Nig.) Ltd [2006] 31 WRN 179; [2006] 9 NWLR (Pt. 986) 189 SC",
+      "Egbe v. Adefarasin [2002] 14 WRN 57",
+      "Joshua Mnenge v. Nigerian Army Unreported Suit No. NICN/IB/22/2012",
+      "Bello & Ors. v. Nigeria Customs Service Board (2015) 53 NLLR (Pt. 179) 343 NIC",
+      "Okafor v. A.G, Anambra State (2001) FWLR (Pt. 58) 1127",
+      "Carrey v. Bermondsey Metropolitan Borough Council (1903) 675 P. 447; 20 TLR 2",
+      "Amamiwe v. The Local School Board (1971) 2 NMLR 57",
+      "Obiefuna v. Okoye (1961) ALL NLR 357",
+      "Hon. Runyi Kanu (JP) & Ors. v. Attorney-General & Commissioner for Justice, Cross River State & Ors. (2013) 32 NLLR (Pt. 91) 63 NIC",
+      "LUTH & MB v. Adewole [1998] 5 NWLR (Pt. 550) 406",
+      "Kayili v. Yilbuk (2015) 61 NSCQR 359",
+      "Hallmark Bank Plc v. Obasanjo (2014) 4 NWLR (Pt. 1397) 209 C.A.",
+      "Achebe v. Nwosu (2003) 7 NWLR (Pt. 818) 103",
+      "Elabanjo v. Dawodu (2006) 6-7 SC 24",
+      "Olora v. Adegbitte (2013) 1 NWLR (Pt. 1334) 45",
+      "Egbe v. Adefarasin (No. 2) (1987) 1 NWLR (Pt. 47) 1",
+      "S.B.N. Ltd. v. Pan Atlantic Shipping & Transport Agencies Ltd. (1987) 1 NWLR (Pt. 49) 212"
+    ],
+    "authorities_followed": [
+      "Kanu v. Enugu Broadcasting Service & Ors. (2014) 46 NLLR (Pt. 148) 243",
+      "LUTH & MB v. Adewole [1998] 5 NWLR (Pt. 550) 406",
+      "Rahamaniyya United (Nig.) Ltd v. Ministry for Federal Capital Territory & Ors [2009] 43 WRN 124 CA",
+      "Bello & Ors. v. Nigeria Customs Service Board (2015) 53 NLLR (Pt. 179) 343 NIC",
+      "Olora v. Adegbitte (2013) 1 NWLR (Pt. 1334) 45"
+    ],
+    "authorities_distinguished": [],
+    "authorities_rejected": [],
+    "authorities_overruled": [],
+    "authorities_relied_upon": [
+      "Kanu v. Enugu Broadcasting Service & Ors. (2014) 46 NLLR (Pt. 148) 243",
+      "LUTH & MB v. Adewole [1998] 5 NWLR (Pt. 550) 406",
+      "Rahamaniyya United (Nig.) Ltd v. Ministry for Federal Capital Territory & Ors [2009] 43 WRN 124 CA",
+      "Bello & Ors. v. Nigeria Customs Service Board (2015) 53 NLLR (Pt. 179) 343 NIC"
+    ]
+  },
+  "metadata_quality": {
+    "extraction_confidence": 0.95,
+    "fields_missing": [],
+    "fields_uncertain": [],
+    "requires_review": false,
+    "review_reasons": [],
+    "source_completeness": "complete",
+    "ai_extraction_model": "deepseek-chat",
+    "prompt_version": "nicn-v3.2-single-call",
+    "extracted_at": "2026-10-01T21:32:14.728697+00:00"
+  }
+}

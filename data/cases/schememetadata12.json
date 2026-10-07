@@ -1,0 +1,844 @@
+{
+  "schema_version": "nicn-ai-metadata-v3.2",
+  "source": {
+    "court": "National Industrial Court of Nigeria",
+    "jurisdiction": "Nigeria",
+    "source_url": "",
+    "source_id": "622",
+    "document_id": "622",
+    "file_name": "full_text.txt",
+    "downloaded_at": "",
+    "document_type": "judgment",
+    "language": "English",
+    "pages": null,
+    "word_count": 1492,
+    "extraction_status": "complete",
+    "completeness_confidence": "HIGH"
+  },
+  "case": {
+    "title": "Mr. Taiwo Ayodeji v. Registered Trustees of Ikoyi Club 1938",
+    "case_number": "NICN/LA/432/2012",
+    "court": "National Industrial Court of Nigeria",
+    "judicial_division": "Lagos Division",
+    "judge": "Hon. Justice J. T. Agbadu-Fishim",
+    "judgment_date": "2014-06-06",
+    "year": 2014,
+    "claimants": [
+      "Mr. Taiwo Ayodeji"
+    ],
+    "defendants": [
+      "Registered Trustees of Ikoyi Club 1938"
+    ],
+    "appellants": [],
+    "respondents": [],
+    "applicants": [
+      "Registered Trustees of Ikoyi Club 1938"
+    ],
+    "interested_parties": [],
+    "counsel": [
+      {
+        "name": "Ubong Akpan",
+        "represents": "Defendant/Applicant"
+      },
+      {
+        "name": "John Okere",
+        "represents": "Claimant/Respondent"
+      }
+    ]
+  },
+  "procedural_history": {
+    "originating_proceedings": "Claimant filed suit NICN/LA/432/2012 against the defendant.",
+    "procedural_posture": "Ruling on application for stay of execution of judgment delivered on 21st March, 2014 pending appeal.",
+    "previous_decisions": [
+      {
+        "date": "2014-03-21",
+        "decision": "Judgment delivered in favour of claimant.",
+        "court": "National Industrial Court of Nigeria"
+      }
+    ],
+    "interlocutory_applications": [
+      {
+        "application": "Motion for stay of execution of judgment pending appeal",
+        "filed_date": "2014-03-28",
+        "status": "granted conditionally"
+      }
+    ],
+    "appeals": [
+      {
+        "appeal": "Appeal filed against judgment of 21st March, 2014",
+        "status": "pending"
+      }
+    ],
+    "orders_before_trial": [],
+    "procedural_events": [
+      {
+        "date": "2014-03-28",
+        "event": "Motion for stay of execution filed."
+      },
+      {
+        "date": "2014-04-16",
+        "event": "Counter affidavit filed by claimant."
+      },
+      {
+        "date": "2014-06-06",
+        "event": "Ruling delivered granting conditional stay of execution."
+      }
+    ]
+  },
+  "facts": {
+    "material_facts": [
+      "Judgment was delivered in favour of the claimant on 21st March, 2014.",
+      "Defendant/applicant filed an appeal against the judgment.",
+      "Defendant/applicant applied for stay of execution pending appeal."
+    ],
+    "chronology": [
+      {
+        "date": "2014-03-21",
+        "event": "Judgment delivered in favour of claimant."
+      },
+      {
+        "date": "2014-03-28",
+        "event": "Motion for stay of execution filed by defendant/applicant."
+      },
+      {
+        "date": "2014-04-16",
+        "event": "Counter affidavit filed by claimant/respondent."
+      },
+      {
+        "date": "2014-06-06",
+        "event": "Ruling delivered granting conditional stay of execution."
+      }
+    ],
+    "admitted_facts": [],
+    "disputed_facts": [],
+    "background_facts": [],
+    "employment_relationship": "",
+    "contractual_relationship": "",
+    "documentary_evidence": [],
+    "witness_evidence": []
+  },
+  "claims_and_reliefs": {
+    "causes_of_action": [],
+    "claims": [],
+    "reliefs_sought": [
+      {
+        "relief_number": "1",
+        "relief": "An order staying execution of the judgment of this court delivered on 21st March, 2014 pending the hearing and determination of the Appeal filed against the said judgment.",
+        "category": "stay of execution"
+      }
+    ],
+    "issues_for_determination": [
+      {
+        "issue_number": "1",
+        "issue": "Whether this court should grant a stay of execution in the circumstance of this case.",
+        "raised_by": "Court"
+      }
+    ],
+    "questions_of_law": []
+  },
+  "arguments": {
+    "claimant_arguments": [],
+    "defendant_arguments": [
+      "The court has power to grant stay of execution under Section 47 of the National Industrial Court Act, 2006.",
+      "The grant of stay is discretionary.",
+      "Applicant must show: competent and valid appeal, appeal raises unanswerable question of law, special or exceptional circumstance, inability of respondent to refund judgment sum, and balance of convenience in favour of defendant.",
+      "Grounds of appeal are unanswerable in favour of applicant.",
+      "If execution is not stayed, it would be impossible for claimant to refund the judgment sum.",
+      "Preservation of the res is to prevent any judgment on appeal from being rendered nugatory.",
+      "Balance of convenience is on the applicant."
+    ],
+    "appellant_arguments": [],
+    "respondent_arguments": [
+      "Principles for stay of execution are laid down in cases.",
+      "Courts have discretion to grant or refuse stay, taking into account competing rights.",
+      "A winning party has a right to the fruits of his judgment.",
+      "Applicant must show special and exceptional circumstances.",
+      "Facts deposed in paragraph 4 of affidavit in support do not support any special circumstance.",
+      "The res is only a monetary claim; allowing defendant to retain judgment debt is undue advantage.",
+      "Applicant's affidavit falls short of requirements of law.",
+      "Grounds of appeal are frivolous and do not raise any substantial or recondite point of law.",
+      "Defendant participated in the whole proceeding and did not protest denial of fair hearing.",
+      "Until the National Assembly makes any other law for purpose of appealing the judgment of this court, appeal based on such law shall be by leave of the Court of Appeal.",
+      "Applicant surreptitiously tried to cling on Chapter IV of the Constitution to deceive this court.",
+      "Balance of convenience is not on the defendant's favour."
+    ],
+    "submissions": [],
+    "party_authorities": [
+      {
+        "party": "Defendant/Applicant",
+        "authority": "Amadi v. Anulabo [1992] NWLR (pt. 238) p. 721",
+        "proposition": "Grant of stay is purely at the discretion of the court."
+      },
+      {
+        "party": "Defendant/Applicant",
+        "authority": "C.B.N v. Krans Thompson Org. Ltd [2002] 7 NWLR (pt. 765) p. 139",
+        "proposition": "What applicant needs to show to earn court's discretion."
+      },
+      {
+        "party": "Defendant/Applicant",
+        "authority": "Baker v. Lavery [1885] 14 QBD 769",
+        "proposition": "Principles for stay of execution."
+      },
+      {
+        "party": "Defendant/Applicant",
+        "authority": "The Annot Lyle [1886] 11 PD 144 at p. 166",
+        "proposition": "Principles for stay of execution."
+      },
+      {
+        "party": "Defendant/Applicant",
+        "authority": "Deduwa & Ors v. Okorodudu & Ors [1974] 1 All NLR (pt. 1) p. 272",
+        "proposition": "Principles for stay of execution."
+      },
+      {
+        "party": "Defendant/Applicant",
+        "authority": "Cornelius Ltd v. Ezenwa [2002] 8 NWLR (pt. 670) p. 616",
+        "proposition": "Principles for stay of execution."
+      },
+      {
+        "party": "Claimant/Respondent",
+        "authority": "Okafor & Ors v. Nnaife [1987] 4 NWLR (pt. 64) p. 129",
+        "proposition": "Principles to guide court in exercise of discretion to grant stay of execution."
+      },
+      {
+        "party": "Claimant/Respondent",
+        "authority": "Vincent Standard Trading Co. Ltd vs. Xtodeus Trading Co. Nig. Ltd & Ors [1993] 5 NWLR 675 at 686",
+        "proposition": "Principles for stay of execution."
+      },
+      {
+        "party": "Claimant/Respondent",
+        "authority": "Union Bank Ltd v. Odusote Book Store Ltd [1994] 3 NWLR (pt. 331) p. 129",
+        "proposition": "Allowing defendant to retain judgment debt is undue advantage."
+      },
+      {
+        "party": "Claimant/Respondent",
+        "authority": "Lijadu v. Lijadu [1991] 5 NWLR (pt. 169) p. 627",
+        "proposition": "Grounds of appeal must raise substantial point of law."
+      },
+      {
+        "party": "Claimant/Respondent",
+        "authority": "Ajomae v. Yadant (No. 2) [1991] 5 NWLR (pt. 191) p. 266",
+        "proposition": "Grounds of appeal must raise substantial point of law."
+      },
+      {
+        "party": "Claimant/Respondent",
+        "authority": "T.S.A Industrial Ltd v. Kema Investment Ltd [2006] 3 MJSC p. 1",
+        "proposition": "Grounds of appeal must raise substantial point of law."
+      }
+    ]
+  },
+  "evidence": {
+    "exhibits": [],
+    "witnesses": [
+      {
+        "name": "Olushola Erinfolami",
+        "party": "Defendant/Applicant",
+        "role": "Deponent",
+        "evidence_summary": "Sworn to 12 paragraph affidavit in support of motion for stay of execution."
+      },
+      {
+        "name": "John Okere",
+        "party": "Claimant/Respondent",
+        "role": "Deponent",
+        "evidence_summary": "Sworn to 9 paragraph counter affidavit opposing motion for stay of execution."
+      }
+    ],
+    "documentary_evidence": [],
+    "oral_evidence": [],
+    "expert_evidence": [],
+    "evidential_findings": []
+  },
+  "judicial_analysis": {
+    "findings_of_fact": [],
+    "findings_of_law": [
+      {
+        "issue": "Whether court should grant stay of execution",
+        "finding": "Court has discretion under Section 47 of NIC Act to grant conditional stay."
+      }
+    ],
+    "reasoning": "The court considered the guiding principles for stay of execution and the competing interests of the parties. It held that a conditional stay is appropriate, ordering deposit of judgment sum into an interest yielding account.",
+    "issue_analysis": [
+      {
+        "issue_number": "1",
+        "issue": "Whether this court should grant a stay of execution in the circumstance of this case.",
+        "arguments": {
+          "claimant": "Opposed stay, arguing no special circumstances, grounds frivolous, balance of convenience not in defendant's favour.",
+          "defendant": "Sought stay, arguing valid appeal, exceptional circumstances, inability of claimant to refund, balance of convenience in its favour."
+        },
+        "judicial_analysis": "The court reviewed the principles and authorities, noting its discretion under Section 47 of the NIC Act. It found that a conditional stay would meet the justice of the case.",
+        "holding": "Conditional stay of execution granted.",
+        "ratio_decidendi": "A conditional stay of execution may be granted where the applicant deposits the judgment sum in an interest yielding account to preserve the res pending appeal.",
+        "result": "Application granted conditionally."
+      }
+    ],
+    "holdings": [
+      {
+        "issue_number": "1",
+        "issue": "Whether this court should grant a stay of execution in the circumstance of this case.",
+        "holding": "Conditional stay of execution granted.",
+        "result": "Application granted conditionally."
+      }
+    ],
+    "ratio_decidendi": [
+      {
+        "issue": "Stay of execution pending appeal",
+        "principle": "A conditional stay of execution may be granted where the applicant deposits the judgment sum in an interest yielding account to preserve the res pending appeal.",
+        "application": "Court ordered defendant to deposit judgment sum of N8,629,411.68 in an interest yielding account opened by the Assistant Chief Registrar within 30 days.",
+        "holding": "Conditional stay granted."
+      }
+    ],
+    "obiter_dicta": [],
+    "legal_principles": [
+      {
+        "principle": "Stay of execution is discretionary and may be granted conditionally.",
+        "context": "Application for stay pending appeal.",
+        "source": "Section 47 of National Industrial Court Act, 2006"
+      }
+    ],
+    "statutory_interpretation": [
+      {
+        "statute": "National Industrial Court Act, 2006",
+        "provision": "Section 47",
+        "interpretation": "Court may order stay of execution either unconditionally or upon performance of conditions.",
+        "application": "Court exercised discretion to grant conditional stay."
+      }
+    ],
+    "constitutional_analysis": [],
+    "precedent_analysis": [
+      {
+        "authority": "Olunloyo v. Adeniran",
+        "citation": "[2001] 14 NWLR (pt. 734) 699",
+        "treatment": "followed",
+        "proposition": "Stay of execution granted only if special or exceptional circumstances exist.",
+        "reasoning": "Court applied principle to grant conditional stay."
+      },
+      {
+        "authority": "T.S.A (Ind.) Ltd v. Kema Investment Ltd",
+        "citation": "[2006] All FWLR (pt. 300) 1564 at 1576",
+        "treatment": "followed",
+        "proposition": "Arguable grounds of appeal are not special circumstance for granting stay.",
+        "reasoning": "Court considered but granted conditional stay based on other factors."
+      },
+      {
+        "authority": "Okin Biscuits v. Oshe",
+        "citation": "[2001] FWLR (pt. 41) p. 1934",
+        "treatment": "followed",
+        "proposition": "Payment of judgment debt into interest yielding account meets justice of case.",
+        "reasoning": "Court adopted this approach."
+      }
+    ],
+    "evidential_findings": [],
+    "judicial_observations": []
+  },
+  "authorities": {
+    "cases_cited": [
+      {
+        "case_name": "Amadi v. Anulabo",
+        "citation": "[1992] NWLR (pt. 238) p. 721",
+        "court": "",
+        "year": 1992,
+        "proposition": "Grant of stay is discretionary.",
+        "treatment": "",
+        "cited_by": "Defendant/Applicant",
+        "importance": ""
+      },
+      {
+        "case_name": "C.B.N v. Krans Thompson Org. Ltd",
+        "citation": "[2002] 7 NWLR (pt. 765) p. 139",
+        "court": "",
+        "year": 2002,
+        "proposition": "Requirements for stay of execution.",
+        "treatment": "",
+        "cited_by": "Defendant/Applicant",
+        "importance": ""
+      },
+      {
+        "case_name": "Baker v. Lavery",
+        "citation": "[1885] 14 QBD 769",
+        "court": "",
+        "year": 1885,
+        "proposition": "Principles for stay of execution.",
+        "treatment": "",
+        "cited_by": "Defendant/Applicant",
+        "importance": ""
+      },
+      {
+        "case_name": "The Annot Lyle",
+        "citation": "[1886] 11 PD 144 at p. 166",
+        "court": "",
+        "year": 1886,
+        "proposition": "Principles for stay of execution.",
+        "treatment": "",
+        "cited_by": "Defendant/Applicant",
+        "importance": ""
+      },
+      {
+        "case_name": "Deduwa & Ors v. Okorodudu & Ors",
+        "citation": "[1974] 1 All NLR (pt. 1) p. 272",
+        "court": "",
+        "year": 1974,
+        "proposition": "Principles for stay of execution.",
+        "treatment": "",
+        "cited_by": "Defendant/Applicant",
+        "importance": ""
+      },
+      {
+        "case_name": "Cornelius Ltd v. Ezenwa",
+        "citation": "[2002] 8 NWLR (pt. 670) p. 616",
+        "court": "",
+        "year": 2002,
+        "proposition": "Principles for stay of execution.",
+        "treatment": "",
+        "cited_by": "Defendant/Applicant",
+        "importance": ""
+      },
+      {
+        "case_name": "Okafor & Ors v. Nnaife",
+        "citation": "[1987] 4 NWLR (pt. 64) p. 129",
+        "court": "",
+        "year": 1987,
+        "proposition": "Principles for stay of execution.",
+        "treatment": "",
+        "cited_by": "Claimant/Respondent",
+        "importance": ""
+      },
+      {
+        "case_name": "Vincent Standard Trading Co. Ltd vs. Xtodeus Trading Co. Nig. Ltd & Ors",
+        "citation": "[1993] 5 NWLR 675 at 686",
+        "court": "",
+        "year": 1993,
+        "proposition": "Principles for stay of execution.",
+        "treatment": "",
+        "cited_by": "Claimant/Respondent",
+        "importance": ""
+      },
+      {
+        "case_name": "Union Bank Ltd v. Odusote Book Store Ltd",
+        "citation": "[1994] 3 NWLR (pt. 331) p. 129",
+        "court": "",
+        "year": 1994,
+        "proposition": "Allowing defendant to retain judgment debt is undue advantage.",
+        "treatment": "",
+        "cited_by": "Claimant/Respondent",
+        "importance": ""
+      },
+      {
+        "case_name": "Lijadu v. Lijadu",
+        "citation": "[1991] 5 NWLR (pt. 169) p. 627",
+        "court": "",
+        "year": 1991,
+        "proposition": "Grounds of appeal must raise substantial point of law.",
+        "treatment": "",
+        "cited_by": "Claimant/Respondent",
+        "importance": ""
+      },
+      {
+        "case_name": "Ajomae v. Yadant (No. 2)",
+        "citation": "[1991] 5 NWLR (pt. 191) p. 266",
+        "court": "",
+        "year": 1991,
+        "proposition": "Grounds of appeal must raise substantial point of law.",
+        "treatment": "",
+        "cited_by": "Claimant/Respondent",
+        "importance": ""
+      },
+      {
+        "case_name": "T.S.A Industrial Ltd v. Kema Investment Ltd",
+        "citation": "[2006] 3 MJSC p. 1",
+        "court": "",
+        "year": 2006,
+        "proposition": "Grounds of appeal must raise substantial point of law.",
+        "treatment": "",
+        "cited_by": "Claimant/Respondent",
+        "importance": ""
+      },
+      {
+        "case_name": "Olojede v. Olaleye",
+        "citation": "[2010] 4 NWLR (pt. 1183) p. 1 at 41",
+        "court": "",
+        "year": 2010,
+        "proposition": "Guiding principles for stay of execution.",
+        "treatment": "",
+        "cited_by": "Court",
+        "importance": ""
+      },
+      {
+        "case_name": "Martins v. Nicannar Foods Co. Ltd",
+        "citation": "[1988] 2 NWLR (pt. 74) p. 75",
+        "court": "",
+        "year": 1988,
+        "proposition": "Guiding principles for stay of execution.",
+        "treatment": "",
+        "cited_by": "Court",
+        "importance": ""
+      },
+      {
+        "case_name": "Shodeinde v. Regd. Trustees of Ahmadiya Movement in Islam",
+        "citation": "[1980] 1, 2, CS p. 163",
+        "court": "",
+        "year": 1980,
+        "proposition": "Guiding principles for stay of execution.",
+        "treatment": "",
+        "cited_by": "Court",
+        "importance": ""
+      },
+      {
+        "case_name": "Vaswani Trading Co. Ltd v. Savalakh & Co.",
+        "citation": "[1972] 12 SC 77",
+        "court": "",
+        "year": 1972,
+        "proposition": "Guiding principles for stay of execution.",
+        "treatment": "",
+        "cited_by": "Court",
+        "importance": ""
+      },
+      {
+        "case_name": "Nwabueze v. Nwosu",
+        "citation": "[1988] 4 NWLR (pt. 88) p. 257",
+        "court": "",
+        "year": 1988,
+        "proposition": "Guiding principles for stay of execution.",
+        "treatment": "",
+        "cited_by": "Court",
+        "importance": ""
+      },
+      {
+        "case_name": "Olunloyo v. Adeniran",
+        "citation": "[2001] 14 NWLR (pt. 734) 699",
+        "court": "Supreme Court",
+        "year": 2001,
+        "proposition": "Stay of execution granted only if special or exceptional circumstances exist.",
+        "treatment": "followed",
+        "cited_by": "Court",
+        "importance": "high"
+      },
+      {
+        "case_name": "T.S.A (Ind.) Ltd v. Kema Investment Ltd",
+        "citation": "[2006] All FWLR (pt. 300) 1564 at 1576",
+        "court": "",
+        "year": 2006,
+        "proposition": "Arguable grounds of appeal are not special circumstance for granting stay.",
+        "treatment": "followed",
+        "cited_by": "Court",
+        "importance": "high"
+      },
+      {
+        "case_name": "Okin Biscuits v. Oshe",
+        "citation": "[2001] FWLR (pt. 41) p. 1934",
+        "court": "",
+        "year": 2001,
+        "proposition": "Payment of judgment debt into interest yielding account meets justice of case.",
+        "treatment": "followed",
+        "cited_by": "Court",
+        "importance": "high"
+      }
+    ],
+    "statutes": [
+      {
+        "name": "National Industrial Court Act, 2006",
+        "provision": "Section 47",
+        "proposition": "Court may order stay of execution unconditionally or upon conditions."
+      }
+    ],
+    "constitutional_provisions": [
+      {
+        "instrument": "Constitution of the Federal Republic of Nigeria",
+        "article_or_section": "Section 36",
+        "proposition": "Fair hearing."
+      },
+      {
+        "instrument": "Constitution of the Federal Republic of Nigeria",
+        "article_or_section": "Section 243 (3)",
+        "proposition": "Appeal to Court of Appeal from NICN shall be by leave until National Assembly makes other law."
+      }
+    ],
+    "regulations": [],
+    "rules": [
+      {
+        "name": "National Industrial Court Rules",
+        "rule": "Order 15, Order 11 Rules (1)",
+        "proposition": "Procedural rules for applications."
+      }
+    ],
+    "international_instruments": [],
+    "other_authorities": []
+  },
+  "precedent_relationships": [
+    {
+      "authority": "Olunloyo v. Adeniran",
+      "citation": "[2001] 14 NWLR (pt. 734) 699",
+      "relationship": "followed",
+      "proposition": "Stay of execution granted only if special or exceptional circumstances exist.",
+      "context": "Court applied principle to grant conditional stay."
+    },
+    {
+      "authority": "T.S.A (Ind.) Ltd v. Kema Investment Ltd",
+      "citation": "[2006] All FWLR (pt. 300) 1564 at 1576",
+      "relationship": "followed",
+      "proposition": "Arguable grounds of appeal are not special circumstance for granting stay.",
+      "context": "Court considered but granted conditional stay based on other factors."
+    },
+    {
+      "authority": "Okin Biscuits v. Oshe",
+      "citation": "[2001] FWLR (pt. 41) p. 1934",
+      "relationship": "followed",
+      "proposition": "Payment of judgment debt into interest yielding account meets justice of case.",
+      "context": "Court adopted this approach."
+    }
+  ],
+  "outcome": {
+    "decision": "Conditional stay of execution granted.",
+    "overall_result": "Application granted conditionally.",
+    "orders": [
+      "Defendant/applicant to deposit judgment sum of N8,629,411.68 in an interest yielding account opened by the Assistant Chief Registrar, Lagos Division within 30 days.",
+      "No order as to cost."
+    ],
+    "reliefs": [
+      {
+        "relief_number": "1",
+        "relief": "Stay of execution of judgment pending appeal.",
+        "result": "granted conditionally",
+        "reason": "To preserve the res pending appeal."
+      }
+    ],
+    "reliefs_granted": [
+      "Conditional stay of execution."
+    ],
+    "reliefs_refused": [],
+    "reliefs_struck_out": [],
+    "reliefs_dismissed": [],
+    "damages": [],
+    "compensation": [],
+    "costs": {
+      "awarded": false,
+      "amount": "",
+      "recipient": "",
+      "details": "No order as to cost."
+    },
+    "interest": {
+      "awarded": false,
+      "rate": "",
+      "start_date": "",
+      "end_date": "",
+      "basis": ""
+    },
+    "compliance_deadline": "30 days from 2014-06-06",
+    "declarations": [],
+    "injunctions": [],
+    "specific_orders": [
+      "Deposit of judgment sum in interest yielding account."
+    ],
+    "final_disposition": "Application granted conditionally."
+  },
+  "legal_knowledge": {
+    "holdings": [
+      "Conditional stay of execution granted where applicant deposits judgment sum in interest yielding account."
+    ],
+    "legal_principles": [
+      "Stay of execution is discretionary and may be granted conditionally."
+    ],
+    "ratio_decidendi": [
+      "A conditional stay of execution may be granted where the applicant deposits the judgment sum in an interest yielding account to preserve the res pending appeal."
+    ],
+    "obiter_dicta": [],
+    "causes_of_action": [],
+    "legal_issues": [
+      "Whether court should grant stay of execution pending appeal."
+    ],
+    "practice_areas": [
+      "Civil Procedure",
+      "Employment Law"
+    ],
+    "sub_practice_areas": [
+      "Stay of Execution",
+      "Appeals"
+    ],
+    "legal_concepts": [
+      "Stay of execution",
+      "Conditional stay",
+      "Interest yielding account",
+      "Balance of convenience",
+      "Special circumstances"
+    ],
+    "doctrines": [
+      "Discretionary power of court"
+    ],
+    "remedies": [
+      "Stay of execution"
+    ],
+    "employment_law_topics": [],
+    "jurisdictional_issues": []
+  },
+  "retrieval": {
+    "keywords": [
+      "stay of execution",
+      "conditional stay",
+      "National Industrial Court",
+      "Section 47",
+      "interest yielding account",
+      "judgment sum",
+      "appeal",
+      "special circumstances"
+    ],
+    "searchable_concepts": [
+      "Stay of execution pending appeal",
+      "Conditional stay of execution",
+      "Deposit of judgment sum"
+    ],
+    "semantic_topics": [
+      "Civil procedure",
+      "Appellate practice",
+      "Execution of judgment"
+    ],
+    "legal_entities": [
+      "National Industrial Court of Nigeria",
+      "Ikoyi Club 1938",
+      "Mr. Taiwo Ayodeji"
+    ],
+    "statutes_referenced": [
+      "National Industrial Court Act, 2006",
+      "Constitution of the Federal Republic of Nigeria"
+    ],
+    "cases_referenced": [
+      "Olunloyo v. Adeniran",
+      "T.S.A (Ind.) Ltd v. Kema Investment Ltd",
+      "Okin Biscuits v. Oshe"
+    ],
+    "citation_phrases": [
+      "[2001] 14 NWLR (pt. 734) 699",
+      "[2006] All FWLR (pt. 300) 1564",
+      "[2001] FWLR (pt. 41) p. 1934"
+    ],
+    "fact_patterns": [
+      "Application for stay of execution pending appeal after judgment for monetary sum."
+    ],
+    "relief_types": [
+      "Stay of execution"
+    ],
+    "decision_types": [
+      "Ruling"
+    ]
+  },
+  "graph_rag": {
+    "entities": [
+      {
+        "name": "Mr. Taiwo Ayodeji",
+        "type": "Person"
+      },
+      {
+        "name": "Registered Trustees of Ikoyi Club 1938",
+        "type": "Organization"
+      },
+      {
+        "name": "National Industrial Court of Nigeria",
+        "type": "Court"
+      },
+      {
+        "name": "Hon. Justice J. T. Agbadu-Fishim",
+        "type": "Judge"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Mr. Taiwo Ayodeji",
+        "relationship": "claimant in",
+        "target": "NICN/LA/432/2012",
+        "evidence": "Case title"
+      },
+      {
+        "source": "Registered Trustees of Ikoyi Club 1938",
+        "relationship": "defendant in",
+        "target": "NICN/LA/432/2012",
+        "evidence": "Case title"
+      },
+      {
+        "source": "Registered Trustees of Ikoyi Club 1938",
+        "relationship": "applicant in",
+        "target": "Motion for stay of execution",
+        "evidence": "Motion filed 28th March 2014"
+      }
+    ],
+    "case_relationships": [
+      {
+        "case": "Olunloyo v. Adeniran",
+        "citation": "[2001] 14 NWLR (pt. 734) 699",
+        "relationship": "followed",
+        "context": "Principle on special circumstances for stay."
+      },
+      {
+        "case": "T.S.A (Ind.) Ltd v. Kema Investment Ltd",
+        "citation": "[2006] All FWLR (pt. 300) 1564",
+        "relationship": "followed",
+        "context": "Arguable grounds not special circumstance."
+      },
+      {
+        "case": "Okin Biscuits v. Oshe",
+        "citation": "[2001] FWLR (pt. 41) p. 1934",
+        "relationship": "followed",
+        "context": "Payment into interest yielding account."
+      }
+    ],
+    "statute_relationships": [
+      {
+        "statute": "National Industrial Court Act, 2006",
+        "provision": "Section 47",
+        "relationship": "empowers court to grant stay",
+        "context": "Court relied on provision to grant conditional stay."
+      }
+    ],
+    "legal_principle_relationships": [
+      {
+        "principle": "Conditional stay of execution may be granted to preserve res pending appeal.",
+        "case": "Okin Biscuits v. Oshe",
+        "relationship": "applied"
+      }
+    ]
+  },
+  "citation_network": {
+    "authorities_cited": [
+      "Amadi v. Anulabo [1992] NWLR (pt. 238) p. 721",
+      "C.B.N v. Krans Thompson Org. Ltd [2002] 7 NWLR (pt. 765) p. 139",
+      "Baker v. Lavery [1885] 14 QBD 769",
+      "The Annot Lyle [1886] 11 PD 144",
+      "Deduwa & Ors v. Okorodudu & Ors [1974] 1 All NLR (pt. 1) p. 272",
+      "Cornelius Ltd v. Ezenwa [2002] 8 NWLR (pt. 670) p. 616",
+      "Okafor & Ors v. Nnaife [1987] 4 NWLR (pt. 64) p. 129",
+      "Vincent Standard Trading Co. Ltd vs. Xtodeus Trading Co. Nig. Ltd & Ors [1993] 5 NWLR 675",
+      "Union Bank Ltd v. Odusote Book Store Ltd [1994] 3 NWLR (pt. 331) p. 129",
+      "Lijadu v. Lijadu [1991] 5 NWLR (pt. 169) p. 627",
+      "Ajomae v. Yadant (No. 2) [1991] 5 NWLR (pt. 191) p. 266",
+      "T.S.A Industrial Ltd v. Kema Investment Ltd [2006] 3 MJSC p. 1",
+      "Olojede v. Olaleye [2010] 4 NWLR (pt. 1183) p. 1",
+      "Martins v. Nicannar Foods Co. Ltd [1988] 2 NWLR (pt. 74) p. 75",
+      "Shodeinde v. Regd. Trustees of Ahmadiya Movement in Islam [1980] 1, 2, CS p. 163",
+      "Vaswani Trading Co. Ltd v. Savalakh & Co. [1972] 12 SC 77",
+      "Nwabueze v. Nwosu [1988] 4 NWLR (pt. 88) p. 257",
+      "Olunloyo v. Adeniran [2001] 14 NWLR (pt. 734) 699",
+      "T.S.A (Ind.) Ltd v. Kema Investment Ltd [2006] All FWLR (pt. 300) 1564",
+      "Okin Biscuits v. Oshe [2001] FWLR (pt. 41) p. 1934"
+    ],
+    "authorities_followed": [
+      "Olunloyo v. Adeniran [2001] 14 NWLR (pt. 734) 699",
+      "T.S.A (Ind.) Ltd v. Kema Investment Ltd [2006] All FWLR (pt. 300) 1564",
+      "Okin Biscuits v. Oshe [2001] FWLR (pt. 41) p. 1934"
+    ],
+    "authorities_distinguished": [],
+    "authorities_rejected": [],
+    "authorities_overruled": [],
+    "authorities_relied_upon": [
+      "Olunloyo v. Adeniran [2001] 14 NWLR (pt. 734) 699",
+      "T.S.A (Ind.) Ltd v. Kema Investment Ltd [2006] All FWLR (pt. 300) 1564",
+      "Okin Biscuits v. Oshe [2001] FWLR (pt. 41) p. 1934"
+    ]
+  },
+  "metadata_quality": {
+    "extraction_confidence": 0.95,
+    "fields_missing": [],
+    "fields_uncertain": [],
+    "requires_review": false,
+    "review_reasons": [],
+    "source_completeness": "complete",
+    "ai_extraction_model": "deepseek-chat",
+    "prompt_version": "nicn-v3.2-single-call",
+    "extracted_at": "2026-10-02T10:14:35.576339+00:00"
+  }
+}

@@ -1,0 +1,781 @@
+{
+  "schema_version": "nicn-ai-metadata-v3.2",
+  "source": {
+    "court": "National Industrial Court of Nigeria",
+    "jurisdiction": "Nigeria",
+    "source_url": "",
+    "source_id": "350",
+    "document_id": "350",
+    "file_name": "full_text.txt",
+    "downloaded_at": "",
+    "document_type": "judgment",
+    "language": "English",
+    "pages": null,
+    "word_count": 1964,
+    "extraction_status": "complete",
+    "completeness_confidence": "HIGH"
+  },
+  "case": {
+    "title": "Abubakar Musa and Another v. Dekina LGA and 6 Others",
+    "case_number": "NICN/ABJ/348/2012",
+    "court": "National Industrial Court of Nigeria",
+    "judicial_division": "Abuja",
+    "judge": "Hon. Justice P.O Lifu (JP)",
+    "judgment_date": "2014-03-17",
+    "year": 2014,
+    "claimants": [
+      "Abubakar Musa",
+      "Another"
+    ],
+    "defendants": [
+      "Dekina LGA",
+      "6 Others"
+    ],
+    "appellants": [],
+    "respondents": [],
+    "applicants": [
+      "Abubakar Musa",
+      "Another"
+    ],
+    "interested_parties": [],
+    "counsel": [
+      {
+        "name": "S.A. Lawal Esq.",
+        "represents": "Claimant/Applicant"
+      },
+      {
+        "name": "Ojonuma Miachi Miss",
+        "represents": "Defendants"
+      },
+      {
+        "name": "P.D Abalaka",
+        "represents": "Defendants"
+      }
+    ]
+  },
+  "procedural_history": {
+    "originating_proceedings": "Motion on Notice dated 30th January 2014 and filed 4th February 2014 seeking leave to join additional defendants.",
+    "procedural_posture": "Ruling on application for joinder of parties.",
+    "previous_decisions": [],
+    "interlocutory_applications": [
+      "Motion on Notice for joinder of Bassa Local Government Education Authority, Dekina Local Government Education Authority, Bassa District Education Committee and Dekina District Education Committee as defendants."
+    ],
+    "appeals": [],
+    "orders_before_trial": [],
+    "procedural_events": [
+      "Motion filed on 4th February 2014.",
+      "Written address in opposition filed on 7th February 2014.",
+      "Ruling delivered on 17th March 2014."
+    ]
+  },
+  "facts": {
+    "material_facts": [
+      "Claimants are teachers in the employment of Bassa and Dekina Local Government authorities.",
+      "Claimants complain about their sack or non-sack and non-payment of salaries and emoluments.",
+      "Bassa and Dekina Local Government Education Authorities are creations of statute.",
+      "Bassa and Dekina District Education Committees are advisory bodies to the Local Government Education Authorities on educational problems and adequacy of teaching staff."
+    ],
+    "chronology": [
+      {
+        "date": "2014-01-30",
+        "event": "Motion on Notice dated."
+      },
+      {
+        "date": "2014-02-04",
+        "event": "Motion filed."
+      },
+      {
+        "date": "2014-02-07",
+        "event": "Defendants filed written address in opposition."
+      },
+      {
+        "date": "2014-03-17",
+        "event": "Ruling delivered."
+      }
+    ],
+    "admitted_facts": [
+      "Defendants conceded that Bassa and Dekina Local Government Education Authorities are necessary parties.",
+      "Defendants opposed joinder of Bassa and Dekina District Education Committees."
+    ],
+    "disputed_facts": [
+      "Whether Bassa and Dekina District Education Committees are necessary parties."
+    ],
+    "background_facts": [
+      "Claimants are teachers in Bassa and Dekina Local Government areas.",
+      "The parties sought to be joined have statutory functions related to education."
+    ],
+    "employment_relationship": "Claimants are teachers employed by Bassa and Dekina Local Government authorities.",
+    "contractual_relationship": "Employment relationship between claimants and local government authorities.",
+    "documentary_evidence": [],
+    "witness_evidence": []
+  },
+  "claims_and_reliefs": {
+    "causes_of_action": [
+      "Joinder of parties",
+      "Employment dispute (sack and non-payment of salaries)"
+    ],
+    "claims": [
+      {
+        "claim": "Leave to join Bassa Local Government Education Authority, Dekina Local Government Education Authority, Bassa District Education Committee and Dekina District Education Committee as defendants.",
+        "legal_basis": "Order 11(1) and (2) and 15 of National Industrial Court (NIC) Rules 2007 and inherent powers of the court.",
+        "claimant": "Abubakar Musa and Another",
+        "against": "Dekina LGA and 6 Others"
+      }
+    ],
+    "reliefs_sought": [
+      {
+        "relief_number": "1",
+        "relief": "Leave to join Bassa Local Government Education Authority as defendant.",
+        "category": "Joinder"
+      },
+      {
+        "relief_number": "2",
+        "relief": "Leave to join Dekina Local Government Education Authority as defendant.",
+        "category": "Joinder"
+      },
+      {
+        "relief_number": "3",
+        "relief": "Leave to join Bassa District Education Committee as defendant.",
+        "category": "Joinder"
+      },
+      {
+        "relief_number": "4",
+        "relief": "Leave to join Dekina District Education Committee as defendant.",
+        "category": "Joinder"
+      }
+    ],
+    "issues_for_determination": [
+      {
+        "issue_number": "1",
+        "issue": "Whether or not in the circumstances of this case, the presence of the parties sought to be joined is necessary for a just and effectual determination of this case.",
+        "raised_by": "Claimant/Applicant"
+      }
+    ],
+    "questions_of_law": [
+      "Principles governing joinder of parties under Nigerian law."
+    ]
+  },
+  "arguments": {
+    "claimant_arguments": [
+      "The presence of the parties sought to be joined is necessary for just determination.",
+      "The parties sought to be joined are creations of statute and necessary parties.",
+      "Joinder aims to effectually and completely adjudicate on issues and avoid multiplicity of actions."
+    ],
+    "defendant_arguments": [
+      "Joinder is not automatic and must pass tests set by case law.",
+      "Conceded joinder of Bassa and Dekina Local Government Education Authorities.",
+      "Opposed joinder of Bassa and Dekina District Education Committees as their functions are not related to the claims."
+    ],
+    "appellant_arguments": [],
+    "respondent_arguments": [],
+    "submissions": [
+      "Claimant submitted that joinder is necessary for just determination.",
+      "Defendant submitted that District Education Committees are not necessary parties."
+    ],
+    "party_authorities": [
+      {
+        "party": "Claimant",
+        "authority": "Hassan v. Atanyi (2002) 8 NWLR (Pt. 770) 612-613",
+        "proposition": "Joinder of necessary parties."
+      },
+      {
+        "party": "Claimant",
+        "authority": "UBA Ltd v. Akparabong Community Bank Ltd & Another (2006) All FWLR (Pt. 320) 1129",
+        "proposition": "Aim of joinder is to effectually adjudicate issues."
+      },
+      {
+        "party": "Defendant",
+        "authority": "Akanbi (Mogaji) v. Fabunmi (1986) 2 SC 431",
+        "proposition": "Tests for joinder of parties."
+      },
+      {
+        "party": "Defendant",
+        "authority": "CMI Trading Services Ltd v. Yuriy (1998) 11 NWLR (Pt. 573) 284",
+        "proposition": "Tests for joinder of parties."
+      },
+      {
+        "party": "Defendant",
+        "authority": "Aromire v. Awoyemi (1972) 1 All NLR (Pt. 1) 101",
+        "proposition": "Tests for joinder of parties."
+      },
+      {
+        "party": "Defendant",
+        "authority": "Peenok Inv. Ltd v. Hotel Presidential Ltd (1982) 12 SC 148",
+        "proposition": "Tests for joinder of parties."
+      }
+    ]
+  },
+  "evidence": {
+    "exhibits": [],
+    "witnesses": [],
+    "documentary_evidence": [],
+    "oral_evidence": [],
+    "expert_evidence": [],
+    "evidential_findings": [
+      {
+        "evidence": "Supporting affidavit paragraphs 2(c) and (d) deposing to functions of District Education Committees.",
+        "finding": "Affidavit not countered or denied.",
+        "credibility": "Accepted"
+      }
+    ]
+  },
+  "judicial_analysis": {
+    "findings_of_fact": [
+      {
+        "issue": "Necessity of parties sought to be joined",
+        "finding": "Bassa and Dekina Local Government Education Authorities and District Education Committees are necessary parties."
+      }
+    ],
+    "findings_of_law": [
+      {
+        "issue": "Joinder of parties",
+        "finding": "Joinder is governed by procedural rules and inherent powers; parties whose presence is necessary for effectual adjudication should be joined."
+      }
+    ],
+    "reasoning": "The court considered the statutory functions of the parties sought to be joined and found that their presence would enable effectual settlement of all issues. The court applied principles from case law and the NIC Act 2006.",
+    "issue_analysis": [
+      {
+        "issue_number": "1",
+        "issue": "Whether the presence of the parties sought to be joined is necessary for a just and effectual determination of this case.",
+        "arguments": {
+          "claimant": "Parties are necessary for just determination; they are statutory bodies with relevant functions.",
+          "defendant": "District Education Committees are not necessary parties as their functions are unrelated to the claims."
+        },
+        "judicial_analysis": "The court examined the statutory roles of the parties and the principles of joinder. It found that the District Education Committees have advisory roles on educational problems and staff adequacy, which are relevant to the claimants' complaints about sack and salaries.",
+        "holding": "The parties sought to be joined are necessary, desirable, and proper parties.",
+        "ratio_decidendi": "A party whose presence is necessary for the court to effectually and completely adjudicate upon and settle all questions involved in a case should be joined.",
+        "result": "Application granted."
+      }
+    ],
+    "holdings": [
+      {
+        "issue_number": "1",
+        "issue": "Necessity of joinder",
+        "holding": "Parties sought to be joined are necessary parties.",
+        "result": "Leave granted to join all four parties as co-defendants."
+      }
+    ],
+    "ratio_decidendi": [
+      {
+        "issue": "Joinder of parties",
+        "principle": "Parties whose presence is necessary for effectual and complete adjudication of all questions involved should be joined.",
+        "application": "The court found that the statutory functions of the parties sought to be joined are relevant to the claims, making them necessary parties.",
+        "holding": "Joinder granted."
+      }
+    ],
+    "obiter_dicta": [],
+    "legal_principles": [
+      {
+        "principle": "Joinder of parties is aimed at avoiding multiplicity of actions and settling all matters in dispute completely and finally.",
+        "context": "Application for joinder.",
+        "source": "Section 14 of NIC Act 2006; Awoniyi v. AMORC (2000) 10 NWLR (Pt. 676) 522."
+      }
+    ],
+    "statutory_interpretation": [
+      {
+        "statute": "National Industrial Court Act 2006",
+        "provision": "Section 14",
+        "interpretation": "The court has power to grant remedies to ensure all matters in dispute are completely and finally determined and multiplicity of proceedings avoided.",
+        "application": "Used to support joinder of parties."
+      }
+    ],
+    "constitutional_analysis": [],
+    "precedent_analysis": [
+      {
+        "authority": "Awoniyi v. AMORC",
+        "citation": "(2000) 10 NWLR (Pt. 676) 522",
+        "treatment": "Followed",
+        "proposition": "Purpose of joinder is to enable court to effectively and completely adjudicate upon and settle all questions involved.",
+        "reasoning": "Applied to support joinder."
+      },
+      {
+        "authority": "Ibigbami v. Military Govt. Ekiti State",
+        "citation": "(2004) 4 NWLR (Pt. 863) 343",
+        "treatment": "Followed",
+        "proposition": "Joinder subject to conditions: right to relief arising out of same transaction and common questions of law and fact.",
+        "reasoning": "Applied to find common questions of law and fact."
+      }
+    ],
+    "evidential_findings": [],
+    "judicial_observations": []
+  },
+  "authorities": {
+    "cases_cited": [
+      {
+        "case_name": "Hassan v. Atanyi",
+        "citation": "(2002) 8 NWLR (Pt. 770) 612",
+        "court": "Supreme Court of Nigeria",
+        "year": 2002,
+        "proposition": "Joinder of necessary parties.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting joinder."
+      },
+      {
+        "case_name": "UBA Ltd v. Akparabong Community Bank Ltd & Another",
+        "citation": "(2006) All FWLR (Pt. 320) 1129",
+        "court": "Supreme Court of Nigeria",
+        "year": 2006,
+        "proposition": "Aim of joinder is to effectually adjudicate issues.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting joinder."
+      },
+      {
+        "case_name": "Akanbi (Mogaji) v. Fabunmi",
+        "citation": "(1986) 2 SC 431",
+        "court": "Supreme Court of Nigeria",
+        "year": 1986,
+        "proposition": "Tests for joinder of parties.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Opposing joinder."
+      },
+      {
+        "case_name": "CMI Trading Services Ltd v. Yuriy",
+        "citation": "(1998) 11 NWLR (Pt. 573) 284",
+        "court": "Supreme Court of Nigeria",
+        "year": 1998,
+        "proposition": "Tests for joinder of parties.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Opposing joinder."
+      },
+      {
+        "case_name": "Aromire v. Awoyemi",
+        "citation": "(1972) 1 All NLR (Pt. 1) 101",
+        "court": "Supreme Court of Nigeria",
+        "year": 1972,
+        "proposition": "Tests for joinder of parties.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Opposing joinder."
+      },
+      {
+        "case_name": "Peenok Inv. Ltd v. Hotel Presidential Ltd",
+        "citation": "(1982) 12 SC 148",
+        "court": "Supreme Court of Nigeria",
+        "year": 1982,
+        "proposition": "Tests for joinder of parties.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Opposing joinder."
+      },
+      {
+        "case_name": "Awoniyi v. AMORC",
+        "citation": "(2000) 10 NWLR (Pt. 676) 522",
+        "court": "Supreme Court of Nigeria",
+        "year": 2000,
+        "proposition": "Purpose of joinder is to enable court to effectively and completely adjudicate upon and settle all questions involved.",
+        "treatment": "Followed",
+        "cited_by": "Court",
+        "importance": "Supporting joinder."
+      },
+      {
+        "case_name": "Jimoh v. Oyinloye",
+        "citation": "(2006) 15 NWLR (Pt. 1002) 392",
+        "court": "Supreme Court of Nigeria",
+        "year": 2006,
+        "proposition": "All parties affected by result may be joined.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Supporting joinder."
+      },
+      {
+        "case_name": "Ogolo v. Fubura",
+        "citation": "(2003) 11 NWLR (Pt. 831) 231",
+        "court": "Supreme Court of Nigeria",
+        "year": 2003,
+        "proposition": "Essence of joinder: avoid abuse, save time, avoid multiplicity.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Supporting joinder."
+      },
+      {
+        "case_name": "Adepiti v. Govt. Ondo State",
+        "citation": "(2012) LPELR 19684",
+        "court": "Supreme Court of Nigeria",
+        "year": 2012,
+        "proposition": "Principles governing joinder.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Supporting joinder."
+      },
+      {
+        "case_name": "Adefarasin v. Dayekh and Another",
+        "citation": "(2011) 11 NWLR (Pt. 1044) 89",
+        "court": "Supreme Court of Nigeria",
+        "year": 2011,
+        "proposition": "Principles governing joinder.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Supporting joinder."
+      },
+      {
+        "case_name": "Ugorji v. Onwu",
+        "citation": "(1991) 3 NWLR (Pt. 178) 177",
+        "court": "Supreme Court of Nigeria",
+        "year": 1991,
+        "proposition": "Principles governing joinder.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Supporting joinder."
+      },
+      {
+        "case_name": "Ibigbami v. Military Govt. Ekiti State",
+        "citation": "(2004) 4 NWLR (Pt. 863) 343",
+        "court": "Supreme Court of Nigeria",
+        "year": 2004,
+        "proposition": "Joinder subject to conditions: right to relief arising out of same transaction and common questions of law and fact.",
+        "treatment": "Followed",
+        "cited_by": "Court",
+        "importance": "Supporting joinder."
+      }
+    ],
+    "statutes": [
+      {
+        "name": "National Industrial Court Act 2006",
+        "provision": "Section 14",
+        "proposition": "Court has power to grant remedies to ensure all matters in dispute are completely and finally determined and multiplicity of proceedings avoided."
+      }
+    ],
+    "constitutional_provisions": [],
+    "regulations": [],
+    "rules": [
+      {
+        "name": "National Industrial Court (NIC) Rules 2007",
+        "rule": "Order 11(1) and (2) and 15",
+        "proposition": "Procedural rules for joinder and inherent powers of the court."
+      }
+    ],
+    "international_instruments": [],
+    "other_authorities": []
+  },
+  "precedent_relationships": [
+    {
+      "authority": "Awoniyi v. AMORC",
+      "citation": "(2000) 10 NWLR (Pt. 676) 522",
+      "relationship": "Followed",
+      "proposition": "Purpose of joinder is to enable court to effectively and completely adjudicate upon and settle all questions involved.",
+      "context": "Joinder application."
+    },
+    {
+      "authority": "Ibigbami v. Military Govt. Ekiti State",
+      "citation": "(2004) 4 NWLR (Pt. 863) 343",
+      "relationship": "Followed",
+      "proposition": "Joinder subject to conditions: right to relief arising out of same transaction and common questions of law and fact.",
+      "context": "Joinder application."
+    }
+  ],
+  "outcome": {
+    "decision": "Application granted.",
+    "overall_result": "Leave granted to join all four parties as co-defendants.",
+    "orders": [
+      "Leave granted to join Bassa Local Government Education Authority as co-defendant.",
+      "Leave granted to join Dekina Local Government Education Authority as co-defendant.",
+      "Leave granted to join Bassa District Education Committee as co-defendant.",
+      "Leave granted to join Dekina District Education Committee as co-defendant.",
+      "No order as to cost."
+    ],
+    "reliefs": [
+      {
+        "relief_number": "1",
+        "relief": "Leave to join Bassa Local Government Education Authority as defendant.",
+        "result": "Granted",
+        "reason": "Necessary party."
+      },
+      {
+        "relief_number": "2",
+        "relief": "Leave to join Dekina Local Government Education Authority as defendant.",
+        "result": "Granted",
+        "reason": "Necessary party."
+      },
+      {
+        "relief_number": "3",
+        "relief": "Leave to join Bassa District Education Committee as defendant.",
+        "result": "Granted",
+        "reason": "Necessary party."
+      },
+      {
+        "relief_number": "4",
+        "relief": "Leave to join Dekina District Education Committee as defendant.",
+        "result": "Granted",
+        "reason": "Necessary party."
+      }
+    ],
+    "reliefs_granted": [
+      "Joinder of Bassa Local Government Education Authority",
+      "Joinder of Dekina Local Government Education Authority",
+      "Joinder of Bassa District Education Committee",
+      "Joinder of Dekina District Education Committee"
+    ],
+    "reliefs_refused": [],
+    "reliefs_struck_out": [],
+    "reliefs_dismissed": [],
+    "damages": [],
+    "compensation": [],
+    "costs": {
+      "awarded": false,
+      "amount": "",
+      "recipient": "",
+      "details": "No order as to cost."
+    },
+    "interest": {
+      "awarded": false,
+      "rate": "",
+      "start_date": "",
+      "end_date": "",
+      "basis": ""
+    },
+    "compliance_deadline": "",
+    "declarations": [],
+    "injunctions": [],
+    "specific_orders": [],
+    "final_disposition": "Application for joinder granted."
+  },
+  "legal_knowledge": {
+    "holdings": [
+      "Parties sought to be joined are necessary parties for effectual adjudication."
+    ],
+    "legal_principles": [
+      "Joinder of parties is aimed at avoiding multiplicity of actions and settling all matters in dispute completely and finally."
+    ],
+    "ratio_decidendi": [
+      "A party whose presence is necessary for the court to effectually and completely adjudicate upon and settle all questions involved in a case should be joined."
+    ],
+    "obiter_dicta": [],
+    "causes_of_action": [
+      "Joinder of parties",
+      "Employment dispute"
+    ],
+    "legal_issues": [
+      "Whether parties sought to be joined are necessary parties."
+    ],
+    "practice_areas": [
+      "Civil Procedure",
+      "Employment Law"
+    ],
+    "sub_practice_areas": [
+      "Joinder of Parties"
+    ],
+    "legal_concepts": [
+      "Necessary parties",
+      "Proper parties",
+      "Desirable parties",
+      "Joinder"
+    ],
+    "doctrines": [
+      "Joinder of parties"
+    ],
+    "remedies": [
+      "Joinder"
+    ],
+    "employment_law_topics": [
+      "Employment dispute",
+      "Salaries and emoluments"
+    ],
+    "jurisdictional_issues": []
+  },
+  "retrieval": {
+    "keywords": [
+      "joinder",
+      "necessary parties",
+      "National Industrial Court",
+      "NICN/ABJ/348/2012",
+      "Abubakar Musa",
+      "Dekina LGA",
+      "Bassa Local Government Education Authority",
+      "Dekina Local Government Education Authority",
+      "Bassa District Education Committee",
+      "Dekina District Education Committee"
+    ],
+    "searchable_concepts": [
+      "Joinder of parties",
+      "Necessary parties",
+      "Effectual adjudication",
+      "Multiplicity of actions"
+    ],
+    "semantic_topics": [
+      "Civil procedure",
+      "Joinder",
+      "Employment law"
+    ],
+    "legal_entities": [
+      "National Industrial Court of Nigeria",
+      "Bassa Local Government Education Authority",
+      "Dekina Local Government Education Authority",
+      "Bassa District Education Committee",
+      "Dekina District Education Committee"
+    ],
+    "statutes_referenced": [
+      "National Industrial Court Act 2006",
+      "National Industrial Court (NIC) Rules 2007"
+    ],
+    "cases_referenced": [
+      "Hassan v. Atanyi",
+      "UBA Ltd v. Akparabong Community Bank Ltd",
+      "Akanbi (Mogaji) v. Fabunmi",
+      "CMI Trading Services Ltd v. Yuriy",
+      "Aromire v. Awoyemi",
+      "Peenok Inv. Ltd v. Hotel Presidential Ltd",
+      "Awoniyi v. AMORC",
+      "Jimoh v. Oyinloye",
+      "Ogolo v. Fubura",
+      "Adepiti v. Govt. Ondo State",
+      "Adefarasin v. Dayekh",
+      "Ugorji v. Onwu",
+      "Ibigbami v. Military Govt. Ekiti State"
+    ],
+    "citation_phrases": [
+      "(2002) 8 NWLR (Pt. 770) 612",
+      "(2006) All FWLR (Pt. 320) 1129",
+      "(1986) 2 SC 431",
+      "(1998) 11 NWLR (Pt. 573) 284",
+      "(1972) 1 All NLR (Pt. 1) 101",
+      "(1982) 12 SC 148",
+      "(2000) 10 NWLR (Pt. 676) 522",
+      "(2006) 15 NWLR (Pt. 1002) 392",
+      "(2003) 11 NWLR (Pt. 831) 231",
+      "(2012) LPELR 19684",
+      "(2011) 11 NWLR (Pt. 1044) 89",
+      "(1991) 3 NWLR (Pt. 178) 177",
+      "(2004) 4 NWLR (Pt. 863) 343"
+    ],
+    "fact_patterns": [
+      "Teachers claiming wrongful sack and non-payment of salaries",
+      "Application to join statutory education authorities and committees"
+    ],
+    "relief_types": [
+      "Joinder"
+    ],
+    "decision_types": [
+      "Ruling"
+    ]
+  },
+  "graph_rag": {
+    "entities": [
+      {
+        "name": "Abubakar Musa",
+        "type": "Person"
+      },
+      {
+        "name": "Dekina LGA",
+        "type": "Organization"
+      },
+      {
+        "name": "Bassa Local Government Education Authority",
+        "type": "Organization"
+      },
+      {
+        "name": "Dekina Local Government Education Authority",
+        "type": "Organization"
+      },
+      {
+        "name": "Bassa District Education Committee",
+        "type": "Organization"
+      },
+      {
+        "name": "Dekina District Education Committee",
+        "type": "Organization"
+      },
+      {
+        "name": "National Industrial Court of Nigeria",
+        "type": "Court"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Abubakar Musa",
+        "relationship": "employed by",
+        "target": "Bassa Local Government Education Authority",
+        "evidence": "Claimants are teachers in the employment of Bassa and Dekina Local Government authorities."
+      },
+      {
+        "source": "Abubakar Musa",
+        "relationship": "employed by",
+        "target": "Dekina Local Government Education Authority",
+        "evidence": "Claimants are teachers in the employment of Bassa and Dekina Local Government authorities."
+      },
+      {
+        "source": "Bassa District Education Committee",
+        "relationship": "advisory body to",
+        "target": "Bassa Local Government Education Authority",
+        "evidence": "District education committee to keep the local government Education Authority informed of all educational problems."
+      },
+      {
+        "source": "Dekina District Education Committee",
+        "relationship": "advisory body to",
+        "target": "Dekina Local Government Education Authority",
+        "evidence": "District education committee to keep the local government Education Authority informed of all educational problems."
+      }
+    ],
+    "case_relationships": [
+      {
+        "case": "Awoniyi v. AMORC",
+        "citation": "(2000) 10 NWLR (Pt. 676) 522",
+        "relationship": "Followed",
+        "context": "Purpose of joinder."
+      },
+      {
+        "case": "Ibigbami v. Military Govt. Ekiti State",
+        "citation": "(2004) 4 NWLR (Pt. 863) 343",
+        "relationship": "Followed",
+        "context": "Conditions for joinder."
+      }
+    ],
+    "statute_relationships": [
+      {
+        "statute": "National Industrial Court Act 2006",
+        "provision": "Section 14",
+        "relationship": "Applied",
+        "context": "Power to grant remedies for complete determination."
+      }
+    ],
+    "legal_principle_relationships": [
+      {
+        "principle": "Joinder of necessary parties",
+        "case": "Awoniyi v. AMORC",
+        "relationship": "Supported by"
+      }
+    ]
+  },
+  "citation_network": {
+    "authorities_cited": [
+      "Hassan v. Atanyi (2002) 8 NWLR (Pt. 770) 612",
+      "UBA Ltd v. Akparabong Community Bank Ltd (2006) All FWLR (Pt. 320) 1129",
+      "Akanbi (Mogaji) v. Fabunmi (1986) 2 SC 431",
+      "CMI Trading Services Ltd v. Yuriy (1998) 11 NWLR (Pt. 573) 284",
+      "Aromire v. Awoyemi (1972) 1 All NLR (Pt. 1) 101",
+      "Peenok Inv. Ltd v. Hotel Presidential Ltd (1982) 12 SC 148",
+      "Awoniyi v. AMORC (2000) 10 NWLR (Pt. 676) 522",
+      "Jimoh v. Oyinloye (2006) 15 NWLR (Pt. 1002) 392",
+      "Ogolo v. Fubura (2003) 11 NWLR (Pt. 831) 231",
+      "Adepiti v. Govt. Ondo State (2012) LPELR 19684",
+      "Adefarasin v. Dayekh (2011) 11 NWLR (Pt. 1044) 89",
+      "Ugorji v. Onwu (1991) 3 NWLR (Pt. 178) 177",
+      "Ibigbami v. Military Govt. Ekiti State (2004) 4 NWLR (Pt. 863) 343"
+    ],
+    "authorities_followed": [
+      "Awoniyi v. AMORC (2000) 10 NWLR (Pt. 676) 522",
+      "Ibigbami v. Military Govt. Ekiti State (2004) 4 NWLR (Pt. 863) 343"
+    ],
+    "authorities_distinguished": [],
+    "authorities_rejected": [],
+    "authorities_overruled": [],
+    "authorities_relied_upon": [
+      "Awoniyi v. AMORC (2000) 10 NWLR (Pt. 676) 522",
+      "Ibigbami v. Military Govt. Ekiti State (2004) 4 NWLR (Pt. 863) 343"
+    ]
+  },
+  "metadata_quality": {
+    "extraction_confidence": 0.95,
+    "fields_missing": [],
+    "fields_uncertain": [],
+    "requires_review": false,
+    "review_reasons": [],
+    "source_completeness": "complete",
+    "ai_extraction_model": "deepseek-chat",
+    "prompt_version": "nicn-v3.2-single-call",
+    "extracted_at": "2026-10-02T08:40:41.701263+00:00"
+  }
+}

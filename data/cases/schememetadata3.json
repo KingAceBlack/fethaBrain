@@ -1,0 +1,1210 @@
+{
+  "schema_version": "nicn-ai-metadata-v3.2",
+  "source": {
+    "court": "National Industrial Court of Nigeria",
+    "jurisdiction": "Nigeria",
+    "source_url": "",
+    "source_id": "760",
+    "document_id": "760",
+    "file_name": "full_text.txt",
+    "downloaded_at": "",
+    "document_type": "judgment",
+    "language": "English",
+    "pages": null,
+    "word_count": 4058,
+    "extraction_status": "complete",
+    "completeness_confidence": "HIGH"
+  },
+  "case": {
+    "title": "Joseph Chidubem Nwachukwu v. Mainstreet Bank Limited",
+    "case_number": "NIC/LA/184/2011",
+    "court": "National Industrial Court of Nigeria",
+    "judicial_division": "Lagos",
+    "judge": "Hon. Justice B. B. Kanyip",
+    "judgment_date": "2013-07-17",
+    "year": 2013,
+    "claimants": [
+      "Joseph Chidubem Nwachukwu"
+    ],
+    "defendants": [
+      "Mainstreet Bank Limited"
+    ],
+    "appellants": [],
+    "respondents": [],
+    "applicants": [],
+    "interested_parties": [],
+    "counsel": []
+  },
+  "procedural_history": {
+    "originating_proceedings": "Complaint dated and filed on 28th November 2011.",
+    "procedural_posture": "Claimant filed complaint, statement of facts, list of witness, list of exhibits and copies of exhibits (Exhibits A–H). By order of Court made on 22nd March 2012, parties were asked to file and serve sworn depositions of witnesses. Claimant filed deposition on 24th April 2012, later amended statement of facts and witness deposition on 19th June 2012, and further amended statement of facts and further deposition on 7th January 2013. Additional documents (Exhibits I–N) filed. Defendant entered appearance by filing memorandum of appearance but did not file defence until 28th March 2013. Defendant made only two appearances in Court (21st February 2012 and 22nd March 2012) and was absent throughout trial despite service of hearing notices. Court permitted claimant to argue its case in the absence of the defendant.",
+    "previous_decisions": [],
+    "interlocutory_applications": [
+      "Claimant applied for leave to amend statement of facts and witness deposition on oath; granted on 19th June 2012.",
+      "Claimant again applied for leave to amend statement of facts and deposition on oath; granted; claimant filed 2nd amended statement of facts and further deposition on 7th January 2013."
+    ],
+    "appeals": [],
+    "orders_before_trial": [],
+    "procedural_events": [
+      "Complaint filed on 28th November 2011.",
+      "Order of Court on 22nd March 2012 for parties to file sworn depositions.",
+      "Claimant filed deposition on 24th April 2012.",
+      "Leave granted on 19th June 2012 to amend statement of facts and witness deposition.",
+      "Further deposition filed on 7th January 2013.",
+      "Defendant filed statement of defence and other processes on 28th March 2013.",
+      "Trial commenced with claimant testifying as CW; defendant absent.",
+      "Judgment delivered on 17th July 2013."
+    ]
+  },
+  "facts": {
+    "material_facts": [
+      "Claimant was employed by defendant Bank (formerly International Bank for West Africa Ltd and Afribank Nigeria Plc, now Mainstreet Bank Ltd) as a Copy Typist starting from 13th January 1981 via letter of appointment dated 9th April 1981 (Exhibit A).",
+      "Employment was confirmed by letter dated 19th October 1981 (Exhibit B).",
+      "Claimant was promoted to Senior Assistant Manager by letter dated 19th November 2007 (Exhibit C).",
+      "As Senior Assistant Manager, claimant became a member of ASSBIFI and paid dues (Exhibits I, J, K, L, M, N).",
+      "Claimant served defendant for 29 years.",
+      "Claimant received letter dated 22nd June 2010 (Exhibit G) summarily dismissing him with immediate effect, stating 'your services are no longer required in the Bank'.",
+      "The dismissal letter was signed by Tolu Ilori and Babs Ogunleye.",
+      "Claimant's conditions of service incorporated the collective agreement (Exhibit D) by virtue of Exhibit A.",
+      "Article 4(iv)(c) of Part II (section 1) of Exhibit D requires a written query and opportunity to defend before summary dismissal, except where employee absconded.",
+      "No evidence that claimant absconded or was given a written query before dismissal.",
+      "Claimant was a financial member of ASSBIFI as evidenced by pay-slips (Exhibits I, J, K, L)."
+    ],
+    "chronology": [
+      {
+        "date": "1981-01-13",
+        "event": "Claimant commenced employment as Copy Typist."
+      },
+      {
+        "date": "1981-04-09",
+        "event": "Letter of appointment (Exhibit A) issued."
+      },
+      {
+        "date": "1981-10-19",
+        "event": "Employment confirmed (Exhibit B)."
+      },
+      {
+        "date": "2007-11-19",
+        "event": "Claimant promoted to Senior Assistant Manager (Exhibit C)."
+      },
+      {
+        "date": "2010-06-22",
+        "event": "Claimant summarily dismissed via letter (Exhibit G)."
+      },
+      {
+        "date": "2011-11-28",
+        "event": "Complaint filed."
+      },
+      {
+        "date": "2013-07-17",
+        "event": "Judgment delivered."
+      }
+    ],
+    "admitted_facts": [],
+    "disputed_facts": [],
+    "background_facts": [
+      "Defendant Bank formerly known as International Bank for West Africa Ltd and Afribank Nigeria Plc, now Mainstreet Bank Ltd by order of Central Bank of Nigeria.",
+      "Claimant's employment governed by collective agreement (Exhibit D) between ASSBIFI and NEABIA."
+    ],
+    "employment_relationship": "Claimant was an employee of the defendant Bank from 13th January 1981 until summary dismissal on 22nd June 2010, serving 29 years.",
+    "contractual_relationship": "Employment contract incorporated collective agreement (Exhibit D) as part of terms and conditions of service.",
+    "documentary_evidence": [
+      "Exhibit A: Letter of appointment dated 9th April 1981.",
+      "Exhibit B: Letter confirming appointment dated 19th October 1981.",
+      "Exhibit C: Promotion letter dated 19th November 2007.",
+      "Exhibit D: Collective agreement.",
+      "Exhibit G: Summary dismissal letter dated 22nd June 2010.",
+      "Exhibit H: Statement of Account of Retirement Savings with Trust Fund.",
+      "Exhibits I, J, K, L: Pay-slips evidencing payment of ASSBIFI membership dues.",
+      "Exhibits M, N: Additional documents."
+    ],
+    "witness_evidence": [
+      "Claimant testified as CW and tendered Exhibits A–N. Defendant did not cross-examine CW."
+    ]
+  },
+  "claims_and_reliefs": {
+    "causes_of_action": [
+      "Wrongful summary dismissal",
+      "Breach of collective agreement",
+      "Failure to give notice or salary in lieu"
+    ],
+    "claims": [
+      {
+        "claim": "Declaration that summary dismissal is wrongful, null and void.",
+        "legal_basis": "Breach of collective agreement and conditions of service.",
+        "claimant": "Joseph Chidubem Nwachukwu",
+        "against": "Mainstreet Bank Limited"
+      },
+      {
+        "claim": "Order changing summary dismissal to termination.",
+        "legal_basis": "Wrongful dismissal.",
+        "claimant": "Joseph Chidubem Nwachukwu",
+        "against": "Mainstreet Bank Limited"
+      },
+      {
+        "claim": "Payment of N1,624,926.66 being 3 months' salary in lieu of notice as damages.",
+        "legal_basis": "Terms of employment.",
+        "claimant": "Joseph Chidubem Nwachukwu",
+        "against": "Mainstreet Bank Limited"
+      },
+      {
+        "claim": "Payment of N33,073,597.52 being terminal benefits (16 weeks of total emoluments for each completed year of service, 29 years).",
+        "legal_basis": "Collective agreement.",
+        "claimant": "Joseph Chidubem Nwachukwu",
+        "against": "Mainstreet Bank Limited"
+      },
+      {
+        "claim": "Payment of current pension savings held by Trustfund.",
+        "legal_basis": "Pension scheme.",
+        "claimant": "Joseph Chidubem Nwachukwu",
+        "against": "Mainstreet Bank Limited"
+      },
+      {
+        "claim": "Payment of retirement contributions held by defendant.",
+        "legal_basis": "Pension scheme.",
+        "claimant": "Joseph Chidubem Nwachukwu",
+        "against": "Mainstreet Bank Limited"
+      }
+    ],
+    "reliefs_sought": [
+      {
+        "relief_number": "1",
+        "relief": "Declaration that summary dismissal vide letter dated June 22, 2010, ref. HCM/IRSW/24224/2010 is wrongful, null and void.",
+        "category": "Declaration"
+      },
+      {
+        "relief_number": "2",
+        "relief": "Order changing summary dismissal to termination.",
+        "category": "Order"
+      },
+      {
+        "relief_number": "3",
+        "relief": "Order directing defendant to pay N1,624,926.66 being 3 months' salary in lieu of notice as damages.",
+        "category": "Damages"
+      },
+      {
+        "relief_number": "4",
+        "relief": "Order directing defendant to pay N33,073,597.52 being terminal benefits (16 weeks of total emoluments for each completed year of service, 29 years).",
+        "category": "Terminal benefits"
+      },
+      {
+        "relief_number": "5",
+        "relief": "Order directing current pension savings held by Trustfund be paid to claimant.",
+        "category": "Pension"
+      },
+      {
+        "relief_number": "6",
+        "relief": "Order directing retirement contributions held by defendant be paid to claimant.",
+        "category": "Pension"
+      }
+    ],
+    "issues_for_determination": [
+      {
+        "issue_number": "a",
+        "issue": "Whether from the totality of evidence, unchallenged, claimant is entitled to judgment.",
+        "raised_by": "Claimant"
+      },
+      {
+        "issue_number": "b",
+        "issue": "Whether from totality of evidence, claimant proved his case to entitle him to judgment.",
+        "raised_by": "Claimant"
+      }
+    ],
+    "questions_of_law": [
+      "Whether 'your services are no longer required' is a reason for dismissal or the act of dismissal.",
+      "Whether employer must state reasons for termination or dismissal.",
+      "Whether failure to comply with disciplinary procedure in collective agreement renders dismissal null and void."
+    ]
+  },
+  "arguments": {
+    "claimant_arguments": [
+      "Defendant did not file defence or cross-examine CW, so evidence is unchallenged and deemed admitted.",
+      "Burden of proof is minimal where evidence is unchallenged.",
+      "Summary dismissal was wrongful as it violated collective agreement (Exhibit D) which requires query and opportunity to defend before dismissal.",
+      "The reason 'services no longer required' is not a ground for summary dismissal under the collective agreement.",
+      "Claimant is entitled to terminal benefits, pension, and retirement contributions."
+    ],
+    "defendant_arguments": [],
+    "appellant_arguments": [],
+    "respondent_arguments": [],
+    "submissions": [
+      "Claimant submitted that unchallenged evidence requires minimal proof, citing Kosile v. Folarin and Nigerian Bottling Company Plc v. Abubakar.",
+      "Claimant submitted that collective agreement incorporated into contract of employment must be followed, citing Planned Parenthood Federation of Nigeria v. Shogbola and Tomlirison v. Lmssr."
+    ],
+    "party_authorities": [
+      {
+        "party": "Claimant",
+        "authority": "Kosile v. Folarin [1961] 2 SCNLR 233",
+        "proposition": "Where evidence is unchallenged, onus of proof is discharged on minimum proof."
+      },
+      {
+        "party": "Claimant",
+        "authority": "Nigerian Bottling Company Plc & anor v. Mallam Ibrahim Abubakar [2006] 16 WRN 175",
+        "proposition": "Unchallenged evidence requires minimal proof."
+      },
+      {
+        "party": "Claimant",
+        "authority": "The Registered Trustees of the Planned Parenthood Federation of Nigeria & anor v. Dr. Jimmy Shogbola [2005] 1 WRN 15",
+        "proposition": "Collective agreement incorporated into contract must be followed; breach renders termination wrongful."
+      },
+      {
+        "party": "Claimant",
+        "authority": "Tomlirison v. Lmssr [1944] 1 All ER 537",
+        "proposition": "Steps in collective agreement for determination must be followed."
+      }
+    ]
+  },
+  "evidence": {
+    "exhibits": [
+      {
+        "identifier": "A",
+        "description": "Letter of appointment dated 9th April 1981.",
+        "party": "Claimant",
+        "relevance": "Establishes employment and incorporation of collective agreement."
+      },
+      {
+        "identifier": "B",
+        "description": "Letter confirming appointment dated 19th October 1981.",
+        "party": "Claimant",
+        "relevance": "Confirms employment."
+      },
+      {
+        "identifier": "C",
+        "description": "Promotion letter dated 19th November 2007.",
+        "party": "Claimant",
+        "relevance": "Shows promotion to Senior Assistant Manager."
+      },
+      {
+        "identifier": "D",
+        "description": "Collective agreement.",
+        "party": "Claimant",
+        "relevance": "Governs conditions of service and disciplinary procedure."
+      },
+      {
+        "identifier": "G",
+        "description": "Summary dismissal letter dated 22nd June 2010.",
+        "party": "Claimant",
+        "relevance": "Subject of complaint."
+      },
+      {
+        "identifier": "H",
+        "description": "Statement of Account of Retirement Savings with Trust Fund.",
+        "party": "Claimant",
+        "relevance": "Pension savings evidence (not readable)."
+      },
+      {
+        "identifier": "I",
+        "description": "Pay-slip August 1995.",
+        "party": "Claimant",
+        "relevance": "Evidence of ASSBIFI membership dues."
+      },
+      {
+        "identifier": "J",
+        "description": "Pay-slip December 2004.",
+        "party": "Claimant",
+        "relevance": "Evidence of ASSBIFI membership dues."
+      },
+      {
+        "identifier": "K",
+        "description": "Pay-slip January 2009.",
+        "party": "Claimant",
+        "relevance": "Evidence of ASSBIFI membership dues."
+      },
+      {
+        "identifier": "L",
+        "description": "Pay-slip April 2009.",
+        "party": "Claimant",
+        "relevance": "Evidence of ASSBIFI membership dues."
+      },
+      {
+        "identifier": "M",
+        "description": "Additional document.",
+        "party": "Claimant",
+        "relevance": "Evidence of ASSBIFI membership dues."
+      },
+      {
+        "identifier": "N",
+        "description": "Additional document.",
+        "party": "Claimant",
+        "relevance": "Evidence of ASSBIFI membership dues."
+      }
+    ],
+    "witnesses": [
+      {
+        "name": "Joseph Chidubem Nwachukwu",
+        "party": "Claimant",
+        "role": "Claimant witness (CW)",
+        "evidence_summary": "Testified to employment history, membership of ASSBIFI, payment of dues, and summary dismissal without query or notice."
+      }
+    ],
+    "documentary_evidence": [
+      "Exhibits A–N as listed."
+    ],
+    "oral_evidence": [
+      "Claimant's testimony as CW."
+    ],
+    "expert_evidence": [],
+    "evidential_findings": [
+      {
+        "evidence": "Claimant's unchallenged testimony and exhibits.",
+        "finding": "Claimant was a financial member of ASSBIFI and his conditions of service governed by collective agreement.",
+        "credibility": "Unchallenged, credible."
+      },
+      {
+        "evidence": "Exhibit G dismissal letter.",
+        "finding": "Claimant was summarily dismissed without query or opportunity to defend.",
+        "credibility": "Documentary evidence."
+      }
+    ]
+  },
+  "judicial_analysis": {
+    "findings_of_fact": [
+      {
+        "issue": "Membership of ASSBIFI",
+        "finding": "Claimant was a financial member of ASSBIFI."
+      },
+      {
+        "issue": "Compliance with disciplinary procedure",
+        "finding": "No evidence that claimant was given written query or opportunity to defend before dismissal."
+      },
+      {
+        "issue": "Reason for dismissal",
+        "finding": "The phrase 'your services are no longer required' is the act of dismissal, not the reason."
+      }
+    ],
+    "findings_of_law": [
+      {
+        "issue": "Employer's duty to state reasons",
+        "finding": "Employer need not state reasons for termination or dismissal."
+      },
+      {
+        "issue": "Effect of non-compliance with collective agreement",
+        "finding": "Dismissal not in accordance with conditions of service is wrongful, unlawful, null and void."
+      },
+      {
+        "issue": "Entitlement to notice",
+        "finding": "Collective agreement provides for one month's salary in lieu of notice, not three months."
+      }
+    ],
+    "reasoning": "The Court found that the claimant's employment was governed by the collective agreement (Exhibit D) which required a written query and opportunity to defend before summary dismissal. The defendant failed to comply. The dismissal was therefore wrongful, unlawful, null and void. The Court distinguished between termination and dismissal, noting dismissal carries infamy. The Court held that the claimant was entitled to reliefs 1 and 2, and to one month's salary in lieu of notice as per the collective agreement. Reliefs 4, 5, and 6 were deemed abandoned for lack of proof.",
+    "issue_analysis": [
+      {
+        "issue_number": "1",
+        "issue": "Whether the summary dismissal was wrongful, null and void.",
+        "arguments": {
+          "claimant": "Dismissal violated collective agreement as no query or opportunity to defend was given; reason 'services no longer required' not a ground for summary dismissal.",
+          "defendant": "No arguments presented."
+        },
+        "judicial_analysis": "The Court found that the collective agreement (Exhibit D) was incorporated into the contract of employment. Article 4(iv)(c) required a written query and opportunity to defend before summary dismissal. No evidence of compliance. The dismissal was therefore not in accordance with the conditions of service.",
+        "holding": "Summary dismissal is wrongful, null and void.",
+        "ratio_decidendi": "Where a collective agreement incorporated into a contract of employment prescribes a disciplinary procedure, failure to comply renders the dismissal null and void.",
+        "result": "Relief 1 granted."
+      },
+      {
+        "issue_number": "2",
+        "issue": "Whether summary dismissal should be changed to termination.",
+        "arguments": {
+          "claimant": "Dismissal should be converted to termination to remove infamy and allow terminal benefits.",
+          "defendant": "No arguments presented."
+        },
+        "judicial_analysis": "The Court noted the distinction between dismissal and termination. Dismissal carries infamy and deprives terminal benefits. Since the dismissal was wrongful, it should be changed to termination.",
+        "holding": "Summary dismissal changed to termination.",
+        "ratio_decidendi": "A wrongful dismissal may be converted to termination to mitigate the opprobrium and allow terminal benefits.",
+        "result": "Relief 2 granted."
+      },
+      {
+        "issue_number": "3",
+        "issue": "Whether claimant is entitled to 3 months' salary in lieu of notice.",
+        "arguments": {
+          "claimant": "Entitled to 3 months' salary in lieu of notice as per terms of employment.",
+          "defendant": "No arguments presented."
+        },
+        "judicial_analysis": "The Court examined Exhibit D and found that Article 4(ii)(d) provides for one month's notice or salary in lieu, not three months. The claimant's claim for three months was not supported by the collective agreement.",
+        "holding": "Claimant entitled to one month's salary in lieu of notice, not three months.",
+        "ratio_decidendi": "Entitlement to notice period is governed by the express terms of the collective agreement.",
+        "result": "Relief 3 partially granted; awarded N541,642.22 (one month's salary)."
+      }
+    ],
+    "holdings": [
+      {
+        "issue_number": "1",
+        "issue": "Wrongful dismissal",
+        "holding": "Summary dismissal is wrongful, null and void.",
+        "result": "Relief 1 granted."
+      },
+      {
+        "issue_number": "2",
+        "issue": "Conversion to termination",
+        "holding": "Summary dismissal changed to termination.",
+        "result": "Relief 2 granted."
+      },
+      {
+        "issue_number": "3",
+        "issue": "Salary in lieu of notice",
+        "holding": "Claimant entitled to one month's salary in lieu of notice.",
+        "result": "Relief 3 partially granted; N541,642.22 awarded."
+      },
+      {
+        "issue_number": "4",
+        "issue": "Terminal benefits",
+        "holding": "Relief 4 deemed abandoned.",
+        "result": "Struck out."
+      },
+      {
+        "issue_number": "5",
+        "issue": "Pension savings",
+        "holding": "Relief 5 deemed abandoned.",
+        "result": "Struck out."
+      },
+      {
+        "issue_number": "6",
+        "issue": "Retirement contributions",
+        "holding": "Relief 6 deemed abandoned.",
+        "result": "Struck out."
+      }
+    ],
+    "ratio_decidendi": [
+      {
+        "issue": "Compliance with disciplinary procedure",
+        "principle": "Where a collective agreement incorporated into a contract of employment prescribes a disciplinary procedure, failure to comply renders the dismissal null and void.",
+        "application": "Defendant failed to give written query and opportunity to defend before summary dismissal.",
+        "holding": "Dismissal wrongful, null and void."
+      },
+      {
+        "issue": "Notice period",
+        "principle": "Entitlement to notice period is governed by the express terms of the collective agreement.",
+        "application": "Collective agreement provided for one month's salary in lieu of notice, not three months.",
+        "holding": "Claimant entitled to one month's salary in lieu of notice."
+      }
+    ],
+    "obiter_dicta": [
+      {
+        "statement": "Dismissal of an employee carries infamy and unflattering opprobrium, and hence deprives the employee his terminal benefits.",
+        "context": "Discussion on distinction between termination and dismissal.",
+        "relevance": "Supports conversion of dismissal to termination."
+      }
+    ],
+    "legal_principles": [
+      {
+        "principle": "Employer need not state reasons for termination or dismissal.",
+        "context": "Consideration of whether 'services no longer required' is a reason.",
+        "source": "Ihezukwu v. University of Jos [1990] 4 NWLR (Pt. 146) 598 SC; ACB Plc v. Nbisike [1995] 8 NWLR (Pt. 416) 725 CA."
+      },
+      {
+        "principle": "Unchallenged evidence requires minimal proof.",
+        "context": "Defendant did not file defence or cross-examine CW.",
+        "source": "Kosile v. Folarin [1961] 2 SCNLR 233; Nigerian Bottling Company Plc v. Abubakar [2006] 16 WRN 175."
+      },
+      {
+        "principle": "Collective agreement incorporated into contract of employment is binding.",
+        "context": "Exhibit A incorporated collective agreement.",
+        "source": "Oguejiofor v. Siemens Ltd [2008] 2 NWLR (Pt. 1071) 283."
+      }
+    ],
+    "statutory_interpretation": [
+      {
+        "statute": "National Industrial Court (NIC) Act 2006",
+        "provision": "Section 19(d)",
+        "interpretation": "Empowers Court to award compensation or damages.",
+        "application": "Used to award one month's salary in lieu of notice."
+      },
+      {
+        "statute": "Evidence Act 2011",
+        "provision": "Section 133(4)",
+        "interpretation": "Burden of proof.",
+        "application": "Claimant discharged burden with unchallenged evidence."
+      }
+    ],
+    "constitutional_analysis": [],
+    "precedent_analysis": [
+      {
+        "authority": "Ihezukwu v. University of Jos",
+        "citation": "[1990] 4 NWLR (Pt. 146) 598 SC",
+        "treatment": "Followed",
+        "proposition": "Employer need not state reasons for termination or dismissal.",
+        "reasoning": "Applied to hold that 'services no longer required' is not a reason."
+      },
+      {
+        "authority": "ACB Plc v. Nbisike",
+        "citation": "[1995] 8 NWLR (Pt. 416) 725 CA",
+        "treatment": "Followed",
+        "proposition": "Employer need not allege specific act of misconduct for dismissal.",
+        "reasoning": "Applied but distinguished as not applicable to instant case."
+      },
+      {
+        "authority": "J. A. Irem v. Obubra District Counsel",
+        "citation": "[1960] 5 FSC 24",
+        "treatment": "Followed",
+        "proposition": "Dismissal carries infamy and deprives benefits.",
+        "reasoning": "Applied to distinguish dismissal from termination."
+      },
+      {
+        "authority": "Jombo v. PEFMB",
+        "citation": "[2005] 14 NWLR (Pt. 945) 443 SC",
+        "treatment": "Followed",
+        "proposition": "Dismissal is punitive and entails loss of terminal benefits.",
+        "reasoning": "Applied to support conversion to termination."
+      },
+      {
+        "authority": "Habu v. NUT Taraba State",
+        "citation": "[2005] 4 FWLR (Pt. 283) 646",
+        "treatment": "Followed",
+        "proposition": "Deduction of check-off dues is incidence of membership.",
+        "reasoning": "Used to find claimant was financial member of ASSBIFI."
+      },
+      {
+        "authority": "Andrew Monye v. Ecobank Nigeria Plc",
+        "citation": "unreported Suit No. NIC/LA/06/2010",
+        "treatment": "Followed",
+        "proposition": "Termination in sensitive sector suggests wrongdoing; compensation may be awarded.",
+        "reasoning": "Reinforced finding that dismissal was wrongful."
+      },
+      {
+        "authority": "Industrial Cartons Ltd v. NUPAPPW",
+        "citation": "[2006] 6 NLLR (Pt. 15) 258",
+        "treatment": "Followed",
+        "proposition": "Where reason for termination is incorrect, one month's salary in lieu is inadequate compensation.",
+        "reasoning": "Considered in awarding compensation."
+      },
+      {
+        "authority": "Oguejiofor v. Siemens Ltd",
+        "citation": "[2008] 2 NWLR (Pt. 1071) 283",
+        "treatment": "Followed",
+        "proposition": "Collective agreement incorporated into contract of employment is binding.",
+        "reasoning": "Applied to hold Exhibit D binding."
+      }
+    ],
+    "evidential_findings": [],
+    "judicial_observations": [
+      "The defendant's absence did not absolve the claimant of the duty to prove his case on the minimal evidence rule.",
+      "Reliefs 4, 5, and 6 were not argued and were deemed abandoned."
+    ]
+  },
+  "authorities": {
+    "cases_cited": [
+      {
+        "case_name": "Attorney General, Osun State v. Nigeria Labour Congress (Osun State Council) & ors",
+        "citation": "unreported Suit No. NICN/LA/275/2012",
+        "court": "National Industrial Court",
+        "year": 2012,
+        "proposition": "Where defendant is absent, claimant may prove claim.",
+        "treatment": "Followed",
+        "cited_by": "Court",
+        "importance": "Procedural"
+      },
+      {
+        "case_name": "Mr. Lawrence Azenabor v. Bayero University, Kano",
+        "citation": "[2011] 25 NLLR (Pt. 70) 45 CA",
+        "court": "Court of Appeal",
+        "year": 2011,
+        "proposition": "Plaintiff cannot assume automatic judgment because defendant did not adduce evidence.",
+        "treatment": "Followed",
+        "cited_by": "Court",
+        "importance": "Evidential"
+      },
+      {
+        "case_name": "Ogunyade v. Oshunkeye",
+        "citation": "[2007] 4 NWLR (Pt. 1057) 218 SC",
+        "court": "Supreme Court",
+        "year": 2007,
+        "proposition": "Minimal evidential requirement.",
+        "treatment": "Followed",
+        "cited_by": "Court",
+        "importance": "Evidential"
+      },
+      {
+        "case_name": "Kosile v. Folarin",
+        "citation": "[1961] 2 SCNLR 233",
+        "court": "Supreme Court",
+        "year": 1961,
+        "proposition": "Unchallenged evidence requires minimal proof.",
+        "treatment": "Followed",
+        "cited_by": "Claimant",
+        "importance": "Evidential"
+      },
+      {
+        "case_name": "Nigerian Bottling Company Plc & anor v. Mallam Ibrahim Abubakar",
+        "citation": "[2006] 16 WRN 175",
+        "court": "Court of Appeal",
+        "year": 2006,
+        "proposition": "Unchallenged evidence requires minimal proof.",
+        "treatment": "Followed",
+        "cited_by": "Claimant",
+        "importance": "Evidential"
+      },
+      {
+        "case_name": "The Registered Trustees of the Planned Parenthood Federation of Nigeria & anor v. Dr. Jimmy Shogbola",
+        "citation": "[2005] 1 WRN 15",
+        "court": "Court of Appeal",
+        "year": 2005,
+        "proposition": "Collective agreement incorporated into contract must be followed.",
+        "treatment": "Followed",
+        "cited_by": "Claimant",
+        "importance": "Substantive"
+      },
+      {
+        "case_name": "Tomlirison v. Lmssr",
+        "citation": "[1944] 1 All ER 537",
+        "court": "English Court",
+        "year": 1944,
+        "proposition": "Steps in collective agreement for determination must be followed.",
+        "treatment": "Followed",
+        "cited_by": "Claimant",
+        "importance": "Substantive"
+      },
+      {
+        "case_name": "Ihezukwu v. University of Jos",
+        "citation": "[1990] 4 NWLR (Pt. 146) 598 SC",
+        "court": "Supreme Court",
+        "year": 1990,
+        "proposition": "Employer need not state reasons for termination or dismissal.",
+        "treatment": "Followed",
+        "cited_by": "Court",
+        "importance": "Substantive"
+      },
+      {
+        "case_name": "ACB Plc v. Nbisike",
+        "citation": "[1995] 8 NWLR (Pt. 416) 725 CA",
+        "court": "Court of Appeal",
+        "year": 1995,
+        "proposition": "Employer need not allege specific act of misconduct for dismissal.",
+        "treatment": "Followed",
+        "cited_by": "Court",
+        "importance": "Substantive"
+      },
+      {
+        "case_name": "J. A. Irem v. Obubra District Counsel",
+        "citation": "[1960] 5 FSC 24",
+        "court": "Federal Supreme Court",
+        "year": 1960,
+        "proposition": "Dismissal carries infamy and deprives benefits.",
+        "treatment": "Followed",
+        "cited_by": "Court",
+        "importance": "Substantive"
+      },
+      {
+        "case_name": "Jombo v. PEFMB",
+        "citation": "[2005] 14 NWLR (Pt. 945) 443 SC",
+        "court": "Supreme Court",
+        "year": 2005,
+        "proposition": "Dismissal is punitive and entails loss of terminal benefits.",
+        "treatment": "Followed",
+        "cited_by": "Court",
+        "importance": "Substantive"
+      },
+      {
+        "case_name": "Habu v. NUT Taraba State",
+        "citation": "[2005] 4 FWLR (Pt. 283) 646",
+        "court": "Court of Appeal",
+        "year": 2005,
+        "proposition": "Deduction of check-off dues is incidence of membership.",
+        "treatment": "Followed",
+        "cited_by": "Court",
+        "importance": "Evidential"
+      },
+      {
+        "case_name": "Andrew Monye v. Ecobank Nigeria Plc",
+        "citation": "unreported Suit No. NIC/LA/06/2010",
+        "court": "National Industrial Court",
+        "year": 2011,
+        "proposition": "Termination in sensitive sector suggests wrongdoing.",
+        "treatment": "Followed",
+        "cited_by": "Court",
+        "importance": "Substantive"
+      },
+      {
+        "case_name": "Industrial Cartons Ltd v. NUPAPPW",
+        "citation": "[2006] 6 NLLR (Pt. 15) 258",
+        "court": "National Industrial Court",
+        "year": 2006,
+        "proposition": "Where reason for termination is incorrect, one month's salary in lieu is inadequate compensation.",
+        "treatment": "Followed",
+        "cited_by": "Court",
+        "importance": "Substantive"
+      },
+      {
+        "case_name": "Oguejiofor v. Siemens Ltd",
+        "citation": "[2008] 2 NWLR (Pt. 1071) 283",
+        "court": "Supreme Court",
+        "year": 2008,
+        "proposition": "Collective agreement incorporated into contract of employment is binding.",
+        "treatment": "Followed",
+        "cited_by": "Court",
+        "importance": "Substantive"
+      }
+    ],
+    "statutes": [
+      {
+        "name": "National Industrial Court (NIC) Act 2006",
+        "provision": "Section 19(d)",
+        "proposition": "Empowers Court to award compensation or damages."
+      },
+      {
+        "name": "Evidence Act 2011",
+        "provision": "Section 133(4)",
+        "proposition": "Burden of proof."
+      }
+    ],
+    "constitutional_provisions": [],
+    "regulations": [],
+    "rules": [
+      {
+        "name": "National Industrial Court (NIC) Rules 2007",
+        "rule": "Order 9",
+        "proposition": "Right of defendant not to defend an action."
+      },
+      {
+        "name": "National Industrial Court (NIC) Rules 2007",
+        "rule": "Order 19 Rule 2",
+        "proposition": "Where defendant is absent, claimant may prove claim."
+      }
+    ],
+    "international_instruments": [],
+    "other_authorities": []
+  },
+  "precedent_relationships": [
+    {
+      "authority": "Ihezukwu v. University of Jos",
+      "citation": "[1990] 4 NWLR (Pt. 146) 598 SC",
+      "relationship": "Followed",
+      "proposition": "Employer need not state reasons for termination or dismissal.",
+      "context": "Applied to hold that 'services no longer required' is not a reason."
+    },
+    {
+      "authority": "ACB Plc v. Nbisike",
+      "citation": "[1995] 8 NWLR (Pt. 416) 725 CA",
+      "relationship": "Followed",
+      "proposition": "Employer need not allege specific act of misconduct for dismissal.",
+      "context": "Applied but distinguished as not applicable to instant case."
+    },
+    {
+      "authority": "J. A. Irem v. Obubra District Counsel",
+      "citation": "[1960] 5 FSC 24",
+      "relationship": "Followed",
+      "proposition": "Dismissal carries infamy and deprives benefits.",
+      "context": "Applied to distinguish dismissal from termination."
+    },
+    {
+      "authority": "Jombo v. PEFMB",
+      "citation": "[2005] 14 NWLR (Pt. 945) 443 SC",
+      "relationship": "Followed",
+      "proposition": "Dismissal is punitive and entails loss of terminal benefits.",
+      "context": "Applied to support conversion to termination."
+    },
+    {
+      "authority": "Habu v. NUT Taraba State",
+      "citation": "[2005] 4 FWLR (Pt. 283) 646",
+      "relationship": "Followed",
+      "proposition": "Deduction of check-off dues is incidence of membership.",
+      "context": "Used to find claimant was financial member of ASSBIFI."
+    },
+    {
+      "authority": "Andrew Monye v. Ecobank Nigeria Plc",
+      "citation": "unreported Suit No. NIC/LA/06/2010",
+      "relationship": "Followed",
+      "proposition": "Termination in sensitive sector suggests wrongdoing.",
+      "context": "Reinforced finding that dismissal was wrongful."
+    },
+    {
+      "authority": "Industrial Cartons Ltd v. NUPAPPW",
+      "citation": "[2006] 6 NLLR (Pt. 15) 258",
+      "relationship": "Followed",
+      "proposition": "Where reason for termination is incorrect, one month's salary in lieu is inadequate compensation.",
+      "context": "Considered in awarding compensation."
+    },
+    {
+      "authority": "Oguejiofor v. Siemens Ltd",
+      "citation": "[2008] 2 NWLR (Pt. 1071) 283",
+      "relationship": "Followed",
+      "proposition": "Collective agreement incorporated into contract of employment is binding.",
+      "context": "Applied to hold Exhibit D binding."
+    }
+  ],
+  "outcome": {
+    "decision": "Claim partially succeeded.",
+    "overall_result": "Reliefs 1 and 2 granted; Relief 3 partially granted; Reliefs 4, 5, and 6 struck out.",
+    "orders": [
+      "Reliefs 4, 5 and 6 are deemed abandoned and struck out.",
+      "It is declared that the claimant's summary dismissal vide letter dated June 22, 2010, ref. HCM/IRSW/24224/2010 is wrongful, null and void.",
+      "It is ordered that the summary dismissal is changed to termination.",
+      "It is ordered that the defendant shall pay to the claimant within 30 days the sum of N541,642.22 being one month's salary in lieu of notice as damages.",
+      "Cost of N20,000 payable by defendant to claimant."
+    ],
+    "reliefs": [
+      {
+        "relief_number": "1",
+        "relief": "Declaration that summary dismissal is wrongful, null and void.",
+        "result": "Granted",
+        "reason": "Dismissal violated collective agreement's disciplinary procedure."
+      },
+      {
+        "relief_number": "2",
+        "relief": "Order changing summary dismissal to termination.",
+        "result": "Granted",
+        "reason": "To remove infamy and allow terminal benefits."
+      },
+      {
+        "relief_number": "3",
+        "relief": "Payment of N1,624,926.66 being 3 months' salary in lieu of notice.",
+        "result": "Partially granted",
+        "reason": "Collective agreement provides for one month's salary, not three."
+      },
+      {
+        "relief_number": "4",
+        "relief": "Payment of N33,073,597.52 terminal benefits.",
+        "result": "Struck out",
+        "reason": "Deemed abandoned for lack of proof."
+      },
+      {
+        "relief_number": "5",
+        "relief": "Payment of pension savings held by Trustfund.",
+        "result": "Struck out",
+        "reason": "Deemed abandoned for lack of proof."
+      },
+      {
+        "relief_number": "6",
+        "relief": "Payment of retirement contributions held by defendant.",
+        "result": "Struck out",
+        "reason": "Deemed abandoned for lack of proof."
+      }
+    ],
+    "reliefs_granted": [
+      "Relief 1",
+      "Relief 2"
+    ],
+    "reliefs_refused": [],
+    "reliefs_struck_out": [
+      "Relief 4",
+      "Relief 5",
+      "Relief 6"
+    ],
+    "reliefs_dismissed": [],
+    "damages": [
+      {
+        "type": "Salary in lieu of notice",
+        "amount": "541,642.22",
+        "currency": "NGN",
+        "recipient": "Joseph Chidubem Nwachukwu"
+      }
+    ],
+    "compensation": [],
+    "costs": {
+      "awarded": true,
+      "amount": "20,000",
+      "recipient": "Joseph Chidubem Nwachukwu",
+      "details": "Cost payable by defendant to claimant."
+    },
+    "interest": {
+      "awarded": false,
+      "rate": "",
+      "start_date": "",
+      "end_date": "",
+      "basis": ""
+    },
+    "compliance_deadline": "30 days from judgment date",
+    "declarations": [
+      "Summary dismissal is wrongful, null and void."
+    ],
+    "injunctions": [],
+    "specific_orders": [
+      "Summary dismissal changed to termination.",
+      "Payment of N541,642.22 as one month's salary in lieu of notice."
+    ],
+    "final_disposition": "Claim partially succeeded. Judgment entered accordingly."
+  },
+  "legal_knowledge": {
+    "holdings": [
+      "Summary dismissal without compliance with disciplinary procedure in collective agreement is null and void.",
+      "Employer need not state reasons for termination or dismissal.",
+      "Collective agreement incorporated into contract of employment is binding.",
+      "Unchallenged evidence requires minimal proof.",
+      "Dismissal carries infamy and deprives terminal benefits; termination does not."
+    ],
+    "legal_principles": [
+      "Compliance with disciplinary procedure in collective agreement is mandatory.",
+      "Employer's duty to state reasons for dismissal is not required by law.",
+      "Unchallenged evidence requires minimal proof.",
+      "Collective agreement incorporated into contract is binding.",
+      "Dismissal vs termination distinction."
+    ],
+    "ratio_decidendi": [
+      "Failure to comply with disciplinary procedure in collective agreement renders dismissal null and void.",
+      "Entitlement to notice period is governed by express terms of collective agreement."
+    ],
+    "obiter_dicta": [
+      "Dismissal carries infamy and unflattering opprobrium, depriving terminal benefits."
+    ],
+    "causes_of_action": [
+      "Wrongful summary dismissal",
+      "Breach of collective agreement"
+    ],
+    "legal_issues": [
+      "Whether summary dismissal was wrongful.",
+      "Whether dismissal should be converted to termination.",
+      "Whether claimant entitled to 3 months' salary in lieu of notice."
+    ],
+    "practice_areas": [
+      "Employment Law",
+      "Labour Law"
+    ],
+    "sub_practice_areas": [
+      "Wrongful Dismissal",
+      "Collective Agreements",
+      "Terminal Benefits"
+    ],
+    "legal_concepts": [
+      "Summary Dismissal",
+      "Termination",
+      "Collective Agreement",
+      "Disciplinary Procedure",
+      "Minimal Evidence Rule",
+      "Check-off Dues"
+    ],
+    "doctrines": [
+      "Incorporation of collective agreement into contract of employment",
+      "Minimal evidential rule"
+    ],
+    "remedies": [
+      "Declaration",
+      "Conversion of dismissal to termination",
+      "Damages (salary in lieu of notice)",
+      "Costs"
+    ],
+    "employment_law_topics": [
+      "Wrongful Dismissal",
+      "Collective Bargaining Agreement",
+      "Disciplinary Procedure",
+      "Notice Period",
+      "Terminal Benefits"
+    ],
+    "jurisdictional_issues": []
+  },
+  "retrieval": {
+    "keywords": [
+      "summary dismissal",
+      "wrongful dismissal",
+      "collective agreement",
+      "ASSBIFI",
+      "Mainstreet Bank",
+      "National Industrial Court",
+      "terminal benefits",
+      "salary in lieu of notice",
+      "disciplinary procedure",
+      "query"
+    ],
+    "searchable_concepts": [
+      "Wrongful summary dismissal",
+      "Breach of collective agreement",
+      "Conversion of dismissal to termination",
+      "Minimal evidence rule",
+      "Check-off dues membership"
+    ],
+    "semantic_topics": [
+      "Employment law",
+      "Labour law",
+      "Wrongful dismissal",
+      "Collective agreements",
+      "Disciplinary procedures"
+    ],
+    "legal_entities": [
+      "Joseph Chidubem Nwachukwu",
+      "Mainstreet Bank Limited",
+      "ASSBIFI",
+      "NEABIA",
+      "National Industrial Court"
+    ],
+    "statutes_referenced": [
+      "National Industrial Court (NIC) Act 2006",
+      "Evidence Act 2011",
+      "NIC Rules 2007"
+    ],
+    "cases_referenced": [
+      "Ihezukwu v. University of Jos",
+      "ACB Plc v. Nbisike",
+      "J. A. Irem v. Obubra District Counsel",
+      "Jombo v. PEFMB",
+      "Habu v. NUT Taraba State",
+      "Andrew Monye v. Ecobank Nigeria Plc",
+      "Industrial Cartons Ltd v. NUPAPPW",
+      "Oguejiofor v. Siemens Ltd",
+      "Kosile v. Folarin",
+      "Nigerian Bottling Company Plc v. Abubakar"
+    ],
+    "citation_phrases": [
+      "[1990] 4 NWLR (Pt. 146) 598 SC",
+      "[1995] 8 NWLR (Pt. 416) 725 CA",
+      "[1960] 5 FSC 24",
+      "[2005] 14 NWLR (Pt. 945) 443 SC",
+      "[2005] 4 FWLR (Pt. 283) 646",
+      "[2006] 6 NLLR (Pt. 15) 258",
+      "[2008] 2 NWLR (Pt. 1071) 283",
+      "[1961] 2 SCNLR 233",
+      "[2006] 16 WRN 175"
+    ],
+    "fact_patterns": [
+      "Employee summarily dismissed without query or opportunity to defend",
+      "Collective agreement incorporated into contract of employment",
+      "Defendant absent at trial",
+      "Unchallenged evidence"
+    ],
+    "relief_types": [
+      "Declaration",
+      "Order for conversion",
+      "Damages",
+      "Payment of terminal benefits",
+      "Payment of pension"
+    ],
+    "decision_types": [
+      "Partial success",
+      "Declaration granted",
+      "Order granted",
+      "Reliefs struck out"
+    ]
+  },
+  "graph_rag": {
+    "entities": [
+      {
+        "name": "Joseph Chidubem Nwachukwu",
+        "type": "Person"
+      },
+      {
+        "name": "Mainstreet Bank Limited",
+        "type": "Organization"
+      },
+      {
+        "name": "ASSBIFI",
+        "type": "Trade Union"
+      },
+      {
+        "name": "NEABIA",
+        "type": "Employers Association"
+      },
+      {
+        "name": "National Industrial Court",
+        "type": "Court"
+      },
+      {
+        "name": "Trustfund",
+        "type": "Pension Fund Administrator"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Joseph Chidubem Nwachukwu",
+        "relationship": "employed by",
+        "target": "Mainstreet Bank Limited",
+        "evidence": "Letter of appointment Exhibit A"
+      },
+      {
+        "source": "Joseph Chidubem Nwachukwu",
+        "relationship": "member of",
+        "target": "ASSBIFI",
+        "evidence": "Pay-slips Exhibits I, J, K, L"
+      },
+      {
+        "source": "Mainstreet Bank Limited",
+        "relationship": "member of",
+        "target": "NEABIA",
+        "evidence": "Collective agreement Exhibit D"
+      },
+      {
+        "source": "Joseph Chidubem Nwachukwu",
+        "relationship": "summarily dismissed by",
+        "target": "Mainstreet Bank Limited",
+        "evidence": "Exhibit G"
+      }
+    ],
+    "case_relationships": [
+      {
+        "case": "Ihezukwu v. University of Jos",
+        "citation": "[1990] 4 NWLR (Pt. 146) 598 SC",
+        "relationship": "Followed",
+        "context": "Employer need not state reasons for dismissal."
+      },
+      {
+        "case": "Oguejiofor v. Siemens Ltd",
+        "citation": "[2008] 2 NWLR (Pt. 1071) 283",
+        "relationship": "Followed",
+        "context": "Collective agreement incorporated into contract is binding."
+      }
+    ],
+    "statute_relationships": [
+      {
+        "statute": "National Industrial Court (NIC) Act 2006",
+        "provision": "Section 19(d)",
+        "relationship": "Applied",
+        "context": "Award of compensation."
+      },
+      {
+        "statute": "Evidence Act 2011",
+        "provision": "Section 133(4)",
+        "relationship": "Applied",
+        "context": "Burden of proof."
+      }
+    ],
+    "legal_principle_relationships": [
+      {
+        "principle": "Compliance with disciplinary procedure in collective agreement",
+        "case": "Oguejiofor v. Siemens Ltd",
+        "relationship": "Supported by"
+      },
+      {
+        "principle": "Employer need not state reasons for dismissal",
+        "case": "Ihezukwu v. University of Jos",
+        "relationship": "Supported by"
+      }
+    ]
+  },
+  "citation_network": {
+    "authorities_cited": [
+      "Ihezukwu v. University of Jos [1990] 4 NWLR (Pt. 146) 598 SC",
+      "ACB Plc v. Nbisike [1995] 8 NWLR (Pt. 416) 725 CA",
+      "J. A. Irem v. Obubra District Counsel [1960] 5 FSC 24",
+      "Jombo v. PEFMB [2005] 14 NWLR (Pt. 945) 443 SC",
+      "Habu v. NUT Taraba State [2005] 4 FWLR (Pt. 283) 646",
+      "Andrew Monye v. Ecobank Nigeria Plc unreported Suit No. NIC/LA/06/2010",
+      "Industrial Cartons Ltd v. NUPAPPW [2006] 6 NLLR (Pt. 15) 258",
+      "Oguejiofor v. Siemens Ltd [2008] 2 NWLR (Pt. 1071) 283",
+      "Kosile v. Folarin [1961] 2 SCNLR 233",
+      "Nigerian Bottling Company Plc v. Abubakar [2006] 16 WRN 175",
+      "The Registered Trustees of the Planned Parenthood Federation of Nigeria v. Dr. Jimmy Shogbola [2005] 1 WRN 15",
+      "Tomlirison v. Lmssr [1944] 1 All ER 537",
+      "Attorney General, Osun State v. Nigeria Labour Congress (Osun State Council) & ors unreported Suit No. NICN/LA/275/2012",
+      "Mr. Lawrence Azenabor v. Bayero University, Kano [2011] 25 NLLR (Pt. 70) 45 CA",
+      "Ogunyade v. Oshunkeye [2007] 4 NWLR (Pt. 1057) 218 SC"
+    ],
+    "authorities_followed": [
+      "Ihezukwu v. University of Jos",
+      "ACB Plc v. Nbisike",
+      "J. A. Irem v. Obubra District Counsel",
+      "Jombo v. PEFMB",
+      "Habu v. NUT Taraba State",
+      "Andrew Monye v. Ecobank Nigeria Plc",
+      "Industrial Cartons Ltd v. NUPAPPW",
+      "Oguejiofor v. Siemens Ltd",
+      "Kosile v. Folarin",
+      "Nigerian Bottling Company Plc v. Abubakar"
+    ],
+    "authorities_distinguished": [],
+    "authorities_rejected": [],
+    "authorities_overruled": [],
+    "authorities_relied_upon": [
+      "Ihezukwu v. University of Jos",
+      "Oguejiofor v. Siemens Ltd",
+      "Habu v. NUT Taraba State",
+      "J. A. Irem v. Obubra District Counsel",
+      "Jombo v. PEFMB"
+    ]
+  },
+  "metadata_quality": {
+    "extraction_confidence": 0.95,
+    "fields_missing": [],
+    "fields_uncertain": [],
+    "requires_review": false,
+    "review_reasons": [],
+    "source_completeness": "complete",
+    "ai_extraction_model": "deepseek-chat",
+    "prompt_version": "nicn-v3.2-single-call",
+    "extracted_at": "2026-10-02T11:08:40.499903+00:00"
+  }
+}

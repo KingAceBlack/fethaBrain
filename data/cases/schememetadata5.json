@@ -1,0 +1,652 @@
+{
+  "schema_version": "nicn-ai-metadata-v3.2",
+  "source": {
+    "court": "National Industrial Court of Nigeria",
+    "jurisdiction": "Nigeria",
+    "source_url": "",
+    "source_id": "740",
+    "document_id": "740",
+    "file_name": "full_text.txt",
+    "downloaded_at": "",
+    "document_type": "judgment",
+    "language": "English",
+    "pages": null,
+    "word_count": 1071,
+    "extraction_status": "complete",
+    "completeness_confidence": "HIGH"
+  },
+  "case": {
+    "title": "Engr. Soibi Dede (PHD) v. National Office for Technology Acquisition and Promotion (NOTAP) and Others",
+    "case_number": "NICN/ABJ/192m/2014",
+    "court": "National Industrial Court of Nigeria",
+    "judicial_division": "Abuja",
+    "judge": "Hon. Justice P.O Lifu (JP)",
+    "judgment_date": "2014-11-17",
+    "year": 2014,
+    "claimants": [
+      "Engr. Soibi Dede (PHD)"
+    ],
+    "defendants": [
+      "National Office for Technology Acquisition and Promotion (NOTAP) and Others"
+    ],
+    "appellants": [],
+    "respondents": [],
+    "applicants": [],
+    "interested_parties": [],
+    "counsel": [
+      {
+        "name": "Micheal Eleyinmi",
+        "represents": "Claimant/Respondent"
+      },
+      {
+        "name": "C. I. Okpoko",
+        "represents": "Defendant/Applicant"
+      }
+    ]
+  },
+  "procedural_history": {
+    "originating_proceedings": "Motion on notice brought pursuant to Order II Rule 10 and Order 30 (1) of the National Industrial Court (NIC) Rules 2007 and under the inherent jurisdiction of the court, seeking stay of execution of judgment delivered on 20th May 2014 pending appeal.",
+    "procedural_posture": "Ruling on application for stay of execution and oral application to withdraw same.",
+    "previous_decisions": [
+      "Judgment delivered by this court on 20th May 2014."
+    ],
+    "interlocutory_applications": [
+      "Motion on notice for stay of execution dated and filed 9th July 2014.",
+      "Oral application to withdraw the motion for stay of execution made on 20th October 2014."
+    ],
+    "appeals": [
+      "Appeal lodged against the judgment of 20th May 2014, entered at the Court of Appeal, record compiled and transmitted, briefs filed and exchanged."
+    ],
+    "orders_before_trial": [],
+    "procedural_events": [
+      "29th September 2014: Claimant/Respondent filed counter affidavit.",
+      "20th October 2014: Application came up for hearing; Defendant/Applicant sought orally to withdraw the application.",
+      "17th November 2014: Ruling delivered dismissing the application."
+    ]
+  },
+  "facts": {
+    "material_facts": [
+      "The defendant/applicant filed a motion for stay of execution of the judgment of 20th May 2014 pending appeal.",
+      "The claimant/respondent filed a counter affidavit and written address.",
+      "On the hearing date, the defendant/applicant made an oral application to withdraw the motion on the ground that the Court of Appeal is seized of the matter.",
+      "A similar application for stay is pending before the Court of Appeal.",
+      "The appeal has been entered, record compiled and transmitted, and briefs exchanged."
+    ],
+    "chronology": [
+      {
+        "date": "2014-05-20",
+        "event": "Judgment delivered by the National Industrial Court."
+      },
+      {
+        "date": "2014-07-09",
+        "event": "Defendant/Applicant filed motion on notice for stay of execution."
+      },
+      {
+        "date": "2014-09-29",
+        "event": "Claimant/Respondent filed counter affidavit."
+      },
+      {
+        "date": "2014-10-20",
+        "event": "Hearing; Defendant/Applicant sought to withdraw application orally."
+      },
+      {
+        "date": "2014-11-17",
+        "event": "Ruling delivered dismissing the application."
+      }
+    ],
+    "admitted_facts": [
+      "Both parties agree that the appeal is pending at the Court of Appeal.",
+      "Both parties agree that a similar application for stay is already filed before the Court of Appeal."
+    ],
+    "disputed_facts": [],
+    "background_facts": [],
+    "employment_relationship": "",
+    "contractual_relationship": "",
+    "documentary_evidence": [],
+    "witness_evidence": []
+  },
+  "claims_and_reliefs": {
+    "causes_of_action": [],
+    "claims": [],
+    "reliefs_sought": [
+      {
+        "relief_number": "1",
+        "relief": "An order staying the execution of the judgment delivered by this court on the 20th of May 2014 pending the hearing and determination of the appeal lodged against the said judgment.",
+        "category": "stay of execution"
+      }
+    ],
+    "issues_for_determination": [
+      {
+        "issue_number": "1",
+        "issue": "Whether the application for stay of execution should be dismissed as an abuse of court process given the pendency of a similar application before the Court of Appeal.",
+        "raised_by": "Court"
+      }
+    ],
+    "questions_of_law": []
+  },
+  "arguments": {
+    "claimant_arguments": [
+      "The oral application for withdrawal should be opposed; the application should be dismissed as it constitutes an abuse of court process.",
+      "The counter affidavit filed by the claimant engendered the withdrawal because the defendant saw that the application has no merit.",
+      "Filing the same application for stay at the Court of Appeal makes the one in this court a gross abuse of the process of the court.",
+      "Since the two applications pending in this court and the Court of Appeal are in respect of the same right, the process should be dismissed and not struck out."
+    ],
+    "defendant_arguments": [
+      "The application should be withdrawn orally on the ground that the Court of Appeal being seized of the matter has robbed this court of jurisdiction to entertain the application.",
+      "The conditions of appeal have been met, the appeal duly entered, record compiled and transmitted, and briefs of argument filed and exchanged.",
+      "Since the application for stay is now pending at the Court of Appeal, this court has no jurisdiction any longer."
+    ],
+    "appellant_arguments": [],
+    "respondent_arguments": [],
+    "submissions": [],
+    "party_authorities": [
+      {
+        "party": "Claimant/Respondent",
+        "authority": "Anah Vs. Anah 2009 9 NWLR Pt 1091 75 at 83 at paragraph H",
+        "proposition": "Abuse of court process."
+      },
+      {
+        "party": "Claimant/Respondent",
+        "authority": "Eleburuke Vs. Tawa 2010 LEPLR 40 at 98",
+        "proposition": "Abuse of court process."
+      },
+      {
+        "party": "Claimant/Respondent",
+        "authority": "Arupo Vs. Aiyeleru 1993 2 SCNJ 104",
+        "proposition": "Abuse of court process."
+      },
+      {
+        "party": "Defendant/Applicant",
+        "authority": "Mohammed Vs. Useni 1998 2 NWLR Pt. 584 at 141",
+        "proposition": "Jurisdiction of court."
+      },
+      {
+        "party": "Defendant/Applicant",
+        "authority": "Mohammed Vs. Olawuni 1998 4 NWLR Pt. 287 P. 208 at 283",
+        "proposition": "Jurisdiction of court."
+      }
+    ]
+  },
+  "evidence": {
+    "exhibits": [],
+    "witnesses": [],
+    "documentary_evidence": [],
+    "oral_evidence": [],
+    "expert_evidence": [],
+    "evidential_findings": []
+  },
+  "judicial_analysis": {
+    "findings_of_fact": [
+      {
+        "issue": "Abuse of court process",
+        "finding": "The application before the court is an abuse of court process because a similar application is pending before the Court of Appeal."
+      }
+    ],
+    "findings_of_law": [
+      {
+        "issue": "Jurisdiction",
+        "finding": "The court lacks jurisdiction to entertain the application for stay of execution since a similar application is pending before the Court of Appeal."
+      },
+      {
+        "issue": "Abuse of court process",
+        "finding": "Where a proceeding is an abuse of process, the court has the right to invoke its coercive powers to punish the party by dismissing or striking out the offensive process."
+      }
+    ],
+    "reasoning": "The court reasoned that the pendency of a similar application before the Court of Appeal robs it of jurisdiction. It found that the application constituted an abuse of court process and that the appropriate order was dismissal rather than striking out, given that issues had been joined and the respondent had reacted to the process.",
+    "issue_analysis": [
+      {
+        "issue_number": "1",
+        "issue": "Whether the application for stay of execution should be dismissed as an abuse of court process given the pendency of a similar application before the Court of Appeal.",
+        "arguments": {
+          "claimant": "The application should be dismissed as an abuse of court process; the filing of the same application at the Court of Appeal makes the one in this court a gross abuse of process.",
+          "defendant": "The application should be withdrawn because the Court of Appeal is seized of the matter and this court lacks jurisdiction."
+        },
+        "judicial_analysis": "The court considered the submissions and authorities. It noted that both parties agree that the appeal is pending and a similar application for stay is before the Court of Appeal. It held that this constitutes an abuse of court process and that the court lacks jurisdiction. The court cited Ekudano Vs. Keregbe on the court's discretion to dismiss or strike out, and found that dismissal was appropriate in the circumstances.",
+        "holding": "The application is dismissed as an abuse of court process.",
+        "ratio_decidendi": "Where a similar application for stay of execution is pending before the Court of Appeal, the National Industrial Court lacks jurisdiction to entertain the application and it constitutes an abuse of court process, warranting dismissal.",
+        "result": "Application dismissed."
+      }
+    ],
+    "holdings": [
+      {
+        "issue_number": "1",
+        "issue": "Whether the application for stay of execution should be dismissed as an abuse of court process given the pendency of a similar application before the Court of Appeal.",
+        "holding": "The application is dismissed as an abuse of court process.",
+        "result": "Dismissed."
+      }
+    ],
+    "ratio_decidendi": [
+      {
+        "issue": "Abuse of court process and jurisdiction",
+        "principle": "Filing a similar application for stay of execution in the National Industrial Court while a similar application is pending before the Court of Appeal constitutes an abuse of court process and deprives the National Industrial Court of jurisdiction.",
+        "application": "The defendant/applicant filed a motion for stay of execution in the National Industrial Court while a similar application was pending before the Court of Appeal. The court applied the principle and dismissed the application.",
+        "holding": "Application dismissed."
+      }
+    ],
+    "obiter_dicta": [],
+    "legal_principles": [
+      {
+        "principle": "Abuse of court process",
+        "context": "Multiplicity of court processes on the same subject matter before one or more courts of competent jurisdiction and between parties.",
+        "source": "Hon. Commissioner for Education Vs. Professor Lawrence Amadi LER (2013) SC 56/2012"
+      },
+      {
+        "principle": "Court's power to punish abuse of process",
+        "context": "Where a court is satisfied that a proceeding before it is an abuse of process, it has the right to invoke its coercive powers to punish the party by dismissing or striking out the offensive process.",
+        "source": "Ikine Vs. Edjerode 2001 8 NSCQR 342 at 382 – 884"
+      },
+      {
+        "principle": "Discontinuance after hearing date",
+        "context": "Where a request for discontinuance is made after the date fixed for hearing, the plaintiff may discontinue only with leave of court and subject to conditions; the court may strike out or dismiss.",
+        "source": "Ekudano Vs. Keregbe 2008 All FWLR Pt. 405 1641 paragraph A-B"
+      }
+    ],
+    "statutory_interpretation": [],
+    "constitutional_analysis": [],
+    "precedent_analysis": [
+      {
+        "authority": "Hon. Commissioner for Education Vs. Professor Lawrence Amadi",
+        "citation": "LER (2013) SC 56/2012",
+        "treatment": "followed",
+        "proposition": "Abuse of court process is condemnable.",
+        "reasoning": "The court cited this case to support its finding that the application was an abuse of process."
+      },
+      {
+        "authority": "Ikine Vs. Edjerode",
+        "citation": "2001 8 NSCQR 342 at 382 – 884",
+        "treatment": "followed",
+        "proposition": "Court can dismiss or strike out an abuse of process.",
+        "reasoning": "The court relied on this case to justify dismissing the application."
+      },
+      {
+        "authority": "Ekudano Vs. Keregbe",
+        "citation": "2008 All FWLR Pt. 405 1641 paragraph A-B",
+        "treatment": "followed",
+        "proposition": "Discretion to dismiss or strike out after hearing date.",
+        "reasoning": "The court applied this principle to dismiss the application."
+      }
+    ],
+    "evidential_findings": [],
+    "judicial_observations": []
+  },
+  "authorities": {
+    "cases_cited": [
+      {
+        "case_name": "Anah Vs. Anah",
+        "citation": "2009 9 NWLR Pt 1091 75 at 83 at paragraph H",
+        "court": "",
+        "year": 2009,
+        "proposition": "Abuse of court process.",
+        "treatment": "",
+        "cited_by": "Claimant/Respondent",
+        "importance": ""
+      },
+      {
+        "case_name": "Eleburuke Vs. Tawa",
+        "citation": "2010 LEPLR 40 at 98",
+        "court": "",
+        "year": 2010,
+        "proposition": "Abuse of court process.",
+        "treatment": "",
+        "cited_by": "Claimant/Respondent",
+        "importance": ""
+      },
+      {
+        "case_name": "Arupo Vs. Aiyeleru",
+        "citation": "1993 2 SCNJ 104",
+        "court": "",
+        "year": 1993,
+        "proposition": "Abuse of court process.",
+        "treatment": "",
+        "cited_by": "Claimant/Respondent",
+        "importance": ""
+      },
+      {
+        "case_name": "Mohammed Vs. Useni",
+        "citation": "1998 2 NWLR Pt. 584 at 141",
+        "court": "",
+        "year": 1998,
+        "proposition": "Jurisdiction of court.",
+        "treatment": "",
+        "cited_by": "Defendant/Applicant",
+        "importance": ""
+      },
+      {
+        "case_name": "Mohammed Vs. Olawuni",
+        "citation": "1998 4 NWLR Pt. 287 P. 208 at 283",
+        "court": "",
+        "year": 1998,
+        "proposition": "Jurisdiction of court.",
+        "treatment": "",
+        "cited_by": "Defendant/Applicant",
+        "importance": ""
+      },
+      {
+        "case_name": "Hon. Commissioner for Education Vs. Professor Lawrence Amadi",
+        "citation": "LER (2013) SC 56/2012",
+        "court": "Supreme Court",
+        "year": 2013,
+        "proposition": "Abuse of court process is condemnable.",
+        "treatment": "followed",
+        "cited_by": "Court",
+        "importance": ""
+      },
+      {
+        "case_name": "Ikine Vs. Edjerode",
+        "citation": "2001 8 NSCQR 342 at 382 – 884",
+        "court": "",
+        "year": 2001,
+        "proposition": "Court can dismiss or strike out an abuse of process.",
+        "treatment": "followed",
+        "cited_by": "Court",
+        "importance": ""
+      },
+      {
+        "case_name": "Ekudano Vs. Keregbe",
+        "citation": "2008 All FWLR Pt. 405 1641 paragraph A-B",
+        "court": "",
+        "year": 2008,
+        "proposition": "Discretion to dismiss or strike out after hearing date.",
+        "treatment": "followed",
+        "cited_by": "Court",
+        "importance": ""
+      }
+    ],
+    "statutes": [],
+    "constitutional_provisions": [],
+    "regulations": [],
+    "rules": [
+      {
+        "name": "National Industrial Court (NIC) Rules 2007",
+        "provision": "Order II Rule 10",
+        "proposition": "Basis for application."
+      },
+      {
+        "name": "National Industrial Court (NIC) Rules 2007",
+        "provision": "Order 30 (1)",
+        "proposition": "Basis for application."
+      }
+    ],
+    "international_instruments": [],
+    "other_authorities": []
+  },
+  "precedent_relationships": [
+    {
+      "authority": "Hon. Commissioner for Education Vs. Professor Lawrence Amadi",
+      "citation": "LER (2013) SC 56/2012",
+      "relationship": "followed",
+      "proposition": "Abuse of court process is condemnable.",
+      "context": "Court relied on this case to condemn the abuse of process."
+    },
+    {
+      "authority": "Ikine Vs. Edjerode",
+      "citation": "2001 8 NSCQR 342 at 382 – 884",
+      "relationship": "followed",
+      "proposition": "Court can dismiss or strike out an abuse of process.",
+      "context": "Court relied on this case to dismiss the application."
+    },
+    {
+      "authority": "Ekudano Vs. Keregbe",
+      "citation": "2008 All FWLR Pt. 405 1641 paragraph A-B",
+      "relationship": "followed",
+      "proposition": "Discretion to dismiss or strike out after hearing date.",
+      "context": "Court applied this principle to dismiss the application."
+    }
+  ],
+  "outcome": {
+    "decision": "Application dismissed.",
+    "overall_result": "Dismissed",
+    "orders": [
+      "Application dismissed.",
+      "No order as to cost."
+    ],
+    "reliefs": [
+      {
+        "relief_number": "1",
+        "relief": "An order staying the execution of the judgment delivered by this court on the 20th of May 2014 pending the hearing and determination of the appeal lodged against the said judgment.",
+        "result": "Dismissed",
+        "reason": "Abuse of court process and lack of jurisdiction due to pending similar application at the Court of Appeal."
+      }
+    ],
+    "reliefs_granted": [],
+    "reliefs_refused": [],
+    "reliefs_struck_out": [],
+    "reliefs_dismissed": [
+      "Stay of execution"
+    ],
+    "damages": [],
+    "compensation": [],
+    "costs": {
+      "awarded": false,
+      "amount": "",
+      "recipient": "",
+      "details": "No order as to cost."
+    },
+    "interest": {
+      "awarded": false,
+      "rate": "",
+      "start_date": "",
+      "end_date": "",
+      "basis": ""
+    },
+    "compliance_deadline": "",
+    "declarations": [],
+    "injunctions": [],
+    "specific_orders": [],
+    "final_disposition": "Application dismissed."
+  },
+  "legal_knowledge": {
+    "holdings": [
+      "Application for stay of execution dismissed as abuse of court process."
+    ],
+    "legal_principles": [
+      "Abuse of court process",
+      "Jurisdiction",
+      "Discretion to dismiss or strike out"
+    ],
+    "ratio_decidendi": [
+      "Filing a similar application for stay of execution in the National Industrial Court while a similar application is pending before the Court of Appeal constitutes an abuse of court process and deprives the National Industrial Court of jurisdiction."
+    ],
+    "obiter_dicta": [],
+    "causes_of_action": [],
+    "legal_issues": [
+      "Abuse of court process",
+      "Jurisdiction"
+    ],
+    "practice_areas": [
+      "Civil Procedure",
+      "Employment Law"
+    ],
+    "sub_practice_areas": [
+      "Stay of Execution",
+      "Appeals"
+    ],
+    "legal_concepts": [
+      "Abuse of court process",
+      "Jurisdiction",
+      "Stay of execution"
+    ],
+    "doctrines": [
+      "Abuse of court process"
+    ],
+    "remedies": [
+      "Stay of execution"
+    ],
+    "employment_law_topics": [],
+    "jurisdictional_issues": [
+      "Lack of jurisdiction due to pending similar application at Court of Appeal"
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "stay of execution",
+      "abuse of court process",
+      "jurisdiction",
+      "Court of Appeal",
+      "National Industrial Court",
+      "withdrawal",
+      "dismissal"
+    ],
+    "searchable_concepts": [
+      "abuse of court process",
+      "stay of execution pending appeal",
+      "jurisdiction of National Industrial Court",
+      "multiplicity of applications"
+    ],
+    "semantic_topics": [
+      "Civil Procedure",
+      "Appeals",
+      "Stay of Execution"
+    ],
+    "legal_entities": [
+      "National Industrial Court",
+      "Court of Appeal",
+      "Engr. Soibi Dede",
+      "NOTAP"
+    ],
+    "statutes_referenced": [],
+    "cases_referenced": [
+      "Anah Vs. Anah",
+      "Eleburuke Vs. Tawa",
+      "Arupo Vs. Aiyeleru",
+      "Mohammed Vs. Useni",
+      "Mohammed Vs. Olawuni",
+      "Hon. Commissioner for Education Vs. Professor Lawrence Amadi",
+      "Ikine Vs. Edjerode",
+      "Ekudano Vs. Keregbe"
+    ],
+    "citation_phrases": [
+      "2009 9 NWLR Pt 1091 75",
+      "2010 LEPLR 40",
+      "1993 2 SCNJ 104",
+      "1998 2 NWLR Pt. 584",
+      "1998 4 NWLR Pt. 287",
+      "LER (2013) SC 56/2012",
+      "2001 8 NSCQR 342",
+      "2008 All FWLR Pt. 405 1641"
+    ],
+    "fact_patterns": [
+      "Application for stay of execution filed in NIC while similar application pending at Court of Appeal",
+      "Oral application to withdraw motion after hearing date"
+    ],
+    "relief_types": [
+      "Stay of execution"
+    ],
+    "decision_types": [
+      "Dismissal"
+    ]
+  },
+  "graph_rag": {
+    "entities": [
+      {
+        "name": "Engr. Soibi Dede (PHD)",
+        "type": "Person"
+      },
+      {
+        "name": "National Office for Technology Acquisition and Promotion (NOTAP)",
+        "type": "Organization"
+      },
+      {
+        "name": "National Industrial Court of Nigeria",
+        "type": "Court"
+      },
+      {
+        "name": "Court of Appeal",
+        "type": "Court"
+      },
+      {
+        "name": "Hon. Justice P.O Lifu (JP)",
+        "type": "Judge"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Engr. Soibi Dede (PHD)",
+        "relationship": "claimant in",
+        "target": "National Industrial Court of Nigeria",
+        "evidence": "Suit No: NICN/ABJ/192m/2014"
+      },
+      {
+        "source": "National Office for Technology Acquisition and Promotion (NOTAP)",
+        "relationship": "defendant in",
+        "target": "National Industrial Court of Nigeria",
+        "evidence": "Suit No: NICN/ABJ/192m/2014"
+      },
+      {
+        "source": "National Industrial Court of Nigeria",
+        "relationship": "dismissed application for",
+        "target": "Stay of execution",
+        "evidence": "Ruling delivered on 17th November 2014"
+      }
+    ],
+    "case_relationships": [
+      {
+        "case": "Hon. Commissioner for Education Vs. Professor Lawrence Amadi",
+        "citation": "LER (2013) SC 56/2012",
+        "relationship": "followed",
+        "context": "Abuse of court process"
+      },
+      {
+        "case": "Ikine Vs. Edjerode",
+        "citation": "2001 8 NSCQR 342",
+        "relationship": "followed",
+        "context": "Dismissal for abuse of process"
+      },
+      {
+        "case": "Ekudano Vs. Keregbe",
+        "citation": "2008 All FWLR Pt. 405 1641",
+        "relationship": "followed",
+        "context": "Discretion to dismiss"
+      }
+    ],
+    "statute_relationships": [],
+    "legal_principle_relationships": [
+      {
+        "principle": "Abuse of court process",
+        "case": "Hon. Commissioner for Education Vs. Professor Lawrence Amadi",
+        "relationship": "supported by"
+      },
+      {
+        "principle": "Court's power to dismiss abuse of process",
+        "case": "Ikine Vs. Edjerode",
+        "relationship": "supported by"
+      }
+    ]
+  },
+  "citation_network": {
+    "authorities_cited": [
+      "Anah Vs. Anah",
+      "Eleburuke Vs. Tawa",
+      "Arupo Vs. Aiyeleru",
+      "Mohammed Vs. Useni",
+      "Mohammed Vs. Olawuni",
+      "Hon. Commissioner for Education Vs. Professor Lawrence Amadi",
+      "Ikine Vs. Edjerode",
+      "Ekudano Vs. Keregbe"
+    ],
+    "authorities_followed": [
+      "Hon. Commissioner for Education Vs. Professor Lawrence Amadi",
+      "Ikine Vs. Edjerode",
+      "Ekudano Vs. Keregbe"
+    ],
+    "authorities_distinguished": [],
+    "authorities_rejected": [],
+    "authorities_overruled": [],
+    "authorities_relied_upon": [
+      "Hon. Commissioner for Education Vs. Professor Lawrence Amadi",
+      "Ikine Vs. Edjerode",
+      "Ekudano Vs. Keregbe"
+    ]
+  },
+  "metadata_quality": {
+    "extraction_confidence": 0.95,
+    "fields_missing": [],
+    "fields_uncertain": [],
+    "requires_review": false,
+    "review_reasons": [],
+    "source_completeness": "complete",
+    "ai_extraction_model": "deepseek-chat",
+    "prompt_version": "nicn-v3.2-single-call",
+    "extracted_at": "2026-10-02T11:07:12.671605+00:00"
+  }
+}

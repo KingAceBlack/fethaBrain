@@ -1,0 +1,679 @@
+{
+  "schema_version": "nicn-ai-metadata-v3.2",
+  "source": {
+    "court": "National Industrial Court of Nigeria",
+    "jurisdiction": "Nigeria",
+    "source_url": "",
+    "source_id": "485",
+    "document_id": "485",
+    "file_name": "full_text.txt",
+    "downloaded_at": "",
+    "document_type": "judgment",
+    "language": "English",
+    "pages": null,
+    "word_count": 884,
+    "extraction_status": "complete",
+    "completeness_confidence": "HIGH"
+  },
+  "case": {
+    "title": "Charles Nwaluno v. Independent National Electoral Commission",
+    "case_number": "NICN/EN/37/2014",
+    "court": "National Industrial Court of Nigeria",
+    "judicial_division": "Enugu",
+    "judge": "Hon. Justice A. Ibrahim",
+    "judgment_date": "2016-03-15",
+    "year": 2016,
+    "claimants": [
+      "Charles Nwaluno"
+    ],
+    "defendants": [
+      "Independent National Electoral Commission"
+    ],
+    "appellants": [],
+    "respondents": [],
+    "applicants": [],
+    "interested_parties": [],
+    "counsel": [
+      {
+        "name": "Benjamin Nduka Esq.",
+        "represents": "Claimant"
+      },
+      {
+        "name": "A. R. Agbo-Anike (Miss)",
+        "represents": "Defendant"
+      },
+      {
+        "name": "A. Y. Akintade (Miss)",
+        "represents": "Defendant"
+      }
+    ]
+  },
+  "procedural_history": {
+    "originating_proceedings": "Claimant filed suit on 20th May 2014 challenging termination of employment.",
+    "procedural_posture": "Defendant filed a notice of preliminary objection dated 5th November 2014, praying that the suit is statute barred.",
+    "previous_decisions": [],
+    "interlocutory_applications": [
+      "Notice of preliminary objection dated 5th November 2014 filed by the defendant."
+    ],
+    "appeals": [],
+    "orders_before_trial": [],
+    "procedural_events": [
+      "Defendant filed notice of preliminary objection on 5th November 2014.",
+      "Claimant filed a 16-paragraph counter-affidavit and written address in opposition.",
+      "Defendant filed reply on points of law."
+    ]
+  },
+  "facts": {
+    "material_facts": [
+      "Claimant was employed by the defendant.",
+      "Claimant's employment was terminated on 27th August 2009.",
+      "Claimant received letter of termination on 31st August 2009.",
+      "Claimant instituted suit on 20th May 2014."
+    ],
+    "chronology": [
+      {
+        "date": "2009-08-27",
+        "event": "Claimant's employment terminated by defendant."
+      },
+      {
+        "date": "2009-08-31",
+        "event": "Claimant received letter of termination."
+      },
+      {
+        "date": "2014-05-20",
+        "event": "Claimant filed suit at National Industrial Court."
+      },
+      {
+        "date": "2014-11-05",
+        "event": "Defendant filed notice of preliminary objection."
+      },
+      {
+        "date": "2016-03-15",
+        "event": "Judgment delivered dismissing suit as statute barred."
+      }
+    ],
+    "admitted_facts": [
+      "Cause of action arose on 31st August 2009.",
+      "Claimant's employment was terminated in August 2009."
+    ],
+    "disputed_facts": [
+      "Whether defendant acted in bad faith or outside colour of its authority."
+    ],
+    "background_facts": [
+      "Claimant was a staff of the defendant until termination."
+    ],
+    "employment_relationship": "Claimant was an employee of the defendant until termination on 27th August 2009.",
+    "contractual_relationship": "Employment relationship between claimant and defendant.",
+    "documentary_evidence": [
+      "Letter of termination received by claimant on 31st August 2009."
+    ],
+    "witness_evidence": []
+  },
+  "claims_and_reliefs": {
+    "causes_of_action": [
+      "Unlawful termination of employment."
+    ],
+    "claims": [
+      {
+        "claim": "Challenge of termination of employment.",
+        "legal_basis": "Employment contract and statutory rights.",
+        "claimant": "Charles Nwaluno",
+        "against": "Independent National Electoral Commission"
+      }
+    ],
+    "reliefs_sought": [],
+    "issues_for_determination": [
+      {
+        "issue_number": "1",
+        "issue": "Whether or not the suit is statute barred having been commenced outside the statutory period of three (3) months from the accrual of the cause of action.",
+        "raised_by": "Court"
+      }
+    ],
+    "questions_of_law": [
+      "Whether the suit is statute barred under section 2(a) of the Public Officers Protection Act."
+    ]
+  },
+  "arguments": {
+    "claimant_arguments": [
+      "Suit is not statute barred because defendant acted in bad faith, in abuse of office, and without semblance of legal justification.",
+      "Exceptions to statute of limitation based on continuing damage apply."
+    ],
+    "defendant_arguments": [
+      "Suit is statute barred as it was filed outside the three months period after the cause of action arose on 27th August 2009.",
+      "Claimant received termination letter on 31st August 2009 and filed suit on 20th May 2014, well outside the three-month period.",
+      "No evidence of bad faith or abuse of office by defendant."
+    ],
+    "appellant_arguments": [],
+    "respondent_arguments": [],
+    "submissions": [
+      "Defendant submitted that the suit is statute barred under section 2(a) of the Public Officers Protection Act.",
+      "Claimant submitted that the suit is not statute barred due to bad faith and abuse of office by defendant."
+    ],
+    "party_authorities": [
+      {
+        "party": "Defendant",
+        "authority": "EKEOGU vs. ALIRI (1991) 3 NWLR (pt. 175) 258 (SC)",
+        "proposition": "Support for statute barred argument."
+      },
+      {
+        "party": "Defendant",
+        "authority": "NEPA VS. OLAGUNJU (2005) 3 NWLR (Pt.913) 602",
+        "proposition": "Support for statute barred argument."
+      },
+      {
+        "party": "Defendant",
+        "authority": "NWANKWO BLESSING N. vs INEC (Unreported) Suit No. NICN AWK/04/2013",
+        "proposition": "Support for statute barred argument."
+      },
+      {
+        "party": "Claimant",
+        "authority": "HASSAN vs. ALIYU (2010) 17 NWLR (Pt 1223) 347 (SC)",
+        "proposition": "Support for exception to statute of limitation."
+      },
+      {
+        "party": "Claimant",
+        "authority": "NWANKWERE V. ADEWUNMI (1966) 1 ALL NLR W 134",
+        "proposition": "Support for exception to statute of limitation."
+      },
+      {
+        "party": "Claimant",
+        "authority": "IBRAHIM vs JSC, KADUNA STATE (1998) 14 NWLR (Pt. 584)",
+        "proposition": "Support for exception to statute of limitation."
+      }
+    ]
+  },
+  "evidence": {
+    "exhibits": [],
+    "witnesses": [],
+    "documentary_evidence": [
+      "Letter of termination dated 27th August 2009."
+    ],
+    "oral_evidence": [],
+    "expert_evidence": [],
+    "evidential_findings": [
+      {
+        "evidence": "Claimant's counter-affidavit and statement of claim.",
+        "finding": "No evidence of bad faith or abuse of office by defendant.",
+        "credibility": "Not credible to support exception."
+      }
+    ]
+  },
+  "judicial_analysis": {
+    "findings_of_fact": [
+      {
+        "issue": "Accrual of cause of action",
+        "finding": "Cause of action arose on 31st August 2009 when claimant received termination letter."
+      },
+      {
+        "issue": "Bad faith or abuse of office",
+        "finding": "No evidence that defendant acted in bad faith or outside colour of its authority."
+      }
+    ],
+    "findings_of_law": [
+      {
+        "issue": "Statute barred",
+        "finding": "Suit is statute barred under section 2(a) of the Public Officers Protection Act as it was filed more than three months after accrual of cause of action."
+      },
+      {
+        "issue": "Exception to statute of limitation",
+        "finding": "Exception based on continuing damage does not apply as termination is a completed act, not continuing."
+      }
+    ],
+    "reasoning": "The cause of action arose on 31st August 2009. The suit was filed on 20th May 2014, outside the three-month period stipulated by section 2(a) of the Public Officers Protection Act. The claimant failed to show that the defendant acted in bad faith or outside the colour of its authority. The exception for continuing damage does not apply because the termination was a completed act. Therefore, the suit is statute barred.",
+    "issue_analysis": [
+      {
+        "issue_number": "1",
+        "issue": "Whether or not the suit is statute barred having been commenced outside the statutory period of three (3) months from the accrual of the cause of action.",
+        "arguments": {
+          "claimant": "Suit is not statute barred because defendant acted in bad faith, in abuse of office, and without semblance of legal justification; exceptions based on continuing damage apply.",
+          "defendant": "Suit is statute barred as it was filed outside the three months period after the cause of action arose on 27th August 2009; no evidence of bad faith."
+        },
+        "judicial_analysis": "The parties agree that the cause of action arose on 31st August 2009. The claimant's counter-affidavit and claim do not show bad faith or abuse of office. The exception for continuing damage does not apply because termination is a completed act. The suit was filed on 20th May 2014, outside the three-month period.",
+        "holding": "Suit is statute barred.",
+        "ratio_decidendi": "An action against a public officer must be commenced within three months of the accrual of the cause of action unless the defendant acted in bad faith or outside the colour of its authority; termination of employment is a completed act, not a continuing damage.",
+        "result": "Suit dismissed."
+      }
+    ],
+    "holdings": [
+      {
+        "issue_number": "1",
+        "issue": "Whether or not the suit is statute barred",
+        "holding": "Suit is statute barred.",
+        "result": "Dismissed."
+      }
+    ],
+    "ratio_decidendi": [
+      {
+        "issue": "Statute barred",
+        "principle": "Actions against public officers must be filed within three months of accrual of cause of action unless bad faith or abuse of office is shown.",
+        "application": "Claimant filed suit more than three months after termination and failed to show bad faith.",
+        "holding": "Suit statute barred."
+      }
+    ],
+    "obiter_dicta": [],
+    "legal_principles": [
+      {
+        "principle": "Statute of limitation under Public Officers Protection Act.",
+        "context": "Action against public officer.",
+        "source": "Section 2(a) of the Public Officers Protection Act."
+      },
+      {
+        "principle": "Exception to statute of limitation for continuing damage.",
+        "context": "Employment termination.",
+        "source": "Case law."
+      }
+    ],
+    "statutory_interpretation": [
+      {
+        "statute": "Public Officers Protection Act Cap 379 LFN 1990",
+        "provision": "Section 2(a)",
+        "interpretation": "Actions must be filed within three months after accrual of cause of action.",
+        "application": "Claimant's suit filed outside three months, thus statute barred."
+      }
+    ],
+    "constitutional_analysis": [],
+    "precedent_analysis": [
+      {
+        "authority": "A-G RIVERS V. A-G BAYELSA & ANOR",
+        "citation": "(2012) LPELR – 9336 (SC)",
+        "treatment": "Relied upon",
+        "proposition": "Support for statute barred finding.",
+        "reasoning": "Applied to hold suit statute barred."
+      },
+      {
+        "authority": "BAUCHI STATE GOVT V. NPC & ANOR",
+        "citation": "2014 LPEAR – 2372a (CA)",
+        "treatment": "Relied upon",
+        "proposition": "Support for statute barred finding.",
+        "reasoning": "Applied to hold suit statute barred."
+      },
+      {
+        "authority": "AKWA IBOM STATE CIVIL SERVICE COMMISION & ORS VS. ANIEKAN WILSON AKPAN",
+        "citation": "(2013) LPELR – 22105 (CA)",
+        "treatment": "Relied upon",
+        "proposition": "Support for statute barred finding.",
+        "reasoning": "Applied to hold suit statute barred."
+      }
+    ],
+    "evidential_findings": [],
+    "judicial_observations": []
+  },
+  "authorities": {
+    "cases_cited": [
+      {
+        "case_name": "EKEOGU vs. ALIRI",
+        "citation": "(1991) 3 NWLR (pt. 175) 258 (SC)",
+        "court": "Supreme Court",
+        "year": 1991,
+        "proposition": "Support for statute barred argument.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Supporting authority."
+      },
+      {
+        "case_name": "NEPA VS. OLAGUNJU",
+        "citation": "(2005) 3 NWLR (Pt.913) 602",
+        "court": "",
+        "year": 2005,
+        "proposition": "Support for statute barred argument.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Supporting authority."
+      },
+      {
+        "case_name": "NWANKWO BLESSING N. vs INEC",
+        "citation": "Unreported Suit No. NICN AWK/04/2013",
+        "court": "National Industrial Court",
+        "year": 2014,
+        "proposition": "Support for statute barred argument.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Supporting authority."
+      },
+      {
+        "case_name": "HASSAN vs. ALIYU",
+        "citation": "(2010) 17 NWLR (Pt 1223) 347 (SC)",
+        "court": "Supreme Court",
+        "year": 2010,
+        "proposition": "Support for exception to statute of limitation.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting authority."
+      },
+      {
+        "case_name": "NWANKWERE V. ADEWUNMI",
+        "citation": "(1966) 1 ALL NLR W 134",
+        "court": "",
+        "year": 1966,
+        "proposition": "Support for exception to statute of limitation.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting authority."
+      },
+      {
+        "case_name": "IBRAHIM vs JSC, KADUNA STATE",
+        "citation": "(1998) 14 NWLR (Pt. 584)",
+        "court": "",
+        "year": 1998,
+        "proposition": "Support for exception to statute of limitation.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting authority."
+      },
+      {
+        "case_name": "A-G RIVERS V. A-G BAYELSA & ANOR",
+        "citation": "(2012) LPELR – 9336 (SC)",
+        "court": "Supreme Court",
+        "year": 2012,
+        "proposition": "Support for statute barred finding.",
+        "treatment": "Relied upon",
+        "cited_by": "Court",
+        "importance": "Key authority."
+      },
+      {
+        "case_name": "BAUCHI STATE GOVT V. NPC & ANOR",
+        "citation": "2014 LPEAR – 2372a (CA)",
+        "court": "Court of Appeal",
+        "year": 2014,
+        "proposition": "Support for statute barred finding.",
+        "treatment": "Relied upon",
+        "cited_by": "Court",
+        "importance": "Key authority."
+      },
+      {
+        "case_name": "AKWA IBOM STATE CIVIL SERVICE COMMISION & ORS VS. ANIEKAN WILSON AKPAN",
+        "citation": "(2013) LPELR – 22105 (CA)",
+        "court": "Court of Appeal",
+        "year": 2013,
+        "proposition": "Support for statute barred finding.",
+        "treatment": "Relied upon",
+        "cited_by": "Court",
+        "importance": "Key authority."
+      }
+    ],
+    "statutes": [
+      {
+        "name": "Public Officers Protection Act Cap 379 LFN 1990",
+        "provision": "Section 2(a)",
+        "proposition": "Actions must be filed within three months after accrual of cause of action."
+      }
+    ],
+    "constitutional_provisions": [],
+    "regulations": [],
+    "rules": [],
+    "international_instruments": [],
+    "other_authorities": []
+  },
+  "precedent_relationships": [
+    {
+      "authority": "A-G RIVERS V. A-G BAYELSA & ANOR",
+      "citation": "(2012) LPELR – 9336 (SC)",
+      "relationship": "Relied upon",
+      "proposition": "Support for statute barred finding.",
+      "context": "Court applied to hold suit statute barred."
+    },
+    {
+      "authority": "BAUCHI STATE GOVT V. NPC & ANOR",
+      "citation": "2014 LPEAR – 2372a (CA)",
+      "relationship": "Relied upon",
+      "proposition": "Support for statute barred finding.",
+      "context": "Court applied to hold suit statute barred."
+    },
+    {
+      "authority": "AKWA IBOM STATE CIVIL SERVICE COMMISION & ORS VS. ANIEKAN WILSON AKPAN",
+      "citation": "(2013) LPELR – 22105 (CA)",
+      "relationship": "Relied upon",
+      "proposition": "Support for statute barred finding.",
+      "context": "Court applied to hold suit statute barred."
+    }
+  ],
+  "outcome": {
+    "decision": "Suit dismissed as statute barred.",
+    "overall_result": "Claimant's suit dismissed.",
+    "orders": [
+      "Suit dismissed.",
+      "No order as to costs."
+    ],
+    "reliefs": [],
+    "reliefs_granted": [],
+    "reliefs_refused": [],
+    "reliefs_struck_out": [],
+    "reliefs_dismissed": [],
+    "damages": [],
+    "compensation": [],
+    "costs": {
+      "awarded": false,
+      "amount": "",
+      "recipient": "",
+      "details": "No order as to costs."
+    },
+    "interest": {
+      "awarded": false,
+      "rate": "",
+      "start_date": "",
+      "end_date": "",
+      "basis": ""
+    },
+    "compliance_deadline": "",
+    "declarations": [],
+    "injunctions": [],
+    "specific_orders": [],
+    "final_disposition": "Suit dismissed."
+  },
+  "legal_knowledge": {
+    "holdings": [
+      "Suit is statute barred under section 2(a) of the Public Officers Protection Act."
+    ],
+    "legal_principles": [
+      "Statute of limitation for actions against public officers.",
+      "Exception for bad faith or abuse of office.",
+      "Continuing damage exception does not apply to completed act of termination."
+    ],
+    "ratio_decidendi": [
+      "Actions against public officers must be filed within three months of accrual of cause of action unless bad faith or abuse of office is shown."
+    ],
+    "obiter_dicta": [],
+    "causes_of_action": [
+      "Unlawful termination of employment."
+    ],
+    "legal_issues": [
+      "Whether suit is statute barred."
+    ],
+    "practice_areas": [
+      "Employment Law",
+      "Civil Procedure"
+    ],
+    "sub_practice_areas": [
+      "Statute of Limitation",
+      "Public Officers Protection"
+    ],
+    "legal_concepts": [
+      "Statute barred",
+      "Cause of action",
+      "Bad faith",
+      "Abuse of office",
+      "Continuing damage"
+    ],
+    "doctrines": [
+      "Statute of limitation",
+      "Public officers protection"
+    ],
+    "remedies": [],
+    "employment_law_topics": [
+      "Termination of employment",
+      "Limitation period"
+    ],
+    "jurisdictional_issues": [
+      "Statute barred as jurisdictional bar."
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "statute barred",
+      "Public Officers Protection Act",
+      "termination of employment",
+      "limitation period",
+      "bad faith",
+      "abuse of office",
+      "continuing damage"
+    ],
+    "searchable_concepts": [
+      "Statute of limitation",
+      "Public officer protection",
+      "Employment termination",
+      "Cause of action accrual"
+    ],
+    "semantic_topics": [
+      "Limitation law",
+      "Employment law",
+      "Civil procedure"
+    ],
+    "legal_entities": [
+      "Charles Nwaluno",
+      "Independent National Electoral Commission",
+      "National Industrial Court",
+      "Public Officers Protection Act"
+    ],
+    "statutes_referenced": [
+      "Public Officers Protection Act Cap 379 LFN 1990"
+    ],
+    "cases_referenced": [
+      "EKEOGU vs. ALIRI",
+      "NEPA VS. OLAGUNJU",
+      "NWANKWO BLESSING N. vs INEC",
+      "HASSAN vs. ALIYU",
+      "NWANKWERE V. ADEWUNMI",
+      "IBRAHIM vs JSC, KADUNA STATE",
+      "A-G RIVERS V. A-G BAYELSA & ANOR",
+      "BAUCHI STATE GOVT V. NPC & ANOR",
+      "AKWA IBOM STATE CIVIL SERVICE COMMISION & ORS VS. ANIEKAN WILSON AKPAN"
+    ],
+    "citation_phrases": [
+      "statute barred",
+      "section 2(a) of the Public Officers Protection Act",
+      "three months period"
+    ],
+    "fact_patterns": [
+      "Employment termination",
+      "Delay in filing suit",
+      "Action against public officer"
+    ],
+    "relief_types": [],
+    "decision_types": [
+      "Dismissal",
+      "Preliminary objection upheld"
+    ]
+  },
+  "graph_rag": {
+    "entities": [
+      {
+        "name": "Charles Nwaluno",
+        "type": "Person"
+      },
+      {
+        "name": "Independent National Electoral Commission",
+        "type": "Organization"
+      },
+      {
+        "name": "National Industrial Court of Nigeria",
+        "type": "Court"
+      },
+      {
+        "name": "Public Officers Protection Act",
+        "type": "Statute"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Charles Nwaluno",
+        "relationship": "was employed by",
+        "target": "Independent National Electoral Commission",
+        "evidence": "Claimant was an employee of the defendant."
+      },
+      {
+        "source": "Charles Nwaluno",
+        "relationship": "filed suit against",
+        "target": "Independent National Electoral Commission",
+        "evidence": "Claimant filed suit on 20th May 2014."
+      },
+      {
+        "source": "Independent National Electoral Commission",
+        "relationship": "filed preliminary objection against",
+        "target": "Charles Nwaluno",
+        "evidence": "Defendant filed notice of preliminary objection."
+      }
+    ],
+    "case_relationships": [
+      {
+        "case": "A-G RIVERS V. A-G BAYELSA & ANOR",
+        "citation": "(2012) LPELR – 9336 (SC)",
+        "relationship": "Relied upon",
+        "context": "Support for statute barred finding."
+      },
+      {
+        "case": "BAUCHI STATE GOVT V. NPC & ANOR",
+        "citation": "2014 LPEAR – 2372a (CA)",
+        "relationship": "Relied upon",
+        "context": "Support for statute barred finding."
+      },
+      {
+        "case": "AKWA IBOM STATE CIVIL SERVICE COMMISION & ORS VS. ANIEKAN WILSON AKPAN",
+        "citation": "(2013) LPELR – 22105 (CA)",
+        "relationship": "Relied upon",
+        "context": "Support for statute barred finding."
+      }
+    ],
+    "statute_relationships": [
+      {
+        "statute": "Public Officers Protection Act",
+        "provision": "Section 2(a)",
+        "relationship": "Applied to bar suit",
+        "context": "Suit filed outside three months."
+      }
+    ],
+    "legal_principle_relationships": [
+      {
+        "principle": "Statute of limitation for public officers",
+        "case": "A-G RIVERS V. A-G BAYELSA & ANOR",
+        "relationship": "Supported by"
+      }
+    ]
+  },
+  "citation_network": {
+    "authorities_cited": [
+      "EKEOGU vs. ALIRI (1991) 3 NWLR (pt. 175) 258 (SC)",
+      "NEPA VS. OLAGUNJU (2005) 3 NWLR (Pt.913) 602",
+      "NWANKWO BLESSING N. vs INEC (Unreported) Suit No. NICN AWK/04/2013",
+      "HASSAN vs. ALIYU (2010) 17 NWLR (Pt 1223) 347 (SC)",
+      "NWANKWERE V. ADEWUNMI (1966) 1 ALL NLR W 134",
+      "IBRAHIM vs JSC, KADUNA STATE (1998) 14 NWLR (Pt. 584)",
+      "A-G RIVERS V. A-G BAYELSA & ANOR (2012) LPELR – 9336 (SC)",
+      "BAUCHI STATE GOVT V. NPC & ANOR 2014 LPEAR – 2372a (CA)",
+      "AKWA IBOM STATE CIVIL SERVICE COMMISION & ORS VS. ANIEKAN WILSON AKPAN (2013) LPELR – 22105 (CA)"
+    ],
+    "authorities_followed": [
+      "A-G RIVERS V. A-G BAYELSA & ANOR (2012) LPELR – 9336 (SC)",
+      "BAUCHI STATE GOVT V. NPC & ANOR 2014 LPEAR – 2372a (CA)",
+      "AKWA IBOM STATE CIVIL SERVICE COMMISION & ORS VS. ANIEKAN WILSON AKPAN (2013) LPELR – 22105 (CA)"
+    ],
+    "authorities_distinguished": [],
+    "authorities_rejected": [],
+    "authorities_overruled": [],
+    "authorities_relied_upon": [
+      "A-G RIVERS V. A-G BAYELSA & ANOR (2012) LPELR – 9336 (SC)",
+      "BAUCHI STATE GOVT V. NPC & ANOR 2014 LPEAR – 2372a (CA)",
+      "AKWA IBOM STATE CIVIL SERVICE COMMISION & ORS VS. ANIEKAN WILSON AKPAN (2013) LPELR – 22105 (CA)"
+    ]
+  },
+  "metadata_quality": {
+    "extraction_confidence": 0.95,
+    "fields_missing": [],
+    "fields_uncertain": [],
+    "requires_review": false,
+    "review_reasons": [],
+    "source_completeness": "complete",
+    "ai_extraction_model": "deepseek-chat",
+    "prompt_version": "nicn-v3.2-single-call",
+    "extracted_at": "2026-10-02T09:25:30.298922+00:00"
+  }
+}

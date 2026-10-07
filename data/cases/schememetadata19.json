@@ -1,0 +1,1294 @@
+{
+  "schema_version": "nicn-ai-metadata-v3.2",
+  "source": {
+    "court": "National Industrial Court of Nigeria",
+    "jurisdiction": "Nigeria",
+    "source_url": "",
+    "source_id": "345",
+    "document_id": "345",
+    "file_name": "full_text.txt",
+    "downloaded_at": "",
+    "document_type": "judgment",
+    "language": "English",
+    "pages": null,
+    "word_count": 4047,
+    "extraction_status": "complete",
+    "completeness_confidence": "HIGH"
+  },
+  "case": {
+    "title": "Barrister Mohammed Kudu Nadodi and 75 Others v. Honourable Minister Federal Capital Territory and 2 Others",
+    "case_number": "NICN/ABJ/139/2013",
+    "court": "National Industrial Court of Nigeria",
+    "judicial_division": "Abuja",
+    "judge": "Hon. Justice P.O Lifu (JP)",
+    "judgment_date": "2015-05-08",
+    "year": 2015,
+    "claimants": [
+      "Barrister Mohammed Kudu Nadodi",
+      "75 Others"
+    ],
+    "defendants": [
+      "Honourable Minister Federal Capital Territory",
+      "Federal Capital Development Authority",
+      "Abuja Environmental Protection Agency"
+    ],
+    "appellants": [],
+    "respondents": [],
+    "applicants": [],
+    "interested_parties": [],
+    "counsel": [
+      {
+        "name": "Sola Egbeyinka Esq.",
+        "represents": "Claimants/Respondents"
+      },
+      {
+        "name": "Tunde Nordi Esq.",
+        "represents": "Defendants/Applicants"
+      }
+    ]
+  },
+  "procedural_history": {
+    "originating_proceedings": "Complaint filed on 4th June 2013 by the claimants against the defendants challenging their retirement from the public service of the Federal Capital Territory.",
+    "procedural_posture": "Notice of preliminary objection dated 29th October 2013 filed by the defendants/applicants seeking to dismiss the suit on grounds of prematurity, statute bar, and lack of jurisdiction.",
+    "previous_decisions": [],
+    "interlocutory_applications": [
+      "Notice of preliminary objection dated 29th October 2013"
+    ],
+    "appeals": [],
+    "orders_before_trial": [],
+    "procedural_events": [
+      "Claimants withdrew earlier suit instituted in 2004",
+      "Claimants filed counter affidavit and written address in opposition to the preliminary objection"
+    ]
+  },
+  "facts": {
+    "material_facts": [
+      "Claimants were retired from the public service of the Federal Capital Territory at various times between 2004 and 2006.",
+      "Claimants collected their severance and disengagement benefits after retirement.",
+      "A letter dated 13th June 2007 with reference FCTA/E and T/I/S. 233 reinstated 65 disengaged staff, excluding the claimants.",
+      "Claimants filed suit on 13th June 2013 challenging their retirement and seeking reinstatement and payment of arrears."
+    ],
+    "chronology": [
+      {
+        "date": "2004-2006",
+        "event": "Claimants retired from public service of the Federal Capital Territory."
+      },
+      {
+        "date": "13th June 2007",
+        "event": "Letter reinstating 65 disengaged staff issued, excluding claimants."
+      },
+      {
+        "date": "4th June 2013",
+        "event": "Claimants filed complaint at the National Industrial Court."
+      },
+      {
+        "date": "29th October 2013",
+        "event": "Defendants filed notice of preliminary objection."
+      },
+      {
+        "date": "20th December 2013",
+        "event": "Ruling delivered on preliminary objection."
+      }
+    ],
+    "admitted_facts": [
+      "Claimants were retired between 2004 and 2006.",
+      "Claimants collected retirement entitlements."
+    ],
+    "disputed_facts": [
+      "Whether the retirement was irregular, illegal, and unlawful.",
+      "Whether the exclusion from reinstatement constitutes discrimination.",
+      "Whether the cause of action arose on 13th June 2007 or at the date of retirement."
+    ],
+    "background_facts": [
+      "Claimants were public servants in the Federal Capital Territory.",
+      "Defendants are public officers and public bodies."
+    ],
+    "employment_relationship": "Contract of employment between the claimants and the defendants (Federal Capital Territory public service).",
+    "contractual_relationship": "Employment contract.",
+    "documentary_evidence": [
+      "Letter of retirement issued to claimants.",
+      "Letter dated 13th June 2007 with reference FCTA/E and T/I/S. 233 reinstating 65 staff."
+    ],
+    "witness_evidence": []
+  },
+  "claims_and_reliefs": {
+    "causes_of_action": [
+      "Irregular, illegal, and unlawful retirement from public service.",
+      "Discriminatory reinstatement of 65 staff excluding claimants.",
+      "Failure to reinstate claimants and pay arrears."
+    ],
+    "claims": [
+      {
+        "claim": "Declaration that the retirement of the claimants is irregular, mala fide, illegal, and unlawful.",
+        "legal_basis": "Letter of retirement negates the intent of the FCT Staff Right Sizing letter dated 5th October 2005.",
+        "claimant": "Claimants",
+        "against": "Defendants"
+      },
+      {
+        "claim": "Declaration that the decision to reinstate 65 disengaged staff excluding the claimants is discriminatory and violates fundamental human rights.",
+        "legal_basis": "Section 42 of the 1999 Constitution of Nigeria (as amended) and Articles 2, 12, 19 of the African Charter on Human and Peoples' Rights.",
+        "claimant": "Claimants",
+        "against": "Defendants"
+      },
+      {
+        "claim": "Order of mandatory injunction compelling defendants to reinstate all claimants to their official positions.",
+        "legal_basis": "Irregular, illegal, and unlawful retirement.",
+        "claimant": "Claimants",
+        "against": "Defendants"
+      },
+      {
+        "claim": "Order compelling defendants to pay all salaries, arrears of rents, allowances due from date of retirement until reinstatement.",
+        "legal_basis": "Consequential upon reinstatement.",
+        "claimant": "Claimants",
+        "against": "Defendants"
+      }
+    ],
+    "reliefs_sought": [
+      {
+        "relief_number": "1",
+        "relief": "Declaration that the retirement of the claimants is irregular, mala fide, illegal, and unlawful.",
+        "category": "Declaration"
+      },
+      {
+        "relief_number": "2",
+        "relief": "Declaration that the decision to reinstate 65 disengaged staff excluding the claimants is discriminatory and violates fundamental human rights.",
+        "category": "Declaration"
+      },
+      {
+        "relief_number": "3",
+        "relief": "Order of mandatory injunction compelling defendants to reinstate all claimants.",
+        "category": "Injunction"
+      },
+      {
+        "relief_number": "4",
+        "relief": "Order compelling defendants to pay salaries, arrears of rents, allowances from date of retirement until reinstatement.",
+        "category": "Payment"
+      }
+    ],
+    "issues_for_determination": [
+      {
+        "issue_number": "1",
+        "issue": "Whether the Public Officers Protection Act Cap P.41 LFN 2004 is applicable to this suit as presently constituted by the claimant/respondent being contractual in nature and labour related.",
+        "raised_by": "Claimants"
+      },
+      {
+        "issue_number": "2",
+        "issue": "Whether the cause of action in this suit had arisen by virtue of the document referenced: FCTA/E and T/I/S. 233 dated 13th June 2007 titled Re: Review of Appeals of disengaged staff on the 13th day of June 2007?",
+        "raised_by": "Claimants"
+      },
+      {
+        "issue_number": "3",
+        "issue": "Whether this Honourable court is competent to assume jurisdiction over this suit?",
+        "raised_by": "Claimants"
+      },
+      {
+        "issue_number": "4",
+        "issue": "Whether the non filing of a memorandum of appearance by the defendant/applicant in this suit is fatal to the hearing of this notice of preliminary objection?",
+        "raised_by": "Claimants"
+      },
+      {
+        "issue_number": "5",
+        "issue": "Whether the 5 paragraph affidavit of Joshua Achor, in support of the notice of preliminary objection dated 6th day of July 2013 but filed on the 6th day of August 2013 is not offensive to the provision of section 115 (4) of the evidence Act.",
+        "raised_by": "Claimants"
+      }
+    ],
+    "questions_of_law": [
+      "Applicability of the Public Officers Protection Act to employment contracts.",
+      "Computation of limitation period for actions against public officers.",
+      "Whether failure to file memorandum of appearance precludes raising preliminary objection."
+    ]
+  },
+  "arguments": {
+    "claimant_arguments": [
+      "The Public Officers Protection Act is inapplicable to this case because the claim is labour-related and contractual in nature.",
+      "The cause of action arose on 13th June 2007 when the discriminatory letter was issued, and the suit filed on 13th June 2013 is within the six-year limitation period for contracts.",
+      "The court has jurisdiction as the suit is labour-related and initiated by due process.",
+      "The failure of the defendant to file a memorandum of appearance deprives them of standing to raise a preliminary objection.",
+      "The affidavit in support of the preliminary objection is offensive to section 115(4) of the Evidence Act 2011 as it contains hearsay."
+    ],
+    "defendant_arguments": [
+      "The action is premature and incomplete as leave of court was not sought before filing.",
+      "The action is statute barred as it was filed more than three months after the cause of action arose, contrary to section 2(a) of the Public Officers Protection Act.",
+      "The court lacks jurisdiction due to non-compliance with the enabling statute.",
+      "The claimants admitted that the cause of action accrued between 2004 and 2007, and they collected their retirement benefits.",
+      "The continuous injury exception does not apply as the contract of employment was terminated and benefits collected."
+    ],
+    "appellant_arguments": [],
+    "respondent_arguments": [],
+    "submissions": [],
+    "party_authorities": [
+      {
+        "party": "Defendant",
+        "authority": "Alhaja Silifat Ajilowura v. Taofik Dasu and Others",
+        "proposition": "Any application capable of terminating proceedings can be brought at interlocutory stage."
+      },
+      {
+        "party": "Defendant",
+        "authority": "Patrick Izuagbe Okoto and Another v. Union Bank Ltd (2004) 1 SC Pt 1 at 30",
+        "proposition": "Action is statute barred."
+      },
+      {
+        "party": "Defendant",
+        "authority": "EIMSKIP Limited v. Exquisite Industries Nig Ltd (2003) 1 SC Pt. 11 94 at 112",
+        "proposition": "Non-compliance with Public Officers Protection Act renders action a nullity."
+      },
+      {
+        "party": "Defendant",
+        "authority": "Grace Jack v. University of Agriculture Markudi (2004) 1 SC Pt. 11 100 at 144",
+        "proposition": "Action statute barred."
+      },
+      {
+        "party": "Claimant",
+        "authority": "Federal Govt. of Nigeria and Others v. Zebra Energy Ltd (2003) 3 WRN 1 at 11-12",
+        "proposition": "Public Officers Protection Act does not apply to contracts."
+      },
+      {
+        "party": "Claimant",
+        "authority": "Ibrahim v. Judicial Service Committee (1999) 14 NWLR (Pt. 584) 1",
+        "proposition": "Public Officers Protection Act inapplicable to employment contracts."
+      },
+      {
+        "party": "Claimant",
+        "authority": "Okeke v. Baba (2000) 3 NWLR Pt 650 644 at 647",
+        "proposition": "Public Officers Protection Act inapplicable to employment contracts."
+      },
+      {
+        "party": "Claimant",
+        "authority": "Simeon and 183 others v. NS and CDC in suit No NIC/ABJ/141/2012",
+        "proposition": "Public Officers Protection Act inapplicable to labour matters."
+      },
+      {
+        "party": "Claimant",
+        "authority": "Abiodun and Others v. The Governing Council Oyo State College of Education Oyo and I other (2009) NLLR Pt. 62 316 at 347",
+        "proposition": "Public Officers Protection Act inapplicable to employment contracts."
+      },
+      {
+        "party": "Claimant",
+        "authority": "NIIA v. Ayanfalu (2007) NWLR Pt 1018 at 246-263",
+        "proposition": "Public Officers Protection Act inapplicable to employment contracts."
+      },
+      {
+        "party": "Claimant",
+        "authority": "Kasau Busari and Others v. Minister of Defence and Another FHCT/ABJ/CS/184/07",
+        "proposition": "Public Officers Protection Act inapplicable to employment contracts."
+      },
+      {
+        "party": "Claimant",
+        "authority": "Alhassan v. Aliyu and Others (2009) LPELR 8340",
+        "proposition": "Continuous injury exception applies."
+      },
+      {
+        "party": "Claimant",
+        "authority": "Affoboche v. Ogoja Local Govt and another (2001) 36 WRN 1 at 7",
+        "proposition": "Discriminatory absorption is unjustified."
+      },
+      {
+        "party": "Claimant",
+        "authority": "Okoh v. The Nigeria Navy (2007) 25 WRN 46 at 52",
+        "proposition": "Discriminatory absorption is unjustified."
+      },
+      {
+        "party": "Claimant",
+        "authority": "Young v. Cross River State Judicial Service Commission (2009) 17 WRN 51 at 53-54",
+        "proposition": "Appropriate form of commencement where damages and reinstatement are involved."
+      },
+      {
+        "party": "Claimant",
+        "authority": "Olumide v. Aliu (2009) 23 WRN 13 at 19-20",
+        "proposition": "Accrual of cause of action determined by originating processes."
+      },
+      {
+        "party": "Claimant",
+        "authority": "Egbe v. Adefarasin (2002) 14 WRN 57",
+        "proposition": "Accrual of cause of action determined by originating processes."
+      },
+      {
+        "party": "Claimant",
+        "authority": "Moumah v. Spring Bank Plc (2009) 6 WRN 118 at 121",
+        "proposition": "Accrual of cause of action determined by originating processes."
+      },
+      {
+        "party": "Claimant",
+        "authority": "Anyanwoko v. Okoye (2010) 18 WRN 34 at 41",
+        "proposition": "Court competent to entertain suit."
+      },
+      {
+        "party": "Claimant",
+        "authority": "Madukolu v. Nkendilim (2001) 46 WRN 1 at 2",
+        "proposition": "Court competent to entertain suit."
+      },
+      {
+        "party": "Claimant",
+        "authority": "Wudi L J.P v. Aliyu (2004) 14 WRN 127 at 130",
+        "proposition": "Filing memorandum of appearance is mandatory."
+      },
+      {
+        "party": "Claimant",
+        "authority": "Cooperative and Commerce Bank Nig Plc v. A.G. Anambra State and Others (1992) 8 NWLR Pt. 261 at 556",
+        "proposition": "Filing memorandum of appearance is mandatory."
+      },
+      {
+        "party": "Claimant",
+        "authority": "Nuhu Sani Ibrahim v. Independent National Electoral Commission and Others (1999) 8 NWLR Pt. 614 334 at 352",
+        "proposition": "Filing memorandum of appearance is mandatory."
+      },
+      {
+        "party": "Claimant",
+        "authority": "Fashawe v. A.G. Fed. (2007) 8 WRN 125 at 145",
+        "proposition": "Affidavit must comply with Evidence Act."
+      }
+    ]
+  },
+  "evidence": {
+    "exhibits": [
+      {
+        "identifier": "Exhibit I",
+        "description": "Circular dated 13th June 2007 referenced FCTA/E and T/I/S. 233",
+        "party": "Claimants",
+        "relevance": "Shows discriminatory reinstatement of 65 staff excluding claimants."
+      }
+    ],
+    "witnesses": [],
+    "documentary_evidence": [
+      "Letter of retirement issued to claimants.",
+      "Letter dated 13th June 2007 with reference FCTA/E and T/I/S. 233."
+    ],
+    "oral_evidence": [],
+    "expert_evidence": [],
+    "evidential_findings": [
+      {
+        "evidence": "Claimants admitted retirement between 2004 and 2006 and collection of benefits.",
+        "finding": "Cause of action accrued at date of retirement.",
+        "credibility": "Admitted fact."
+      }
+    ]
+  },
+  "judicial_analysis": {
+    "findings_of_fact": [
+      {
+        "issue": "Date of accrual of cause of action",
+        "finding": "Cause of action accrued when claimants were given letters of retirement between 2004 and 2006."
+      },
+      {
+        "issue": "Applicability of Public Officers Protection Act",
+        "finding": "The Act applies to the defendants as public officers and to the acts complained of."
+      }
+    ],
+    "findings_of_law": [
+      {
+        "issue": "Whether leave of court is required for judicial review",
+        "finding": "No leave of court is required for judicial review under Order 22(3) of NIC Rules 2007."
+      },
+      {
+        "issue": "Whether the suit is statute barred",
+        "finding": "The suit is statute barred under section 2(a) of the Public Officers Protection Act as it was filed more than three months after the cause of action arose."
+      },
+      {
+        "issue": "Whether continuous injury exception applies",
+        "finding": "The continuous injury exception does not apply as the contract of employment was terminated and benefits collected."
+      }
+    ],
+    "reasoning": "The court held that the defendants are public officers within the meaning of the Public Officers Protection Act. The cause of action arose between 2004 and 2006 when the claimants were retired. The suit was filed on 4th June 2013, more than three months after the accrual of the cause of action. The court rejected the argument that the Public Officers Protection Act does not apply to employment contracts, distinguishing commercial contracts. The court also held that the continuous injury exception does not apply because the employment relationship had ended and benefits were collected. The court found that the suit is statute barred and dismissed it.",
+    "issue_analysis": [
+      {
+        "issue_number": "1",
+        "issue": "Whether the Public Officers Protection Act Cap P.41 LFN 2004 is applicable to this suit.",
+        "arguments": {
+          "claimant": "The Act is inapplicable because the claim is labour-related and contractual.",
+          "defendant": "The Act applies as the defendants are public officers and the acts complained of were done in the course of public duty."
+        },
+        "judicial_analysis": "The court held that the Act applies to public officers and public bodies. The defendants are public officers. The act complained of (retirement) was done in the course of official duty. The Act is a statute of limitation.",
+        "holding": "The Public Officers Protection Act is applicable to this suit.",
+        "ratio_decidendi": "The Public Officers Protection Act applies to actions against public officers for acts done in the execution of public duty, including employment-related actions, unless the action falls within an exception such as continuous injury.",
+        "result": "Applicable."
+      },
+      {
+        "issue_number": "2",
+        "issue": "Whether the cause of action arose on 13th June 2007 or at the date of retirement.",
+        "arguments": {
+          "claimant": "Cause of action arose on 13th June 2007 when the discriminatory letter was issued.",
+          "defendant": "Cause of action arose between 2004 and 2006 when claimants were retired."
+        },
+        "judicial_analysis": "The court found that the cause of action accrued when the claimants were given letters of retirement between 2004 and 2006. The letter of 13th June 2007 was not the act complained of but a subsequent event.",
+        "holding": "Cause of action accrued between 2004 and 2006.",
+        "ratio_decidendi": "Time begins to run when all facts material to prove the claimant's case have happened, which in this case was the date of retirement.",
+        "result": "Cause of action accrued at retirement."
+      },
+      {
+        "issue_number": "3",
+        "issue": "Whether the suit is statute barred.",
+        "arguments": {
+          "claimant": "The suit is not statute barred as it was filed within six years of the cause of action.",
+          "defendant": "The suit is statute barred as it was filed more than three months after the cause of action."
+        },
+        "judicial_analysis": "The court held that the suit was filed on 4th June 2013, more than three months after the cause of action arose between 2004 and 2006. The Public Officers Protection Act prescribes a three-month limitation period. The suit is therefore statute barred.",
+        "holding": "The suit is statute barred.",
+        "ratio_decidendi": "An action against a public officer for an act done in the execution of public duty must be commenced within three months next after the act, neglect, or default complained of, unless there is a continuance of damage or injury.",
+        "result": "Statute barred."
+      },
+      {
+        "issue_number": "4",
+        "issue": "Whether failure to file memorandum of appearance precludes raising preliminary objection.",
+        "arguments": {
+          "claimant": "Failure to file memorandum of appearance deprives the defendant of standing to raise preliminary objection.",
+          "defendant": "Issues of jurisdiction can be raised at any time."
+        },
+        "judicial_analysis": "The court held that issues of jurisdiction can be raised at any time, even without filing a memorandum of appearance.",
+        "holding": "Failure to file memorandum of appearance does not preclude raising objection on jurisdiction.",
+        "ratio_decidendi": "Jurisdiction is fundamental and can be raised at any stage of proceedings.",
+        "result": "Objection valid."
+      },
+      {
+        "issue_number": "5",
+        "issue": "Whether the affidavit in support of the preliminary objection is offensive to section 115(4) of the Evidence Act.",
+        "arguments": {
+          "claimant": "The affidavit contains hearsay and is offensive to section 115(4).",
+          "defendant": "Not addressed."
+        },
+        "judicial_analysis": "The court did not make a specific finding on this issue as it was subsumed by the finding on jurisdiction.",
+        "holding": "Not determined.",
+        "ratio_decidendi": "",
+        "result": "Not determined."
+      }
+    ],
+    "holdings": [
+      {
+        "issue_number": "1",
+        "issue": "Applicability of Public Officers Protection Act",
+        "holding": "The Act applies to the defendants and the acts complained of.",
+        "result": "Applicable."
+      },
+      {
+        "issue_number": "2",
+        "issue": "Accrual of cause of action",
+        "holding": "Cause of action accrued between 2004 and 2006.",
+        "result": "Accrued at retirement."
+      },
+      {
+        "issue_number": "3",
+        "issue": "Statute bar",
+        "holding": "The suit is statute barred.",
+        "result": "Dismissed."
+      }
+    ],
+    "ratio_decidendi": [
+      {
+        "issue": "Applicability of Public Officers Protection Act",
+        "principle": "The Public Officers Protection Act applies to actions against public officers for acts done in the execution of public duty, including employment-related actions.",
+        "application": "The defendants are public officers and the retirement of the claimants was an act done in the execution of public duty.",
+        "holding": "The Act applies."
+      },
+      {
+        "issue": "Statute bar",
+        "principle": "An action against a public officer must be commenced within three months of the act complained of, unless there is a continuance of damage or injury.",
+        "application": "The claimants were retired between 2004 and 2006 but filed suit in 2013, more than three months later. No continuous injury was established.",
+        "holding": "The suit is statute barred."
+      }
+    ],
+    "obiter_dicta": [
+      {
+        "statement": "The court called for the urgent review of the Public Officers Protection Law, describing it as a colonial legislation that should have no place in modern statute books.",
+        "context": "The court's remarks on the need for law reform.",
+        "relevance": "Obiter observation on the desirability of legislative reform."
+      }
+    ],
+    "legal_principles": [
+      {
+        "principle": "Jurisdiction is determined by the claimant's claim.",
+        "context": "The court must look at the originating processes to determine jurisdiction.",
+        "source": "P & C.H.S Co. Ltd v. Migfo Nig Ltd (2013) 3 NWLR (Pt 1333) at 555."
+      },
+      {
+        "principle": "The Public Officers Protection Act is a statute of limitation.",
+        "context": "Actions against public officers must be filed within three months.",
+        "source": "A.G. Rivers State v. A.G. Bayelsa State (2013) 3 NWLR Pt. 1340 123 at 148-150."
+      }
+    ],
+    "statutory_interpretation": [
+      {
+        "statute": "Public Officers Protection Act Cap P.41 LFN 2004",
+        "provision": "Section 2(a)",
+        "interpretation": "The Act applies to public officers and public bodies. Actions must be commenced within three months of the act complained of, unless there is a continuance of damage or injury.",
+        "application": "The defendants are public officers. The claimants were retired between 2004 and 2006. The suit filed in 2013 is statute barred."
+      },
+      {
+        "statute": "National Industrial Court Act 2006",
+        "provision": "Section 17",
+        "interpretation": "Judicial review procedures require no leave of court.",
+        "application": "The claimants' suit is not a judicial review application, so leave is not required."
+      },
+      {
+        "statute": "National Industrial Court Rules 2007",
+        "provision": "Order 22(3)",
+        "interpretation": "An application for judicial review shall be brought within three months and no leave is required.",
+        "application": "The claimants' suit is not a judicial review application."
+      }
+    ],
+    "constitutional_analysis": [
+      {
+        "provision": "Section 42 of the 1999 Constitution of Nigeria (as amended)",
+        "interpretation": "Freedom from discrimination.",
+        "application": "Claimants alleged discrimination in reinstatement, but the suit was dismissed on statute bar without reaching the merits."
+      }
+    ],
+    "precedent_analysis": [
+      {
+        "authority": "Federal Government of Nigeria v. Zebra Energy Ltd",
+        "citation": "(2003) 3 WRN 1 at 11-12",
+        "treatment": "Distinguished",
+        "proposition": "Public Officers Protection Act does not apply to commercial contracts.",
+        "reasoning": "The court distinguished this case as it involved commercial contracts, not employment contracts."
+      },
+      {
+        "authority": "Udo v. C.S.C. Akwa Ibom State and others",
+        "citation": "(2006) LPELR 11564",
+        "treatment": "Followed",
+        "proposition": "For section 2(a) of the Public Officers Protection Act to avail a person, two conditions must be satisfied: the person must be a public officer, and the act must be done in pursuance of public duty.",
+        "reasoning": "The court applied this test to hold that the defendants are public officers and the act was done in the course of public duty."
+      },
+      {
+        "authority": "A.G. Rivers State v. A.G. Bayelsa State",
+        "citation": "(2013) 3 NWLR Pt. 1340 123 at 148-150",
+        "treatment": "Followed",
+        "proposition": "The Public Officers Protection Act is a statute of limitation; any action instituted after the prescribed period is totally barred.",
+        "reasoning": "The court applied this principle to hold that the suit is statute barred."
+      }
+    ],
+    "evidential_findings": [],
+    "judicial_observations": [
+      "The court noted that the claimants withdrew their earlier suit in 2004 and returned after nine years, which was unfortunate.",
+      "The court called for the review of the Public Officers Protection Act."
+    ]
+  },
+  "authorities": {
+    "cases_cited": [
+      {
+        "case_name": "Alhaja Silifat Ajilowura v. Taofik Dasu and Others",
+        "citation": "",
+        "court": "Supreme Court of Nigeria",
+        "year": 2006,
+        "proposition": "Any application capable of terminating proceedings can be brought at interlocutory stage.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Patrick Izuagbe Okoto and Another v. Union Bank Ltd",
+        "citation": "(2004) 1 SC Pt 1 at 30",
+        "court": "Supreme Court of Nigeria",
+        "year": 2004,
+        "proposition": "Action is statute barred.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "EIMSKIP Limited v. Exquisite Industries Nig Ltd",
+        "citation": "(2003) 1 SC Pt. 11 94 at 112",
+        "court": "Supreme Court of Nigeria",
+        "year": 2003,
+        "proposition": "Non-compliance with Public Officers Protection Act renders action a nullity.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Grace Jack v. University of Agriculture Markudi",
+        "citation": "(2004) 1 SC Pt. 11 100 at 144",
+        "court": "Supreme Court of Nigeria",
+        "year": 2004,
+        "proposition": "Action statute barred.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Federal Govt. of Nigeria and Others v. Zebra Energy Ltd",
+        "citation": "(2003) 3 WRN 1 at 11-12",
+        "court": "Supreme Court of Nigeria",
+        "year": 2003,
+        "proposition": "Public Officers Protection Act does not apply to contracts.",
+        "treatment": "Distinguished",
+        "cited_by": "Claimant",
+        "importance": "Distinguished"
+      },
+      {
+        "case_name": "Ibrahim v. Judicial Service Committee",
+        "citation": "(1999) 14 NWLR (Pt. 584) 1",
+        "court": "Supreme Court of Nigeria",
+        "year": 1999,
+        "proposition": "Public Officers Protection Act inapplicable to employment contracts.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Okeke v. Baba",
+        "citation": "(2000) 3 NWLR Pt 650 644 at 647",
+        "court": "Supreme Court of Nigeria",
+        "year": 2000,
+        "proposition": "Public Officers Protection Act inapplicable to employment contracts.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Simeon and 183 others v. NS and CDC",
+        "citation": "suit No NIC/ABJ/141/2012",
+        "court": "National Industrial Court",
+        "year": 2012,
+        "proposition": "Public Officers Protection Act inapplicable to labour matters.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Abiodun and Others v. The Governing Council Oyo State College of Education Oyo and I other",
+        "citation": "(2009) NLLR Pt. 62 316 at 347",
+        "court": "National Industrial Court",
+        "year": 2009,
+        "proposition": "Public Officers Protection Act inapplicable to employment contracts.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "NIIA v. Ayanfalu",
+        "citation": "(2007) NWLR Pt 1018 at 246-263",
+        "court": "Supreme Court of Nigeria",
+        "year": 2007,
+        "proposition": "Public Officers Protection Act inapplicable to employment contracts.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Kasau Busari and Others v. Minister of Defence and Another",
+        "citation": "FHCT/ABJ/CS/184/07",
+        "court": "Federal High Court",
+        "year": 2007,
+        "proposition": "Public Officers Protection Act inapplicable to employment contracts.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Alhassan v. Aliyu and Others",
+        "citation": "(2009) LPELR 8340",
+        "court": "Supreme Court of Nigeria",
+        "year": 2009,
+        "proposition": "Continuous injury exception applies.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Affoboche v. Ogoja Local Govt and another",
+        "citation": "(2001) 36 WRN 1 at 7",
+        "court": "Supreme Court of Nigeria",
+        "year": 2001,
+        "proposition": "Discriminatory absorption is unjustified.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Okoh v. The Nigeria Navy",
+        "citation": "(2007) 25 WRN 46 at 52",
+        "court": "Supreme Court of Nigeria",
+        "year": 2007,
+        "proposition": "Discriminatory absorption is unjustified.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Young v. Cross River State Judicial Service Commission",
+        "citation": "(2009) 17 WRN 51 at 53-54",
+        "court": "Supreme Court of Nigeria",
+        "year": 2009,
+        "proposition": "Appropriate form of commencement where damages and reinstatement are involved.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Olumide v. Aliu",
+        "citation": "(2009) 23 WRN 13 at 19-20",
+        "court": "Supreme Court of Nigeria",
+        "year": 2009,
+        "proposition": "Accrual of cause of action determined by originating processes.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Egbe v. Adefarasin",
+        "citation": "(2002) 14 WRN 57",
+        "court": "Supreme Court of Nigeria",
+        "year": 2002,
+        "proposition": "Accrual of cause of action determined by originating processes.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Moumah v. Spring Bank Plc",
+        "citation": "(2009) 6 WRN 118 at 121",
+        "court": "Supreme Court of Nigeria",
+        "year": 2009,
+        "proposition": "Accrual of cause of action determined by originating processes.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Anyanwoko v. Okoye",
+        "citation": "(2010) 18 WRN 34 at 41",
+        "court": "Supreme Court of Nigeria",
+        "year": 2010,
+        "proposition": "Court competent to entertain suit.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Madukolu v. Nkendilim",
+        "citation": "(2001) 46 WRN 1 at 2",
+        "court": "Supreme Court of Nigeria",
+        "year": 2001,
+        "proposition": "Court competent to entertain suit.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Wudi L J.P v. Aliyu",
+        "citation": "(2004) 14 WRN 127 at 130",
+        "court": "Supreme Court of Nigeria",
+        "year": 2004,
+        "proposition": "Filing memorandum of appearance is mandatory.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Cooperative and Commerce Bank Nig Plc v. A.G. Anambra State and Others",
+        "citation": "(1992) 8 NWLR Pt. 261 at 556",
+        "court": "Supreme Court of Nigeria",
+        "year": 1992,
+        "proposition": "Filing memorandum of appearance is mandatory.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Nuhu Sani Ibrahim v. Independent National Electoral Commission and Others",
+        "citation": "(1999) 8 NWLR Pt. 614 334 at 352",
+        "court": "Supreme Court of Nigeria",
+        "year": 1999,
+        "proposition": "Filing memorandum of appearance is mandatory.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Fashawe v. A.G. Fed.",
+        "citation": "(2007) 8 WRN 125 at 145",
+        "court": "Supreme Court of Nigeria",
+        "year": 2007,
+        "proposition": "Affidavit must comply with Evidence Act.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "P & C.H.S Co. Ltd v. Migfo Nig Ltd",
+        "citation": "(2013) 3 NWLR (Pt 1333) at 555",
+        "court": "Supreme Court of Nigeria",
+        "year": 2013,
+        "proposition": "Jurisdiction is determined by the claimant's claim.",
+        "treatment": "Followed",
+        "cited_by": "Court",
+        "importance": "Relied upon"
+      },
+      {
+        "case_name": "Udo v. C.S.C. Akwa Ibom State and others",
+        "citation": "(2006) LPELR 11564",
+        "court": "Supreme Court of Nigeria",
+        "year": 2006,
+        "proposition": "Conditions for application of section 2(a) of Public Officers Protection Act.",
+        "treatment": "Followed",
+        "cited_by": "Court",
+        "importance": "Relied upon"
+      },
+      {
+        "case_name": "EKEOGU v. Atiri",
+        "citation": "(1990) NWLR (Pt. 126) 345",
+        "court": "Supreme Court of Nigeria",
+        "year": 1990,
+        "proposition": "Conditions for application of section 2(a) of Public Officers Protection Act.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Nwaogwugwu v. President, Federal Republic of Nigeria",
+        "citation": "",
+        "court": "Supreme Court of Nigeria",
+        "year": null,
+        "proposition": "The word 'any person' in section 2(a) of the Public Officers Protection Act includes artificial persons and public bodies.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Unilorin v. Adeniran",
+        "citation": "(2007) NWLR (Pt. 1031) at 498",
+        "court": "Supreme Court of Nigeria",
+        "year": 2007,
+        "proposition": "Time begins to run when all facts material to prove the claimant's case have happened.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Odutola v. Unilorin",
+        "citation": "(2005) All FWLR (Pt. 245) at 592",
+        "court": "Supreme Court of Nigeria",
+        "year": 2005,
+        "proposition": "Time begins to run when all facts material to prove the claimant's case have happened.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "A.G. Rivers State v. A.G. Bayelsa State",
+        "citation": "(2013) 3 NWLR Pt. 1340 123 at 148-150",
+        "court": "Supreme Court of Nigeria",
+        "year": 2013,
+        "proposition": "The Public Officers Protection Act is a statute of limitation.",
+        "treatment": "Followed",
+        "cited_by": "Court",
+        "importance": "Relied upon"
+      },
+      {
+        "case_name": "Akeem v. Uniibadan",
+        "citation": "(2003) 10 NWLR (Pt. 829) at 584",
+        "court": "Supreme Court of Nigeria",
+        "year": 2003,
+        "proposition": "Action instituted after the prescribed period is barred.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Eze v. Okechukwu",
+        "citation": "(2002) 18 NWLR Pt. 799 at 348",
+        "court": "Supreme Court of Nigeria",
+        "year": 2002,
+        "proposition": "Action instituted after the prescribed period is barred.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Supporting"
+      }
+    ],
+    "statutes": [
+      {
+        "name": "Public Officers Protection Act Cap P.41 Laws of the Federation of Nigeria 2004",
+        "provision": "Section 2(a)",
+        "proposition": "Actions against public officers must be commenced within three months of the act complained of, unless there is a continuance of damage or injury."
+      },
+      {
+        "name": "National Industrial Court Act 2006",
+        "provision": "Section 17",
+        "proposition": "Judicial review procedures."
+      },
+      {
+        "name": "National Industrial Court Rules 2007",
+        "provision": "Order 22(3)",
+        "proposition": "Application for judicial review shall be brought within three months and no leave is required."
+      },
+      {
+        "name": "Evidence Act 2011",
+        "provision": "Section 115(3) and (4)",
+        "proposition": "Affidavit requirements."
+      }
+    ],
+    "constitutional_provisions": [
+      {
+        "instrument": "Constitution of the Federal Republic of Nigeria 1999 (as amended)",
+        "article_or_section": "Section 42",
+        "proposition": "Freedom from discrimination."
+      }
+    ],
+    "regulations": [],
+    "rules": [],
+    "international_instruments": [
+      {
+        "name": "African Charter on Human and Peoples' Rights",
+        "provision": "Articles 2, 12, 19",
+        "proposition": "Freedom from discrimination and right to fair hearing."
+      }
+    ],
+    "other_authorities": []
+  },
+  "precedent_relationships": [
+    {
+      "authority": "Federal Government of Nigeria v. Zebra Energy Ltd",
+      "citation": "(2003) 3 WRN 1 at 11-12",
+      "relationship": "Distinguished",
+      "proposition": "Public Officers Protection Act does not apply to commercial contracts.",
+      "context": "The court distinguished this case as it involved commercial contracts, not employment contracts."
+    },
+    {
+      "authority": "Udo v. C.S.C. Akwa Ibom State and others",
+      "citation": "(2006) LPELR 11564",
+      "relationship": "Followed",
+      "proposition": "Conditions for application of section 2(a) of Public Officers Protection Act.",
+      "context": "The court applied this test to hold that the defendants are public officers."
+    },
+    {
+      "authority": "A.G. Rivers State v. A.G. Bayelsa State",
+      "citation": "(2013) 3 NWLR Pt. 1340 123 at 148-150",
+      "relationship": "Followed",
+      "proposition": "The Public Officers Protection Act is a statute of limitation.",
+      "context": "The court applied this principle to hold that the suit is statute barred."
+    }
+  ],
+  "outcome": {
+    "decision": "The suit is statute barred and is accordingly dismissed.",
+    "overall_result": "Dismissed",
+    "orders": [
+      "Suit dismissed."
+    ],
+    "reliefs": [
+      {
+        "relief_number": "1",
+        "relief": "Declaration that the retirement of the claimants is irregular, mala fide, illegal, and unlawful.",
+        "result": "Not granted",
+        "reason": "Suit statute barred."
+      },
+      {
+        "relief_number": "2",
+        "relief": "Declaration that the decision to reinstate 65 disengaged staff excluding the claimants is discriminatory and violates fundamental human rights.",
+        "result": "Not granted",
+        "reason": "Suit statute barred."
+      },
+      {
+        "relief_number": "3",
+        "relief": "Order of mandatory injunction compelling defendants to reinstate all claimants.",
+        "result": "Not granted",
+        "reason": "Suit statute barred."
+      },
+      {
+        "relief_number": "4",
+        "relief": "Order compelling defendants to pay salaries, arrears of rents, allowances from date of retirement until reinstatement.",
+        "result": "Not granted",
+        "reason": "Suit statute barred."
+      }
+    ],
+    "reliefs_granted": [],
+    "reliefs_refused": [
+      "All reliefs sought by the claimants."
+    ],
+    "reliefs_struck_out": [],
+    "reliefs_dismissed": [
+      "All reliefs sought by the claimants."
+    ],
+    "damages": [],
+    "compensation": [],
+    "costs": {
+      "awarded": false,
+      "amount": "",
+      "recipient": "",
+      "details": ""
+    },
+    "interest": {
+      "awarded": false,
+      "rate": "",
+      "start_date": "",
+      "end_date": "",
+      "basis": ""
+    },
+    "compliance_deadline": "",
+    "declarations": [],
+    "injunctions": [],
+    "specific_orders": [],
+    "final_disposition": "Suit dismissed."
+  },
+  "legal_knowledge": {
+    "holdings": [
+      "The Public Officers Protection Act applies to employment-related actions against public officers.",
+      "The suit is statute barred as it was filed more than three months after the cause of action arose.",
+      "The continuous injury exception does not apply where the employment relationship has ended and benefits collected."
+    ],
+    "legal_principles": [
+      "The Public Officers Protection Act is a statute of limitation.",
+      "Jurisdiction is determined by the claimant's claim.",
+      "Issues of jurisdiction can be raised at any time."
+    ],
+    "ratio_decidendi": [
+      "An action against a public officer for an act done in the execution of public duty must be commenced within three months next after the act, neglect, or default complained of, unless there is a continuance of damage or injury."
+    ],
+    "obiter_dicta": [
+      "The court called for the review of the Public Officers Protection Act."
+    ],
+    "causes_of_action": [
+      "Irregular retirement from public service.",
+      "Discriminatory reinstatement."
+    ],
+    "legal_issues": [
+      "Applicability of Public Officers Protection Act to employment contracts.",
+      "Computation of limitation period.",
+      "Effect of failure to file memorandum of appearance."
+    ],
+    "practice_areas": [
+      "Employment Law",
+      "Labour Law",
+      "Civil Procedure"
+    ],
+    "sub_practice_areas": [
+      "Public Officers Protection",
+      "Statute of Limitation"
+    ],
+    "legal_concepts": [
+      "Statute bar",
+      "Jurisdiction",
+      "Continuous injury",
+      "Public officer",
+      "Limitation period"
+    ],
+    "doctrines": [
+      "Statute of limitation",
+      "Jurisdiction"
+    ],
+    "remedies": [
+      "Reinstatement",
+      "Payment of arrears"
+    ],
+    "employment_law_topics": [
+      "Retirement",
+      "Reinstatement",
+      "Discrimination",
+      "Public service employment"
+    ],
+    "jurisdictional_issues": [
+      "Whether the court has jurisdiction given the statute bar."
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "Public Officers Protection Act",
+      "statute barred",
+      "retirement",
+      "reinstatement",
+      "discrimination",
+      "National Industrial Court",
+      "limitation period",
+      "continuous injury"
+    ],
+    "searchable_concepts": [
+      "Public officers protection",
+      "Statute of limitation",
+      "Employment contract",
+      "Retirement benefits",
+      "Discriminatory reinstatement"
+    ],
+    "semantic_topics": [
+      "Employment law",
+      "Labour law",
+      "Civil procedure",
+      "Statute of limitation"
+    ],
+    "legal_entities": [
+      "National Industrial Court of Nigeria",
+      "Federal Capital Territory",
+      "Public Officers Protection Act"
+    ],
+    "statutes_referenced": [
+      "Public Officers Protection Act Cap P.41 LFN 2004",
+      "National Industrial Court Act 2006",
+      "National Industrial Court Rules 2007",
+      "Evidence Act 2011",
+      "Constitution of Nigeria 1999"
+    ],
+    "cases_referenced": [
+      "Federal Government of Nigeria v. Zebra Energy Ltd",
+      "Udo v. C.S.C. Akwa Ibom State",
+      "A.G. Rivers State v. A.G. Bayelsa State"
+    ],
+    "citation_phrases": [
+      "statute barred",
+      "public officers protection act",
+      "continuous injury",
+      "limitation period"
+    ],
+    "fact_patterns": [
+      "Public servants retired and later challenging retirement as illegal.",
+      "Discriminatory reinstatement of some staff excluding others."
+    ],
+    "relief_types": [
+      "Declaration",
+      "Mandatory injunction",
+      "Payment of arrears"
+    ],
+    "decision_types": [
+      "Dismissal",
+      "Statute barred"
+    ]
+  },
+  "graph_rag": {
+    "entities": [
+      {
+        "name": "Barrister Mohammed Kudu Nadodi and 75 Others",
+        "type": "Claimants"
+      },
+      {
+        "name": "Honourable Minister Federal Capital Territory",
+        "type": "Defendant"
+      },
+      {
+        "name": "Federal Capital Development Authority",
+        "type": "Defendant"
+      },
+      {
+        "name": "Abuja Environmental Protection Agency",
+        "type": "Defendant"
+      },
+      {
+        "name": "National Industrial Court of Nigeria",
+        "type": "Court"
+      },
+      {
+        "name": "Public Officers Protection Act",
+        "type": "Statute"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Claimants",
+        "relationship": "sued",
+        "target": "Defendants",
+        "evidence": "Complaint filed on 4th June 2013."
+      },
+      {
+        "source": "Defendants",
+        "relationship": "raised preliminary objection",
+        "target": "Claimants",
+        "evidence": "Notice of preliminary objection dated 29th October 2013."
+      },
+      {
+        "source": "Court",
+        "relationship": "dismissed suit",
+        "target": "Claimants",
+        "evidence": "Suit is statute barred."
+      }
+    ],
+    "case_relationships": [
+      {
+        "case": "Federal Government of Nigeria v. Zebra Energy Ltd",
+        "citation": "(2003) 3 WRN 1",
+        "relationship": "Distinguished",
+        "context": "Commercial contracts vs employment contracts."
+      },
+      {
+        "case": "Udo v. C.S.C. Akwa Ibom State",
+        "citation": "(2006) LPELR 11564",
+        "relationship": "Followed",
+        "context": "Conditions for application of Public Officers Protection Act."
+      },
+      {
+        "case": "A.G. Rivers State v. A.G. Bayelsa State",
+        "citation": "(2013) 3 NWLR Pt. 1340 123",
+        "relationship": "Followed",
+        "context": "Public Officers Protection Act as statute of limitation."
+      }
+    ],
+    "statute_relationships": [
+      {
+        "statute": "Public Officers Protection Act",
+        "provision": "Section 2(a)",
+        "relationship": "applied",
+        "context": "Suit statute barred."
+      },
+      {
+        "statute": "National Industrial Court Act",
+        "provision": "Section 17",
+        "relationship": "interpreted",
+        "context": "No leave required for judicial review."
+      }
+    ],
+    "legal_principle_relationships": [
+      {
+        "principle": "Public Officers Protection Act is a statute of limitation.",
+        "case": "A.G. Rivers State v. A.G. Bayelsa State",
+        "relationship": "applied"
+      }
+    ]
+  },
+  "citation_network": {
+    "authorities_cited": [
+      "Alhaja Silifat Ajilowura v. Taofik Dasu and Others",
+      "Patrick Izuagbe Okoto and Another v. Union Bank Ltd",
+      "EIMSKIP Limited v. Exquisite Industries Nig Ltd",
+      "Grace Jack v. University of Agriculture Markudi",
+      "Federal Govt. of Nigeria and Others v. Zebra Energy Ltd",
+      "Ibrahim v. Judicial Service Committee",
+      "Okeke v. Baba",
+      "Simeon and 183 others v. NS and CDC",
+      "Abiodun and Others v. The Governing Council Oyo State College of Education Oyo and I other",
+      "NIIA v. Ayanfalu",
+      "Kasau Busari and Others v. Minister of Defence and Another",
+      "Alhassan v. Aliyu and Others",
+      "Affoboche v. Ogoja Local Govt and another",
+      "Okoh v. The Nigeria Navy",
+      "Young v. Cross River State Judicial Service Commission",
+      "Olumide v. Aliu",
+      "Egbe v. Adefarasin",
+      "Moumah v. Spring Bank Plc",
+      "Anyanwoko v. Okoye",
+      "Madukolu v. Nkendilim",
+      "Wudi L J.P v. Aliyu",
+      "Cooperative and Commerce Bank Nig Plc v. A.G. Anambra State and Others",
+      "Nuhu Sani Ibrahim v. Independent National Electoral Commission and Others",
+      "Fashawe v. A.G. Fed.",
+      "P & C.H.S Co. Ltd v. Migfo Nig Ltd",
+      "Udo v. C.S.C. Akwa Ibom State and others",
+      "EKEOGU v. Atiri",
+      "Nwaogwugwu v. President, Federal Republic of Nigeria",
+      "Unilorin v. Adeniran",
+      "Odutola v. Unilorin",
+      "A.G. Rivers State v. A.G. Bayelsa State",
+      "Akeem v. Uniibadan",
+      "Eze v. Okechukwu"
+    ],
+    "authorities_followed": [
+      "Udo v. C.S.C. Akwa Ibom State and others",
+      "A.G. Rivers State v. A.G. Bayelsa State",
+      "P & C.H.S Co. Ltd v. Migfo Nig Ltd"
+    ],
+    "authorities_distinguished": [
+      "Federal Government of Nigeria v. Zebra Energy Ltd"
+    ],
+    "authorities_rejected": [],
+    "authorities_overruled": [],
+    "authorities_relied_upon": [
+      "Udo v. C.S.C. Akwa Ibom State and others",
+      "A.G. Rivers State v. A.G. Bayelsa State"
+    ]
+  },
+  "metadata_quality": {
+    "extraction_confidence": 0.95,
+    "fields_missing": [],
+    "fields_uncertain": [
+      "Some case citations lack full details."
+    ],
+    "requires_review": false,
+    "review_reasons": [],
+    "source_completeness": "complete",
+    "ai_extraction_model": "deepseek-chat",
+    "prompt_version": "nicn-v3.2-single-call",
+    "extracted_at": "2026-10-02T08:39:54.741087+00:00"
+  }
+}

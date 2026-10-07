@@ -1,0 +1,485 @@
+{
+  "schema_version": "nicn-ai-metadata-v3.2",
+  "source": {
+    "court": "National Industrial Court of Nigeria",
+    "jurisdiction": "Nigeria",
+    "source_url": "",
+    "source_id": "751",
+    "document_id": "751",
+    "file_name": "full_text.txt",
+    "downloaded_at": "",
+    "document_type": "judgment",
+    "language": "English",
+    "pages": null,
+    "word_count": 337,
+    "extraction_status": "complete",
+    "completeness_confidence": "HIGH"
+  },
+  "case": {
+    "title": "Mr. Epebinu Olawale Babawale v. MTN Nigeria Communications Limited",
+    "case_number": "NICN/LA/385/2012",
+    "court": "National Industrial Court of Nigeria",
+    "judicial_division": "Lagos",
+    "judge": "Hon. Justice O.A. Obaseki-Osaghae",
+    "judgment_date": "2013-05-10",
+    "year": 2013,
+    "claimants": [
+      "Mr. Epebinu Olawale Babawale"
+    ],
+    "defendants": [
+      "MTN Nigeria Communications Limited"
+    ],
+    "appellants": [],
+    "respondents": [],
+    "applicants": [],
+    "interested_parties": [],
+    "counsel": []
+  },
+  "procedural_history": {
+    "originating_proceedings": "Claimant filed a motion on notice on 4th March 2013 pursuant to Order 10 Rules 1, 2 & 3 of the NIC Rules seeking summary judgment.",
+    "procedural_posture": "Motion for summary judgment heard; defendant filed statement of defence out of time and no written address in reply.",
+    "previous_decisions": [],
+    "interlocutory_applications": [
+      "Motion on notice for summary judgment filed 4th March 2013."
+    ],
+    "appeals": [],
+    "orders_before_trial": [],
+    "procedural_events": [
+      "Claimant filed motion on notice on 4th March 2013.",
+      "Defendant filed statement of defence and accompanying processes on 23rd April 2013 (out of time).",
+      "Court found no compliance with Order 10 Rule 4 of NIC Rules.",
+      "Court dismissed the application for summary judgment."
+    ]
+  },
+  "facts": {
+    "material_facts": [
+      "Claimant's employment was terminated by the defendant.",
+      "Claimant claims entitlements totaling N1,816,745.00.",
+      "Claimant seeks release of evidence of tax remittance to the Board of Inland Revenue and to the National Housing Fund."
+    ],
+    "chronology": [
+      {
+        "date": "2013-03-04",
+        "event": "Claimant filed motion on notice for summary judgment."
+      },
+      {
+        "date": "2013-04-23",
+        "event": "Defendant filed statement of defence and accompanying processes out of time."
+      },
+      {
+        "date": "2013-05-10",
+        "event": "Court delivered ruling dismissing the application for summary judgment."
+      }
+    ],
+    "admitted_facts": [],
+    "disputed_facts": [],
+    "background_facts": [
+      "Claimant was an employee of the defendant.",
+      "The employment relationship was terminated."
+    ],
+    "employment_relationship": "Claimant was an employee of the defendant; employment terminated.",
+    "contractual_relationship": "",
+    "documentary_evidence": [],
+    "witness_evidence": []
+  },
+  "claims_and_reliefs": {
+    "causes_of_action": [
+      "Wrongful termination of employment",
+      "Claim for unpaid entitlements",
+      "Claim for release of tax remittance evidence"
+    ],
+    "claims": [
+      {
+        "claim": "Declaration that termination of employment was wrongful, unlawful and malicious.",
+        "legal_basis": "",
+        "claimant": "Mr. Epebinu Olawale Babawale",
+        "against": "MTN Nigeria Communications Limited"
+      },
+      {
+        "claim": "Payment of N1,816,745.00 being entitlements inclusive of costs and professional fees.",
+        "legal_basis": "",
+        "claimant": "Mr. Epebinu Olawale Babawale",
+        "against": "MTN Nigeria Communications Limited"
+      },
+      {
+        "claim": "Release of evidence of tax remittance to the Board of Inland Revenue and to the National Housing Fund.",
+        "legal_basis": "",
+        "claimant": "Mr. Epebinu Olawale Babawale",
+        "against": "MTN Nigeria Communications Limited"
+      }
+    ],
+    "reliefs_sought": [
+      {
+        "relief_number": "1",
+        "relief": "An order entering summary judgement against the defendant declaring the claimant’s termination of his employment as wrongful, unlawful and malicious.",
+        "category": "declaration"
+      },
+      {
+        "relief_number": "2",
+        "relief": "An order entering summary judgement against the defendant for the sum of N1,816,745.00 being the claimant’s entitlements inclusive of the cost incurred in this action and reasonable professional fee.",
+        "category": "monetary"
+      },
+      {
+        "relief_number": "3",
+        "relief": "An order entering summary judgement against the defendant directing the defendant to release evidence of tax remittance to the board of Inland Revenue and to the National Housing Fund.",
+        "category": "mandatory order"
+      },
+      {
+        "relief_number": "4",
+        "relief": "Such further or other order(s) that this Honourable Court may deem fit to make in the circumstance of this case.",
+        "category": "other"
+      }
+    ],
+    "issues_for_determination": [],
+    "questions_of_law": []
+  },
+  "arguments": {
+    "claimant_arguments": [],
+    "defendant_arguments": [],
+    "appellant_arguments": [],
+    "respondent_arguments": [],
+    "submissions": [],
+    "party_authorities": []
+  },
+  "evidence": {
+    "exhibits": [],
+    "witnesses": [],
+    "documentary_evidence": [],
+    "oral_evidence": [],
+    "expert_evidence": [],
+    "evidential_findings": []
+  },
+  "judicial_analysis": {
+    "findings_of_fact": [],
+    "findings_of_law": [
+      {
+        "issue": "Whether the application for summary judgment is competent.",
+        "finding": "Reliefs 1 & 2 and prayers 1 & 3 are not claims for liquidated sums and cannot come under the summary judgement procedure."
+      }
+    ],
+    "reasoning": "The court found that the claims are not for liquidated sums and therefore not suitable for summary judgment. The suit must be heard on the merits. Additionally, the defendant did not comply with Order 10 Rule 4 of the NIC Rules.",
+    "issue_analysis": [
+      {
+        "issue_number": "1",
+        "issue": "Whether summary judgment can be entered for the claimant.",
+        "arguments": {
+          "claimant": "",
+          "defendant": ""
+        },
+        "judicial_analysis": "The court examined the reliefs sought and determined that they are not for liquidated sums. The summary judgment procedure under Order 10 is not applicable. The defendant also failed to comply with Order 10 Rule 4.",
+        "holding": "The application for summary judgment is dismissed.",
+        "ratio_decidendi": "Summary judgment procedure is only applicable to claims for liquidated sums; claims for declarations and unliquidated damages must be heard on the merits.",
+        "result": "Application dismissed."
+      }
+    ],
+    "holdings": [
+      {
+        "issue_number": "1",
+        "issue": "Whether summary judgment can be entered.",
+        "holding": "Summary judgment cannot be entered because the claims are not for liquidated sums.",
+        "result": "Application dismissed."
+      }
+    ],
+    "ratio_decidendi": [
+      {
+        "issue": "Applicability of summary judgment procedure.",
+        "principle": "Summary judgment under Order 10 of the NIC Rules is only available for claims for liquidated sums.",
+        "application": "The claimant's reliefs for declaration of wrongful termination and payment of entitlements are not liquidated sums, so summary judgment is not available.",
+        "holding": "Application dismissed."
+      }
+    ],
+    "obiter_dicta": [],
+    "legal_principles": [
+      {
+        "principle": "Summary judgment is only appropriate for liquidated claims.",
+        "context": "Interpretation of Order 10 Rules 1, 2 & 3 of the NIC Rules.",
+        "source": "Order 10 Rules 1, 2 & 3 of the NIC Rules"
+      }
+    ],
+    "statutory_interpretation": [
+      {
+        "statute": "National Industrial Court Rules",
+        "provision": "Order 10 Rules 1, 2 & 3",
+        "interpretation": "Summary judgment procedure applies only to claims for liquidated sums.",
+        "application": "The claimant's claims are not for liquidated sums, so summary judgment is not applicable."
+      },
+      {
+        "statute": "National Industrial Court Rules",
+        "provision": "Order 10 Rule 4",
+        "interpretation": "Requires compliance for summary judgment applications.",
+        "application": "Defendant did not comply with Order 10 Rule 4."
+      }
+    ],
+    "constitutional_analysis": [],
+    "precedent_analysis": [],
+    "evidential_findings": [],
+    "judicial_observations": []
+  },
+  "authorities": {
+    "cases_cited": [],
+    "statutes": [
+      {
+        "name": "National Industrial Court Rules",
+        "provision": "Order 10 Rules 1, 2 & 3",
+        "proposition": "Summary judgment procedure."
+      },
+      {
+        "name": "National Industrial Court Rules",
+        "provision": "Order 10 Rule 4",
+        "proposition": "Compliance requirement for summary judgment."
+      }
+    ],
+    "constitutional_provisions": [],
+    "regulations": [],
+    "rules": [
+      {
+        "name": "National Industrial Court Rules",
+        "rule": "Order 10 Rules 1, 2 & 3",
+        "proposition": "Summary judgment procedure."
+      },
+      {
+        "name": "National Industrial Court Rules",
+        "rule": "Order 10 Rule 4",
+        "proposition": "Compliance requirement."
+      }
+    ],
+    "international_instruments": [],
+    "other_authorities": []
+  },
+  "precedent_relationships": [],
+  "outcome": {
+    "decision": "Application dismissed.",
+    "overall_result": "Claimant's motion for summary judgment dismissed; case adjourned for hearing on the merits.",
+    "orders": [
+      "Application dismissed.",
+      "Case adjourned."
+    ],
+    "reliefs": [
+      {
+        "relief_number": "1",
+        "relief": "Declaration that termination of employment was wrongful, unlawful and malicious.",
+        "result": "Refused",
+        "reason": "Not a liquidated sum; summary judgment not applicable."
+      },
+      {
+        "relief_number": "2",
+        "relief": "Payment of N1,816,745.00.",
+        "result": "Refused",
+        "reason": "Not a liquidated sum; summary judgment not applicable."
+      },
+      {
+        "relief_number": "3",
+        "relief": "Release of evidence of tax remittance.",
+        "result": "Refused",
+        "reason": "Not a liquidated sum; summary judgment not applicable."
+      },
+      {
+        "relief_number": "4",
+        "relief": "Such further or other orders.",
+        "result": "Refused",
+        "reason": "Consequential; no basis for summary judgment."
+      }
+    ],
+    "reliefs_granted": [],
+    "reliefs_refused": [
+      "Relief 1",
+      "Relief 2",
+      "Relief 3",
+      "Relief 4"
+    ],
+    "reliefs_struck_out": [],
+    "reliefs_dismissed": [],
+    "damages": [],
+    "compensation": [],
+    "costs": {
+      "awarded": false,
+      "amount": "",
+      "recipient": "",
+      "details": ""
+    },
+    "interest": {
+      "awarded": false,
+      "rate": "",
+      "start_date": "",
+      "end_date": "",
+      "basis": ""
+    },
+    "compliance_deadline": "",
+    "declarations": [],
+    "injunctions": [],
+    "specific_orders": [],
+    "final_disposition": "Application dismissed; case adjourned for hearing."
+  },
+  "legal_knowledge": {
+    "holdings": [
+      "Summary judgment cannot be entered for claims that are not liquidated sums."
+    ],
+    "legal_principles": [
+      "Summary judgment procedure is only applicable to claims for liquidated sums."
+    ],
+    "ratio_decidendi": [
+      "Summary judgment under Order 10 of the NIC Rules is only available for claims for liquidated sums."
+    ],
+    "obiter_dicta": [],
+    "causes_of_action": [
+      "Wrongful termination of employment",
+      "Claim for unpaid entitlements",
+      "Claim for release of tax remittance evidence"
+    ],
+    "legal_issues": [
+      "Whether summary judgment can be entered for non-liquidated claims."
+    ],
+    "practice_areas": [
+      "Employment Law",
+      "Civil Procedure"
+    ],
+    "sub_practice_areas": [
+      "Summary Judgment",
+      "Wrongful Termination"
+    ],
+    "legal_concepts": [
+      "Summary judgment",
+      "Liquidated sums",
+      "Wrongful termination"
+    ],
+    "doctrines": [],
+    "remedies": [
+      "Declaration",
+      "Monetary payment",
+      "Mandatory order"
+    ],
+    "employment_law_topics": [
+      "Wrongful termination",
+      "Employee entitlements"
+    ],
+    "jurisdictional_issues": []
+  },
+  "retrieval": {
+    "keywords": [
+      "summary judgment",
+      "wrongful termination",
+      "unlawful termination",
+      "malicious termination",
+      "entitlements",
+      "tax remittance",
+      "National Housing Fund",
+      "Board of Inland Revenue",
+      "NIC Rules",
+      "Order 10"
+    ],
+    "searchable_concepts": [
+      "Summary judgment procedure",
+      "Liquidated sums",
+      "Wrongful termination of employment",
+      "Employee entitlements",
+      "Tax remittance evidence"
+    ],
+    "semantic_topics": [
+      "Employment law",
+      "Civil procedure",
+      "Summary judgment"
+    ],
+    "legal_entities": [
+      "Mr. Epebinu Olawale Babawale",
+      "MTN Nigeria Communications Limited",
+      "National Industrial Court of Nigeria",
+      "Board of Inland Revenue",
+      "National Housing Fund"
+    ],
+    "statutes_referenced": [
+      "National Industrial Court Rules"
+    ],
+    "cases_referenced": [],
+    "citation_phrases": [],
+    "fact_patterns": [
+      "Employee terminated, seeks summary judgment for wrongful termination and entitlements."
+    ],
+    "relief_types": [
+      "Declaration",
+      "Monetary payment",
+      "Mandatory order"
+    ],
+    "decision_types": [
+      "Ruling on motion for summary judgment"
+    ]
+  },
+  "graph_rag": {
+    "entities": [
+      {
+        "name": "Mr. Epebinu Olawale Babawale",
+        "type": "person"
+      },
+      {
+        "name": "MTN Nigeria Communications Limited",
+        "type": "organization"
+      },
+      {
+        "name": "National Industrial Court of Nigeria",
+        "type": "court"
+      },
+      {
+        "name": "Board of Inland Revenue",
+        "type": "organization"
+      },
+      {
+        "name": "National Housing Fund",
+        "type": "organization"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Mr. Epebinu Olawale Babawale",
+        "relationship": "employee of",
+        "target": "MTN Nigeria Communications Limited",
+        "evidence": "Claimant was an employee of the defendant."
+      },
+      {
+        "source": "Mr. Epebinu Olawale Babawale",
+        "relationship": "filed motion against",
+        "target": "MTN Nigeria Communications Limited",
+        "evidence": "Claimant filed motion on notice for summary judgment."
+      }
+    ],
+    "case_relationships": [],
+    "statute_relationships": [
+      {
+        "statute": "National Industrial Court Rules",
+        "provision": "Order 10 Rules 1, 2 & 3",
+        "relationship": "applied",
+        "context": "Summary judgment procedure."
+      },
+      {
+        "statute": "National Industrial Court Rules",
+        "provision": "Order 10 Rule 4",
+        "relationship": "non-compliance",
+        "context": "Defendant did not comply."
+      }
+    ],
+    "legal_principle_relationships": [
+      {
+        "principle": "Summary judgment only for liquidated sums",
+        "case": "Mr. Epebinu Olawale Babawale v. MTN Nigeria Communications Limited",
+        "relationship": "applied"
+      }
+    ]
+  },
+  "citation_network": {
+    "authorities_cited": [],
+    "authorities_followed": [],
+    "authorities_distinguished": [],
+    "authorities_rejected": [],
+    "authorities_overruled": [],
+    "authorities_relied_upon": []
+  },
+  "metadata_quality": {
+    "extraction_confidence": 0.95,
+    "fields_missing": [],
+    "fields_uncertain": [],
+    "requires_review": false,
+    "review_reasons": [],
+    "source_completeness": "complete",
+    "ai_extraction_model": "deepseek-chat",
+    "prompt_version": "nicn-v3.2-single-call",
+    "extracted_at": "2026-10-02T11:07:35.049919+00:00"
+  }
+}

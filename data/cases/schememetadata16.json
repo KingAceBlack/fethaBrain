@@ -1,0 +1,684 @@
+{
+  "schema_version": "nicn-ai-metadata-v3.2",
+  "source": {
+    "court": "National Industrial Court of Nigeria",
+    "jurisdiction": "Nigeria",
+    "source_url": "",
+    "source_id": "479",
+    "document_id": "479",
+    "file_name": "full_text.txt",
+    "downloaded_at": "",
+    "document_type": "judgment",
+    "language": "English",
+    "pages": null,
+    "word_count": 1278,
+    "extraction_status": "complete",
+    "completeness_confidence": "HIGH"
+  },
+  "case": {
+    "title": "Hon. Amadi Ernest Anor v. Uzo-Uwani Local Government Area",
+    "case_number": "NICN/EN/785/2014",
+    "court": "National Industrial Court of Nigeria",
+    "judicial_division": "Enugu",
+    "judge": "Hon. Justice A. Ibrahim",
+    "judgment_date": "2016-03-15",
+    "year": 2016,
+    "claimants": [
+      "Hon. Amadi Ernest",
+      "Other claimants (names not specified in judgment)"
+    ],
+    "defendants": [
+      "Uzo-Uwani Local Government Area"
+    ],
+    "appellants": [],
+    "respondents": [],
+    "applicants": [],
+    "interested_parties": [],
+    "counsel": [
+      {
+        "name": "R. C. Nwigwe Esq.",
+        "represents": "Claimants"
+      },
+      {
+        "name": "G.N. Igwebuike Esq.",
+        "represents": "Defendant"
+      }
+    ]
+  },
+  "procedural_history": {
+    "originating_proceedings": "Complaint and Statement of Facts filed on 4th November 2014.",
+    "procedural_posture": "Preliminary objection filed by Defendant on 7th April 2015 challenging jurisdiction.",
+    "previous_decisions": [],
+    "interlocutory_applications": [
+      "Preliminary objection dated 7th April 2015 praying for dismissal of suit for lack of jurisdiction."
+    ],
+    "appeals": [],
+    "orders_before_trial": [],
+    "procedural_events": [
+      "Claimants filed Complaint and Statement of Facts on 4th November 2014.",
+      "Defendant filed preliminary objection on 7th April 2015.",
+      "Claimants filed Counter-affidavit and written address on 16th April 2015.",
+      "Defendant filed reply on points of law and further affidavit."
+    ]
+  },
+  "facts": {
+    "material_facts": [
+      "Claimants were elected and served as councillors of the Defendant for two terms: 2008/2009 and 2010/2011.",
+      "They finished their second term at the end of December 2011.",
+      "They were not paid their severance allowance.",
+      "Claimants' counsel wrote a pre-action notice dated 19th August 2014.",
+      "Defendant replied by letter dated 2nd September 2014 stating it would not pay."
+    ],
+    "chronology": [
+      {
+        "date": "2008/2009",
+        "event": "Claimants served first term as councillors."
+      },
+      {
+        "date": "2010/2011",
+        "event": "Claimants served second term as councillors."
+      },
+      {
+        "date": "2011-12-31",
+        "event": "Claimants finished second term; severance allowance obligation arose."
+      },
+      {
+        "date": "2014-08-19",
+        "event": "Claimants' counsel wrote pre-action notice to Defendant."
+      },
+      {
+        "date": "2014-09-02",
+        "event": "Defendant replied stating it would not pay severance allowance."
+      },
+      {
+        "date": "2014-11-04",
+        "event": "Claimants filed suit at National Industrial Court."
+      },
+      {
+        "date": "2015-04-07",
+        "event": "Defendant filed preliminary objection."
+      },
+      {
+        "date": "2016-03-15",
+        "event": "Judgment delivered."
+      }
+    ],
+    "admitted_facts": [
+      "Claimants served as councillors for two terms.",
+      "Severance allowance was not paid."
+    ],
+    "disputed_facts": [
+      "Whether the cause of action accrued on 31st December 2011 or 2nd September 2014.",
+      "Whether the suit is statute barred."
+    ],
+    "background_facts": [
+      "Claimants were elected councillors of Uzo-Uwani Local Government Area.",
+      "They sought payment of severance allowance for their second tenure."
+    ],
+    "employment_relationship": "Claimants were elected councillors, not employees under a contract of employment.",
+    "contractual_relationship": "Statutory relationship based on Local Government Law.",
+    "documentary_evidence": [
+      "Pre-action notice dated 19th August 2014.",
+      "Defendant's reply letter dated 2nd September 2014."
+    ],
+    "witness_evidence": []
+  },
+  "claims_and_reliefs": {
+    "causes_of_action": [
+      "Non-payment of severance allowance for second tenure as councillors."
+    ],
+    "claims": [
+      {
+        "claim": "Payment of N2.4 million each as severance allowance for second tenure, totaling N16.8 million for all claimants.",
+        "legal_basis": "Statutory entitlement under Local Government Law",
+        "claimant": "All Claimants",
+        "against": "Defendant"
+      },
+      {
+        "claim": "Payment of N900,000 each as balance of severance allowance, totaling N6.3 million for all claimants.",
+        "legal_basis": "Statutory entitlement under Local Government Law",
+        "claimant": "All Claimants",
+        "against": "Defendant"
+      }
+    ],
+    "reliefs_sought": [
+      {
+        "relief_number": "a",
+        "relief": "An order for immediate release and payment of N2.4m each as severance allowance for second tenure, totaling N16.8M for all claimants.",
+        "category": "Monetary"
+      },
+      {
+        "relief_number": "b",
+        "relief": "An order for immediate release and payment of N900,000 each as balance of severance allowance, totaling N6.3m for all claimants.",
+        "category": "Monetary"
+      }
+    ],
+    "issues_for_determination": [
+      {
+        "issue_number": "1",
+        "issue": "Whether or not the suit is statute barred?",
+        "raised_by": "Court"
+      },
+      {
+        "issue_number": "2",
+        "issue": "Whether or not the claimants can jointly file this suit as co-claimants?",
+        "raised_by": "Court"
+      }
+    ],
+    "questions_of_law": [
+      "Whether the cause of action accrued on 31st December 2011 or 2nd September 2014.",
+      "Whether negotiations can extend the limitation period."
+    ]
+  },
+  "arguments": {
+    "claimant_arguments": [
+      "The cause of action accrued on 2nd September 2014 when the Defendant unequivocally stated it would not pay.",
+      "The Defendant is not entitled to protection of limitation law because it did not act in good faith.",
+      "The suit is not statute barred because time began to run from 2nd September 2014."
+    ],
+    "defendant_arguments": [
+      "The suit is statute barred under section 136 of the Local Government Law Cap 109, Laws of Enugu State 2004, as it was filed more than six months after the cause of action accrued on 31st December 2011.",
+      "The claimants cannot jointly file this action as reliefs are personal to each claimant.",
+      "There is misjoinder of parties and causes of action."
+    ],
+    "appellant_arguments": [],
+    "respondent_arguments": [],
+    "submissions": [],
+    "party_authorities": [
+      {
+        "party": "Defendant",
+        "authority": "Williams v. Williams (2008) 34 NSCQR (Pt.2) 846 at 868",
+        "proposition": "Statute of limitation bars action not brought within six months."
+      },
+      {
+        "party": "Claimants",
+        "authority": "Fasein v. Oyerinde (1997) 11 NWLR (Pt. 530) at 553 SC",
+        "proposition": "Defendant not entitled to protection of limitation law if not acting in good faith."
+      }
+    ]
+  },
+  "evidence": {
+    "exhibits": [],
+    "witnesses": [],
+    "documentary_evidence": [
+      "Pre-action notice dated 19th August 2014.",
+      "Defendant's reply letter dated 2nd September 2014."
+    ],
+    "oral_evidence": [],
+    "expert_evidence": [],
+    "evidential_findings": [
+      {
+        "evidence": "Pre-action notice and reply letter",
+        "finding": "Cause of action arose on 31st December 2011, not 2nd September 2014.",
+        "credibility": "Accepted"
+      }
+    ]
+  },
+  "judicial_analysis": {
+    "findings_of_fact": [
+      {
+        "issue": "When did the cause of action accrue?",
+        "finding": "The obligation to pay severance allowance arose on 31st December 2011."
+      },
+      {
+        "issue": "Was the suit filed within time?",
+        "finding": "The suit was filed on 4th November 2014, more than six months after the cause of action accrued."
+      }
+    ],
+    "findings_of_law": [
+      {
+        "issue": "Whether the suit is statute barred",
+        "finding": "The suit is statute barred under section 136 of the Local Government Law Cap 109, Laws of Enugu State 2004."
+      },
+      {
+        "issue": "Whether negotiations stop time from running",
+        "finding": "Negotiations between parties cannot stop the limitation time from running."
+      }
+    ],
+    "reasoning": "The cause of action accrued on 31st December 2011 when the severance allowance became due. The suit was filed on 4th November 2014, beyond the six-month limitation period. The claimants' argument that time began to run from 2nd September 2014 is rejected because negotiations do not extend the limitation period. The allegation of bad faith is not supported by evidence.",
+    "issue_analysis": [
+      {
+        "issue_number": "1",
+        "issue": "Whether or not the suit is statute barred?",
+        "arguments": {
+          "claimant": "Cause of action accrued on 2nd September 2014; Defendant not entitled to limitation protection due to bad faith.",
+          "defendant": "Suit statute barred under section 136 of Local Government Law; cause of action accrued on 31st December 2011."
+        },
+        "judicial_analysis": "The court examined the date of accrual of cause of action and found it to be 31st December 2011. The suit was filed on 4th November 2014, beyond the six-month period. Negotiations do not stop time from running. Bad faith not established.",
+        "holding": "The suit is statute barred.",
+        "ratio_decidendi": "A suit is statute barred if not filed within the time stipulated by law; negotiations do not extend the limitation period.",
+        "result": "Suit dismissed for being statute barred."
+      },
+      {
+        "issue_number": "2",
+        "issue": "Whether or not the claimants can jointly file this suit as co-claimants?",
+        "arguments": {
+          "claimant": "Claimants can jointly file as co-claimants.",
+          "defendant": "Reliefs are personal to each claimant; cannot be joint."
+        },
+        "judicial_analysis": "The court did not make a specific finding on this issue as the suit was dismissed on the first issue.",
+        "holding": "Not determined.",
+        "ratio_decidendi": "",
+        "result": ""
+      }
+    ],
+    "holdings": [
+      {
+        "issue_number": "1",
+        "issue": "Whether or not the suit is statute barred?",
+        "holding": "The suit is statute barred.",
+        "result": "Suit dismissed."
+      }
+    ],
+    "ratio_decidendi": [
+      {
+        "issue": "Statute of limitation",
+        "principle": "A suit is statute barred if not filed within the time stipulated by law; negotiations do not extend the limitation period.",
+        "application": "The cause of action accrued on 31st December 2011; suit filed on 4th November 2014, beyond six months.",
+        "holding": "Suit statute barred."
+      }
+    ],
+    "obiter_dicta": [],
+    "legal_principles": [
+      {
+        "principle": "Cause of action accrues when the injury or damage occurs.",
+        "context": "Determining when time begins to run for limitation purposes.",
+        "source": "Ezean v. Nigerian Railway Corporation (2015) 3 NWLR (Pt. 1445) 139 at 159."
+      },
+      {
+        "principle": "Negotiations between parties do not stop the limitation time from running.",
+        "context": "Claimants argued that promises to pay extended the limitation period.",
+        "source": "Eboigbe v. NNPC (1994) 5 NWLR (Pt. 347) 649."
+      }
+    ],
+    "statutory_interpretation": [
+      {
+        "statute": "Local Government Law Cap 109, Laws of Enugu State 2004",
+        "provision": "Section 136",
+        "interpretation": "Actions for failure to perform public duty must be commenced within six months.",
+        "application": "Claimants' action filed after six months from accrual of cause of action is statute barred."
+      }
+    ],
+    "constitutional_analysis": [],
+    "precedent_analysis": [
+      {
+        "authority": "Williams v. Williams",
+        "citation": "(2008) 34 NSCQR (Pt.2) 846 at 868",
+        "treatment": "Relied upon",
+        "proposition": "Statute of limitation bars action not brought within six months.",
+        "reasoning": "Cited by Defendant to support statute bar argument."
+      },
+      {
+        "authority": "Ezean v. Nigerian Railway Corporation",
+        "citation": "(2015) 3 NWLR (Pt. 1445) 139 at 159",
+        "treatment": "Relied upon",
+        "proposition": "Cause of action determined from originating processes; if filed beyond limitation, suit statute barred.",
+        "reasoning": "Court used to determine accrual date."
+      },
+      {
+        "authority": "Eboigbe v. NNPC",
+        "citation": "(1994) 5 NWLR (Pt. 347) 649",
+        "treatment": "Relied upon",
+        "proposition": "Negotiations do not stop limitation time from running.",
+        "reasoning": "Court rejected Claimants' argument that negotiations extended time."
+      },
+      {
+        "authority": "Fasein v. Oyerinde",
+        "citation": "(1997) 11 NWLR (Pt. 530) at 553 SC",
+        "treatment": "Considered",
+        "proposition": "Defendant not entitled to limitation protection if not acting in good faith.",
+        "reasoning": "Court found no evidence of bad faith."
+      }
+    ],
+    "evidential_findings": [],
+    "judicial_observations": []
+  },
+  "authorities": {
+    "cases_cited": [
+      {
+        "case_name": "Williams v. Williams",
+        "citation": "(2008) 34 NSCQR (Pt.2) 846 at 868",
+        "court": "Supreme Court of Nigeria",
+        "year": 2008,
+        "proposition": "Statute of limitation bars action not brought within six months.",
+        "treatment": "Relied upon",
+        "cited_by": "Defendant",
+        "importance": "Supporting statute bar argument."
+      },
+      {
+        "case_name": "Ezean v. Nigerian Railway Corporation",
+        "citation": "(2015) 3 NWLR (Pt. 1445) 139 at 159",
+        "court": "Supreme Court of Nigeria",
+        "year": 2015,
+        "proposition": "Cause of action determined from originating processes; if filed beyond limitation, suit statute barred.",
+        "treatment": "Relied upon",
+        "cited_by": "Court",
+        "importance": "Determining accrual date."
+      },
+      {
+        "case_name": "Eboigbe v. NNPC",
+        "citation": "(1994) 5 NWLR (Pt. 347) 649",
+        "court": "Supreme Court of Nigeria",
+        "year": 1994,
+        "proposition": "Negotiations do not stop limitation time from running.",
+        "treatment": "Relied upon",
+        "cited_by": "Court",
+        "importance": "Rejecting Claimants' argument."
+      },
+      {
+        "case_name": "Fasein v. Oyerinde",
+        "citation": "(1997) 11 NWLR (Pt. 530) at 553 SC",
+        "court": "Supreme Court of Nigeria",
+        "year": 1997,
+        "proposition": "Defendant not entitled to limitation protection if not acting in good faith.",
+        "treatment": "Considered",
+        "cited_by": "Claimants",
+        "importance": "Claimants' argument on bad faith."
+      }
+    ],
+    "statutes": [
+      {
+        "name": "Local Government Law Cap 109, Laws of Enugu State 2004",
+        "provision": "Section 136",
+        "proposition": "Actions for failure to perform public duty must be commenced within six months."
+      }
+    ],
+    "constitutional_provisions": [],
+    "regulations": [],
+    "rules": [],
+    "international_instruments": [],
+    "other_authorities": []
+  },
+  "precedent_relationships": [
+    {
+      "authority": "Williams v. Williams",
+      "citation": "(2008) 34 NSCQR (Pt.2) 846 at 868",
+      "relationship": "Relied upon",
+      "proposition": "Statute of limitation bars action not brought within six months.",
+      "context": "Defendant's argument on statute bar."
+    },
+    {
+      "authority": "Ezean v. Nigerian Railway Corporation",
+      "citation": "(2015) 3 NWLR (Pt. 1445) 139 at 159",
+      "relationship": "Relied upon",
+      "proposition": "Cause of action determined from originating processes.",
+      "context": "Court's determination of accrual date."
+    },
+    {
+      "authority": "Eboigbe v. NNPC",
+      "citation": "(1994) 5 NWLR (Pt. 347) 649",
+      "relationship": "Relied upon",
+      "proposition": "Negotiations do not stop limitation time from running.",
+      "context": "Rejecting Claimants' argument."
+    },
+    {
+      "authority": "Fasein v. Oyerinde",
+      "citation": "(1997) 11 NWLR (Pt. 530) at 553 SC",
+      "relationship": "Considered",
+      "proposition": "Bad faith exception to limitation.",
+      "context": "Claimants' argument on bad faith."
+    }
+  ],
+  "outcome": {
+    "decision": "Suit dismissed for being statute barred.",
+    "overall_result": "Claimants' claims dismissed.",
+    "orders": [
+      "Suit dismissed."
+    ],
+    "reliefs": [
+      {
+        "relief_number": "a",
+        "relief": "Payment of N2.4m each as severance allowance.",
+        "result": "Dismissed",
+        "reason": "Statute barred."
+      },
+      {
+        "relief_number": "b",
+        "relief": "Payment of N900,000 each as balance of severance allowance.",
+        "result": "Dismissed",
+        "reason": "Statute barred."
+      }
+    ],
+    "reliefs_granted": [],
+    "reliefs_refused": [
+      "Relief (a)",
+      "Relief (b)"
+    ],
+    "reliefs_struck_out": [],
+    "reliefs_dismissed": [
+      "Relief (a)",
+      "Relief (b)"
+    ],
+    "damages": [],
+    "compensation": [],
+    "costs": {
+      "awarded": false,
+      "amount": "",
+      "recipient": "",
+      "details": ""
+    },
+    "interest": {
+      "awarded": false,
+      "rate": "",
+      "start_date": "",
+      "end_date": "",
+      "basis": ""
+    },
+    "compliance_deadline": "",
+    "declarations": [],
+    "injunctions": [],
+    "specific_orders": [],
+    "final_disposition": "Suit dismissed."
+  },
+  "legal_knowledge": {
+    "holdings": [
+      "Suit is statute barred under section 136 of the Local Government Law Cap 109, Laws of Enugu State 2004."
+    ],
+    "legal_principles": [
+      "Cause of action accrues when the injury or damage occurs.",
+      "Negotiations between parties do not stop the limitation time from running."
+    ],
+    "ratio_decidendi": [
+      "A suit is statute barred if not filed within the time stipulated by law; negotiations do not extend the limitation period."
+    ],
+    "obiter_dicta": [],
+    "causes_of_action": [
+      "Non-payment of severance allowance."
+    ],
+    "legal_issues": [
+      "Whether the suit is statute barred.",
+      "Whether claimants can jointly file suit."
+    ],
+    "practice_areas": [
+      "Employment Law",
+      "Local Government Law",
+      "Limitation of Actions"
+    ],
+    "sub_practice_areas": [
+      "Severance Allowance",
+      "Statute of Limitation"
+    ],
+    "legal_concepts": [
+      "Statute Bar",
+      "Cause of Action",
+      "Limitation Period",
+      "Severance Allowance"
+    ],
+    "doctrines": [
+      "Statute of Limitation"
+    ],
+    "remedies": [
+      "Monetary Payment"
+    ],
+    "employment_law_topics": [
+      "Severance Allowance",
+      "Local Government Councillors"
+    ],
+    "jurisdictional_issues": [
+      "Statute Bar"
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "statute barred",
+      "severance allowance",
+      "local government",
+      "councillors",
+      "limitation period",
+      "Enugu State",
+      "National Industrial Court"
+    ],
+    "searchable_concepts": [
+      "Statute of limitation",
+      "Cause of action accrual",
+      "Negotiations and limitation",
+      "Severance allowance for councillors"
+    ],
+    "semantic_topics": [
+      "Limitation of actions",
+      "Local government employment benefits",
+      "Jurisdictional challenge"
+    ],
+    "legal_entities": [
+      "Uzo-Uwani Local Government Area",
+      "Hon. Amadi Ernest",
+      "National Industrial Court of Nigeria"
+    ],
+    "statutes_referenced": [
+      "Local Government Law Cap 109, Laws of Enugu State 2004, Section 136"
+    ],
+    "cases_referenced": [
+      "Williams v. Williams (2008) 34 NSCQR (Pt.2) 846",
+      "Ezean v. Nigerian Railway Corporation (2015) 3 NWLR (Pt. 1445) 139",
+      "Eboigbe v. NNPC (1994) 5 NWLR (Pt. 347) 649",
+      "Fasein v. Oyerinde (1997) 11 NWLR (Pt. 530) 553"
+    ],
+    "citation_phrases": [
+      "statute barred",
+      "cause of action accrued",
+      "limitation time from running"
+    ],
+    "fact_patterns": [
+      "Elected councillors not paid severance allowance",
+      "Suit filed more than six months after accrual"
+    ],
+    "relief_types": [
+      "Monetary payment"
+    ],
+    "decision_types": [
+      "Dismissal for statute bar"
+    ]
+  },
+  "graph_rag": {
+    "entities": [
+      {
+        "name": "Hon. Amadi Ernest",
+        "type": "Person"
+      },
+      {
+        "name": "Uzo-Uwani Local Government Area",
+        "type": "Organization"
+      },
+      {
+        "name": "National Industrial Court of Nigeria",
+        "type": "Court"
+      },
+      {
+        "name": "Local Government Law Cap 109, Laws of Enugu State 2004",
+        "type": "Statute"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Hon. Amadi Ernest",
+        "relationship": "sued",
+        "target": "Uzo-Uwani Local Government Area",
+        "evidence": "Claimants sued Defendant for severance allowance."
+      },
+      {
+        "source": "Uzo-Uwani Local Government Area",
+        "relationship": "failed to pay",
+        "target": "Hon. Amadi Ernest",
+        "evidence": "Severance allowance not paid."
+      }
+    ],
+    "case_relationships": [
+      {
+        "case": "Williams v. Williams",
+        "citation": "(2008) 34 NSCQR (Pt.2) 846",
+        "relationship": "Relied upon",
+        "context": "Statute bar argument."
+      },
+      {
+        "case": "Ezean v. Nigerian Railway Corporation",
+        "citation": "(2015) 3 NWLR (Pt. 1445) 139",
+        "relationship": "Relied upon",
+        "context": "Cause of action accrual."
+      },
+      {
+        "case": "Eboigbe v. NNPC",
+        "citation": "(1994) 5 NWLR (Pt. 347) 649",
+        "relationship": "Relied upon",
+        "context": "Negotiations and limitation."
+      },
+      {
+        "case": "Fasein v. Oyerinde",
+        "citation": "(1997) 11 NWLR (Pt. 530) 553",
+        "relationship": "Considered",
+        "context": "Bad faith exception."
+      }
+    ],
+    "statute_relationships": [
+      {
+        "statute": "Local Government Law Cap 109, Laws of Enugu State 2004",
+        "provision": "Section 136",
+        "relationship": "Applied",
+        "context": "Statute bar determination."
+      }
+    ],
+    "legal_principle_relationships": [
+      {
+        "principle": "Statute of limitation bars action not brought within time.",
+        "case": "Williams v. Williams",
+        "relationship": "Established by"
+      },
+      {
+        "principle": "Negotiations do not stop limitation time from running.",
+        "case": "Eboigbe v. NNPC",
+        "relationship": "Established by"
+      }
+    ]
+  },
+  "citation_network": {
+    "authorities_cited": [
+      "Williams v. Williams (2008) 34 NSCQR (Pt.2) 846",
+      "Ezean v. Nigerian Railway Corporation (2015) 3 NWLR (Pt. 1445) 139",
+      "Eboigbe v. NNPC (1994) 5 NWLR (Pt. 347) 649",
+      "Fasein v. Oyerinde (1997) 11 NWLR (Pt. 530) 553"
+    ],
+    "authorities_followed": [
+      "Williams v. Williams",
+      "Ezean v. Nigerian Railway Corporation",
+      "Eboigbe v. NNPC"
+    ],
+    "authorities_distinguished": [],
+    "authorities_rejected": [],
+    "authorities_overruled": [],
+    "authorities_relied_upon": [
+      "Williams v. Williams",
+      "Ezean v. Nigerian Railway Corporation",
+      "Eboigbe v. NNPC"
+    ]
+  },
+  "metadata_quality": {
+    "extraction_confidence": 0.95,
+    "fields_missing": [],
+    "fields_uncertain": [],
+    "requires_review": false,
+    "review_reasons": [],
+    "source_completeness": "complete",
+    "ai_extraction_model": "deepseek-chat",
+    "prompt_version": "nicn-v3.2-single-call",
+    "extracted_at": "2026-10-02T09:24:42.735460+00:00"
+  }
+}

@@ -1,0 +1,778 @@
+{
+  "schema_version": "nicn-ai-metadata-v3.2",
+  "source": {
+    "court": "National Industrial Court of Nigeria",
+    "jurisdiction": "Nigeria",
+    "source_url": "",
+    "source_id": "648",
+    "document_id": "648",
+    "file_name": "full_text.txt",
+    "downloaded_at": "",
+    "document_type": "judgment",
+    "language": "English",
+    "pages": null,
+    "word_count": 970,
+    "extraction_status": "complete",
+    "completeness_confidence": "HIGH"
+  },
+  "case": {
+    "title": "IFEOMA NWAKO v. BELLVIEW AIRLINES LIMITED",
+    "case_number": "NICN/LA/151/2012",
+    "court": "National Industrial Court of Nigeria",
+    "judicial_division": "Lagos",
+    "judge": "HON. JUSTICE J. T. AGBADU-FISHIM",
+    "judgment_date": "2014-03-13",
+    "year": 2014,
+    "claimants": [],
+    "defendants": [],
+    "appellants": [],
+    "respondents": [],
+    "applicants": [
+      "BELLVIEW AIRLINES LIMITED"
+    ],
+    "interested_parties": [],
+    "counsel": []
+  },
+  "procedural_history": {
+    "originating_proceedings": "Judgment of the National Industrial Court delivered on 10th January, 2013 in Suit No: NICN/LA/151/2012.",
+    "procedural_posture": "Motion on notice dated and filed on 19th December, 2013 seeking stay of execution of the judgment of 10th January, 2013 pending appeal and injunction restraining enforcement.",
+    "previous_decisions": [
+      {
+        "date": "2013-01-10",
+        "decision": "Judgment of the National Industrial Court in Suit No: NICN/LA/151/2012."
+      }
+    ],
+    "interlocutory_applications": [
+      {
+        "application": "Motion on notice for stay of execution and injunction",
+        "filed_date": "2013-12-19",
+        "status": "dismissed"
+      }
+    ],
+    "appeals": [
+      {
+        "appeal": "Notice of appeal without appeal number",
+        "status": "no valid appeal filed"
+      }
+    ],
+    "orders_before_trial": [],
+    "procedural_events": [
+      "Applicant filed motion on notice on 19th December, 2013.",
+      "Respondent filed counter affidavit and written address.",
+      "Applicant filed reply on points of law."
+    ]
+  },
+  "facts": {
+    "material_facts": [
+      "The applicant sought stay of execution of the judgment of this court delivered on 10th January, 2013 pending appeal.",
+      "The applicant also sought an injunction restraining the judgment creditor from enforcing the judgment.",
+      "The applicant exhibited a notice of appeal without an appeal number."
+    ],
+    "chronology": [
+      {
+        "date": "2013-01-10",
+        "event": "Judgment delivered by the National Industrial Court."
+      },
+      {
+        "date": "2013-12-19",
+        "event": "Motion on notice for stay of execution filed."
+      },
+      {
+        "date": "2014-03-13",
+        "event": "Ruling delivered dismissing the application."
+      }
+    ],
+    "admitted_facts": [],
+    "disputed_facts": [],
+    "background_facts": [],
+    "employment_relationship": "",
+    "contractual_relationship": "",
+    "documentary_evidence": [
+      "Notice of appeal without an appeal number."
+    ],
+    "witness_evidence": []
+  },
+  "claims_and_reliefs": {
+    "causes_of_action": [],
+    "claims": [],
+    "reliefs_sought": [
+      {
+        "relief_number": "1",
+        "relief": "An order staying the execution of this court's Judgment delivered on 10th January, 2013 pending the hearing and determination of the appeal against the Judgment of this court at the Court of Appeal.",
+        "category": "stay of execution"
+      },
+      {
+        "relief_number": "2",
+        "relief": "An order of injunction restraining the judgment debtor from commencing and/or continuing any enforcement proceedings or actions in respect of, pertaining to, or flowing from the Judgment of this court delivered on 10th January, 2013.",
+        "category": "injunction"
+      }
+    ],
+    "issues_for_determination": [
+      {
+        "issue_number": "1",
+        "issue": "Whether this court should grant a stay of execution in the circumstance of this case.",
+        "raised_by": "Court"
+      }
+    ],
+    "questions_of_law": []
+  },
+  "arguments": {
+    "claimant_arguments": [],
+    "defendant_arguments": [],
+    "appellant_arguments": [],
+    "respondent_arguments": [
+      "The applicant having not filed an appeal challenging the Judgment of this court cannot bring an application for its stay or seek an injunction restraining its enforcement."
+    ],
+    "submissions": [],
+    "party_authorities": [
+      {
+        "party": "Applicant",
+        "authority": "City Ex. Bank Ltd v. Lagos State Govt. [2004] 7 NWLR (pt. 872) 258",
+        "proposition": ""
+      },
+      {
+        "party": "Applicant",
+        "authority": "Shittu Ogunremi v. Chief Dada [1962] 1 All NLR 670",
+        "proposition": ""
+      },
+      {
+        "party": "Applicant",
+        "authority": "Martins v. Nicannar Food Company [1988] 2 NWLR (pt. 74) 83",
+        "proposition": ""
+      },
+      {
+        "party": "Applicant",
+        "authority": "Nwabueze v. Nwosu [1988] 4 NWLR (pt. 88) 257",
+        "proposition": ""
+      },
+      {
+        "party": "Applicant",
+        "authority": "Ifeadi v. Atedze [1995] 5 NWLR (pt. 394) at 221",
+        "proposition": ""
+      },
+      {
+        "party": "Applicant",
+        "authority": "Ceekay Traders Ltd v. General Motors Co. Ltd [1992] 2 NWLR (pt. 222) 132",
+        "proposition": ""
+      },
+      {
+        "party": "Respondent",
+        "authority": "Udeh v. Okoli & Ors [2009] 3 MJSC 1 at p. 18",
+        "proposition": ""
+      },
+      {
+        "party": "Respondent",
+        "authority": "Babington-Ashaye v. E.M.A.G. Ent. (Nig) Ltd [2011] 10 NWLR (pt. 1256) p. 479 at 540",
+        "proposition": ""
+      },
+      {
+        "party": "Respondent",
+        "authority": "Mobil Oil (Nig) Ltd v. Assam [1995] 8 NWLR (pt. 412) p. 129",
+        "proposition": ""
+      },
+      {
+        "party": "Respondent",
+        "authority": "Mobil Oil Ltd v. Agadaigho [1988] 4 SC 273 at p. 286",
+        "proposition": ""
+      }
+    ]
+  },
+  "evidence": {
+    "exhibits": [
+      {
+        "identifier": "",
+        "description": "Notice of appeal without an appeal number",
+        "party": "Applicant",
+        "relevance": "To show existence of an appeal"
+      }
+    ],
+    "witnesses": [],
+    "documentary_evidence": [
+      "Notice of appeal without an appeal number"
+    ],
+    "oral_evidence": [],
+    "expert_evidence": [],
+    "evidential_findings": [
+      {
+        "evidence": "Notice of appeal without an appeal number",
+        "finding": "No valid appeal before the Court of Appeal",
+        "credibility": ""
+      }
+    ]
+  },
+  "judicial_analysis": {
+    "findings_of_fact": [
+      {
+        "issue": "Existence of a valid appeal",
+        "finding": "There is no evidence of a valid appeal at the Court of Appeal; only a mere notice of appeal without an appeal number was exhibited."
+      }
+    ],
+    "findings_of_law": [
+      {
+        "issue": "Conditions for stay of execution",
+        "finding": "A stay of execution will only be granted if there are special or exceptional circumstances. An application for stay must be predicated on a valid appeal."
+      }
+    ],
+    "reasoning": "The applicant failed to show exceptional circumstances warranting a stay. More importantly, there was no valid appeal filed; a mere notice of appeal without an appeal number is insufficient. Therefore, the application is incompetent.",
+    "issue_analysis": [
+      {
+        "issue_number": "1",
+        "issue": "Whether this court should grant a stay of execution in the circumstance of this case.",
+        "arguments": {
+          "claimant": "",
+          "defendant": ""
+        },
+        "judicial_analysis": "The court considered the guiding principles for stay of execution under Section 47 of the National Industrial Court Act 2006 and case law. It found that the applicant did not show exceptional circumstances. It also found that there was no valid appeal before the Court of Appeal, as required for an application for stay. The court relied on Mobil Oil Ltd v. Agadaigho and other authorities.",
+        "holding": "The application for stay of execution is refused and dismissed.",
+        "ratio_decidendi": "An application for stay of execution is incompetent without a valid appeal filed against the judgment sought to be stayed. A mere notice of appeal without an appeal number does not constitute a valid appeal.",
+        "result": "Application dismissed."
+      }
+    ],
+    "holdings": [
+      {
+        "issue_number": "1",
+        "issue": "Whether this court should grant a stay of execution in the circumstance of this case.",
+        "holding": "The applicant has not shown exceptional circumstances to warrant the exercise of discretion in its favour. The absence of a valid appeal renders the application incompetent.",
+        "result": "Application dismissed."
+      }
+    ],
+    "ratio_decidendi": [
+      {
+        "issue": "Stay of execution pending appeal",
+        "principle": "A stay of execution will only be granted if there are special or exceptional circumstances. An application for stay must be predicated on a valid appeal filed against the judgment.",
+        "application": "The applicant failed to show exceptional circumstances and failed to file a valid appeal; only a notice of appeal without an appeal number was exhibited.",
+        "holding": "Application for stay of execution dismissed."
+      }
+    ],
+    "obiter_dicta": [],
+    "legal_principles": [
+      {
+        "principle": "Stay of execution requires special or exceptional circumstances.",
+        "context": "Application for stay of execution pending appeal.",
+        "source": "Olulonyo v. Adediran [2001] 14 NWLR (pt. 734) 699 at 709"
+      },
+      {
+        "principle": "An application for stay of execution must be predicated on a valid appeal.",
+        "context": "Application for stay of execution pending appeal.",
+        "source": "Mobil Oil Ltd v. Agadaigho [1988] 4 SC 273 at p. 286"
+      }
+    ],
+    "statutory_interpretation": [
+      {
+        "statute": "National Industrial Court Act 2006",
+        "provision": "Section 47",
+        "interpretation": "Provides guiding principles for stay of execution.",
+        "application": "Court considered the principles in refusing the application."
+      }
+    ],
+    "constitutional_analysis": [],
+    "precedent_analysis": [
+      {
+        "authority": "Olulonyo v. Adediran",
+        "citation": "[2001] 14 NWLR (pt. 734) 699 at 709",
+        "treatment": "followed",
+        "proposition": "A stay of execution will only be granted if there are special or exceptional circumstances.",
+        "reasoning": "Supreme Court decision applied."
+      },
+      {
+        "authority": "Mobil Oil Ltd v. Agadaigho",
+        "citation": "[1988] 4 SC 273 at p. 286",
+        "treatment": "followed",
+        "proposition": "Before an application for stay of execution can be competent, an appeal must first be filed.",
+        "reasoning": "Supreme Court decision applied."
+      },
+      {
+        "authority": "NNPC v. BCE consulting Engineers",
+        "citation": "[2004] 2 NWLR (pt. 858) 484 at 498",
+        "treatment": "followed",
+        "proposition": "An important or recondite point of law should not per se warrant a stay of execution unless it also produces a special circumstance.",
+        "reasoning": "Court of Appeal decision applied."
+      },
+      {
+        "authority": "T.S.A (Ind.) Ltd v. Kema Investment Ltd",
+        "citation": "[2006] All FWLR (pt. 300) 1564 at 1576",
+        "treatment": "followed",
+        "proposition": "It is not every case where grounds of appeal raise point or points of law that stay of execution will be granted.",
+        "reasoning": "Supreme Court decision applied."
+      }
+    ],
+    "evidential_findings": [],
+    "judicial_observations": []
+  },
+  "authorities": {
+    "cases_cited": [
+      {
+        "case_name": "City Ex. Bank Ltd v. Lagos State Govt.",
+        "citation": "[2004] 7 NWLR (pt. 872) 258",
+        "court": "",
+        "year": 2004,
+        "proposition": "",
+        "treatment": "",
+        "cited_by": "Applicant",
+        "importance": ""
+      },
+      {
+        "case_name": "Shittu Ogunremi v. Chief Dada",
+        "citation": "[1962] 1 All NLR 670",
+        "court": "",
+        "year": 1962,
+        "proposition": "",
+        "treatment": "",
+        "cited_by": "Applicant",
+        "importance": ""
+      },
+      {
+        "case_name": "Martins v. Nicannar Food Company",
+        "citation": "[1988] 2 NWLR (pt. 74) 83",
+        "court": "",
+        "year": 1988,
+        "proposition": "",
+        "treatment": "",
+        "cited_by": "Applicant",
+        "importance": ""
+      },
+      {
+        "case_name": "Nwabueze v. Nwosu",
+        "citation": "[1988] 4 NWLR (pt. 88) 257",
+        "court": "",
+        "year": 1988,
+        "proposition": "",
+        "treatment": "",
+        "cited_by": "Applicant",
+        "importance": ""
+      },
+      {
+        "case_name": "Ifeadi v. Atedze",
+        "citation": "[1995] 5 NWLR (pt. 394) at 221",
+        "court": "",
+        "year": 1995,
+        "proposition": "",
+        "treatment": "",
+        "cited_by": "Applicant",
+        "importance": ""
+      },
+      {
+        "case_name": "Ceekay Traders Ltd v. General Motors Co. Ltd",
+        "citation": "[1992] 2 NWLR (pt. 222) 132",
+        "court": "",
+        "year": 1992,
+        "proposition": "",
+        "treatment": "",
+        "cited_by": "Applicant",
+        "importance": ""
+      },
+      {
+        "case_name": "Udeh v. Okoli & Ors",
+        "citation": "[2009] 3 MJSC 1 at p. 18",
+        "court": "",
+        "year": 2009,
+        "proposition": "",
+        "treatment": "",
+        "cited_by": "Respondent",
+        "importance": ""
+      },
+      {
+        "case_name": "Babington-Ashaye v. E.M.A.G. Ent. (Nig) Ltd",
+        "citation": "[2011] 10 NWLR (pt. 1256) p. 479 at 540",
+        "court": "",
+        "year": 2011,
+        "proposition": "",
+        "treatment": "",
+        "cited_by": "Respondent",
+        "importance": ""
+      },
+      {
+        "case_name": "Mobil Oil (Nig) Ltd v. Assam",
+        "citation": "[1995] 8 NWLR (pt. 412) p. 129",
+        "court": "",
+        "year": 1995,
+        "proposition": "",
+        "treatment": "",
+        "cited_by": "Respondent",
+        "importance": ""
+      },
+      {
+        "case_name": "Mobil Oil Ltd v. Agadaigho",
+        "citation": "[1988] 4 SC 273 at p. 286",
+        "court": "Supreme Court",
+        "year": 1988,
+        "proposition": "Before an application for stay of execution can be competent, an appeal must first be filed.",
+        "treatment": "followed",
+        "cited_by": "Respondent",
+        "importance": "key authority"
+      },
+      {
+        "case_name": "Olojede v. Olaleye",
+        "citation": "[2010] 4 NWLR (pt. 1183) p. 1 at 41",
+        "court": "",
+        "year": 2010,
+        "proposition": "",
+        "treatment": "",
+        "cited_by": "Court",
+        "importance": ""
+      },
+      {
+        "case_name": "Martins v. Nicannnar Food Co. Ltd",
+        "citation": "[1988] 2 NWLR (pt. 74) p. 75",
+        "court": "",
+        "year": 1988,
+        "proposition": "",
+        "treatment": "",
+        "cited_by": "Court",
+        "importance": ""
+      },
+      {
+        "case_name": "Shodeinde v. Regd. Trustees of Ahmadiya Movt in Islam",
+        "citation": "[1980] 1, 2, SC 163",
+        "court": "Supreme Court",
+        "year": 1980,
+        "proposition": "",
+        "treatment": "",
+        "cited_by": "Court",
+        "importance": ""
+      },
+      {
+        "case_name": "Vaswani Trading Co. Ltd v. Savalakh & Co",
+        "citation": "[1972] 12 SC, 77",
+        "court": "Supreme Court",
+        "year": 1972,
+        "proposition": "",
+        "treatment": "",
+        "cited_by": "Court",
+        "importance": ""
+      },
+      {
+        "case_name": "Olulonyo v. Adediran",
+        "citation": "[2001] 14 NWLR (pt. 734) 699 at 709",
+        "court": "Supreme Court",
+        "year": 2001,
+        "proposition": "A stay of execution will only be granted if there are special or exceptional circumstances.",
+        "treatment": "followed",
+        "cited_by": "Court",
+        "importance": "key authority"
+      },
+      {
+        "case_name": "NNPC v. BCE consulting Engineers",
+        "citation": "[2004] 2 NWLR (pt. 858) 484 at 498",
+        "court": "Court of Appeal",
+        "year": 2004,
+        "proposition": "An important or recondite point of law should not per se warrant a stay of execution unless it also produces a special circumstance.",
+        "treatment": "followed",
+        "cited_by": "Court",
+        "importance": ""
+      },
+      {
+        "case_name": "T.S.A (Ind.) Ltd v. Kema Investment Ltd",
+        "citation": "[2006] All FWLR (pt. 300) 1564 at 1576",
+        "court": "Supreme Court",
+        "year": 2006,
+        "proposition": "It is not every case where grounds of appeal raise point or points of law that stay of execution will be granted.",
+        "treatment": "followed",
+        "cited_by": "Court",
+        "importance": ""
+      }
+    ],
+    "statutes": [
+      {
+        "name": "National Industrial Court Act 2006",
+        "provision": "Section 47",
+        "proposition": "Guiding principles for stay of execution."
+      }
+    ],
+    "constitutional_provisions": [],
+    "regulations": [],
+    "rules": [],
+    "international_instruments": [],
+    "other_authorities": []
+  },
+  "precedent_relationships": [
+    {
+      "authority": "Olulonyo v. Adediran",
+      "citation": "[2001] 14 NWLR (pt. 734) 699 at 709",
+      "relationship": "followed",
+      "proposition": "Stay of execution requires special or exceptional circumstances.",
+      "context": "Application for stay of execution."
+    },
+    {
+      "authority": "Mobil Oil Ltd v. Agadaigho",
+      "citation": "[1988] 4 SC 273 at p. 286",
+      "relationship": "followed",
+      "proposition": "Valid appeal is a precondition for stay of execution.",
+      "context": "Application for stay of execution."
+    },
+    {
+      "authority": "NNPC v. BCE consulting Engineers",
+      "citation": "[2004] 2 NWLR (pt. 858) 484 at 498",
+      "relationship": "followed",
+      "proposition": "Important point of law not sufficient for stay unless special circumstance.",
+      "context": "Application for stay of execution."
+    },
+    {
+      "authority": "T.S.A (Ind.) Ltd v. Kema Investment Ltd",
+      "citation": "[2006] All FWLR (pt. 300) 1564 at 1576",
+      "relationship": "followed",
+      "proposition": "Arguable grounds of appeal not special circumstance for stay.",
+      "context": "Application for stay of execution."
+    }
+  ],
+  "outcome": {
+    "decision": "Application dismissed.",
+    "overall_result": "Application for stay of execution and injunction refused and dismissed.",
+    "orders": [
+      "Application dismissed.",
+      "No order as to cost."
+    ],
+    "reliefs": [
+      {
+        "relief_number": "1",
+        "relief": "Stay of execution of judgment delivered on 10th January, 2013 pending appeal.",
+        "result": "refused",
+        "reason": "No exceptional circumstances shown and no valid appeal filed."
+      },
+      {
+        "relief_number": "2",
+        "relief": "Injunction restraining enforcement of judgment.",
+        "result": "refused",
+        "reason": "No valid appeal filed; application incompetent."
+      }
+    ],
+    "reliefs_granted": [],
+    "reliefs_refused": [
+      "Stay of execution",
+      "Injunction"
+    ],
+    "reliefs_struck_out": [],
+    "reliefs_dismissed": [
+      "Stay of execution",
+      "Injunction"
+    ],
+    "damages": [],
+    "compensation": [],
+    "costs": {
+      "awarded": false,
+      "amount": "",
+      "recipient": "",
+      "details": "No order as to cost."
+    },
+    "interest": {
+      "awarded": false,
+      "rate": "",
+      "start_date": "",
+      "end_date": "",
+      "basis": ""
+    },
+    "compliance_deadline": "",
+    "declarations": [],
+    "injunctions": [],
+    "specific_orders": [],
+    "final_disposition": "Application dismissed."
+  },
+  "legal_knowledge": {
+    "holdings": [
+      "Application for stay of execution dismissed for lack of exceptional circumstances and absence of a valid appeal."
+    ],
+    "legal_principles": [
+      "Stay of execution requires special or exceptional circumstances.",
+      "An application for stay of execution must be predicated on a valid appeal."
+    ],
+    "ratio_decidendi": [
+      "An application for stay of execution is incompetent without a valid appeal filed against the judgment sought to be stayed."
+    ],
+    "obiter_dicta": [],
+    "causes_of_action": [],
+    "legal_issues": [
+      "Whether to grant stay of execution pending appeal."
+    ],
+    "practice_areas": [
+      "Civil Procedure",
+      "Appellate Practice"
+    ],
+    "sub_practice_areas": [
+      "Stay of Execution",
+      "Injunction"
+    ],
+    "legal_concepts": [
+      "Stay of execution",
+      "Injunction",
+      "Valid appeal",
+      "Exceptional circumstances"
+    ],
+    "doctrines": [],
+    "remedies": [
+      "Stay of execution",
+      "Injunction"
+    ],
+    "employment_law_topics": [],
+    "jurisdictional_issues": []
+  },
+  "retrieval": {
+    "keywords": [
+      "stay of execution",
+      "injunction",
+      "valid appeal",
+      "exceptional circumstances",
+      "National Industrial Court",
+      "notice of appeal"
+    ],
+    "searchable_concepts": [
+      "stay of execution pending appeal",
+      "competence of stay application",
+      "requirement of valid appeal"
+    ],
+    "semantic_topics": [
+      "Civil procedure",
+      "Appellate practice",
+      "Stay of execution"
+    ],
+    "legal_entities": [
+      "National Industrial Court of Nigeria",
+      "Court of Appeal",
+      "Bellview Airlines Limited",
+      "Ifeoma Nwako"
+    ],
+    "statutes_referenced": [
+      "National Industrial Court Act 2006"
+    ],
+    "cases_referenced": [
+      "Olulonyo v. Adediran",
+      "Mobil Oil Ltd v. Agadaigho",
+      "NNPC v. BCE consulting Engineers",
+      "T.S.A (Ind.) Ltd v. Kema Investment Ltd"
+    ],
+    "citation_phrases": [
+      "[2001] 14 NWLR (pt. 734) 699",
+      "[1988] 4 SC 273",
+      "[2004] 2 NWLR (pt. 858) 484",
+      "[2006] All FWLR (pt. 300) 1564"
+    ],
+    "fact_patterns": [
+      "Application for stay of execution pending appeal without valid appeal filed."
+    ],
+    "relief_types": [
+      "Stay of execution",
+      "Injunction"
+    ],
+    "decision_types": [
+      "Ruling on interlocutory application"
+    ]
+  },
+  "graph_rag": {
+    "entities": [
+      {
+        "name": "Ifeoma Nwako",
+        "type": "Person"
+      },
+      {
+        "name": "Bellview Airlines Limited",
+        "type": "Organization"
+      },
+      {
+        "name": "National Industrial Court of Nigeria",
+        "type": "Court"
+      },
+      {
+        "name": "Court of Appeal",
+        "type": "Court"
+      },
+      {
+        "name": "Hon. Justice J. T. Agbadu-Fishim",
+        "type": "Judge"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Ifeoma Nwako",
+        "relationship": "judgment creditor in",
+        "target": "National Industrial Court of Nigeria",
+        "evidence": "Suit No: NICN/LA/151/2012"
+      },
+      {
+        "source": "Bellview Airlines Limited",
+        "relationship": "judgment debtor/applicant in",
+        "target": "National Industrial Court of Nigeria",
+        "evidence": "Motion on notice for stay of execution"
+      }
+    ],
+    "case_relationships": [
+      {
+        "case": "Olulonyo v. Adediran",
+        "citation": "[2001] 14 NWLR (pt. 734) 699",
+        "relationship": "followed",
+        "context": "Stay of execution requires exceptional circumstances."
+      },
+      {
+        "case": "Mobil Oil Ltd v. Agadaigho",
+        "citation": "[1988] 4 SC 273",
+        "relationship": "followed",
+        "context": "Valid appeal required for stay of execution."
+      }
+    ],
+    "statute_relationships": [
+      {
+        "statute": "National Industrial Court Act 2006",
+        "provision": "Section 47",
+        "relationship": "applied",
+        "context": "Guiding principles for stay of execution."
+      }
+    ],
+    "legal_principle_relationships": [
+      {
+        "principle": "Stay of execution requires special or exceptional circumstances.",
+        "case": "Olulonyo v. Adediran",
+        "relationship": "established by"
+      },
+      {
+        "principle": "Valid appeal is a precondition for stay of execution.",
+        "case": "Mobil Oil Ltd v. Agadaigho",
+        "relationship": "established by"
+      }
+    ]
+  },
+  "citation_network": {
+    "authorities_cited": [
+      "City Ex. Bank Ltd v. Lagos State Govt. [2004] 7 NWLR (pt. 872) 258",
+      "Shittu Ogunremi v. Chief Dada [1962] 1 All NLR 670",
+      "Martins v. Nicannar Food Company [1988] 2 NWLR (pt. 74) 83",
+      "Nwabueze v. Nwosu [1988] 4 NWLR (pt. 88) 257",
+      "Ifeadi v. Atedze [1995] 5 NWLR (pt. 394) at 221",
+      "Ceekay Traders Ltd v. General Motors Co. Ltd [1992] 2 NWLR (pt. 222) 132",
+      "Udeh v. Okoli & Ors [2009] 3 MJSC 1 at p. 18",
+      "Babington-Ashaye v. E.M.A.G. Ent. (Nig) Ltd [2011] 10 NWLR (pt. 1256) p. 479 at 540",
+      "Mobil Oil (Nig) Ltd v. Assam [1995] 8 NWLR (pt. 412) p. 129",
+      "Mobil Oil Ltd v. Agadaigho [1988] 4 SC 273 at p. 286",
+      "Olojede v. Olaleye [2010] 4 NWLR (pt. 1183) p. 1 at 41",
+      "Martins v. Nicannnar Food Co. Ltd [1988] 2 NWLR (pt. 74) p. 75",
+      "Shodeinde v. Regd. Trustees of Ahmadiya Movt in Islam [1980] 1, 2, SC 163",
+      "Vaswani Trading Co. Ltd v. Savalakh & Co [1972] 12 SC, 77",
+      "Olulonyo v. Adediran [2001] 14 NWLR (pt. 734) 699 at 709",
+      "NNPC v. BCE consulting Engineers [2004] 2 NWLR (pt. 858) 484 at 498",
+      "T.S.A (Ind.) Ltd v. Kema Investment Ltd [2006] All FWLR (pt. 300) 1564 at 1576"
+    ],
+    "authorities_followed": [
+      "Olulonyo v. Adediran [2001] 14 NWLR (pt. 734) 699 at 709",
+      "Mobil Oil Ltd v. Agadaigho [1988] 4 SC 273 at p. 286",
+      "NNPC v. BCE consulting Engineers [2004] 2 NWLR (pt. 858) 484 at 498",
+      "T.S.A (Ind.) Ltd v. Kema Investment Ltd [2006] All FWLR (pt. 300) 1564 at 1576"
+    ],
+    "authorities_distinguished": [],
+    "authorities_rejected": [],
+    "authorities_overruled": [],
+    "authorities_relied_upon": [
+      "Olulonyo v. Adediran [2001] 14 NWLR (pt. 734) 699 at 709",
+      "Mobil Oil Ltd v. Agadaigho [1988] 4 SC 273 at p. 286",
+      "NNPC v. BCE consulting Engineers [2004] 2 NWLR (pt. 858) 484 at 498",
+      "T.S.A (Ind.) Ltd v. Kema Investment Ltd [2006] All FWLR (pt. 300) 1564 at 1576"
+    ]
+  },
+  "metadata_quality": {
+    "extraction_confidence": 0.95,
+    "fields_missing": [],
+    "fields_uncertain": [],
+    "requires_review": false,
+    "review_reasons": [],
+    "source_completeness": "complete",
+    "ai_extraction_model": "deepseek-chat",
+    "prompt_version": "nicn-v3.2-single-call",
+    "extracted_at": "2026-10-02T10:58:33.103569+00:00"
+  }
+}

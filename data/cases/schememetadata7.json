@@ -1,0 +1,968 @@
+{
+  "schema_version": "nicn-ai-metadata-v3.2",
+  "source": {
+    "court": "National Industrial Court of Nigeria",
+    "jurisdiction": "Nigeria",
+    "source_url": "",
+    "source_id": "651",
+    "document_id": "651",
+    "file_name": "full_text.txt",
+    "downloaded_at": "",
+    "document_type": "judgment",
+    "language": "English",
+    "pages": null,
+    "word_count": 2370,
+    "extraction_status": "complete",
+    "completeness_confidence": "HIGH"
+  },
+  "case": {
+    "title": "Mr. Bernard Enya Edu v. Cross River University of Technology (CRUTECH) & Ors",
+    "case_number": "NICN/CA/15/2013",
+    "court": "National Industrial Court of Nigeria",
+    "judicial_division": "Calabar",
+    "judge": "Hon Justice O.A. Obaseki-Osaghae",
+    "judgment_date": "2014-05-07",
+    "year": 2014,
+    "claimants": [
+      "Mr. Bernard Enya Edu"
+    ],
+    "defendants": [
+      "Cross River University of Technology (CRUTECH)",
+      "The Vice-Chancellor, Cross River University of Technology (CRUTECH)",
+      "The Governing Council, Cross River University of Technology (CRUTECH)"
+    ],
+    "appellants": [],
+    "respondents": [],
+    "applicants": [],
+    "interested_parties": [],
+    "counsel": [
+      {
+        "name": "",
+        "represents": "Claimant"
+      },
+      {
+        "name": "",
+        "represents": "Defendants"
+      }
+    ]
+  },
+  "procedural_history": {
+    "originating_proceedings": "Complaint filed on 18th January 2013; amended complaint filed on 15th May 2013.",
+    "procedural_posture": "Preliminary objection challenging jurisdiction on grounds that action is statute barred and abuse of court process.",
+    "previous_decisions": [],
+    "interlocutory_applications": [
+      "Notice of Preliminary Objection filed by defendants on 14th May 2013."
+    ],
+    "appeals": [],
+    "orders_before_trial": [],
+    "procedural_events": [
+      "Defendants entered conditional appearance on 14th May 2013.",
+      "Parties adopted written addresses."
+    ]
+  },
+  "facts": {
+    "material_facts": [
+      "Claimant was compulsorily retired by the 1st defendant on 4th January 2012.",
+      "Claimant petitioned the Cross River State House of Assembly regarding his compulsory retirement.",
+      "The House of Assembly passed a resolution on 24th October 2012 upholding the defendants' action.",
+      "Claimant filed suit on 18th January 2013."
+    ],
+    "chronology": [
+      {
+        "date": "2012-01-04",
+        "event": "Claimant compulsorily retired by 1st defendant."
+      },
+      {
+        "date": "2012-10-24",
+        "event": "Cross River State House of Assembly passed resolution affirming defendants' action."
+      },
+      {
+        "date": "2013-01-18",
+        "event": "Claimant filed complaint at National Industrial Court."
+      },
+      {
+        "date": "2013-05-15",
+        "event": "Claimant filed amended complaint."
+      }
+    ],
+    "admitted_facts": [
+      "Both parties agree that the defendants are all Public Officers."
+    ],
+    "disputed_facts": [
+      "Whether the cause of action arose on 4th January 2012 or 24th October 2012.",
+      "Whether the Public Officers Protection Law applies to the claimant's contract of employment."
+    ],
+    "background_facts": [],
+    "employment_relationship": "Claimant was employed as a lecturer and director of CRUTECH Entrepreneurial Centre by the 1st defendant.",
+    "contractual_relationship": "Contract of employment between claimant and 1st defendant.",
+    "documentary_evidence": [],
+    "witness_evidence": []
+  },
+  "claims_and_reliefs": {
+    "causes_of_action": [
+      "Illegal compulsory retirement",
+      "Breach of contract of employment"
+    ],
+    "claims": [
+      {
+        "claim": "Declaration that compulsory retirement is illegal, unconstitutional, null and void.",
+        "legal_basis": "Due process",
+        "claimant": "Mr. Bernard Enya Edu",
+        "against": "Defendants"
+      },
+      {
+        "claim": "Mandatory injunction for reinstatement to employment and positions.",
+        "legal_basis": "Illegal retirement",
+        "claimant": "Mr. Bernard Enya Edu",
+        "against": "Defendants"
+      },
+      {
+        "claim": "Mandatory injunction for payment of arrears of entitlements and promotions.",
+        "legal_basis": "Illegal retirement",
+        "claimant": "Mr. Bernard Enya Edu",
+        "against": "Defendants"
+      },
+      {
+        "claim": "Perpetual injunction restraining defendants from compulsorily retiring claimant without due process.",
+        "legal_basis": "Due process",
+        "claimant": "Mr. Bernard Enya Edu",
+        "against": "Defendants"
+      },
+      {
+        "claim": "General damages of N45,000,000.00 for difficulties and psychological trauma.",
+        "legal_basis": "Illegal retirement",
+        "claimant": "Mr. Bernard Enya Edu",
+        "against": "Defendants"
+      },
+      {
+        "claim": "Exemplary damages of N4,500,000.00 for conduct of defendants.",
+        "legal_basis": "Illegal retirement",
+        "claimant": "Mr. Bernard Enya Edu",
+        "against": "Defendants"
+      },
+      {
+        "claim": "Cost of N5,000,000.00 for prosecution of suit.",
+        "legal_basis": "Litigation costs",
+        "claimant": "Mr. Bernard Enya Edu",
+        "against": "Defendants"
+      }
+    ],
+    "reliefs_sought": [
+      {
+        "relief_number": "1",
+        "relief": "Declaration that purported compulsory retirement is illegal, unconstitutional, null and void.",
+        "category": "Declaration"
+      },
+      {
+        "relief_number": "2",
+        "relief": "Mandatory injunction for reinstatement to employment and positions.",
+        "category": "Injunction"
+      },
+      {
+        "relief_number": "3",
+        "relief": "Mandatory injunction for payment of arrears of entitlements and promotions.",
+        "category": "Injunction"
+      },
+      {
+        "relief_number": "4",
+        "relief": "Perpetual injunction restraining defendants from compulsorily retiring claimant without due process.",
+        "category": "Injunction"
+      },
+      {
+        "relief_number": "5",
+        "relief": "General damages of N45,000,000.00.",
+        "category": "Damages"
+      },
+      {
+        "relief_number": "6",
+        "relief": "Exemplary damages of N4,500,000.00.",
+        "category": "Damages"
+      },
+      {
+        "relief_number": "7",
+        "relief": "Cost of N5,000,000.00.",
+        "category": "Costs"
+      }
+    ],
+    "issues_for_determination": [
+      {
+        "issue_number": "1",
+        "issue": "Whether the action is statute barred having regards to section 1A of the Cross River State Public Officers Protection Law.",
+        "raised_by": "Defendants"
+      },
+      {
+        "issue_number": "2",
+        "issue": "Whether the suit is an abuse of court process as it is statute barred and brought in a court without jurisdiction.",
+        "raised_by": "Defendants"
+      },
+      {
+        "issue_number": "3",
+        "issue": "Whether the combination of other causes of action outside jurisdiction with one within jurisdiction robs the court of jurisdiction.",
+        "raised_by": "Defendants"
+      },
+      {
+        "issue_number": "4",
+        "issue": "Whether the Public Officers Protection Law applies to a suit challenging breach of contract of employment.",
+        "raised_by": "Claimant"
+      },
+      {
+        "issue_number": "5",
+        "issue": "Whether time started running from 4th January 2012 or 24th October 2012.",
+        "raised_by": "Claimant"
+      },
+      {
+        "issue_number": "6",
+        "issue": "Whether there is any claim on defamation before the court.",
+        "raised_by": "Claimant"
+      }
+    ],
+    "questions_of_law": [
+      "Applicability of the Public Officers Protection Law to employment contracts.",
+      "Computation of limitation period for statute-barred actions."
+    ]
+  },
+  "arguments": {
+    "claimant_arguments": [
+      "The Public Officers Protection Law does not apply to a suit founded on contract of employment.",
+      "The cause of action arose on 24th October 2012 when the House of Assembly passed a resolution, not on 4th January 2012.",
+      "There is no claim on defamation before the court."
+    ],
+    "defendant_arguments": [
+      "The action is statute barred as it was filed outside the six months period allowed by section 1A of the Public Officers Protection Law.",
+      "The suit is an abuse of court process.",
+      "The combination of causes of action outside jurisdiction robs the court of jurisdiction.",
+      "The defendants are Public Officers protected by the Public Officers Protection Law."
+    ],
+    "appellant_arguments": [],
+    "respondent_arguments": [],
+    "submissions": [],
+    "party_authorities": [
+      {
+        "party": "Defendants",
+        "authority": "Adeyemi v Opeyori [1976] 10 SC 31",
+        "proposition": "Claims determine jurisdiction."
+      },
+      {
+        "party": "Defendants",
+        "authority": "Bronik Motors v Wema Bank Nig Ltd [1983] 6 SC 158",
+        "proposition": "Claims determine jurisdiction."
+      },
+      {
+        "party": "Defendants",
+        "authority": "CRUTECH v Obeten [2012] All FWLR (Pt 641) 1567",
+        "proposition": "Claims determine jurisdiction."
+      },
+      {
+        "party": "Defendants",
+        "authority": "Utilh v Egorr [1990] 5 NWLR (Pt 153) 774",
+        "proposition": "Action must be instituted within six months."
+      },
+      {
+        "party": "Defendants",
+        "authority": "P.N. Udoh Trading Co Ltd v Abere [2001] FWLR (Pt 57) 900",
+        "proposition": "Action must be instituted within six months."
+      },
+      {
+        "party": "Defendants",
+        "authority": "Egbe v Adefarasin [1987] NSCC 1 at 3",
+        "proposition": "Action must be instituted within six months."
+      },
+      {
+        "party": "Defendants",
+        "authority": "Maiwa v Abudu [1986] 1NLR (p17) 438 H6",
+        "proposition": "Abuse of process to bring action outside mandatory six months."
+      },
+      {
+        "party": "Defendants",
+        "authority": "IN Arnold Nwifa v Ububa [1966] NMLR 219",
+        "proposition": "Defamation is distinct relief."
+      },
+      {
+        "party": "Claimant",
+        "authority": "Offoboche v Ogoja Local Govt [2001] FWLR (Pt 68) 1051",
+        "proposition": "Defendants are Public Officers."
+      },
+      {
+        "party": "Claimant",
+        "authority": "FGN v Zebra Energy Ltd [2002] 18 NWLR (Pt 798) 162 at 195",
+        "proposition": "Public Officers Protection Law does not apply to contractual matters."
+      },
+      {
+        "party": "Claimant",
+        "authority": "Ibrahim v JSC Kaduna State [1998] 14 NWLR 1",
+        "proposition": "Defendants are Public Officers."
+      },
+      {
+        "party": "Claimant",
+        "authority": "Amoa v Civil Service Commission & 2 Ors [1992] 7 NWLR (Pt 252) 214 at 219",
+        "proposition": "Public Officers Protection Law does not apply to contractual matters."
+      },
+      {
+        "party": "Claimant",
+        "authority": "Mrs Emilia Ekpo v University of Calabar (unreported) FHC/CA/CS/35/2003",
+        "proposition": "Public Officers Protection Law does not apply to contractual matters."
+      },
+      {
+        "party": "Defendants",
+        "authority": "Hassan v Aliyu [2010] 7 MJSC 1 at 30",
+        "proposition": "Actions in pursuance of official authority are protected."
+      },
+      {
+        "party": "Defendants",
+        "authority": "Alli v Govt of Borno State [2008] All FWLR (Pt 408) 365",
+        "proposition": "Actions in pursuance of official authority are protected."
+      },
+      {
+        "party": "Defendants",
+        "authority": "Godswill Company Ltd v Calabar Cement Coy Ltd [2010] ALL FWLR (Pt 544) 34 at 41",
+        "proposition": "Negotiation does not stop time from running."
+      }
+    ]
+  },
+  "evidence": {
+    "exhibits": [],
+    "witnesses": [],
+    "documentary_evidence": [],
+    "oral_evidence": [],
+    "expert_evidence": [],
+    "evidential_findings": []
+  },
+  "judicial_analysis": {
+    "findings_of_fact": [
+      {
+        "issue": "Date of accrual of cause of action",
+        "finding": "Cause of action arose on 4th January 2012 when the letter of compulsory retirement was written."
+      }
+    ],
+    "findings_of_law": [
+      {
+        "issue": "Applicability of Public Officers Protection Law",
+        "finding": "The Public Officers Protection Law applies to the claimant's employment contract as it is an action for illegal compulsory retirement."
+      },
+      {
+        "issue": "Statute barred",
+        "finding": "The action is statute barred as it was filed outside the six months period."
+      }
+    ],
+    "reasoning": "The court considered the submissions and authorities. It held that the cause of action arose on 4th January 2012, and the suit filed on 18th January 2013 was outside the six months limitation period under the Public Officers Protection Law. The petition to the House of Assembly did not stop the limitation period from running. The court found that the action is statute barred and lacks jurisdiction.",
+    "issue_analysis": [
+      {
+        "issue_number": "1",
+        "issue": "Whether the action is statute barred having regards to section 1A of the Cross River State Public Officers Protection Law.",
+        "arguments": {
+          "claimant": "The Public Officers Protection Law does not apply to contract of employment; cause of action arose on 24th October 2012.",
+          "defendant": "The action is statute barred as it was filed outside six months from 4th January 2012."
+        },
+        "judicial_analysis": "The court found that the cause of action arose on 4th January 2012 and the suit was filed on 18th January 2013, outside the six months period. The petition to the House of Assembly did not affect the limitation period.",
+        "holding": "The action is statute barred.",
+        "ratio_decidendi": "An action against a public officer for acts done in pursuance of public duty must be commenced within six months of the accrual of the cause of action.",
+        "result": "Suit struck out."
+      }
+    ],
+    "holdings": [
+      {
+        "issue_number": "1",
+        "issue": "Whether the action is statute barred",
+        "holding": "The action is statute barred and the court lacks jurisdiction.",
+        "result": "Suit struck out."
+      }
+    ],
+    "ratio_decidendi": [
+      {
+        "issue": "Limitation period under Public Officers Protection Law",
+        "principle": "Actions against public officers for acts done in pursuance of public duty must be instituted within six months of the accrual of the cause of action.",
+        "application": "The claimant's action was filed more than six months after the compulsory retirement.",
+        "holding": "The action is statute barred."
+      }
+    ],
+    "obiter_dicta": [],
+    "legal_principles": [
+      {
+        "principle": "Statute of limitation bars actions not brought within the prescribed period.",
+        "context": "Public Officers Protection Law",
+        "source": "Section 1(a) of the Public Officers Protection Law Cap P17 Laws of Cross River State 2004 as amended."
+      }
+    ],
+    "statutory_interpretation": [
+      {
+        "statute": "Public Officers Protection Law Cap P17 Laws of Cross River State 2004 as amended",
+        "provision": "Section 1(a)",
+        "interpretation": "Actions against public officers must be commenced within six months of the act complained of.",
+        "application": "The claimant's action was filed outside the six months period."
+      }
+    ],
+    "constitutional_analysis": [],
+    "precedent_analysis": [
+      {
+        "authority": "Forestry Research Institute of Nigeria v Gold",
+        "citation": "[2007] 11 NWLR (Pt 1044) 1 at 18",
+        "treatment": "Followed",
+        "proposition": "Action for wrongful dismissal was caught by the Public Officers Protection Act.",
+        "reasoning": "The Supreme Court held that the action was statute barred."
+      }
+    ],
+    "evidential_findings": [],
+    "judicial_observations": []
+  },
+  "authorities": {
+    "cases_cited": [
+      {
+        "case_name": "Adeyemi v Opeyori",
+        "citation": "[1976] 10 SC 31",
+        "court": "Supreme Court of Nigeria",
+        "year": 1976,
+        "proposition": "Claims determine jurisdiction.",
+        "treatment": "Cited",
+        "cited_by": "Defendants",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Bronik Motors v Wema Bank Nig Ltd",
+        "citation": "[1983] 6 SC 158",
+        "court": "Supreme Court of Nigeria",
+        "year": 1983,
+        "proposition": "Claims determine jurisdiction.",
+        "treatment": "Cited",
+        "cited_by": "Defendants",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "CRUTECH v Obeten",
+        "citation": "[2012] All FWLR (Pt 641) 1567",
+        "court": "Court of Appeal",
+        "year": 2012,
+        "proposition": "Claims determine jurisdiction.",
+        "treatment": "Cited",
+        "cited_by": "Defendants",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Utilh v Egorr",
+        "citation": "[1990] 5 NWLR (Pt 153) 774",
+        "court": "Supreme Court of Nigeria",
+        "year": 1990,
+        "proposition": "Action must be instituted within six months.",
+        "treatment": "Cited",
+        "cited_by": "Defendants",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "P.N. Udoh Trading Co Ltd v Abere",
+        "citation": "[2001] FWLR (Pt 57) 900",
+        "court": "Supreme Court of Nigeria",
+        "year": 2001,
+        "proposition": "Action must be instituted within six months.",
+        "treatment": "Cited",
+        "cited_by": "Defendants",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Egbe v Adefarasin",
+        "citation": "[1987] NSCC 1 at 3",
+        "court": "Supreme Court of Nigeria",
+        "year": 1987,
+        "proposition": "Action must be instituted within six months.",
+        "treatment": "Cited",
+        "cited_by": "Defendants",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Maiwa v Abudu",
+        "citation": "[1986] 1NLR (p17) 438 H6",
+        "court": "Supreme Court of Nigeria",
+        "year": 1986,
+        "proposition": "Abuse of process to bring action outside mandatory six months.",
+        "treatment": "Cited",
+        "cited_by": "Defendants",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "IN Arnold Nwifa v Ububa",
+        "citation": "[1966] NMLR 219",
+        "court": "Supreme Court of Nigeria",
+        "year": 1966,
+        "proposition": "Defamation is distinct relief.",
+        "treatment": "Cited",
+        "cited_by": "Defendants",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Offoboche v Ogoja Local Govt",
+        "citation": "[2001] FWLR (Pt 68) 1051",
+        "court": "Court of Appeal",
+        "year": 2001,
+        "proposition": "Defendants are Public Officers.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "FGN v Zebra Energy Ltd",
+        "citation": "[2002] 18 NWLR (Pt 798) 162 at 195",
+        "court": "Supreme Court of Nigeria",
+        "year": 2002,
+        "proposition": "Public Officers Protection Law does not apply to contractual matters.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Ibrahim v JSC Kaduna State",
+        "citation": "[1998] 14 NWLR 1",
+        "court": "Supreme Court of Nigeria",
+        "year": 1998,
+        "proposition": "Defendants are Public Officers.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Amoa v Civil Service Commission & 2 Ors",
+        "citation": "[1992] 7 NWLR (Pt 252) 214 at 219",
+        "court": "Supreme Court of Nigeria",
+        "year": 1992,
+        "proposition": "Public Officers Protection Law does not apply to contractual matters.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Mrs Emilia Ekpo v University of Calabar",
+        "citation": "unreported FHC/CA/CS/35/2003",
+        "court": "Federal High Court",
+        "year": 2006,
+        "proposition": "Public Officers Protection Law does not apply to contractual matters.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Hassan v Aliyu",
+        "citation": "[2010] 7 MJSC 1 at 30",
+        "court": "Supreme Court of Nigeria",
+        "year": 2010,
+        "proposition": "Actions in pursuance of official authority are protected.",
+        "treatment": "Cited",
+        "cited_by": "Defendants",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Alli v Govt of Borno State",
+        "citation": "[2008] All FWLR (Pt 408) 365",
+        "court": "Court of Appeal",
+        "year": 2008,
+        "proposition": "Actions in pursuance of official authority are protected.",
+        "treatment": "Cited",
+        "cited_by": "Defendants",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Godswill Company Ltd v Calabar Cement Coy Ltd",
+        "citation": "[2010] ALL FWLR (Pt 544) 34 at 41",
+        "court": "Supreme Court of Nigeria",
+        "year": 2010,
+        "proposition": "Negotiation does not stop time from running.",
+        "treatment": "Cited",
+        "cited_by": "Defendants",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Madukolu v Nkemdilim",
+        "citation": "[1962] 2 SCNLR 341",
+        "court": "Supreme Court of Nigeria",
+        "year": 1962,
+        "proposition": "Conditions for assumption of jurisdiction.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Elabanjo v Dawodu",
+        "citation": "[2006] 6-7 SC 24",
+        "court": "Supreme Court of Nigeria",
+        "year": 2006,
+        "proposition": "Determining statute barred actions.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Forestry Research Institute of Nigeria v Gold",
+        "citation": "[2007] 11 NWLR (Pt 1044) 1 at 18",
+        "court": "Supreme Court of Nigeria",
+        "year": 2007,
+        "proposition": "Action for wrongful dismissal caught by Public Officers Protection Act.",
+        "treatment": "Followed",
+        "cited_by": "Court",
+        "importance": "Key"
+      },
+      {
+        "case_name": "Egbe v Adefarasin",
+        "citation": "[1987] 1 NWLR (Pt 47) 1 at 20",
+        "court": "Supreme Court of Nigeria",
+        "year": 1987,
+        "proposition": "Definition of statute barred.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Udoh Trading Coy Ltd v Abere",
+        "citation": "[2001] 11 NWLR (Pt 723) 114",
+        "court": "Supreme Court of Nigeria",
+        "year": 2001,
+        "proposition": "Definition of statute barred.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Goodwill Co Ltd v Calabar Cement Co Ltd",
+        "citation": "[2010] All FWLR (Pt 544) 34",
+        "court": "Supreme Court of Nigeria",
+        "year": 2010,
+        "proposition": "Negotiation does not stop limitation period.",
+        "treatment": "Followed",
+        "cited_by": "Court",
+        "importance": "Key"
+      }
+    ],
+    "statutes": [
+      {
+        "name": "Public Officers Protection Law Cap P17 Laws of Cross River State 2004 as amended",
+        "provision": "Section 1(a)",
+        "proposition": "Limitation of time for actions against public officers to six months."
+      }
+    ],
+    "constitutional_provisions": [],
+    "regulations": [],
+    "rules": [],
+    "international_instruments": [],
+    "other_authorities": []
+  },
+  "precedent_relationships": [
+    {
+      "authority": "Forestry Research Institute of Nigeria v Gold",
+      "citation": "[2007] 11 NWLR (Pt 1044) 1 at 18",
+      "relationship": "Followed",
+      "proposition": "Action for wrongful dismissal was caught by the Public Officers Protection Act.",
+      "context": "Court applied the principle to hold the action statute barred."
+    },
+    {
+      "authority": "Goodwill Co Ltd v Calabar Cement Co Ltd",
+      "citation": "[2010] All FWLR (Pt 544) 34",
+      "relationship": "Followed",
+      "proposition": "Negotiation does not stop the period of limitation from running.",
+      "context": "Court held that petition to House of Assembly did not stop limitation period."
+    }
+  ],
+  "outcome": {
+    "decision": "Suit struck out for being statute barred.",
+    "overall_result": "Claimant's suit struck out.",
+    "orders": [
+      "Suit struck out.",
+      "No order as to costs."
+    ],
+    "reliefs": [
+      {
+        "relief_number": "1",
+        "relief": "Declaration that compulsory retirement is illegal.",
+        "result": "Struck out",
+        "reason": "Action statute barred."
+      },
+      {
+        "relief_number": "2",
+        "relief": "Mandatory injunction for reinstatement.",
+        "result": "Struck out",
+        "reason": "Action statute barred."
+      },
+      {
+        "relief_number": "3",
+        "relief": "Mandatory injunction for payment of arrears.",
+        "result": "Struck out",
+        "reason": "Action statute barred."
+      },
+      {
+        "relief_number": "4",
+        "relief": "Perpetual injunction.",
+        "result": "Struck out",
+        "reason": "Action statute barred."
+      },
+      {
+        "relief_number": "5",
+        "relief": "General damages of N45,000,000.00.",
+        "result": "Struck out",
+        "reason": "Action statute barred."
+      },
+      {
+        "relief_number": "6",
+        "relief": "Exemplary damages of N4,500,000.00.",
+        "result": "Struck out",
+        "reason": "Action statute barred."
+      },
+      {
+        "relief_number": "7",
+        "relief": "Cost of N5,000,000.00.",
+        "result": "Struck out",
+        "reason": "Action statute barred."
+      }
+    ],
+    "reliefs_granted": [],
+    "reliefs_refused": [],
+    "reliefs_struck_out": [
+      "All reliefs struck out."
+    ],
+    "reliefs_dismissed": [],
+    "damages": [],
+    "compensation": [],
+    "costs": {
+      "awarded": false,
+      "amount": "",
+      "recipient": "",
+      "details": "No order as to costs."
+    },
+    "interest": {
+      "awarded": false,
+      "rate": "",
+      "start_date": "",
+      "end_date": "",
+      "basis": ""
+    },
+    "compliance_deadline": "",
+    "declarations": [],
+    "injunctions": [],
+    "specific_orders": [],
+    "final_disposition": "Suit struck out."
+  },
+  "legal_knowledge": {
+    "holdings": [
+      "Action against public officers must be commenced within six months of accrual of cause of action.",
+      "Petition to House of Assembly does not stop limitation period from running."
+    ],
+    "legal_principles": [
+      "Statute of limitation bars actions not brought within prescribed period.",
+      "Public Officers Protection Law applies to employment contracts."
+    ],
+    "ratio_decidendi": [
+      "Actions against public officers for acts done in pursuance of public duty must be instituted within six months of the accrual of the cause of action."
+    ],
+    "obiter_dicta": [],
+    "causes_of_action": [
+      "Illegal compulsory retirement",
+      "Breach of contract of employment"
+    ],
+    "legal_issues": [
+      "Whether the action is statute barred.",
+      "Whether the Public Officers Protection Law applies."
+    ],
+    "practice_areas": [
+      "Employment Law",
+      "Civil Procedure"
+    ],
+    "sub_practice_areas": [
+      "Public Officers Protection",
+      "Limitation of Actions"
+    ],
+    "legal_concepts": [
+      "Statute Barred",
+      "Limitation Period",
+      "Public Officers Protection",
+      "Cause of Action"
+    ],
+    "doctrines": [
+      "Limitation of Actions",
+      "Jurisdiction"
+    ],
+    "remedies": [
+      "Declaration",
+      "Injunction",
+      "Damages"
+    ],
+    "employment_law_topics": [
+      "Compulsory Retirement",
+      "Contract of Employment"
+    ],
+    "jurisdictional_issues": [
+      "Statute Barred",
+      "Public Officers Protection Law"
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "statute barred",
+      "Public Officers Protection Law",
+      "compulsory retirement",
+      "limitation period",
+      "Cross River University of Technology",
+      "National Industrial Court"
+    ],
+    "searchable_concepts": [
+      "Limitation of actions against public officers",
+      "Accrual of cause of action",
+      "Effect of petition on limitation period"
+    ],
+    "semantic_topics": [
+      "Employment law",
+      "Civil procedure",
+      "Jurisdiction"
+    ],
+    "legal_entities": [
+      "Cross River University of Technology",
+      "National Industrial Court",
+      "Public Officers Protection Law"
+    ],
+    "statutes_referenced": [
+      "Public Officers Protection Law Cap P17 Laws of Cross River State 2004 as amended"
+    ],
+    "cases_referenced": [
+      "Forestry Research Institute of Nigeria v Gold",
+      "Goodwill Co Ltd v Calabar Cement Co Ltd",
+      "Madukolu v Nkemdilim"
+    ],
+    "citation_phrases": [
+      "statute barred",
+      "Public Officers Protection Law",
+      "six months limitation"
+    ],
+    "fact_patterns": [
+      "Compulsory retirement of university lecturer",
+      "Petition to House of Assembly",
+      "Delay in filing suit"
+    ],
+    "relief_types": [
+      "Declaration",
+      "Injunction",
+      "Damages"
+    ],
+    "decision_types": [
+      "Struck out"
+    ]
+  },
+  "graph_rag": {
+    "entities": [
+      {
+        "name": "Mr. Bernard Enya Edu",
+        "type": "Person"
+      },
+      {
+        "name": "Cross River University of Technology (CRUTECH)",
+        "type": "Organization"
+      },
+      {
+        "name": "The Vice-Chancellor, CRUTECH",
+        "type": "Person"
+      },
+      {
+        "name": "The Governing Council, CRUTECH",
+        "type": "Organization"
+      },
+      {
+        "name": "National Industrial Court of Nigeria",
+        "type": "Court"
+      },
+      {
+        "name": "Cross River State House of Assembly",
+        "type": "Government Body"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Mr. Bernard Enya Edu",
+        "relationship": "employed by",
+        "target": "Cross River University of Technology (CRUTECH)",
+        "evidence": "Claimant was employed as lecturer."
+      },
+      {
+        "source": "Cross River University of Technology (CRUTECH)",
+        "relationship": "compulsorily retired",
+        "target": "Mr. Bernard Enya Edu",
+        "evidence": "Compulsory retirement on 4th January 2012."
+      },
+      {
+        "source": "Mr. Bernard Enya Edu",
+        "relationship": "petitioned",
+        "target": "Cross River State House of Assembly",
+        "evidence": "Petition regarding compulsory retirement."
+      }
+    ],
+    "case_relationships": [
+      {
+        "case": "Forestry Research Institute of Nigeria v Gold",
+        "citation": "[2007] 11 NWLR (Pt 1044) 1",
+        "relationship": "Followed",
+        "context": "Applied to hold action statute barred."
+      }
+    ],
+    "statute_relationships": [
+      {
+        "statute": "Public Officers Protection Law Cap P17 Laws of Cross River State 2004 as amended",
+        "provision": "Section 1(a)",
+        "relationship": "Applied",
+        "context": "Court applied to bar the action."
+      }
+    ],
+    "legal_principle_relationships": [
+      {
+        "principle": "Limitation period for actions against public officers",
+        "case": "Forestry Research Institute of Nigeria v Gold",
+        "relationship": "Followed"
+      }
+    ]
+  },
+  "citation_network": {
+    "authorities_cited": [
+      "Adeyemi v Opeyori",
+      "Bronik Motors v Wema Bank Nig Ltd",
+      "CRUTECH v Obeten",
+      "Utilh v Egorr",
+      "P.N. Udoh Trading Co Ltd v Abere",
+      "Egbe v Adefarasin",
+      "Maiwa v Abudu",
+      "IN Arnold Nwifa v Ububa",
+      "Offoboche v Ogoja Local Govt",
+      "FGN v Zebra Energy Ltd",
+      "Ibrahim v JSC Kaduna State",
+      "Amoa v Civil Service Commission & 2 Ors",
+      "Mrs Emilia Ekpo v University of Calabar",
+      "Hassan v Aliyu",
+      "Alli v Govt of Borno State",
+      "Godswill Company Ltd v Calabar Cement Coy Ltd",
+      "Madukolu v Nkemdilim",
+      "Elabanjo v Dawodu",
+      "Forestry Research Institute of Nigeria v Gold",
+      "Egbe v Adefarasin",
+      "Udoh Trading Coy Ltd v Abere",
+      "Goodwill Co Ltd v Calabar Cement Co Ltd"
+    ],
+    "authorities_followed": [
+      "Forestry Research Institute of Nigeria v Gold",
+      "Goodwill Co Ltd v Calabar Cement Co Ltd"
+    ],
+    "authorities_distinguished": [],
+    "authorities_rejected": [],
+    "authorities_overruled": [],
+    "authorities_relied_upon": [
+      "Forestry Research Institute of Nigeria v Gold",
+      "Goodwill Co Ltd v Calabar Cement Co Ltd"
+    ]
+  },
+  "metadata_quality": {
+    "extraction_confidence": 0.95,
+    "fields_missing": [
+      "source_url",
+      "document_id",
+      "file_name",
+      "downloaded_at",
+      "pages",
+      "word_count",
+      "counsel names"
+    ],
+    "fields_uncertain": [],
+    "requires_review": false,
+    "review_reasons": [],
+    "source_completeness": "complete",
+    "ai_extraction_model": "deepseek-chat",
+    "prompt_version": "nicn-v3.2-single-call",
+    "extracted_at": "2026-10-02T10:59:11.448975+00:00"
+  }
+}

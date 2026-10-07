@@ -1,0 +1,1785 @@
+{
+  "schema_version": "nicn-ai-metadata-v3.2",
+  "source": {
+    "court": "National Industrial Court of Nigeria",
+    "jurisdiction": "Nigeria",
+    "source_url": "",
+    "source_id": "36",
+    "document_id": "36",
+    "file_name": "full_text.txt",
+    "downloaded_at": "",
+    "document_type": "judgment",
+    "language": "English",
+    "pages": null,
+    "word_count": 8167,
+    "extraction_status": "complete",
+    "completeness_confidence": "HIGH"
+  },
+  "case": {
+    "title": "Pastor Akpan Samuel Effiong v. Department of State Service",
+    "case_number": "NICN/CA/42/2013",
+    "court": "National Industrial Court of Nigeria",
+    "judicial_division": "Calabar",
+    "judge": "Honourable Justice E. N. Agbakoba",
+    "judgment_date": "3rd March, 2017",
+    "year": 2017,
+    "claimants": [
+      "Pastor Akpan Samuel Effiong"
+    ],
+    "defendants": [
+      "Department of State Service (The State Security Services Abuja)"
+    ],
+    "appellants": [],
+    "respondents": [],
+    "applicants": [],
+    "interested_parties": [],
+    "counsel": [
+      {
+        "name": "Felix Udom",
+        "represents": "Claimant"
+      },
+      {
+        "name": "John Ekpe",
+        "represents": "Defendant"
+      }
+    ]
+  },
+  "procedural_history": {
+    "originating_proceedings": "Claimant instituted action via Amended Complaint with accompanying frontloaded documents filed on 5th June, 2014 against the defendants.",
+    "procedural_posture": "The suit was originally commenced in the Federal High Court Uyo on 9th December 2010 and later transferred to the National Industrial Court, Calabar Judicial Division.",
+    "previous_decisions": [],
+    "interlocutory_applications": [],
+    "appeals": [],
+    "orders_before_trial": [],
+    "procedural_events": [
+      "Claimant filed Amended Complaint on 5th June 2014.",
+      "Defendant filed Amended Statement of Defence dated 8th July 2014 on 14th July 2014.",
+      "Claimant filed Amended Reply to Defendant's Statement of Defence dated and filed on 28th October 2015.",
+      "Trial commenced on 5th November 2015 with claimant testifying as CW, adopting written statement on oath marked Exhibit C1 and tendering 13 other exhibits.",
+      "Defendant called one witness, Eriba Eyenmi.",
+      "Parties filed final written addresses.",
+      "Judgment delivered on 3rd March 2017."
+    ]
+  },
+  "facts": {
+    "material_facts": [
+      "Claimant was employed by the defendant in 1982 and retired in 1996.",
+      "Claimant contends he retired with the rank of Assistant Security Officer (ASO).",
+      "Defendant contends claimant retired with the rank of Chief Detective (CD).",
+      "Claimant avers he was not paid his full monthly pension and commenced this action.",
+      "Defendant avers claimant was involved in Orderly Room trial for misconduct in 1994 and received punishment of severe reprimand which affected his promotion.",
+      "Defendant avers claimant rose to rank of Chief Detective on 1st January 1994 and was compulsorily retired with effect from 5th March 1996.",
+      "Defendant avers letter of retirement Ref. No. C200/32/T dated 5th March 1996 addressing claimant as ASO is erroneous and never emanated from defendant.",
+      "Defendant avers claimant's computerized arrears stood at #403,982.20 and monthly pension is #11,317.77.",
+      "Claimant avers he was exonerated from blame in Orderly Room trial and retired with clean record.",
+      "Claimant avers his promotion to ASO depended on achievements and performance during service."
+    ],
+    "chronology": [
+      {
+        "date": "1982",
+        "event": "Claimant employed by defendant."
+      },
+      {
+        "date": "1994",
+        "event": "Claimant involved in Orderly Room trial for misconduct; promoted to Chief Detective on 1st January 1994."
+      },
+      {
+        "date": "5th March 1996",
+        "event": "Claimant compulsorily retired from service."
+      },
+      {
+        "date": "9th December 2010",
+        "event": "Suit commenced in Federal High Court Uyo."
+      },
+      {
+        "date": "5th June 2014",
+        "event": "Amended Complaint filed."
+      },
+      {
+        "date": "5th November 2015",
+        "event": "Trial commenced."
+      },
+      {
+        "date": "3rd March 2017",
+        "event": "Judgment delivered."
+      }
+    ],
+    "admitted_facts": [
+      "Claimant was employed by defendant in 1982.",
+      "Claimant retired in 1996.",
+      "Claimant receives a monthly pension from defendant."
+    ],
+    "disputed_facts": [
+      "Whether claimant retired with the rank of Assistant Security Officer (ASO) or Chief Detective (CD).",
+      "Whether claimant was underpaid his pension.",
+      "Whether the letter of retirement Ref. No. C200/32/T dated 5th March 1996 was issued by defendant.",
+      "Whether claimant was promoted to ASO."
+    ],
+    "background_facts": [
+      "Claimant was employed by defendant in 1982 and retired in 1996.",
+      "Claimant contends he retired with the rank of Assistant Security Officer (ASO).",
+      "Defendant contends claimant retired with the rank of Chief Detective (CD)."
+    ],
+    "employment_relationship": "Claimant was an employee of the defendant from 1982 until his retirement in 1996.",
+    "contractual_relationship": "Employment relationship governed by terms of service of the Department of State Service.",
+    "documentary_evidence": [
+      "Exhibit C1: Claimant's written statement on oath.",
+      "Exhibit C3: Letter of retirement from service Ref. No. C200/32/T dated 5th March 1996.",
+      "Exhibit C4: Circular No. B63216/S.1/13/105 of 20th January 1997.",
+      "Exhibit C5: Circular No. S.1549/10 of 23rd February 2001.",
+      "Exhibit C6: Letter from defendants to claimant dated 20th October 1993.",
+      "Exhibit C7-C7(5): Six letters from defendants to different persons dated 23rd February 2001.",
+      "Exhibit C8: Letter from defendants dated 15th July 2013 to Association of Retired Officers.",
+      "Exhibit C9: Letter from National Pension Commission to Daniel & Daniel Attorneys.",
+      "Exhibit C10: Certified true copy of Circular Ref SWC/S/04/S.08/Vol. IV/207 of 5th August 2010.",
+      "Exhibit C11: Photocopy of government circular B.63216/S.1/X/840 of 5th October 2000.",
+      "Exhibit C12: Letter written by claimant to defendants on 13th March 2008.",
+      "Exhibit C14: Computer generated Bank Statement of Accounts."
+    ],
+    "witness_evidence": [
+      "Claimant testified as CW and adopted his written statement on oath.",
+      "Defendant called one witness, Eriba Eyenmi, of the defendant's Personnel Department."
+    ]
+  },
+  "claims_and_reliefs": {
+    "causes_of_action": [
+      "Underpayment of pension",
+      "Discrimination in pension payment"
+    ],
+    "claims": [
+      {
+        "claim": "Declaration that it is wrongful, unlawful and unconstitutional for the defendant to discriminate against the claimant by not paying him a monthly pension of #40,638.93 but pays a smaller amount of #13,792.10 contrary to periodical increments done by the Federal Government of Nigeria for retired Federal workers.",
+        "legal_basis": "Constitutional provisions, pension laws",
+        "claimant": "Pastor Akpan Samuel Effiong",
+        "against": "Department of State Service"
+      },
+      {
+        "claim": "Order directing the defendant to pay the claimant the sum of #4,318,642.46 representing unpaid arrears of pension from 1999 till September, 2013.",
+        "legal_basis": "Pension entitlement",
+        "claimant": "Pastor Akpan Samuel Effiong",
+        "against": "Department of State Service"
+      },
+      {
+        "claim": "Exemplary damages of #5,000,000.00 against the defendant.",
+        "legal_basis": "Exemplary damages",
+        "claimant": "Pastor Akpan Samuel Effiong",
+        "against": "Department of State Service"
+      },
+      {
+        "claim": "#1,700,000.00 being the cost of this suit.",
+        "legal_basis": "Costs",
+        "claimant": "Pastor Akpan Samuel Effiong",
+        "against": "Department of State Service"
+      }
+    ],
+    "reliefs_sought": [
+      {
+        "relief_number": "1",
+        "relief": "A DECLARATION that it is wrongful, unlawful and unconstitutional for the defendant to discriminate against the claimant by not paying him a monthly pension of #40,638.93 but pays a smaller amount of #13,792.10 contrary to periodical increments done by the Federal Government of Nigeria for the retired Federal workers.",
+        "category": "Declaration"
+      },
+      {
+        "relief_number": "2",
+        "relief": "AN ORDER of Court directing the defendant to pay the claimant the sum of #4,318,642.46 (Four Million, Three Hundred and Eighteen Thousand, Six Hundred and Forty Two Naira, Forty Six Kobo) only which represents the unpaid arrears of pension accruable to the claimant from 1999 till September, 2013.",
+        "category": "Monetary Order"
+      },
+      {
+        "relief_number": "3",
+        "relief": "Exemplary damages of #5,000,000.00 (Five Million Naira) against the defendant.",
+        "category": "Damages"
+      },
+      {
+        "relief_number": "4",
+        "relief": "#1,700,000.00 being the cost of this suit.",
+        "category": "Costs"
+      }
+    ],
+    "issues_for_determination": [
+      {
+        "issue_number": "1",
+        "issue": "Whether based on the available facts and evidence before this Honorable Court the claimant is entitled to his reliefs.",
+        "raised_by": "Court"
+      },
+      {
+        "issue_number": "2",
+        "issue": "Whether the suit of the claimant is competent in view of the Limitation Law i.e. Sec. 2 (a) of the Public Officers Protection Act, LFN, 2004.",
+        "raised_by": "Defendant"
+      }
+    ],
+    "questions_of_law": [
+      "Whether the suit is statute barred under Section 2(a) of the Public Officers Protection Act.",
+      "Whether the claimant has proved entitlement to pension as an Assistant Security Officer."
+    ]
+  },
+  "arguments": {
+    "claimant_arguments": [
+      "Claimant is entitled to his reliefs as he has proved his case by adducing credible evidence.",
+      "It is not necessary to tender the letter of promotion as the letter of retirement is sufficient.",
+      "The defendant ought to have tendered the letter of clearance because payment of entitlements depended upon issuance of clearance letter.",
+      "Exhibit C5 is an original private document and Exhibit C11 contains useful private documents that will assist the Court.",
+      "The case is competent and not affected by the Public Officers Protection Act as the cause of action bothers on debt.",
+      "Claimant retired as an ASO and is entitled to be paid #40,638.13 as monthly pension.",
+      "The defendant has not entered appearance in this case.",
+      "The defendant's address filed on 2nd August, 2016 is incompetent for non-compliance with Rule 10 of Professional Conduct for Legal Practitioners, 2007."
+    ],
+    "defendant_arguments": [
+      "Claimant is not entitled to the reliefs sought as he who asserts must prove his case with credible and unchallenged evidence.",
+      "Declaratory relief falls within the discretionary power of the Court.",
+      "Claimant ought to have called the maker of Exhibit C3 as a witness.",
+      "Exhibits C4, C5, C7, C9, C10, C11 & C12 are public documents that require certification before admission into evidence.",
+      "Exhibit C14 is a computer generated document that did not comply with Section 84 of the Evidence Act, 2011.",
+      "Claimant has not led any evidence in proof of the claim that his alleged non-payment has infringed on his constitutional rights.",
+      "The suit is statute barred under Section 2(a) of the Public Officers Protection Act as the cause of action arose in 1999.",
+      "The defendant is not indebted to the claimant in any way."
+    ],
+    "appellant_arguments": [],
+    "respondent_arguments": [],
+    "submissions": [],
+    "party_authorities": [
+      {
+        "party": "Defendant",
+        "authority": "Section 131 of the Evidence Act, 2011",
+        "proposition": "He who asserts must prove his case with credible and unchallenged evidence."
+      },
+      {
+        "party": "Defendant",
+        "authority": "Elias v. Disu (1962) 1 SCNLR 361",
+        "proposition": "Party who wishes to succeed must adduce credible evidence to establish his case."
+      },
+      {
+        "party": "Defendant",
+        "authority": "Section 2(a) of the Public Officers Protection Act, LFN, 2004",
+        "proposition": "Action must be commenced within three months next after the act complained of."
+      },
+      {
+        "party": "Claimant",
+        "authority": "Section 173(2) & (3) of the 1999 Constitution",
+        "proposition": "Compliance with constitutional provisions for periodical increments of monthly pensions."
+      },
+      {
+        "party": "Claimant",
+        "authority": "Central Bank of Nigeria v. Amao & 2 Ors. (2011) ALL FWLR (Pt. 558) 805",
+        "proposition": "Cause of action in this case bothers on debt."
+      }
+    ]
+  },
+  "evidence": {
+    "exhibits": [
+      {
+        "identifier": "C1",
+        "description": "Claimant's written statement on oath",
+        "party": "Claimant",
+        "relevance": "Claimant's evidence-in-chief"
+      },
+      {
+        "identifier": "C3",
+        "description": "Letter of retirement from service Ref. No. C200/32/T dated 5th March 1996",
+        "party": "Claimant",
+        "relevance": "Evidence of retirement rank"
+      },
+      {
+        "identifier": "C4",
+        "description": "Circular No. B63216/S.1/13/105 of 20th January 1997",
+        "party": "Claimant",
+        "relevance": "Alleged pension increment"
+      },
+      {
+        "identifier": "C5",
+        "description": "Circular No. S.1549/10 of 23rd February 2001",
+        "party": "Claimant",
+        "relevance": "Alleged pension increment"
+      },
+      {
+        "identifier": "C6",
+        "description": "Letter from defendants to claimant dated 20th October 1993",
+        "party": "Claimant",
+        "relevance": "Petition against alleged victimization"
+      },
+      {
+        "identifier": "C7-C7(5)",
+        "description": "Six letters from defendants to different persons dated 23rd February 2001",
+        "party": "Claimant",
+        "relevance": "Pension recalculation of others"
+      },
+      {
+        "identifier": "C8",
+        "description": "Letter from defendants dated 15th July 2013 to Association of Retired Officers",
+        "party": "Claimant",
+        "relevance": "Update on outstanding pension issues"
+      },
+      {
+        "identifier": "C9",
+        "description": "Letter from National Pension Commission to Daniel & Daniel Attorneys",
+        "party": "Claimant",
+        "relevance": "Referral of complaint to defendants"
+      },
+      {
+        "identifier": "C10",
+        "description": "Certified true copy of Circular Ref SWC/S/04/S.08/Vol. IV/207 of 5th August 2010",
+        "party": "Claimant",
+        "relevance": "Pension harmonization"
+      },
+      {
+        "identifier": "C11",
+        "description": "Photocopy of government circular B.63216/S.1/X/840 of 5th October 2000",
+        "party": "Claimant",
+        "relevance": "Alleged pension increment"
+      },
+      {
+        "identifier": "C12",
+        "description": "Letter written by claimant to defendants on 13th March 2008",
+        "party": "Claimant",
+        "relevance": "Claimant's complaint"
+      },
+      {
+        "identifier": "C14",
+        "description": "Computer generated Bank Statement of Accounts",
+        "party": "Claimant",
+        "relevance": "Evidence of pension payments received"
+      }
+    ],
+    "witnesses": [
+      {
+        "name": "Pastor Akpan Samuel Effiong",
+        "party": "Claimant",
+        "role": "Claimant",
+        "evidence_summary": "Testified that he was employed in 1982, retired in 1996 as ASO, and was underpaid his pension."
+      },
+      {
+        "name": "Eriba Eyenmi",
+        "party": "Defendant",
+        "role": "Defendant's witness",
+        "evidence_summary": "Testified on behalf of the defendant regarding claimant's rank and pension."
+      }
+    ],
+    "documentary_evidence": [],
+    "oral_evidence": [],
+    "expert_evidence": [],
+    "evidential_findings": [
+      {
+        "evidence": "Exhibit C3 - Letter of retirement addressing claimant as ASO",
+        "finding": "Insufficient to establish that claimant was promoted to ASO.",
+        "credibility": "Low"
+      },
+      {
+        "evidence": "Exhibits C4, C5, C7, C9, C10, C11 & C12",
+        "finding": "Some were public documents requiring certification; some were unreliable; some were not tied to claimant's case.",
+        "credibility": "Low"
+      },
+      {
+        "evidence": "Exhibit C14 - Bank statement",
+        "finding": "Admitted but not tied to claimant's claim.",
+        "credibility": "Low"
+      }
+    ]
+  },
+  "judicial_analysis": {
+    "findings_of_fact": [
+      {
+        "issue": "Claimant's rank at retirement",
+        "finding": "Claimant did not provide evidence of promotion to ASO; defendant's contention that he retired as Chief Detective is more credible."
+      },
+      {
+        "issue": "Underpayment of pension",
+        "finding": "Claimant failed to provide evidence of what the ASO pension was or that he was entitled to it."
+      }
+    ],
+    "findings_of_law": [
+      {
+        "issue": "Statute barred",
+        "finding": "The suit is not statute barred because the cause of action is continuing injury (periodic pension payments)."
+      },
+      {
+        "issue": "Admissibility of computer generated evidence",
+        "finding": "The court may depart from the Evidence Act in the interest of justice; Exhibit C14 remains admitted."
+      }
+    ],
+    "reasoning": "The court found that the claimant failed to establish the fundamental basis of his claim, specifically that he was promoted to ASO. The letter of retirement alone was insufficient. The court also found that the suit was not statute barred due to continuing injury. The court dismissed the suit.",
+    "issue_analysis": [
+      {
+        "issue_number": "1",
+        "issue": "Whether based on the available facts and evidence before this Honorable Court the claimant is entitled to his reliefs.",
+        "arguments": {
+          "claimant": "Claimant argued he was entitled to reliefs as he proved his case and retired as ASO.",
+          "defendant": "Defendant argued claimant failed to prove his case and was not entitled to reliefs."
+        },
+        "judicial_analysis": "The court found that the claimant failed to prove that he was promoted to ASO. The letter of retirement alone was insufficient. The claimant also failed to provide evidence of the pension entitlement of an ASO.",
+        "holding": "Claimant is not entitled to the reliefs sought.",
+        "ratio_decidendi": "A claimant must prove the basis of his claim; mere assertion without evidence is insufficient.",
+        "result": "Claim dismissed."
+      },
+      {
+        "issue_number": "2",
+        "issue": "Whether the suit of the claimant is competent in view of the Limitation Law i.e. Sec. 2 (a) of the Public Officers Protection Act, LFN, 2004.",
+        "arguments": {
+          "claimant": "Claimant argued the suit is competent and not affected by the Public Officers Protection Act as the cause of action is debt.",
+          "defendant": "Defendant argued the suit is statute barred as the cause of action arose in 1999."
+        },
+        "judicial_analysis": "The court found that the cause of action is underpayment of pension, which is a continuing injury, and thus falls within the exception to the limitation law.",
+        "holding": "The suit is not statute barred.",
+        "ratio_decidendi": "For the exception of continuance of damage or injury to apply, there must be periodicity of payment, such as monthly pension.",
+        "result": "Suit not statute barred."
+      }
+    ],
+    "holdings": [
+      {
+        "issue_number": "1",
+        "issue": "Entitlement to reliefs",
+        "holding": "Claimant failed to prove entitlement to reliefs.",
+        "result": "Claim dismissed."
+      },
+      {
+        "issue_number": "2",
+        "issue": "Statute barred",
+        "holding": "Suit is not statute barred.",
+        "result": "Jurisdiction upheld."
+      }
+    ],
+    "ratio_decidendi": [
+      {
+        "issue": "Proof of promotion",
+        "principle": "Promotion in employment law is a factual situation that cannot be inferred or attributed; it must be proved.",
+        "application": "Claimant failed to prove he was promoted to ASO.",
+        "holding": "Claimant's claim fails."
+      },
+      {
+        "issue": "Continuing injury exception",
+        "principle": "The exception of continuance of damage or injury to limitation law applies where there is periodicity of payment, such as monthly pension.",
+        "application": "Claimant's pension is paid monthly, so the suit is not statute barred.",
+        "holding": "Suit not statute barred."
+      }
+    ],
+    "obiter_dicta": [],
+    "legal_principles": [
+      {
+        "principle": "He who asserts must prove.",
+        "context": "Claimant alleged underpayment but failed to prove entitlement.",
+        "source": "Section 131 of the Evidence Act, 2011"
+      },
+      {
+        "principle": "Promotion is neither automatic nor as of right.",
+        "context": "Claimant alleged promotion to ASO but no evidence.",
+        "source": "Abenga v. Benue State Judicial Service Commission [2006] 14 NWLR (Pt. 1000) 610 CA"
+      }
+    ],
+    "statutory_interpretation": [
+      {
+        "statute": "Public Officers Protection Act, LFN, 2004",
+        "provision": "Section 2(a)",
+        "interpretation": "Action must be commenced within three months next after the act complained of, unless there is continuance of damage or injury.",
+        "application": "Court found continuing injury due to periodic pension payments, so suit not statute barred."
+      },
+      {
+        "statute": "Evidence Act, 2011",
+        "provision": "Section 84",
+        "interpretation": "Computer generated documents must be certified.",
+        "application": "Court departed from this provision in the interest of justice under Section 12(2) of the NIC Act 2006."
+      }
+    ],
+    "constitutional_analysis": [
+      {
+        "provision": "Section 173(2) & (3) of the 1999 Constitution",
+        "interpretation": "Pension rights of public officers.",
+        "application": "Claimant relied on this but failed to prove entitlement."
+      }
+    ],
+    "precedent_analysis": [
+      {
+        "authority": "Federal Airports Authority v. Nwoye (2015) 53 NLLR (Pt. 180) 446 CA",
+        "citation": "(2015) 53 NLLR (Pt. 180) 446 CA",
+        "treatment": "Followed",
+        "proposition": "Jurisdiction is a threshold matter.",
+        "reasoning": "Court applied this to address the statute barred issue first."
+      },
+      {
+        "authority": "Bello & Ors. v. Nigeria Customs Service Board (2015) 53 NLLR (Pt. 179) 343 NIC",
+        "citation": "(2015) 53 NLLR (Pt. 179) 343 NIC",
+        "treatment": "Followed",
+        "proposition": "For continuing injury exception, there must be periodicity of payment.",
+        "reasoning": "Court applied this to hold the suit not statute barred."
+      }
+    ],
+    "evidential_findings": [],
+    "judicial_observations": []
+  },
+  "authorities": {
+    "cases_cited": [
+      {
+        "case_name": "Elias v. Disu",
+        "citation": "(1962) 1 SCNLR 361",
+        "court": "Supreme Court",
+        "year": 1962,
+        "proposition": "He who asserts must prove.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "High"
+      },
+      {
+        "case_name": "Arase v. Arase",
+        "citation": "(1987) 5 SC 33",
+        "court": "Supreme Court",
+        "year": 1987,
+        "proposition": "Party must adduce credible evidence to establish his case.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Elias v. Omo-Bare",
+        "citation": "(1982) 5 SC 291",
+        "court": "Supreme Court",
+        "year": 1982,
+        "proposition": "Party must adduce credible evidence to establish his case.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Nzurike v. Obioha",
+        "citation": "(2011) LPELR 4661 (CA)",
+        "court": "Court of Appeal",
+        "year": 2011,
+        "proposition": "Declaratory relief falls within the discretionary power of the Court.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "A.G. Cross River State v. A.G. Federation",
+        "citation": "(2005) 6 SCNJ 152",
+        "court": "Supreme Court",
+        "year": 2005,
+        "proposition": "Declaratory relief falls within the discretionary power of the Court.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Ogolo v. Ogolo",
+        "citation": "(2006) 2 SCNJ 235",
+        "court": "Supreme Court",
+        "year": 2006,
+        "proposition": "Declaratory relief falls within the discretionary power of the Court.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "West African Provincial Co. Ltd. v. Tobacco Co. Ltd.",
+        "citation": "(1987) 2 NWLR (Pt. 57)",
+        "court": "Supreme Court",
+        "year": 1987,
+        "proposition": "Court has inherent power to examine records.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Low"
+      },
+      {
+        "case_name": "Nwanosike v. Udozen",
+        "citation": "(1993) 4 NWLR (Pt. 290) 684",
+        "court": "Supreme Court",
+        "year": 1993,
+        "proposition": "Court has inherent power to examine records.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Low"
+      },
+      {
+        "case_name": "N.S.C. (Nig.) Ltd. v. Innis-Palmer",
+        "citation": "(1992) 1 NWLR (Pt. 218) 422",
+        "court": "Supreme Court",
+        "year": 1992,
+        "proposition": "Section 167(d) of Evidence Act applies.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Ali v. UBA Plc",
+        "citation": "(2015) ALL FWLR (Pt. 771) 1482 CA",
+        "court": "Court of Appeal",
+        "year": 2015,
+        "proposition": "Failure to call maker of document invites Sections 83(1) and 149(d) of Evidence Act.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "A.P.C. v. INEC",
+        "citation": "(2015) ALL FWLR (Pt. 771) 1420 SC",
+        "court": "Supreme Court",
+        "year": 2015,
+        "proposition": "Failure to call maker of document invites Sections 83(1) and 149(d) of Evidence Act.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Eze v. Okoloagu",
+        "citation": "(2010) 3 NWLR (Pt. 1180) 183",
+        "court": "Supreme Court",
+        "year": 2010,
+        "proposition": "Denial not punctured by claimant.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Gau v. Gau",
+        "citation": "(2015) ALL FWLR (Pt. 776) 591",
+        "court": "Supreme Court",
+        "year": 2015,
+        "proposition": "Public documents require certification.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "High"
+      },
+      {
+        "case_name": "FAAN v. Wawal Express Services (Nig.) Ltd.",
+        "citation": "(2011) 1 SCNJ 133",
+        "court": "Supreme Court",
+        "year": 2011,
+        "proposition": "Public documents require certification.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Aregbesola v. Oyinlola",
+        "citation": "(2009) ALL FWLR (Pt. 472) 1147",
+        "court": "Supreme Court",
+        "year": 2009,
+        "proposition": "Public documents require certification.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Solomon v. Monday",
+        "citation": "(2015) ALL FWLR (Pt. 762) 1695",
+        "court": "Supreme Court",
+        "year": 2015,
+        "proposition": "Public documents require certification.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Afolabi v. Aleremu",
+        "citation": "(2013) ALL FWLR (Pt. 691) 1621",
+        "court": "Supreme Court",
+        "year": 2013,
+        "proposition": "Public documents require certification.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Maidere v. FRN",
+        "citation": "(2014) ALL FWLR (Pt. 717) 725",
+        "court": "Supreme Court",
+        "year": 2014,
+        "proposition": "Court should expunge wrongly admitted documents.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "High"
+      },
+      {
+        "case_name": "Ojo v. Akinsanonye",
+        "citation": "(2014) ALL FWLR (Pt. 754) 18",
+        "court": "Supreme Court",
+        "year": 2014,
+        "proposition": "Burden of proof lies on claimant who alleges affirmative.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Fakoya v. Ijelu",
+        "citation": "(2015) ALL FWLR (Pt. 762) 1644",
+        "court": "Supreme Court",
+        "year": 2015,
+        "proposition": "Burden of proof lies on claimant who alleges affirmative.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Akaimwo v. Nsirim",
+        "citation": "(2008) ALL FWLR (Pt. 410) 610",
+        "court": "Supreme Court",
+        "year": 2008,
+        "proposition": "Claimant must prove constitutional infraction.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "A.C.N. v. INEC",
+        "citation": "(2014) ALL FWLR (Pt. 716) 460 SC",
+        "court": "Supreme Court",
+        "year": 2014,
+        "proposition": "Jurisdiction must be properly invoked.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "High"
+      },
+      {
+        "case_name": "Teibogtrren v. Governor, Delta State",
+        "citation": "(2015) ALL FWLR (Pt. 764) 1 CA",
+        "court": "Court of Appeal",
+        "year": 2015,
+        "proposition": "Jurisdiction must be properly invoked.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Agbonika v. University of Abuja",
+        "citation": "(2014) ALL FWLR (Pt. 715) 335 CA",
+        "court": "Court of Appeal",
+        "year": 2014,
+        "proposition": "Jurisdiction must be properly invoked.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "CBN v. Amao",
+        "citation": "(2011) ALL FWLR (Pt. 558) 806 SC",
+        "court": "Supreme Court",
+        "year": 2011,
+        "proposition": "Cause of action in this case bothers on debt.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "High"
+      },
+      {
+        "case_name": "NDIC v. Governing Council, Ife",
+        "citation": "(2014) ALL FWLR (Pt. 742) 1790 CA",
+        "court": "Court of Appeal",
+        "year": 2014,
+        "proposition": "Jurisdiction must be properly invoked.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Ibrahim v. JSC, Kaduna State",
+        "citation": "(1998) 14 NWLR (Pt. 584) 1 SC",
+        "court": "Supreme Court",
+        "year": 1998,
+        "proposition": "Cause of action extinguished under Public Officers Protection Act.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "High"
+      },
+      {
+        "case_name": "WAEC v. Udika",
+        "citation": "(2014) ALL FWLR (Pt. 757) 797 CA",
+        "court": "Court of Appeal",
+        "year": 2014,
+        "proposition": "Cause of action extinguished under Public Officers Protection Act.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Inakoju & Ors. v. Adeleke & Ors.",
+        "citation": "(2007) 143 LRCN 1",
+        "court": "Supreme Court",
+        "year": 2007,
+        "proposition": "Defendant must enter appearance.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Yaki & Anor. v. Bagudu & Ors.",
+        "citation": "(2015) Vol. 249 LRCN 1",
+        "court": "Supreme Court",
+        "year": 2015,
+        "proposition": "Legal practitioner must affix stamp and seal.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Igwilo v. CBN",
+        "citation": "(2000) 9 NWLR (Pt. 672) 302",
+        "court": "Supreme Court",
+        "year": 2000,
+        "proposition": "Submission must be supported by evidence.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Ogundipe v. NITEL",
+        "citation": "(2016) ALL FWLR (Pt. 817) 612",
+        "court": "Supreme Court",
+        "year": 2016,
+        "proposition": "Discretionary power must be exercised judiciously.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Maideribe v. FRN",
+        "citation": "(2014) ALL FWLR (Pt. 717) 725",
+        "court": "Supreme Court",
+        "year": 2014,
+        "proposition": "Court cannot give teeth to dead evidence.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Odoma v. PDP",
+        "citation": "(2015) ALL FWLR (Pt. 773) 1962",
+        "court": "Supreme Court",
+        "year": 2015,
+        "proposition": "Submission must be borne out of pleadings and evidence.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Federal Airports Authority v. Nwoye",
+        "citation": "(2015) 53 NLLR (Pt. 180) 446 CA",
+        "court": "Court of Appeal",
+        "year": 2015,
+        "proposition": "Jurisdiction is a threshold matter.",
+        "treatment": "Followed",
+        "cited_by": "Court",
+        "importance": "High"
+      },
+      {
+        "case_name": "The Attorney General of Lagos State v. Dosunmu",
+        "citation": "(1989) 3 WLR (Pt. 111)",
+        "court": "Supreme Court",
+        "year": 1989,
+        "proposition": "Jurisdiction is fundamental.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "American International Insurance v. Ceekay Trading Ltd.",
+        "citation": "(1981) 5 SC 50",
+        "court": "Supreme Court",
+        "year": 1981,
+        "proposition": "Jurisdiction is fundamental.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Utih & Ors. v. Onoyivwe & Ors.",
+        "citation": "(1991) 1 NWLR (Pt. 166)",
+        "court": "Supreme Court",
+        "year": 1991,
+        "proposition": "Jurisdiction is fundamental.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Obiuweubi v. Central Bank of Nigeria",
+        "citation": "(2011) 7 NWLR (Pt. 465)",
+        "court": "Supreme Court",
+        "year": 2011,
+        "proposition": "Jurisdiction is fundamental.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Bello & Ors. v. Nigeria Customs Service Board",
+        "citation": "(2015) 53 NLLR (Pt. 179) 343 NIC",
+        "court": "National Industrial Court",
+        "year": 2015,
+        "proposition": "For continuing injury exception, there must be periodicity of payment.",
+        "treatment": "Followed",
+        "cited_by": "Court",
+        "importance": "High"
+      },
+      {
+        "case_name": "Kjang v. National Agency for the Control of AIDS (NACA)",
+        "citation": "NICN/ABJ/230/2012",
+        "court": "National Industrial Court",
+        "year": 2013,
+        "proposition": "Date of transfer not date of filing determines commencement.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Comrade Ishola Adeshina Surajudeen v. Mr. Anthony Nted & Anor",
+        "citation": "NICN/LA/114/2013",
+        "court": "National Industrial Court",
+        "year": 2014,
+        "proposition": "Definition of cause of action.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "AG, Federation v. AG, Abia State & Ors",
+        "citation": "[2001] 11 NWLR (Pt. 725) 689",
+        "court": "Supreme Court",
+        "year": 2001,
+        "proposition": "Definition of cause of action.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "AG, Rivers State v. AG, Bayelsa State & Anor",
+        "citation": "[2013] 3 NWLR (Pt. 1340) 123",
+        "court": "Supreme Court",
+        "year": 2013,
+        "proposition": "Test for continuance of damage or injury relates to periodical payments.",
+        "treatment": "Followed",
+        "cited_by": "Court",
+        "importance": "High"
+      },
+      {
+        "case_name": "Hon. Runyi Kanu (JP) & Ors v. The Attorney-General & Commissioner for Justice Cross River State & Ors",
+        "citation": "[2013] 32 NLLR (Pt. 91) 63 NIC",
+        "court": "National Industrial Court",
+        "year": 2013,
+        "proposition": "Continuing injury exception applies to periodic payments.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "AUPCTRE & Anor v. National Theatre of Nigeria & Ors",
+        "citation": "NICN/LA/149/2014",
+        "court": "National Industrial Court",
+        "year": 2016,
+        "proposition": "Continuing injury exception applies to periodic payments.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Dana Impex Ltd v. Awukam",
+        "citation": "[2006] 3 NWLR (Pt. 968) 554",
+        "court": "Court of Appeal",
+        "year": 2006,
+        "proposition": "Original letter requires no certification.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Samson Kehinde Akindoyin v. Union Bank of Nigeria Plc",
+        "citation": "NICN/LA/308/2013",
+        "court": "National Industrial Court",
+        "year": 2015,
+        "proposition": "Claimant must build case on own right, not another's.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "High"
+      },
+      {
+        "case_name": "Habu v. NUT, Taraba State",
+        "citation": "[2005] 4 FWLR (Pt. 283) 646",
+        "court": "Supreme Court",
+        "year": 2005,
+        "proposition": "Membership of association must be pleaded and proved.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Onochie v. Odogwu",
+        "citation": "[2006] 6 NWLR (Pt. 975) 65",
+        "court": "Supreme Court",
+        "year": 2006,
+        "proposition": "Certification requirement for public documents.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Araka v. Egbue",
+        "citation": "[2003] 33 WRN 1",
+        "court": "Supreme Court",
+        "year": 2003,
+        "proposition": "Photo tricks are order of the day.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Low"
+      },
+      {
+        "case_name": "Ogboru v. Uduaghan",
+        "citation": "[2011] (Pt. 1232) 608",
+        "court": "Supreme Court",
+        "year": 2011,
+        "proposition": "Sophistry in reproducing documents.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Low"
+      },
+      {
+        "case_name": "Akpan Lawrence Idorenyn v. Skye Bank Plc",
+        "citation": "NICN/CA/104/2013",
+        "court": "National Industrial Court",
+        "year": 2016,
+        "proposition": "Lack of acknowledgment on document indicates not delivered.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Eniang Ndem v. Mr. Ndoma Akpet & 3 Ors",
+        "citation": "NICN/CA/14/2014",
+        "court": "National Industrial Court",
+        "year": 2016,
+        "proposition": "Lack of acknowledgment on document indicates not delivered.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Kurt Severinsen v. Emerging Markets Telecommunication Services Limited",
+        "citation": "[2012] 27 NLLR (Pt. 78) 374",
+        "court": "National Industrial Court",
+        "year": 2012,
+        "proposition": "Informality and flexibility expected of the court.",
+        "treatment": "Followed",
+        "cited_by": "Court",
+        "importance": "High"
+      },
+      {
+        "case_name": "NTF Mills Ltd v. The 2nd Punjab Tribunal",
+        "citation": "AIR 1957 SC 329",
+        "court": "Supreme Court of India",
+        "year": 1957,
+        "proposition": "Court free to apply principles of justice, equity and good conscience.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Lucky Ihanza & Anor v. Global Fleet Oil & Gas Limited",
+        "citation": "NIC/LA/217/2011",
+        "court": "National Industrial Court",
+        "year": 2013,
+        "proposition": "Computer generated evidence admissible.",
+        "treatment": "Followed",
+        "cited_by": "Court",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Mr. Iroko A. Lateef v. Global Fleet Oil & Gas Ltd",
+        "citation": "NIC/LA/222/2011",
+        "court": "National Industrial Court",
+        "year": 2013,
+        "proposition": "Computer generated evidence admissible.",
+        "treatment": "Followed",
+        "cited_by": "Court",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Mr. Olubayo Adeyemi v. Global Fleet Ltd",
+        "citation": "[2013] 35 NLLR (Pt. 105) 384",
+        "court": "National Industrial Court",
+        "year": 2013,
+        "proposition": "Computer generated evidence admissible.",
+        "treatment": "Followed",
+        "cited_by": "Court",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Esther Ogbodu v. Global Fleet Oil & Gas Ltd & Anor",
+        "citation": "NICN/LA/32/2012",
+        "court": "National Industrial Court",
+        "year": "",
+        "proposition": "Computer generated evidence admissible.",
+        "treatment": "Followed",
+        "cited_by": "Court",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Adebayo Boye v. FBN Mortgages Limited",
+        "citation": "NICN/LA/496/2012",
+        "court": "National Industrial Court",
+        "year": 2016,
+        "proposition": "Counsel should not dump documents on court.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Samson Babatunde Olarewaju v. Afribank Nigeria Plc",
+        "citation": "[2001] Vol. 6 MJSC 68",
+        "court": "Supreme Court",
+        "year": 2001,
+        "proposition": "Facts pleaded without evidence go to no issue.",
+        "treatment": "Followed",
+        "cited_by": "Court",
+        "importance": "High"
+      },
+      {
+        "case_name": "Ivienagbor v. Bazuaye",
+        "citation": "[1999] 9 NWLR (Pt. 620) 552",
+        "court": "Supreme Court",
+        "year": 1999,
+        "proposition": "Party must tie exhibit to relevant aspects of case.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Owe v. Oshinbanjo",
+        "citation": "[1965] 1 ALL NLR 72",
+        "court": "Supreme Court",
+        "year": 1965,
+        "proposition": "Party must tie exhibit to relevant aspects of case.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Bornu Holding Co. Ltd. v. Alhaji Hassan Bogoco",
+        "citation": "[1971] 1 ALL NLR 324",
+        "court": "Supreme Court",
+        "year": 1971,
+        "proposition": "Party must tie exhibit to relevant aspects of case.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Alhaji Onibudo & Ors v. Alhaji Akibu & Ors",
+        "citation": "[1982] 7 SC 60",
+        "court": "Supreme Court",
+        "year": 1982,
+        "proposition": "Party must tie exhibit to relevant aspects of case.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Nwaga v. Registered Trustees Recreation Club",
+        "citation": "[2004] FWLR (Pt. 190) 1360",
+        "court": "Supreme Court",
+        "year": 2004,
+        "proposition": "Party must tie exhibit to relevant aspects of case.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Jalingo v. Nyane",
+        "citation": "[1992] 3 NWLR (Pt. 231) 538",
+        "court": "Supreme Court",
+        "year": 1992,
+        "proposition": "Party must tie exhibit to relevant aspects of case.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Ugochukwu v. Co-operative Bank",
+        "citation": "[1996] 7 SCNJ 22",
+        "court": "Supreme Court",
+        "year": 1996,
+        "proposition": "Party must tie exhibit to relevant aspects of case.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Obasi Brothers Ltd v. MBA Securities Ltd",
+        "citation": "[2005] 2 SC (Pt. 1) 51",
+        "court": "Supreme Court",
+        "year": 2005,
+        "proposition": "Party must tie exhibit to relevant aspects of case.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Eze v. Okolagu",
+        "citation": "[2010] 3 NWLR (Pt. 1180) 183",
+        "court": "Supreme Court",
+        "year": 2010,
+        "proposition": "Party must tie exhibit to relevant aspects of case.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "ANPP v. INEC",
+        "citation": "[2010] 13 NWLR (Pt. 1212) 547",
+        "court": "Supreme Court",
+        "year": 2010,
+        "proposition": "Party must tie exhibit to relevant aspects of case.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Ucha v. Elechi",
+        "citation": "[2012] 13 NWLR (Pt. 1316) 330",
+        "court": "Supreme Court",
+        "year": 2012,
+        "proposition": "Party must tie exhibit to relevant aspects of case.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Belgore v. Ahmed",
+        "citation": "[2013] 8 NWLR (Pt. 1355) 60",
+        "court": "Supreme Court",
+        "year": 2013,
+        "proposition": "Party must tie exhibit to relevant aspects of case.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Omisore v. Aregbesola",
+        "citation": "[2015] 15 NWLR (Pt. 1482) 202",
+        "court": "Supreme Court",
+        "year": 2015,
+        "proposition": "Party must tie exhibit to relevant aspects of case.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Ademola Bolarinde v. APM Terminals Apapa Limited",
+        "citation": "NICN/LA/268/2012",
+        "court": "National Industrial Court",
+        "year": 2016,
+        "proposition": "Party must tie exhibit to relevant aspects of case.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Abenga v. Benue State Judicial Service Commission",
+        "citation": "[2006] 14 NWLR (Pt. 1000) 610 CA",
+        "court": "Court of Appeal",
+        "year": 2006,
+        "proposition": "Promotion is neither automatic nor as of right.",
+        "treatment": "Followed",
+        "cited_by": "Court",
+        "importance": "High"
+      },
+      {
+        "case_name": "LH Sugar Factories & Oil Mills Ltd v. State of Uttar Pradesh",
+        "citation": "(1961) I LLJ 686 (ALL)",
+        "court": "Allahabad High Court",
+        "year": 1961,
+        "proposition": "Promotion necessitates consideration of comparative suitability.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Medium"
+      }
+    ],
+    "statutes": [
+      {
+        "name": "Evidence Act, 2011",
+        "provision": "Section 131",
+        "proposition": "He who asserts must prove."
+      },
+      {
+        "name": "Evidence Act, 2011",
+        "provision": "Section 167(d)",
+        "proposition": "Presumption that evidence withheld would be unfavourable."
+      },
+      {
+        "name": "Evidence Act, 2011",
+        "provision": "Sections 83(1) and 149(d)",
+        "proposition": "Failure to call maker of document."
+      },
+      {
+        "name": "Evidence Act, 2011",
+        "provision": "Section 104",
+        "proposition": "Certification of public documents."
+      },
+      {
+        "name": "Evidence Act, 2011",
+        "provision": "Section 84",
+        "proposition": "Computer generated documents must be certified."
+      },
+      {
+        "name": "Evidence Act, 2011",
+        "provision": "Sections 89 and 90",
+        "proposition": "Admissibility of computer generated evidence."
+      },
+      {
+        "name": "Public Officers Protection Act, LFN, 2004",
+        "provision": "Section 2(a)",
+        "proposition": "Action must be commenced within three months next after the act complained of."
+      },
+      {
+        "name": "National Industrial Court Act, 2006",
+        "provision": "Section 12(2)(a) and (b)",
+        "proposition": "Court may depart from Evidence Act in the interest of justice."
+      },
+      {
+        "name": "National Industrial Court Rules, 2007",
+        "provision": "Order 8(1) & (2)",
+        "proposition": "Entry of appearance."
+      },
+      {
+        "name": "National Industrial Court Rules, 2007",
+        "provision": "Order 5(2)",
+        "proposition": "Irregularity may be treated as mere irregularity."
+      },
+      {
+        "name": "Professional Conduct for Legal Practitioners, 2007",
+        "provision": "Rule 10(1), (2) & (3)",
+        "proposition": "Legal practitioner must affix stamp and seal."
+      }
+    ],
+    "constitutional_provisions": [
+      {
+        "instrument": "Constitution of the Federal Republic of Nigeria, 1999 (as amended)",
+        "article_or_section": "Section 173(2) & (3)",
+        "proposition": "Pension rights of public officers."
+      }
+    ],
+    "regulations": [],
+    "rules": [],
+    "international_instruments": [],
+    "other_authorities": []
+  },
+  "precedent_relationships": [
+    {
+      "authority": "Federal Airports Authority v. Nwoye",
+      "citation": "(2015) 53 NLLR (Pt. 180) 446 CA",
+      "relationship": "Followed",
+      "proposition": "Jurisdiction is a threshold matter.",
+      "context": "Court applied this to address the statute barred issue first."
+    },
+    {
+      "authority": "Bello & Ors. v. Nigeria Customs Service Board",
+      "citation": "(2015) 53 NLLR (Pt. 179) 343 NIC",
+      "relationship": "Followed",
+      "proposition": "For continuing injury exception, there must be periodicity of payment.",
+      "context": "Court applied this to hold the suit not statute barred."
+    },
+    {
+      "authority": "AG, Rivers State v. AG, Bayelsa State & Anor",
+      "citation": "[2013] 3 NWLR (Pt. 1340) 123",
+      "relationship": "Followed",
+      "proposition": "Test for continuance of damage or injury relates to periodical payments.",
+      "context": "Court applied this to determine the suit was not statute barred."
+    },
+    {
+      "authority": "Abenga v. Benue State Judicial Service Commission",
+      "citation": "[2006] 14 NWLR (Pt. 1000) 610 CA",
+      "relationship": "Followed",
+      "proposition": "Promotion is neither automatic nor as of right.",
+      "context": "Court applied this to hold claimant failed to prove promotion."
+    },
+    {
+      "authority": "Samson Babatunde Olarewaju v. Afribank Nigeria Plc",
+      "citation": "[2001] Vol. 6 MJSC 68",
+      "relationship": "Followed",
+      "proposition": "Facts pleaded without evidence go to no issue.",
+      "context": "Court applied this to hold claimant's pleadings unsupported by evidence."
+    }
+  ],
+  "outcome": {
+    "decision": "Claim dismissed.",
+    "overall_result": "Claimant's suit dismissed. No order as to cost.",
+    "orders": [
+      "Judgment is entered accordingly.",
+      "I make no order as to cost."
+    ],
+    "reliefs": [
+      {
+        "relief_number": "1",
+        "relief": "Declaration that it is wrongful, unlawful and unconstitutional for the defendant to discriminate against the claimant by not paying him a monthly pension of #40,638.93 but pays a smaller amount of #13,792.10.",
+        "result": "Refused",
+        "reason": "Claimant failed to prove entitlement to ASO rank and pension."
+      },
+      {
+        "relief_number": "2",
+        "relief": "Order directing the defendant to pay the claimant the sum of #4,318,642.46 representing unpaid arrears of pension from 1999 till September, 2013.",
+        "result": "Refused",
+        "reason": "Claimant failed to prove entitlement."
+      },
+      {
+        "relief_number": "3",
+        "relief": "Exemplary damages of #5,000,000.00 against the defendant.",
+        "result": "Refused",
+        "reason": "Claimant failed to prove entitlement."
+      },
+      {
+        "relief_number": "4",
+        "relief": "#1,700,000.00 being the cost of this suit.",
+        "result": "Refused",
+        "reason": "No order as to cost."
+      }
+    ],
+    "reliefs_granted": [],
+    "reliefs_refused": [
+      "Declaration of discrimination in pension payment.",
+      "Order for payment of arrears of pension.",
+      "Exemplary damages.",
+      "Costs."
+    ],
+    "reliefs_struck_out": [],
+    "reliefs_dismissed": [
+      "All reliefs sought by the claimant."
+    ],
+    "damages": [],
+    "compensation": [],
+    "costs": {
+      "awarded": false,
+      "amount": "",
+      "recipient": "",
+      "details": "No order as to cost."
+    },
+    "interest": {
+      "awarded": false,
+      "rate": "",
+      "start_date": "",
+      "end_date": "",
+      "basis": ""
+    },
+    "compliance_deadline": "",
+    "declarations": [],
+    "injunctions": [],
+    "specific_orders": [],
+    "final_disposition": "Suit dismissed."
+  },
+  "legal_knowledge": {
+    "holdings": [
+      "Claimant failed to prove he was promoted to ASO; letter of retirement alone insufficient.",
+      "Suit not statute barred due to continuing injury exception for periodic pension payments.",
+      "Court may depart from Evidence Act in interest of justice under Section 12(2) of NIC Act 2006."
+    ],
+    "legal_principles": [
+      "He who asserts must prove.",
+      "Promotion is neither automatic nor as of right.",
+      "For continuing injury exception, there must be periodicity of payment.",
+      "Party must tie exhibit to relevant aspects of case."
+    ],
+    "ratio_decidendi": [
+      "A claimant must prove the basis of his claim; mere assertion without evidence is insufficient.",
+      "The exception of continuance of damage or injury to limitation law applies where there is periodicity of payment, such as monthly pension."
+    ],
+    "obiter_dicta": [],
+    "causes_of_action": [
+      "Underpayment of pension",
+      "Discrimination in pension payment"
+    ],
+    "legal_issues": [
+      "Entitlement to pension as ASO",
+      "Statute barred under Public Officers Protection Act"
+    ],
+    "practice_areas": [
+      "Employment Law",
+      "Pension Law",
+      "Civil Procedure"
+    ],
+    "sub_practice_areas": [
+      "Public Officers Protection",
+      "Evidence Law"
+    ],
+    "legal_concepts": [
+      "Statute of Limitation",
+      "Continuing Injury",
+      "Promotion",
+      "Pension Entitlement",
+      "Admissibility of Evidence"
+    ],
+    "doctrines": [
+      "Continuing Injury Exception",
+      "Burden of Proof"
+    ],
+    "remedies": [
+      "Declaration",
+      "Monetary Order",
+      "Exemplary Damages",
+      "Costs"
+    ],
+    "employment_law_topics": [
+      "Pension and Retirement Benefits",
+      "Promotion",
+      "Public Officers Protection"
+    ],
+    "jurisdictional_issues": [
+      "Statute barred under Public Officers Protection Act"
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "pension",
+      "underpayment",
+      "Assistant Security Officer",
+      "Chief Detective",
+      "statute barred",
+      "Public Officers Protection Act",
+      "continuing injury",
+      "promotion",
+      "Department of State Service",
+      "National Industrial Court"
+    ],
+    "searchable_concepts": [
+      "Pension entitlement",
+      "Discrimination in pension",
+      "Statute of limitation",
+      "Continuing injury exception",
+      "Promotion in employment",
+      "Admissibility of computer generated evidence"
+    ],
+    "semantic_topics": [
+      "Pension law",
+      "Employment law",
+      "Civil procedure",
+      "Evidence law"
+    ],
+    "legal_entities": [
+      "Pastor Akpan Samuel Effiong",
+      "Department of State Service",
+      "National Industrial Court",
+      "Public Officers Protection Act",
+      "Evidence Act"
+    ],
+    "statutes_referenced": [
+      "Public Officers Protection Act, LFN, 2004",
+      "Evidence Act, 2011",
+      "National Industrial Court Act, 2006",
+      "Constitution of the Federal Republic of Nigeria, 1999"
+    ],
+    "cases_referenced": [
+      "Federal Airports Authority v. Nwoye",
+      "Bello & Ors. v. Nigeria Customs Service Board",
+      "AG, Rivers State v. AG, Bayelsa State & Anor",
+      "Abenga v. Benue State Judicial Service Commission",
+      "Samson Babatunde Olarewaju v. Afribank Nigeria Plc"
+    ],
+    "citation_phrases": [
+      "NICN/CA/42/2013",
+      "(2015) 53 NLLR (Pt. 180) 446 CA",
+      "(2015) 53 NLLR (Pt. 179) 343 NIC",
+      "[2013] 3 NWLR (Pt. 1340) 123",
+      "[2006] 14 NWLR (Pt. 1000) 610 CA"
+    ],
+    "fact_patterns": [
+      "Retired public officer claims underpayment of pension",
+      "Dispute over rank at retirement",
+      "Claim for arrears of pension",
+      "Defendant raises statute of limitation"
+    ],
+    "relief_types": [
+      "Declaration",
+      "Monetary Order",
+      "Exemplary Damages",
+      "Costs"
+    ],
+    "decision_types": [
+      "Dismissal",
+      "Jurisdictional ruling"
+    ]
+  },
+  "graph_rag": {
+    "entities": [
+      {
+        "name": "Pastor Akpan Samuel Effiong",
+        "type": "Person"
+      },
+      {
+        "name": "Department of State Service",
+        "type": "Organization"
+      },
+      {
+        "name": "National Industrial Court",
+        "type": "Court"
+      },
+      {
+        "name": "Public Officers Protection Act",
+        "type": "Statute"
+      },
+      {
+        "name": "Evidence Act",
+        "type": "Statute"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Pastor Akpan Samuel Effiong",
+        "relationship": "employed by",
+        "target": "Department of State Service",
+        "evidence": "Claimant was employed by the defendant in 1982."
+      },
+      {
+        "source": "Pastor Akpan Samuel Effiong",
+        "relationship": "retired from",
+        "target": "Department of State Service",
+        "evidence": "Claimant retired in 1996."
+      },
+      {
+        "source": "Pastor Akpan Samuel Effiong",
+        "relationship": "sued",
+        "target": "Department of State Service",
+        "evidence": "Claimant instituted this action against the defendants."
+      }
+    ],
+    "case_relationships": [
+      {
+        "case": "Federal Airports Authority v. Nwoye",
+        "citation": "(2015) 53 NLLR (Pt. 180) 446 CA",
+        "relationship": "Followed",
+        "context": "Jurisdiction is a threshold matter."
+      },
+      {
+        "case": "Bello & Ors. v. Nigeria Customs Service Board",
+        "citation": "(2015) 53 NLLR (Pt. 179) 343 NIC",
+        "relationship": "Followed",
+        "context": "Continuing injury exception for periodic payments."
+      }
+    ],
+    "statute_relationships": [
+      {
+        "statute": "Public Officers Protection Act",
+        "provision": "Section 2(a)",
+        "relationship": "Interpreted",
+        "context": "Court interpreted the limitation period and continuing injury exception."
+      },
+      {
+        "statute": "Evidence Act",
+        "provision": "Section 84",
+        "relationship": "Departed from",
+        "context": "Court departed from certification requirement for computer generated evidence in interest of justice."
+      }
+    ],
+    "legal_principle_relationships": [
+      {
+        "principle": "He who asserts must prove",
+        "case": "Elias v. Disu",
+        "relationship": "Established by"
+      },
+      {
+        "principle": "Promotion is neither automatic nor as of right",
+        "case": "Abenga v. Benue State Judicial Service Commission",
+        "relationship": "Established by"
+      }
+    ]
+  },
+  "citation_network": {
+    "authorities_cited": [
+      "Elias v. Disu (1962) 1 SCNLR 361",
+      "Arase v. Arase (1987) 5 SC 33",
+      "Elias v. Omo-Bare (1982) 5 SC 291",
+      "Nzurike v. Obioha (2011) LPELR 4661 (CA)",
+      "A.G. Cross River State v. A.G. Federation (2005) 6 SCNJ 152",
+      "Ogolo v. Ogolo (2006) 2 SCNJ 235",
+      "West African Provincial Co. Ltd. v. Tobacco Co. Ltd. (1987) 2 NWLR (Pt. 57)",
+      "Nwanosike v. Udozen (1993) 4 NWLR (Pt. 290) 684",
+      "N.S.C. (Nig.) Ltd. v. Innis-Palmer (1992) 1 NWLR (Pt. 218) 422",
+      "Ali v. UBA Plc (2015) ALL FWLR (Pt. 771) 1482 CA",
+      "A.P.C. v. INEC (2015) ALL FWLR (Pt. 771) 1420 SC",
+      "Eze v. Okoloagu (2010) 3 NWLR (Pt. 1180) 183",
+      "Gau v. Gau (2015) ALL FWLR (Pt. 776) 591",
+      "FAAN v. Wawal Express Services (Nig.) Ltd. (2011) 1 SCNJ 133",
+      "Aregbesola v. Oyinlola (2009) ALL FWLR (Pt. 472) 1147",
+      "Solomon v. Monday (2015) ALL FWLR (Pt. 762) 1695",
+      "Afolabi v. Aleremu (2013) ALL FWLR (Pt. 691) 1621",
+      "Maidere v. FRN (2014) ALL FWLR (Pt. 717) 725",
+      "Ojo v. Akinsanonye (2014) ALL FWLR (Pt. 754) 18",
+      "Fakoya v. Ijelu (2015) ALL FWLR (Pt. 762) 1644",
+      "Akaimwo v. Nsirim (2008) ALL FWLR (Pt. 410) 610",
+      "A.C.N. v. INEC (2014) ALL FWLR (Pt. 716) 460 SC",
+      "Teibogtrren v. Governor, Delta State (2015) ALL FWLR (Pt. 764) 1 CA",
+      "Agbonika v. University of Abuja (2014) ALL FWLR (Pt. 715) 335 CA",
+      "CBN v. Amao (2011) ALL FWLR (Pt. 558) 806 SC",
+      "NDIC v. Governing Council, Ife (2014) ALL FWLR (Pt. 742) 1790 CA",
+      "Ibrahim v. JSC, Kaduna State (1998) 14 NWLR (Pt. 584) 1 SC",
+      "WAEC v. Udika (2014) ALL FWLR (Pt. 757) 797 CA",
+      "Inakoju & Ors. v. Adeleke & Ors. (2007) 143 LRCN 1",
+      "Yaki & Anor. v. Bagudu & Ors. (2015) Vol. 249 LRCN 1",
+      "Igwilo v. CBN (2000) 9 NWLR (Pt. 672) 302",
+      "Ogundipe v. NITEL (2016) ALL FWLR (Pt. 817) 612",
+      "Maideribe v. FRN (2014) ALL FWLR (Pt. 717) 725",
+      "Odoma v. PDP (2015) ALL FWLR (Pt. 773) 1962",
+      "Federal Airports Authority v. Nwoye (2015) 53 NLLR (Pt. 180) 446 CA",
+      "The Attorney General of Lagos State v. Dosunmu (1989) 3 WLR (Pt. 111)",
+      "American International Insurance v. Ceekay Trading Ltd. (1981) 5 SC 50",
+      "Utih & Ors. v. Onoyivwe & Ors. (1991) 1 NWLR (Pt. 166)",
+      "Obiuweubi v. Central Bank of Nigeria (2011) 7 NWLR (Pt. 465)",
+      "Bello & Ors. v. Nigeria Customs Service Board (2015) 53 NLLR (Pt. 179) 343 NIC",
+      "Kjang v. National Agency for the Control of AIDS (NACA) NICN/ABJ/230/2012",
+      "Comrade Ishola Adeshina Surajudeen v. Mr. Anthony Nted & Anor NICN/LA/114/2013",
+      "AG, Federation v. AG, Abia State & Ors [2001] 11 NWLR (Pt. 725) 689",
+      "AG, Rivers State v. AG, Bayelsa State & Anor [2013] 3 NWLR (Pt. 1340) 123",
+      "Hon. Runyi Kanu (JP) & Ors v. The Attorney-General & Commissioner for Justice Cross River State & Ors [2013] 32 NLLR (Pt. 91) 63 NIC",
+      "AUPCTRE & Anor v. National Theatre of Nigeria & Ors NICN/LA/149/2014",
+      "Dana Impex Ltd v. Awukam [2006] 3 NWLR (Pt. 968) 554",
+      "Samson Kehinde Akindoyin v. Union Bank of Nigeria Plc NICN/LA/308/2013",
+      "Habu v. NUT, Taraba State [2005] 4 FWLR (Pt. 283) 646",
+      "Onochie v. Odogwu [2006] 6 NWLR (Pt. 975) 65",
+      "Araka v. Egbue [2003] 33 WRN 1",
+      "Ogboru v. Uduaghan [2011] (Pt. 1232) 608",
+      "Akpan Lawrence Idorenyn v. Skye Bank Plc NICN/CA/104/2013",
+      "Eniang Ndem v. Mr. Ndoma Akpet & 3 Ors NICN/CA/14/2014",
+      "Kurt Severinsen v. Emerging Markets Telecommunication Services Limited [2012] 27 NLLR (Pt. 78) 374",
+      "NTF Mills Ltd v. The 2nd Punjab Tribunal AIR 1957 SC 329",
+      "Lucky Ihanza & Anor v. Global Fleet Oil & Gas Limited NIC/LA/217/2011",
+      "Mr. Iroko A. Lateef v. Global Fleet Oil & Gas Ltd NIC/LA/222/2011",
+      "Mr. Olubayo Adeyemi v. Global Fleet Ltd [2013] 35 NLLR (Pt. 105) 384",
+      "Esther Ogbodu v. Global Fleet Oil & Gas Ltd & Anor NICN/LA/32/2012",
+      "Adebayo Boye v. FBN Mortgages Limited NICN/LA/496/2012",
+      "Samson Babatunde Olarewaju v. Afribank Nigeria Plc [2001] Vol. 6 MJSC 68",
+      "Ivienagbor v. Bazuaye [1999] 9 NWLR (Pt. 620) 552",
+      "Owe v. Oshinbanjo [1965] 1 ALL NLR 72",
+      "Bornu Holding Co. Ltd. v. Alhaji Hassan Bogoco [1971] 1 ALL NLR 324",
+      "Alhaji Onibudo & Ors v. Alhaji Akibu & Ors [1982] 7 SC 60",
+      "Nwaga v. Registered Trustees Recreation Club [2004] FWLR (Pt. 190) 1360",
+      "Jalingo v. Nyane [1992] 3 NWLR (Pt. 231) 538",
+      "Ugochukwu v. Co-operative Bank [1996] 7 SCNJ 22",
+      "Obasi Brothers Ltd v. MBA Securities Ltd [2005] 2 SC (Pt. 1) 51",
+      "Eze v. Okolagu [2010] 3 NWLR (Pt. 1180) 183",
+      "ANPP v. INEC [2010] 13 NWLR (Pt. 1212) 547",
+      "Ucha v. Elechi [2012] 13 NWLR (Pt. 1316) 330",
+      "Belgore v. Ahmed [2013] 8 NWLR (Pt. 1355) 60",
+      "Omisore v. Aregbesola [2015] 15 NWLR (Pt. 1482) 202",
+      "Ademola Bolarinde v. APM Terminals Apapa Limited NICN/LA/268/2012",
+      "Abenga v. Benue State Judicial Service Commission [2006] 14 NWLR (Pt. 1000) 610 CA",
+      "LH Sugar Factories & Oil Mills Ltd v. State of Uttar Pradesh (1961) I LLJ 686 (ALL)"
+    ],
+    "authorities_followed": [
+      "Federal Airports Authority v. Nwoye (2015) 53 NLLR (Pt. 180) 446 CA",
+      "Bello & Ors. v. Nigeria Customs Service Board (2015) 53 NLLR (Pt. 179) 343 NIC",
+      "AG, Rivers State v. AG, Bayelsa State & Anor [2013] 3 NWLR (Pt. 1340) 123",
+      "Abenga v. Benue State Judicial Service Commission [2006] 14 NWLR (Pt. 1000) 610 CA",
+      "Samson Babatunde Olarewaju v. Afribank Nigeria Plc [2001] Vol. 6 MJSC 68",
+      "Kurt Severinsen v. Emerging Markets Telecommunication Services Limited [2012] 27 NLLR (Pt. 78) 374"
+    ],
+    "authorities_distinguished": [],
+    "authorities_rejected": [],
+    "authorities_overruled": [],
+    "authorities_relied_upon": [
+      "Federal Airports Authority v. Nwoye (2015) 53 NLLR (Pt. 180) 446 CA",
+      "Bello & Ors. v. Nigeria Customs Service Board (2015) 53 NLLR (Pt. 179) 343 NIC",
+      "AG, Rivers State v. AG, Bayelsa State & Anor [2013] 3 NWLR (Pt. 1340) 123",
+      "Abenga v. Benue State Judicial Service Commission [2006] 14 NWLR (Pt. 1000) 610 CA",
+      "Samson Babatunde Olarewaju v. Afribank Nigeria Plc [2001] Vol. 6 MJSC 68"
+    ]
+  },
+  "metadata_quality": {
+    "extraction_confidence": 0.95,
+    "fields_missing": [],
+    "fields_uncertain": [],
+    "requires_review": false,
+    "review_reasons": [],
+    "source_completeness": "complete",
+    "ai_extraction_model": "deepseek-chat",
+    "prompt_version": "nicn-v3.2-single-call",
+    "extracted_at": "2026-10-01T21:33:19.883084+00:00"
+  }
+}

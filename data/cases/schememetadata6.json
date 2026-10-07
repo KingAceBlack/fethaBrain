@@ -1,0 +1,552 @@
+{
+  "schema_version": "nicn-ai-metadata-v3.2",
+  "source": {
+    "court": "National Industrial Court of Nigeria",
+    "jurisdiction": "Nigeria",
+    "source_url": "",
+    "source_id": "689",
+    "document_id": "689",
+    "file_name": "full_text.txt",
+    "downloaded_at": "",
+    "document_type": "judgment",
+    "language": "English",
+    "pages": null,
+    "word_count": 368,
+    "extraction_status": "complete",
+    "completeness_confidence": "HIGH"
+  },
+  "case": {
+    "title": "Churchill Onyeka Ibeagwa v. XL Logistics Limited (Subsidiary of XL Management Services Ltd)",
+    "case_number": "NICN/LA/98/2013",
+    "court": "National Industrial Court of Nigeria",
+    "judicial_division": "Lagos",
+    "judge": "Hon. Justice B. B. Kanyip",
+    "judgment_date": "2014-03-25",
+    "year": 2014,
+    "claimants": [
+      "Churchill Onyeka Ibeagwa"
+    ],
+    "defendants": [
+      "XL Logistics Limited (Subsidiary of XL Management Services Ltd)"
+    ],
+    "appellants": [],
+    "respondents": [],
+    "applicants": [],
+    "interested_parties": [],
+    "counsel": []
+  },
+  "procedural_history": {
+    "originating_proceedings": "Claimant filed suit NICN/LA/98/2013 on 26th February 2013 seeking payment of salaries, declaration that suspension is wrongful, and damages.",
+    "procedural_posture": "Ruling on whether the suit is statute-barred.",
+    "previous_decisions": [],
+    "interlocutory_applications": [],
+    "appeals": [],
+    "orders_before_trial": [],
+    "procedural_events": []
+  },
+  "facts": {
+    "material_facts": [
+      "Claimant's employment with defendant was determined or he was suspended indefinitely.",
+      "Claimant's salaries were allegedly unpaid from February 2005.",
+      "Claimant wrote letters through his solicitor to the defendant."
+    ],
+    "chronology": [
+      {
+        "date": "February 2005",
+        "event": "Cause of action arose (salaries due for payment)."
+      },
+      {
+        "date": "26th February 2013",
+        "event": "Claimant filed suit at National Industrial Court."
+      }
+    ],
+    "admitted_facts": [],
+    "disputed_facts": [],
+    "background_facts": [],
+    "employment_relationship": "Claimant was an employee of the defendant.",
+    "contractual_relationship": "Employment contract between claimant and defendant.",
+    "documentary_evidence": [],
+    "witness_evidence": []
+  },
+  "claims_and_reliefs": {
+    "causes_of_action": [
+      "Wrongful withholding of salaries",
+      "Wrongful indefinite suspension"
+    ],
+    "claims": [
+      {
+        "claim": "Payment of salaries from February 2005 till judgment.",
+        "legal_basis": "Employment contract",
+        "claimant": "Churchill Onyeka Ibeagwa",
+        "against": "XL Logistics Limited"
+      },
+      {
+        "claim": "Declaration that the purported indefinite suspension is wrongful, unlawful, in breach of right to fair hearing, breach of contract, null, void and of no effect.",
+        "legal_basis": "Employment contract, fair hearing",
+        "claimant": "Churchill Onyeka Ibeagwa",
+        "against": "XL Logistics Limited"
+      },
+      {
+        "claim": "N5,000,000 damages for untold hardship and torture occasioned by breach of contract.",
+        "legal_basis": "Breach of contract",
+        "claimant": "Churchill Onyeka Ibeagwa",
+        "against": "XL Logistics Limited"
+      }
+    ],
+    "reliefs_sought": [
+      {
+        "relief_number": "1(a)",
+        "relief": "Payment of salaries from February 2005 till judgment.",
+        "category": "Monetary"
+      },
+      {
+        "relief_number": "1(b)",
+        "relief": "Payment of salaries as a subsisting staff or as a staff whose employment has been determined.",
+        "category": "Monetary"
+      },
+      {
+        "relief_number": "2",
+        "relief": "Declaration that the purported indefinite suspension is wrongful, unlawful, in breach of right to fair hearing, breach of contract, null, void and of no effect.",
+        "category": "Declaration"
+      },
+      {
+        "relief_number": "3",
+        "relief": "N5,000,000 damages for untold hardship and torture occasioned by breach of contract.",
+        "category": "Damages"
+      }
+    ],
+    "issues_for_determination": [
+      {
+        "issue_number": "1",
+        "issue": "Whether the suit is statute-barred.",
+        "raised_by": "Court"
+      }
+    ],
+    "questions_of_law": [
+      "Whether the cause of action arose in February 2005.",
+      "Whether the suit filed on 26th February 2013 is statute-barred under the Lagos State Limitation Law."
+    ]
+  },
+  "arguments": {
+    "claimant_arguments": [
+      "The letter of suspension indicated that the defendant will communicate to him, which it did not.",
+      "Two letters were written by his solicitor to the defendant."
+    ],
+    "defendant_arguments": [],
+    "appellant_arguments": [],
+    "respondent_arguments": [],
+    "submissions": [],
+    "party_authorities": [
+      {
+        "party": "Claimant",
+        "authority": "LUTH & MB v. Adewole [1998] 5 NWLR (Pt. 550) 406",
+        "proposition": "Where claim is for payment of salaries wrongfully withheld, cause of action accrues from date salaries are due; liability does not depend on demand."
+      }
+    ]
+  },
+  "evidence": {
+    "exhibits": [],
+    "witnesses": [],
+    "documentary_evidence": [],
+    "oral_evidence": [],
+    "expert_evidence": [],
+    "evidential_findings": []
+  },
+  "judicial_analysis": {
+    "findings_of_fact": [
+      {
+        "issue": "Date of cause of action",
+        "finding": "Cause of action arose in February 2005."
+      },
+      {
+        "issue": "Date of filing",
+        "finding": "Suit filed on 26th February 2013."
+      }
+    ],
+    "findings_of_law": [
+      {
+        "issue": "Limitation period",
+        "finding": "Lagos State Limitation Law Cap. L67 Laws of Lagos State 2003 section 8 provides for 6 years limitation for actions such as the instant case."
+      },
+      {
+        "issue": "Statute-barred",
+        "finding": "The suit is statute-barred as it was filed 8 years after the cause of action arose."
+      }
+    ],
+    "reasoning": "The cause of action arose in February 2005 when salaries were due. The suit was filed on 26th February 2013, more than 6 years after the cause of action arose. The Lagos State Limitation Law provides a 6-year limitation period. The claimant's arguments regarding the suspension letter and solicitor's letters do not affect the running of time. Therefore, the suit is statute-barred.",
+    "issue_analysis": [
+      {
+        "issue_number": "1",
+        "issue": "Whether the suit is statute-barred.",
+        "arguments": {
+          "claimant": "The suspension letter indicated communication would be made; solicitor wrote letters to defendant.",
+          "defendant": ""
+        },
+        "judicial_analysis": "The cause of action arose in February 2005. The suit was filed on 26th February 2013, 8 years later. The applicable limitation period is 6 years under the Lagos State Limitation Law. The claimant's arguments do not stop time from running.",
+        "holding": "The suit is statute-barred.",
+        "ratio_decidendi": "A cause of action for wrongful withholding of salaries accrues from the date the salaries are due for payment. An action filed more than 6 years after the cause of action arose is statute-barred under the Lagos State Limitation Law.",
+        "result": "Suit struck out."
+      }
+    ],
+    "holdings": [
+      {
+        "issue_number": "1",
+        "issue": "Whether the suit is statute-barred.",
+        "holding": "The suit is statute-barred.",
+        "result": "Suit struck out."
+      }
+    ],
+    "ratio_decidendi": [
+      {
+        "issue": "Limitation of action",
+        "principle": "A cause of action for wrongful withholding of salaries accrues from the date the salaries are due for payment. An action filed more than 6 years after the cause of action arose is statute-barred under the Lagos State Limitation Law.",
+        "application": "The cause of action arose in February 2005. The suit was filed on 26th February 2013, more than 6 years later. Therefore, the suit is statute-barred.",
+        "holding": "Suit struck out."
+      }
+    ],
+    "obiter_dicta": [],
+    "legal_principles": [
+      {
+        "principle": "Cause of action for wrongful withholding of salaries accrues from the date the salaries are due for payment.",
+        "context": "Limitation of action",
+        "source": "LUTH & MB v. Adewole [1998] 5 NWLR (Pt. 550) 406"
+      },
+      {
+        "principle": "Liability of employer for unpaid salaries does not generally depend on demand for payment.",
+        "context": "Limitation of action",
+        "source": "LUTH & MB v. Adewole [1998] 5 NWLR (Pt. 550) 406"
+      }
+    ],
+    "statutory_interpretation": [
+      {
+        "statute": "Lagos State Limitation Law Cap. L67 Laws of Lagos State 2003",
+        "provision": "Section 8",
+        "interpretation": "Provides for a limitation period of 6 years for actions such as the instant case.",
+        "application": "The suit was filed more than 6 years after the cause of action arose, so it is statute-barred."
+      }
+    ],
+    "constitutional_analysis": [],
+    "precedent_analysis": [
+      {
+        "authority": "LUTH & MB v. Adewole",
+        "citation": "[1998] 5 NWLR (Pt. 550) 406",
+        "treatment": "Followed",
+        "proposition": "Where claim is for payment of salaries wrongfully withheld, cause of action accrues from date salaries are due; liability does not depend on demand.",
+        "reasoning": "The court applied this authority to determine when the cause of action arose."
+      }
+    ],
+    "evidential_findings": [],
+    "judicial_observations": []
+  },
+  "authorities": {
+    "cases_cited": [
+      {
+        "case_name": "LUTH & MB v. Adewole",
+        "citation": "[1998] 5 NWLR (Pt. 550) 406",
+        "court": "Supreme Court of Nigeria",
+        "year": 1998,
+        "proposition": "Where claim is for payment of salaries wrongfully withheld, cause of action accrues from date salaries are due; liability does not depend on demand.",
+        "treatment": "Followed",
+        "cited_by": "Court",
+        "importance": "Key authority on accrual of cause of action for unpaid salaries."
+      }
+    ],
+    "statutes": [
+      {
+        "name": "Lagos State Limitation Law Cap. L67 Laws of Lagos State 2003",
+        "provision": "Section 8",
+        "proposition": "Limitation period of 6 years for actions such as the instant case."
+      }
+    ],
+    "constitutional_provisions": [],
+    "regulations": [],
+    "rules": [],
+    "international_instruments": [],
+    "other_authorities": []
+  },
+  "precedent_relationships": [
+    {
+      "authority": "LUTH & MB v. Adewole",
+      "citation": "[1998] 5 NWLR (Pt. 550) 406",
+      "relationship": "Followed",
+      "proposition": "Cause of action for unpaid salaries accrues from date due.",
+      "context": "Determining when the cause of action arose for limitation purposes."
+    }
+  ],
+  "outcome": {
+    "decision": "Suit struck out as statute-barred.",
+    "overall_result": "Claimant's suit struck out.",
+    "orders": [
+      "Suit struck out.",
+      "No order as to cost."
+    ],
+    "reliefs": [
+      {
+        "relief_number": "1(a)",
+        "relief": "Payment of salaries from February 2005 till judgment.",
+        "result": "Struck out",
+        "reason": "Statute-barred."
+      },
+      {
+        "relief_number": "1(b)",
+        "relief": "Payment of salaries as a subsisting staff or as a staff whose employment has been determined.",
+        "result": "Struck out",
+        "reason": "Statute-barred."
+      },
+      {
+        "relief_number": "2",
+        "relief": "Declaration that the purported indefinite suspension is wrongful, unlawful, in breach of right to fair hearing, breach of contract, null, void and of no effect.",
+        "result": "Struck out",
+        "reason": "Statute-barred."
+      },
+      {
+        "relief_number": "3",
+        "relief": "N5,000,000 damages for untold hardship and torture occasioned by breach of contract.",
+        "result": "Struck out",
+        "reason": "Statute-barred."
+      }
+    ],
+    "reliefs_granted": [],
+    "reliefs_refused": [],
+    "reliefs_struck_out": [
+      "Relief 1(a)",
+      "Relief 1(b)",
+      "Relief 2",
+      "Relief 3"
+    ],
+    "reliefs_dismissed": [],
+    "damages": [],
+    "compensation": [],
+    "costs": {
+      "awarded": false,
+      "amount": "",
+      "recipient": "",
+      "details": "No order as to cost."
+    },
+    "interest": {
+      "awarded": false,
+      "rate": "",
+      "start_date": "",
+      "end_date": "",
+      "basis": ""
+    },
+    "compliance_deadline": "",
+    "declarations": [],
+    "injunctions": [],
+    "specific_orders": [],
+    "final_disposition": "Suit struck out."
+  },
+  "legal_knowledge": {
+    "holdings": [
+      "Suit is statute-barred as it was filed more than 6 years after the cause of action arose."
+    ],
+    "legal_principles": [
+      "Cause of action for wrongful withholding of salaries accrues from the date the salaries are due for payment.",
+      "Liability of employer for unpaid salaries does not generally depend on demand for payment.",
+      "An action filed more than 6 years after the cause of action arose is statute-barred under the Lagos State Limitation Law."
+    ],
+    "ratio_decidendi": [
+      "A cause of action for wrongful withholding of salaries accrues from the date the salaries are due for payment. An action filed more than 6 years after the cause of action arose is statute-barred under the Lagos State Limitation Law."
+    ],
+    "obiter_dicta": [],
+    "causes_of_action": [
+      "Wrongful withholding of salaries",
+      "Wrongful indefinite suspension"
+    ],
+    "legal_issues": [
+      "Whether the suit is statute-barred."
+    ],
+    "practice_areas": [
+      "Employment Law",
+      "Civil Procedure"
+    ],
+    "sub_practice_areas": [
+      "Limitation of Actions",
+      "Employment Contracts"
+    ],
+    "legal_concepts": [
+      "Statute-barred",
+      "Cause of action",
+      "Limitation period",
+      "Accrual of cause of action"
+    ],
+    "doctrines": [
+      "Limitation of actions"
+    ],
+    "remedies": [
+      "Payment of salaries",
+      "Declaration",
+      "Damages"
+    ],
+    "employment_law_topics": [
+      "Unpaid salaries",
+      "Suspension",
+      "Breach of employment contract"
+    ],
+    "jurisdictional_issues": [
+      "Limitation jurisdiction"
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "statute-barred",
+      "limitation",
+      "unpaid salaries",
+      "suspension",
+      "wrongful withholding",
+      "Lagos State Limitation Law",
+      "cause of action",
+      "National Industrial Court"
+    ],
+    "searchable_concepts": [
+      "Limitation of action in employment disputes",
+      "Accrual of cause of action for unpaid salaries",
+      "Statute-barred claims",
+      "Wrongful suspension"
+    ],
+    "semantic_topics": [
+      "Employment law",
+      "Limitation of actions",
+      "Civil procedure"
+    ],
+    "legal_entities": [
+      "Churchill Onyeka Ibeagwa",
+      "XL Logistics Limited",
+      "National Industrial Court of Nigeria",
+      "Lagos State Limitation Law"
+    ],
+    "statutes_referenced": [
+      "Lagos State Limitation Law Cap. L67 Laws of Lagos State 2003"
+    ],
+    "cases_referenced": [
+      "LUTH & MB v. Adewole [1998] 5 NWLR (Pt. 550) 406"
+    ],
+    "citation_phrases": [
+      "LUTH & MB v. Adewole [1998] 5 NWLR (Pt. 550) 406",
+      "Lagos State Limitation Law Cap. L67 Laws of Lagos State 2003"
+    ],
+    "fact_patterns": [
+      "Employee claims unpaid salaries and wrongful suspension",
+      "Employer fails to pay salaries for over 6 years",
+      "Suit filed more than 6 years after cause of action"
+    ],
+    "relief_types": [
+      "Payment of salaries",
+      "Declaration",
+      "Damages"
+    ],
+    "decision_types": [
+      "Struck out for being statute-barred"
+    ]
+  },
+  "graph_rag": {
+    "entities": [
+      {
+        "name": "Churchill Onyeka Ibeagwa",
+        "type": "Person"
+      },
+      {
+        "name": "XL Logistics Limited",
+        "type": "Organization"
+      },
+      {
+        "name": "National Industrial Court of Nigeria",
+        "type": "Court"
+      },
+      {
+        "name": "Lagos State Limitation Law",
+        "type": "Statute"
+      },
+      {
+        "name": "LUTH & MB v. Adewole",
+        "type": "Case"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Churchill Onyeka Ibeagwa",
+        "relationship": "employee of",
+        "target": "XL Logistics Limited",
+        "evidence": "Claimant was an employee of the defendant."
+      },
+      {
+        "source": "Churchill Onyeka Ibeagwa",
+        "relationship": "filed suit against",
+        "target": "XL Logistics Limited",
+        "evidence": "Claimant filed suit NICN/LA/98/2013."
+      },
+      {
+        "source": "National Industrial Court of Nigeria",
+        "relationship": "applied",
+        "target": "Lagos State Limitation Law",
+        "evidence": "Court applied section 8 of the Lagos State Limitation Law."
+      },
+      {
+        "source": "National Industrial Court of Nigeria",
+        "relationship": "followed",
+        "target": "LUTH & MB v. Adewole",
+        "evidence": "Court relied on this authority to determine accrual of cause of action."
+      }
+    ],
+    "case_relationships": [
+      {
+        "case": "LUTH & MB v. Adewole",
+        "citation": "[1998] 5 NWLR (Pt. 550) 406",
+        "relationship": "Followed",
+        "context": "Applied to determine when cause of action accrued for unpaid salaries."
+      }
+    ],
+    "statute_relationships": [
+      {
+        "statute": "Lagos State Limitation Law Cap. L67 Laws of Lagos State 2003",
+        "provision": "Section 8",
+        "relationship": "Applied",
+        "context": "Court applied 6-year limitation period to bar the suit."
+      }
+    ],
+    "legal_principle_relationships": [
+      {
+        "principle": "Cause of action for unpaid salaries accrues from date due.",
+        "case": "LUTH & MB v. Adewole",
+        "relationship": "Established by"
+      }
+    ]
+  },
+  "citation_network": {
+    "authorities_cited": [
+      "LUTH & MB v. Adewole [1998] 5 NWLR (Pt. 550) 406",
+      "Lagos State Limitation Law Cap. L67 Laws of Lagos State 2003"
+    ],
+    "authorities_followed": [
+      "LUTH & MB v. Adewole [1998] 5 NWLR (Pt. 550) 406"
+    ],
+    "authorities_distinguished": [],
+    "authorities_rejected": [],
+    "authorities_overruled": [],
+    "authorities_relied_upon": [
+      "LUTH & MB v. Adewole [1998] 5 NWLR (Pt. 550) 406",
+      "Lagos State Limitation Law Cap. L67 Laws of Lagos State 2003"
+    ]
+  },
+  "metadata_quality": {
+    "extraction_confidence": 0.95,
+    "fields_missing": [
+      "source_url",
+      "document_id",
+      "file_name",
+      "downloaded_at",
+      "pages",
+      "word_count",
+      "counsel",
+      "exhibits",
+      "witnesses"
+    ],
+    "fields_uncertain": [],
+    "requires_review": false,
+    "review_reasons": [],
+    "source_completeness": "complete",
+    "ai_extraction_model": "deepseek-chat",
+    "prompt_version": "nicn-v3.2-single-call",
+    "extracted_at": "2026-10-02T11:02:19.520618+00:00"
+  }
+}

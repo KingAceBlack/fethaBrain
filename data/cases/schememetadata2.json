@@ -1,0 +1,971 @@
+{
+  "schema_version": "nicn-ai-metadata-v3.2",
+  "source": {
+    "court": "National Industrial Court of Nigeria",
+    "jurisdiction": "Nigeria",
+    "source_url": "",
+    "source_id": "19",
+    "document_id": "19",
+    "file_name": "full_text.txt",
+    "downloaded_at": "",
+    "document_type": "judgment",
+    "language": "English",
+    "pages": null,
+    "word_count": 3220,
+    "extraction_status": "complete",
+    "completeness_confidence": "HIGH"
+  },
+  "case": {
+    "title": "Mr. Okoh Ubeh & Ors v. Board of Management, Federal Medical Centre, Makurdi & Ors",
+    "case_number": "NICN/ABJ/138/2012",
+    "court": "National Industrial Court of Nigeria",
+    "judicial_division": "Abuja",
+    "judge": "Hon. Justice M.N. Esowe",
+    "judgment_date": "2016-01-21",
+    "year": 2016,
+    "claimants": [
+      "Mr. Okoh Ubeh",
+      "Mr. Olofu John",
+      "Ahmed Sarki",
+      "Mr. Ukwenya Donatus"
+    ],
+    "defendants": [
+      "Board of Management, Federal Medical Centre, Makurdi",
+      "The Medical Director, Federal Medical Centre, Makurdi",
+      "Federal Ministry of Health"
+    ],
+    "appellants": [],
+    "respondents": [],
+    "applicants": [],
+    "interested_parties": [],
+    "counsel": [
+      {
+        "name": "S. O. Adikwu Esq.",
+        "represents": "Claimants"
+      },
+      {
+        "name": "J. T. Adzege Esq.",
+        "represents": "1st and 2nd Defendants"
+      },
+      {
+        "name": "I. C. Ozoemelam Esq.",
+        "represents": "3rd Defendant"
+      }
+    ]
+  },
+  "procedural_history": {
+    "originating_proceedings": "Writ of Summons filed at the Federal High Court, Makurdi Division, subsequently transferred to the National Industrial Court by Order dated 19th March 2012.",
+    "procedural_posture": "Trial completed; written addresses filed and adopted; judgment delivered.",
+    "previous_decisions": [],
+    "interlocutory_applications": [],
+    "appeals": [],
+    "orders_before_trial": [
+      "Order of the Federal High Court, Makurdi Division, dated 19th March 2012 transferring the suit to the National Industrial Court."
+    ],
+    "procedural_events": [
+      "Claimants called witnesses and tendered documents.",
+      "1st and 2nd Defendants called one witness and tendered documents.",
+      "3rd Defendant filed Statement of Defence but called no witness.",
+      "Written addresses filed, exchanged, and adopted."
+    ]
+  },
+  "facts": {
+    "material_facts": [
+      "Claimants were employees of the Federal Medical Centre, Makurdi.",
+      "1st Claimant was a Senior Typist in Administration Department.",
+      "2nd Claimant was a Chief Clerical Officer in Administration Department.",
+      "3rd Claimant was a Chief Driver.",
+      "4th Claimant worked in Finance and Accounting Department.",
+      "Claimants' appointments were terminated vide letters dated 24th September 2010 (1st, 2nd, 3rd Claimants) and 4th February 2010 (4th Claimant).",
+      "Prior to termination, there were allegations, queries, replies, and appearance before a Disciplinary Committee.",
+      "Termination letters stated 'Service no longer required'.",
+      "3rd Defendant claimed termination was based on Federal Government directive on harmonization of fringe benefits vide circular Ref: HCFS/SW/HM/H.021/S.27 dated 11th November 2003, disengaging drivers."
+    ],
+    "chronology": [
+      {
+        "date": "2003-11-11",
+        "event": "Federal Government circular on harmonization of fringe benefits issued."
+      },
+      {
+        "date": "2010-02-04",
+        "event": "4th Claimant's appointment terminated."
+      },
+      {
+        "date": "2010-09-24",
+        "event": "1st, 2nd, and 3rd Claimants' appointments terminated."
+      },
+      {
+        "date": "2012-03-19",
+        "event": "Federal High Court ordered transfer of suit to National Industrial Court."
+      },
+      {
+        "date": "2016-01-21",
+        "event": "Judgment delivered."
+      }
+    ],
+    "admitted_facts": [
+      "Claimants were employees of the Federal Medical Centre, Makurdi.",
+      "4th Claimant was a staff prior to termination."
+    ],
+    "disputed_facts": [
+      "Whether termination was in compliance with Public Service Rules.",
+      "Whether termination was actuated by malice.",
+      "Whether termination was connected to disciplinary proceedings.",
+      "Whether 'Service no longer required' is a valid ground for termination."
+    ],
+    "background_facts": [
+      "Claimants held various positions at Federal Medical Centre, Makurdi.",
+      "Disciplinary proceedings preceded termination."
+    ],
+    "employment_relationship": "Employment with statutory flavour governed by Public Service Rules and Guidelines of the Federal Civil Service.",
+    "contractual_relationship": "Not master-servant; statutory employment.",
+    "documentary_evidence": [
+      "Employment Letters",
+      "Promotion Letters",
+      "Query Letters",
+      "Reply to Queries",
+      "Termination of Appointment Letters",
+      "Minutes of meetings of 1st Defendant dated 16/9/10 and 29/1/10"
+    ],
+    "witness_evidence": [
+      "Claimants' witnesses testified and tendered documents.",
+      "1st and 2nd Defendants' sole witness testified and tendered documents."
+    ]
+  },
+  "claims_and_reliefs": {
+    "causes_of_action": [
+      "Wrongful termination of employment",
+      "Breach of Public Service Rules",
+      "Violation of fair hearing"
+    ],
+    "claims": [
+      {
+        "claim": "Declaration that termination on grounds of 'Service no longer required' is victimizing, without due process, and lacking basis.",
+        "legal_basis": "Public Service Rules, fair hearing",
+        "claimant": "All Claimants",
+        "against": "All Defendants"
+      },
+      {
+        "claim": "Declaration that termination is null and void.",
+        "legal_basis": "Public Service Rules",
+        "claimant": "All Claimants",
+        "against": "All Defendants"
+      },
+      {
+        "claim": "Declaration that Claimants are still in employment and entitled to salaries and allowances.",
+        "legal_basis": "Employment contract",
+        "claimant": "All Claimants",
+        "against": "All Defendants"
+      },
+      {
+        "claim": "Order setting aside termination letters.",
+        "legal_basis": "Lack of basis and substance",
+        "claimant": "All Claimants",
+        "against": "All Defendants"
+      },
+      {
+        "claim": "Order directing reinstatement with entitlements.",
+        "legal_basis": "Unlawful termination",
+        "claimant": "All Claimants",
+        "against": "All Defendants"
+      },
+      {
+        "claim": "General damages for wrongful termination, blackmail, and trauma.",
+        "legal_basis": "Wrongful termination",
+        "claimant": "All Claimants",
+        "against": "All Defendants"
+      },
+      {
+        "claim": "Cost of prosecuting the suit.",
+        "legal_basis": "Costs",
+        "claimant": "All Claimants",
+        "against": "All Defendants"
+      }
+    ],
+    "reliefs_sought": [
+      {
+        "relief_number": "a",
+        "relief": "Declaration that termination on grounds of 'Service no longer required' is victimizing, without due process, and lacking basis.",
+        "category": "Declaration"
+      },
+      {
+        "relief_number": "b",
+        "relief": "Declaration that termination is null and void.",
+        "category": "Declaration"
+      },
+      {
+        "relief_number": "c",
+        "relief": "Declaration that Claimants are still in employment and entitled to salaries and allowances.",
+        "category": "Declaration"
+      },
+      {
+        "relief_number": "d",
+        "relief": "Order setting aside termination letters.",
+        "category": "Order"
+      },
+      {
+        "relief_number": "e",
+        "relief": "Order directing reinstatement with entitlements.",
+        "category": "Order"
+      },
+      {
+        "relief_number": "f",
+        "relief": "General damages for wrongful termination, blackmail, and trauma.",
+        "category": "Damages"
+      },
+      {
+        "relief_number": "g",
+        "relief": "Cost of prosecuting the suit.",
+        "category": "Costs"
+      }
+    ],
+    "issues_for_determination": [
+      {
+        "issue_number": "1",
+        "issue": "Whether the appointment of the claimants is one of statutory flavour.",
+        "raised_by": "Court"
+      },
+      {
+        "issue_number": "2",
+        "issue": "Whether the termination of Claimants' appointment is in violation of the relevant statute and the principle of natural justice.",
+        "raised_by": "Court"
+      }
+    ],
+    "questions_of_law": [
+      "Whether employment is with statutory flavour.",
+      "Whether termination complied with Public Service Rules."
+    ]
+  },
+  "arguments": {
+    "claimant_arguments": [
+      "Employment is with statutory flavour, governed by Public Service Rules.",
+      "Termination on grounds of 'Service no longer required' is not provided for in Public Service Rules.",
+      "Termination was actuated by malice and witch-hunting.",
+      "Violation of fair hearing as Claimants were not given opportunity to defend.",
+      "Claimants proved their case on balance of probabilities."
+    ],
+    "defendant_arguments": [
+      "Employment is regulated by statute; termination on notice is valid under Public Service Rules.",
+      "Termination is different from dismissal; termination affords right to determine contract at any time.",
+      "Claimants failed to prove breach of Public Service Rules.",
+      "Defendants not under duty to prove termination is lawful.",
+      "3rd Defendant: termination based on Federal Government directive on harmonization of fringe benefits."
+    ],
+    "appellant_arguments": [],
+    "respondent_arguments": [],
+    "submissions": [],
+    "party_authorities": [
+      {
+        "party": "1st and 2nd Defendants",
+        "authority": "Olaniyan v University of Lagos (1985) 2 NWLR (Pt.9) 559",
+        "proposition": "Contract of employment regulated by statute."
+      },
+      {
+        "party": "1st and 2nd Defendants",
+        "authority": "Shitta-Bey v Federal Service Commission (1981) 1 SC 40",
+        "proposition": "Statutory employment."
+      },
+      {
+        "party": "1st and 2nd Defendants",
+        "authority": "Fakuade v OAUTH (1993) 5 NWLR (Pt.291) 47 SC",
+        "proposition": "Statutory employment."
+      },
+      {
+        "party": "1st and 2nd Defendants",
+        "authority": "Adeko v Ijebu Ode District Council (1992) 1 SC NLR 349",
+        "proposition": "Distinction between termination and dismissal."
+      },
+      {
+        "party": "1st and 2nd Defendants",
+        "authority": "UBN PLC v Soares 11 NWLR (Pt.) 550",
+        "proposition": "Distinction between termination and dismissal."
+      },
+      {
+        "party": "1st and 2nd Defendants",
+        "authority": "Idoniboye v NNPC (2003) 2 NWLR (Pt.805) 589",
+        "proposition": "Conditions for statutory flavour."
+      },
+      {
+        "party": "Claimants",
+        "authority": "Omojuyigbe v NIPOST (2010) All FWLR (Pt.543) 1907 at 1960",
+        "proposition": "Employment with statutory flavour."
+      },
+      {
+        "party": "Claimants",
+        "authority": "Alhassan v A.B.U Zaria (2010) All FWLR (Pt.538) 962 at 992",
+        "proposition": "Statutory employment determinable only by statutory preconditions."
+      }
+    ]
+  },
+  "evidence": {
+    "exhibits": [
+      {
+        "identifier": "",
+        "description": "Employment Letters",
+        "party": "Claimants",
+        "relevance": "Establish employment relationship and terms."
+      },
+      {
+        "identifier": "",
+        "description": "Promotion Letters",
+        "party": "Claimants",
+        "relevance": "Show career progression."
+      },
+      {
+        "identifier": "",
+        "description": "Query Letters",
+        "party": "Claimants",
+        "relevance": "Show disciplinary proceedings."
+      },
+      {
+        "identifier": "",
+        "description": "Reply to Queries",
+        "party": "Claimants",
+        "relevance": "Show Claimants' responses."
+      },
+      {
+        "identifier": "",
+        "description": "Termination of Appointment Letters",
+        "party": "Claimants",
+        "relevance": "Subject matter of suit."
+      },
+      {
+        "identifier": "",
+        "description": "Minutes of meetings of 1st Defendant dated 16/9/10 and 29/1/10",
+        "party": "1st and 2nd Defendants",
+        "relevance": "Show disciplinary committee proceedings."
+      }
+    ],
+    "witnesses": [
+      {
+        "name": "",
+        "party": "Claimants",
+        "role": "Claimants' witnesses",
+        "evidence_summary": "Testified and tendered documents."
+      },
+      {
+        "name": "",
+        "party": "1st and 2nd Defendants",
+        "role": "Sole witness",
+        "evidence_summary": "Testified and tendered documents."
+      }
+    ],
+    "documentary_evidence": [
+      "Employment Letters",
+      "Promotion Letters",
+      "Query Letters",
+      "Reply to Queries",
+      "Termination of Appointment Letters",
+      "Minutes of meetings dated 16/9/10 and 29/1/10"
+    ],
+    "oral_evidence": [],
+    "expert_evidence": [],
+    "evidential_findings": [
+      {
+        "evidence": "Appointment letters and Public Service Rules",
+        "finding": "Employment is with statutory flavour.",
+        "credibility": "High"
+      },
+      {
+        "evidence": "Termination letters stating 'Service no longer required'",
+        "finding": "Termination not in compliance with Public Service Rules.",
+        "credibility": "High"
+      }
+    ]
+  },
+  "judicial_analysis": {
+    "findings_of_fact": [
+      {
+        "issue": "Nature of employment",
+        "finding": "Employment is with statutory flavour governed by Public Service Rules."
+      },
+      {
+        "issue": "Compliance with rules",
+        "finding": "Termination was not in conformity with Public Service Rules."
+      }
+    ],
+    "findings_of_law": [
+      {
+        "issue": "Statutory flavour",
+        "finding": "Employment governed by statute is with statutory flavour."
+      },
+      {
+        "issue": "Validity of termination",
+        "finding": "Termination on grounds of 'Service no longer required' is unlawful, null and void."
+      }
+    ],
+    "reasoning": "The court found that the employment of the Claimants is with statutory flavour, governed by the Public Service Rules. The termination on grounds of 'Service no longer required' was not in compliance with the Rules, as the Claimants were not given fair hearing and the ground is not provided for in the Rules. Therefore, the termination is unlawful, null and void.",
+    "issue_analysis": [
+      {
+        "issue_number": "1",
+        "issue": "Whether the appointment of the claimants is one of statutory flavour.",
+        "arguments": {
+          "claimant": "Employment is with statutory flavour, governed by Public Service Rules.",
+          "defendant": "Employment is regulated by statute; termination on notice is valid."
+        },
+        "judicial_analysis": "The court examined the appointment letters and Public Service Rules, concluding that the employment is with statutory flavour.",
+        "holding": "The appointment is one of statutory flavour.",
+        "ratio_decidendi": "Where appointment and termination are governed by statutory provisions, the employment has statutory flavour.",
+        "result": "Resolved in favour of Claimants."
+      },
+      {
+        "issue_number": "2",
+        "issue": "Whether the termination of Claimants' appointment is in violation of the relevant statute and the principle of natural justice.",
+        "arguments": {
+          "claimant": "Termination was actuated by malice and violated Public Service Rules and fair hearing.",
+          "defendant": "Termination was in compliance with Public Service Rules."
+        },
+        "judicial_analysis": "The court found that the termination was not in conformity with the Public Service Rules, as the Claimants were dismissed on grounds of 'Services No Longer Required' without fair hearing.",
+        "holding": "The termination is unlawful, null and void.",
+        "ratio_decidendi": "Termination of statutory employment must comply with the governing statute and principles of natural justice; failure renders it null and void.",
+        "result": "Resolved in favour of Claimants."
+      }
+    ],
+    "holdings": [
+      {
+        "issue_number": "1",
+        "issue": "Whether the appointment of the claimants is one of statutory flavour.",
+        "holding": "The appointment is one of statutory flavour.",
+        "result": "Claimants succeed."
+      },
+      {
+        "issue_number": "2",
+        "issue": "Whether the termination of Claimants' appointment is in violation of the relevant statute and the principle of natural justice.",
+        "holding": "Termination is unlawful, null and void.",
+        "result": "Claimants succeed."
+      }
+    ],
+    "ratio_decidendi": [
+      {
+        "issue": "Statutory flavour",
+        "principle": "Employment governed by statutory provisions has statutory flavour.",
+        "application": "Public Service Rules govern the employment.",
+        "holding": "Employment is with statutory flavour."
+      },
+      {
+        "issue": "Validity of termination",
+        "principle": "Termination of statutory employment must comply with statute and natural justice.",
+        "application": "Termination on 'Service no longer required' without fair hearing violates rules.",
+        "holding": "Termination is null and void."
+      }
+    ],
+    "obiter_dicta": [],
+    "legal_principles": [
+      {
+        "principle": "Employment with statutory flavour",
+        "context": "Appointment and termination governed by statute.",
+        "source": "Public Service Rules"
+      },
+      {
+        "principle": "Fair hearing",
+        "context": "Termination without opportunity to defend is invalid.",
+        "source": "Natural justice"
+      }
+    ],
+    "statutory_interpretation": [
+      {
+        "statute": "Public Service Rules, 2009",
+        "provision": "Section 7(i) Schedule to Chapter 2",
+        "interpretation": "Governs appointment and leaving of service.",
+        "application": "Termination must comply with this provision."
+      }
+    ],
+    "constitutional_analysis": [],
+    "precedent_analysis": [
+      {
+        "authority": "Omojuyigbe v NIPOST",
+        "citation": "(2010) All FWLR (Pt.543) 1907",
+        "treatment": "Followed",
+        "proposition": "Employment with statutory flavour.",
+        "reasoning": "Applied to determine nature of employment."
+      },
+      {
+        "authority": "Alhassan v A.B.U Zaria",
+        "citation": "(2010) All FWLR (Pt.538) 962",
+        "treatment": "Followed",
+        "proposition": "Statutory employment determinable only by statutory preconditions.",
+        "reasoning": "Applied to determine nature of employment."
+      }
+    ],
+    "evidential_findings": [],
+    "judicial_observations": []
+  },
+  "authorities": {
+    "cases_cited": [
+      {
+        "case_name": "Olaniyan v University of Lagos",
+        "citation": "(1985) 2 NWLR (Pt.9) 559",
+        "court": "Supreme Court",
+        "year": 1985,
+        "proposition": "Contract of employment regulated by statute.",
+        "treatment": "Cited",
+        "cited_by": "1st and 2nd Defendants",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Shitta-Bey v Federal Service Commission",
+        "citation": "(1981) 1 SC 40",
+        "court": "Supreme Court",
+        "year": 1981,
+        "proposition": "Statutory employment.",
+        "treatment": "Cited",
+        "cited_by": "1st and 2nd Defendants",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Fakuade v OAUTH",
+        "citation": "(1993) 5 NWLR (Pt.291) 47 SC",
+        "court": "Supreme Court",
+        "year": 1993,
+        "proposition": "Statutory employment.",
+        "treatment": "Cited",
+        "cited_by": "1st and 2nd Defendants",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Adeko v Ijebu Ode District Council",
+        "citation": "(1992) 1 SC NLR 349",
+        "court": "Supreme Court",
+        "year": 1992,
+        "proposition": "Distinction between termination and dismissal.",
+        "treatment": "Cited",
+        "cited_by": "1st and 2nd Defendants",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "UBN PLC v Soares",
+        "citation": "11 NWLR (Pt.) 550",
+        "court": "Supreme Court",
+        "year": null,
+        "proposition": "Distinction between termination and dismissal.",
+        "treatment": "Cited",
+        "cited_by": "1st and 2nd Defendants",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Idoniboye v NNPC",
+        "citation": "(2003) 2 NWLR (Pt.805) 589",
+        "court": "Supreme Court",
+        "year": 2003,
+        "proposition": "Conditions for statutory flavour.",
+        "treatment": "Cited",
+        "cited_by": "1st and 2nd Defendants",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Omojuyigbe v NIPOST",
+        "citation": "(2010) All FWLR (Pt.543) 1907",
+        "court": "Supreme Court",
+        "year": 2010,
+        "proposition": "Employment with statutory flavour.",
+        "treatment": "Followed",
+        "cited_by": "Claimants",
+        "importance": "Key"
+      },
+      {
+        "case_name": "Alhassan v A.B.U Zaria",
+        "citation": "(2010) All FWLR (Pt.538) 962",
+        "court": "Supreme Court",
+        "year": 2010,
+        "proposition": "Statutory employment determinable only by statutory preconditions.",
+        "treatment": "Followed",
+        "cited_by": "Claimants",
+        "importance": "Key"
+      }
+    ],
+    "statutes": [
+      {
+        "name": "Public Service Rules, 2009",
+        "provision": "Section 7(i) Schedule to Chapter 2",
+        "proposition": "Governs appointment and leaving of service."
+      }
+    ],
+    "constitutional_provisions": [],
+    "regulations": [],
+    "rules": [],
+    "international_instruments": [],
+    "other_authorities": []
+  },
+  "precedent_relationships": [
+    {
+      "authority": "Omojuyigbe v NIPOST",
+      "citation": "(2010) All FWLR (Pt.543) 1907",
+      "relationship": "Followed",
+      "proposition": "Employment with statutory flavour.",
+      "context": "Applied to determine nature of employment."
+    },
+    {
+      "authority": "Alhassan v A.B.U Zaria",
+      "citation": "(2010) All FWLR (Pt.538) 962",
+      "relationship": "Followed",
+      "proposition": "Statutory employment determinable only by statutory preconditions.",
+      "context": "Applied to determine nature of employment."
+    }
+  ],
+  "outcome": {
+    "decision": "Claimants' claims succeed.",
+    "overall_result": "Judgment for Claimants.",
+    "orders": [
+      "Declaration that termination on grounds of 'Service no longer required' is without due process and lacking in basis and substance.",
+      "Declaration that termination is in clear breach of Public Service Rules and therefore null and void.",
+      "Declaration that plaintiffs are still in employment and entitled to salaries and allowances.",
+      "Order setting aside termination letters.",
+      "Order directing reinstatement with entitlements.",
+      "Costs of N50,000.00 awarded to each Claimant."
+    ],
+    "reliefs": [
+      {
+        "relief_number": "a",
+        "relief": "Declaration that termination on grounds of 'Service no longer required' is victimizing, without due process, and lacking basis.",
+        "result": "Granted",
+        "reason": "Termination was without due process."
+      },
+      {
+        "relief_number": "b",
+        "relief": "Declaration that termination is null and void.",
+        "result": "Granted",
+        "reason": "Breach of Public Service Rules."
+      },
+      {
+        "relief_number": "c",
+        "relief": "Declaration that Claimants are still in employment and entitled to salaries and allowances.",
+        "result": "Granted",
+        "reason": "Termination null and void."
+      },
+      {
+        "relief_number": "d",
+        "relief": "Order setting aside termination letters.",
+        "result": "Granted",
+        "reason": "Lacking in basis and substance."
+      },
+      {
+        "relief_number": "e",
+        "relief": "Order directing reinstatement with entitlements.",
+        "result": "Granted",
+        "reason": "Unlawful termination."
+      },
+      {
+        "relief_number": "f",
+        "relief": "General damages for wrongful termination, blackmail, and trauma.",
+        "result": "Refused",
+        "reason": "Court unable to award."
+      },
+      {
+        "relief_number": "g",
+        "relief": "Cost of prosecuting the suit.",
+        "result": "Granted",
+        "reason": "N50,000.00 awarded to each Claimant."
+      }
+    ],
+    "reliefs_granted": [
+      "Declaration that termination on grounds of 'Service no longer required' is without due process and lacking in basis and substance.",
+      "Declaration that termination is in clear breach of Public Service Rules and therefore null and void.",
+      "Declaration that plaintiffs are still in employment and entitled to salaries and allowances.",
+      "Order setting aside termination letters.",
+      "Order directing reinstatement with entitlements.",
+      "Costs of N50,000.00 to each Claimant."
+    ],
+    "reliefs_refused": [
+      "General damages for wrongful termination, blackmail, and trauma."
+    ],
+    "reliefs_struck_out": [],
+    "reliefs_dismissed": [],
+    "damages": [],
+    "compensation": [],
+    "costs": {
+      "awarded": true,
+      "amount": "N50,000.00",
+      "recipient": "Each Claimant",
+      "details": "Cost of prosecuting the suit."
+    },
+    "interest": {
+      "awarded": false,
+      "rate": "",
+      "start_date": "",
+      "end_date": "",
+      "basis": ""
+    },
+    "compliance_deadline": "",
+    "declarations": [
+      "Termination on grounds of 'Service no longer required' is without due process and lacking in basis and substance.",
+      "Termination is in clear breach of Public Service Rules and therefore null and void.",
+      "Plaintiffs are still in employment and entitled to salaries and allowances."
+    ],
+    "injunctions": [],
+    "specific_orders": [
+      "Setting aside termination letters.",
+      "Reinstatement with entitlements."
+    ],
+    "final_disposition": "Judgment entered for Claimants."
+  },
+  "legal_knowledge": {
+    "holdings": [
+      "Employment is with statutory flavour.",
+      "Termination on grounds of 'Service no longer required' is unlawful, null and void."
+    ],
+    "legal_principles": [
+      "Employment with statutory flavour",
+      "Fair hearing",
+      "Compliance with Public Service Rules"
+    ],
+    "ratio_decidendi": [
+      "Statutory employment must be terminated in accordance with governing statute and natural justice."
+    ],
+    "obiter_dicta": [],
+    "causes_of_action": [
+      "Wrongful termination",
+      "Breach of Public Service Rules",
+      "Violation of fair hearing"
+    ],
+    "legal_issues": [
+      "Whether employment is with statutory flavour.",
+      "Whether termination complied with Public Service Rules."
+    ],
+    "practice_areas": [
+      "Employment Law",
+      "Administrative Law"
+    ],
+    "sub_practice_areas": [
+      "Public Service Employment",
+      "Disciplinary Procedures"
+    ],
+    "legal_concepts": [
+      "Statutory flavour",
+      "Natural justice",
+      "Null and void",
+      "Reinstatement"
+    ],
+    "doctrines": [
+      "Fair hearing",
+      "Due process"
+    ],
+    "remedies": [
+      "Declaration",
+      "Reinstatement",
+      "Costs"
+    ],
+    "employment_law_topics": [
+      "Termination of employment",
+      "Statutory employment",
+      "Disciplinary procedure",
+      "Reinstatement"
+    ],
+    "jurisdictional_issues": []
+  },
+  "retrieval": {
+    "keywords": [
+      "statutory flavour",
+      "termination",
+      "Public Service Rules",
+      "fair hearing",
+      "reinstatement",
+      "Federal Medical Centre Makurdi"
+    ],
+    "searchable_concepts": [
+      "Employment with statutory flavour",
+      "Unlawful termination",
+      "Public Service Rules compliance",
+      "Natural justice in employment"
+    ],
+    "semantic_topics": [
+      "Wrongful termination of statutory employment",
+      "Disciplinary procedure in public service",
+      "Reinstatement and entitlements"
+    ],
+    "legal_entities": [
+      "National Industrial Court",
+      "Federal Medical Centre Makurdi",
+      "Federal Ministry of Health",
+      "Public Service Rules"
+    ],
+    "statutes_referenced": [
+      "Public Service Rules, 2009"
+    ],
+    "cases_referenced": [
+      "Omojuyigbe v NIPOST",
+      "Alhassan v A.B.U Zaria",
+      "Olaniyan v University of Lagos",
+      "Shitta-Bey v Federal Service Commission",
+      "Fakuade v OAUTH",
+      "Adeko v Ijebu Ode District Council",
+      "UBN PLC v Soares",
+      "Idoniboye v NNPC"
+    ],
+    "citation_phrases": [
+      "(2010) All FWLR (Pt.543) 1907",
+      "(2010) All FWLR (Pt.538) 962"
+    ],
+    "fact_patterns": [
+      "Termination on grounds of 'Service no longer required'",
+      "Disciplinary proceedings preceding termination",
+      "Public service employment"
+    ],
+    "relief_types": [
+      "Declaration",
+      "Order",
+      "Damages",
+      "Costs"
+    ],
+    "decision_types": [
+      "Judgment for Claimants"
+    ]
+  },
+  "graph_rag": {
+    "entities": [
+      {
+        "name": "Mr. Okoh Ubeh",
+        "type": "Person"
+      },
+      {
+        "name": "Mr. Olofu John",
+        "type": "Person"
+      },
+      {
+        "name": "Ahmed Sarki",
+        "type": "Person"
+      },
+      {
+        "name": "Mr. Ukwenya Donatus",
+        "type": "Person"
+      },
+      {
+        "name": "Board of Management, Federal Medical Centre, Makurdi",
+        "type": "Organization"
+      },
+      {
+        "name": "The Medical Director, Federal Medical Centre, Makurdi",
+        "type": "Person"
+      },
+      {
+        "name": "Federal Ministry of Health",
+        "type": "Organization"
+      },
+      {
+        "name": "National Industrial Court of Nigeria",
+        "type": "Court"
+      },
+      {
+        "name": "Public Service Rules, 2009",
+        "type": "Statute"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Mr. Okoh Ubeh",
+        "relationship": "employed by",
+        "target": "Board of Management, Federal Medical Centre, Makurdi",
+        "evidence": "Claimants were employees."
+      },
+      {
+        "source": "Mr. Olofu John",
+        "relationship": "employed by",
+        "target": "Board of Management, Federal Medical Centre, Makurdi",
+        "evidence": "Claimants were employees."
+      },
+      {
+        "source": "Ahmed Sarki",
+        "relationship": "employed by",
+        "target": "Board of Management, Federal Medical Centre, Makurdi",
+        "evidence": "Claimants were employees."
+      },
+      {
+        "source": "Mr. Ukwenya Donatus",
+        "relationship": "employed by",
+        "target": "Board of Management, Federal Medical Centre, Makurdi",
+        "evidence": "Claimants were employees."
+      },
+      {
+        "source": "Board of Management, Federal Medical Centre, Makurdi",
+        "relationship": "terminated employment of",
+        "target": "Mr. Okoh Ubeh",
+        "evidence": "Termination letter dated 24th September 2010."
+      },
+      {
+        "source": "Board of Management, Federal Medical Centre, Makurdi",
+        "relationship": "terminated employment of",
+        "target": "Mr. Olofu John",
+        "evidence": "Termination letter dated 24th September 2010."
+      },
+      {
+        "source": "Board of Management, Federal Medical Centre, Makurdi",
+        "relationship": "terminated employment of",
+        "target": "Ahmed Sarki",
+        "evidence": "Termination letter dated 24th September 2010."
+      },
+      {
+        "source": "Board of Management, Federal Medical Centre, Makurdi",
+        "relationship": "terminated employment of",
+        "target": "Mr. Ukwenya Donatus",
+        "evidence": "Termination letter dated 4th February 2010."
+      }
+    ],
+    "case_relationships": [
+      {
+        "case": "Omojuyigbe v NIPOST",
+        "citation": "(2010) All FWLR (Pt.543) 1907",
+        "relationship": "Followed",
+        "context": "Employment with statutory flavour."
+      },
+      {
+        "case": "Alhassan v A.B.U Zaria",
+        "citation": "(2010) All FWLR (Pt.538) 962",
+        "relationship": "Followed",
+        "context": "Statutory employment determinable only by statutory preconditions."
+      }
+    ],
+    "statute_relationships": [
+      {
+        "statute": "Public Service Rules, 2009",
+        "provision": "Section 7(i) Schedule to Chapter 2",
+        "relationship": "Governs",
+        "context": "Appointment and leaving of service."
+      }
+    ],
+    "legal_principle_relationships": [
+      {
+        "principle": "Employment with statutory flavour",
+        "case": "Omojuyigbe v NIPOST",
+        "relationship": "Established by"
+      },
+      {
+        "principle": "Statutory employment determinable only by statutory preconditions",
+        "case": "Alhassan v A.B.U Zaria",
+        "relationship": "Established by"
+      }
+    ]
+  },
+  "citation_network": {
+    "authorities_cited": [
+      "Olaniyan v University of Lagos (1985) 2 NWLR (Pt.9) 559",
+      "Shitta-Bey v Federal Service Commission (1981) 1 SC 40",
+      "Fakuade v OAUTH (1993) 5 NWLR (Pt.291) 47 SC",
+      "Adeko v Ijebu Ode District Council (1992) 1 SC NLR 349",
+      "UBN PLC v Soares 11 NWLR (Pt.) 550",
+      "Idoniboye v NNPC (2003) 2 NWLR (Pt.805) 589",
+      "Omojuyigbe v NIPOST (2010) All FWLR (Pt.543) 1907",
+      "Alhassan v A.B.U Zaria (2010) All FWLR (Pt.538) 962"
+    ],
+    "authorities_followed": [
+      "Omojuyigbe v NIPOST (2010) All FWLR (Pt.543) 1907",
+      "Alhassan v A.B.U Zaria (2010) All FWLR (Pt.538) 962"
+    ],
+    "authorities_distinguished": [],
+    "authorities_rejected": [],
+    "authorities_overruled": [],
+    "authorities_relied_upon": [
+      "Omojuyigbe v NIPOST (2010) All FWLR (Pt.543) 1907",
+      "Alhassan v A.B.U Zaria (2010) All FWLR (Pt.538) 962"
+    ]
+  },
+  "metadata_quality": {
+    "extraction_confidence": 0.95,
+    "fields_missing": [],
+    "fields_uncertain": [],
+    "requires_review": false,
+    "review_reasons": [],
+    "source_completeness": "complete",
+    "ai_extraction_model": "deepseek-chat",
+    "prompt_version": "nicn-v3.2-single-call",
+    "extracted_at": "2026-10-01T17:34:35.999763+00:00"
+  }
+}

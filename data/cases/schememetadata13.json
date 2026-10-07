@@ -1,0 +1,1133 @@
+{
+  "schema_version": "nicn-ai-metadata-v3.2",
+  "source": {
+    "court": "National Industrial Court of Nigeria",
+    "jurisdiction": "Lagos Judicial Division",
+    "source_url": "",
+    "source_id": "550",
+    "document_id": "550",
+    "file_name": "full_text.txt",
+    "downloaded_at": "",
+    "document_type": "judgment",
+    "language": "English",
+    "pages": null,
+    "word_count": 2538,
+    "extraction_status": "complete",
+    "completeness_confidence": "HIGH"
+  },
+  "case": {
+    "title": "Zenith Bank Plc v Mr Obaro Odeghe",
+    "case_number": "NICN/LA/342/2014",
+    "court": "National Industrial Court of Nigeria",
+    "judicial_division": "Lagos",
+    "judge": "Hon. Justice O.A. Obaseki-Osaghae",
+    "judgment_date": "January 12, 2016",
+    "year": 2016,
+    "claimants": [
+      "Zenith Bank Plc"
+    ],
+    "defendants": [
+      "Mr Obaro Odeghe"
+    ],
+    "appellants": [],
+    "respondents": [],
+    "applicants": [],
+    "interested_parties": [],
+    "counsel": [
+      {
+        "name": "Aanu Ogunro, with Uche Uzoagwu",
+        "represents": "Claimant"
+      },
+      {
+        "name": "Elo Adhekpukoli",
+        "represents": "Defendant"
+      }
+    ]
+  },
+  "procedural_history": {
+    "originating_proceedings": "Complaint filed on 13th August 2014 by the claimant against the defendant claiming recovery of mortgage and personal loans, interest, and unamortised value of a generator.",
+    "procedural_posture": "The court raised the issue of jurisdiction suo motu and directed counsel to file written addresses. Parties adopted their written submissions on 2nd November 2015.",
+    "previous_decisions": [
+      "Judgment of the Lagos High Court in Suit No ID/1088/2009 delivered in favour of the defendant, declaring entitlement to severance benefits and striking out the claimant's counterclaim."
+    ],
+    "interlocutory_applications": [],
+    "appeals": [],
+    "orders_before_trial": [],
+    "procedural_events": [
+      "Claimant filed complaint and motion for summary judgment on 13th August 2014.",
+      "Defendant filed statement of defence and counterclaim.",
+      "Court raised jurisdiction issue suo motu.",
+      "Claimant filed written address on 24th February 2015.",
+      "Defendant filed written address on 13th April 2015.",
+      "Claimant filed reply on point of law on 9th June 2015.",
+      "Parties adopted written submissions on 2nd November 2015."
+    ]
+  },
+  "facts": {
+    "material_facts": [
+      "The defendant was an employee of the claimant.",
+      "The defendant obtained mortgage loans on 31st December 2007 and 21st March 2007, and a personal loan on 29th November 2005, during his employment.",
+      "The defendant resigned from the claimant's employment on 15th January 2008.",
+      "The claimant installed a 27 KVA generator at the defendant's private residence.",
+      "The defendant instituted Suit No ID/1088/2009 at the Lagos High Court against the claimant for severance benefits.",
+      "The Lagos High Court declared the defendant entitled to severance benefits and struck out the claimant's counterclaim regarding loans and generator."
+    ],
+    "chronology": [
+      {
+        "date": "14th November 2005",
+        "event": "Defendant applied for employee personal loan."
+      },
+      {
+        "date": "21st November 2005",
+        "event": "Claimant approved personal loan."
+      },
+      {
+        "date": "29th November 2005",
+        "event": "Defendant took personal loan of N6,000,000."
+      },
+      {
+        "date": "21st March 2007",
+        "event": "Defendant took mortgage loan of N19,000,000."
+      },
+      {
+        "date": "31st December 2007",
+        "event": "Defendant took mortgage loan of N30,000,000."
+      },
+      {
+        "date": "15th January 2008",
+        "event": "Defendant resigned from employment."
+      },
+      {
+        "date": "2009",
+        "event": "Defendant filed Suit No ID/1088/2009 at Lagos High Court."
+      },
+      {
+        "date": "13th August 2014",
+        "event": "Claimant filed complaint at National Industrial Court."
+      },
+      {
+        "date": "17th October 2014",
+        "event": "Defendant filed counterclaim."
+      },
+      {
+        "date": "2nd November 2015",
+        "event": "Parties adopted written submissions on jurisdiction."
+      },
+      {
+        "date": "12th January 2016",
+        "event": "Court delivered ruling striking out suit and counterclaim for want of jurisdiction."
+      }
+    ],
+    "admitted_facts": [
+      "The defendant was an employee of the claimant.",
+      "The defendant resigned from employment on 15th January 2008.",
+      "Loans were obtained during employment."
+    ],
+    "disputed_facts": [
+      "Whether the loans are recoverable as debts.",
+      "Whether the counterclaim is res judicata.",
+      "Whether the claims are statute barred."
+    ],
+    "background_facts": [
+      "The claimant is a bank.",
+      "The defendant was an employee of the claimant.",
+      "The loans were granted subject to conditions including immediate repayment upon resignation."
+    ],
+    "employment_relationship": "The defendant was an employee of the claimant until his resignation on 15th January 2008.",
+    "contractual_relationship": "Employment relationship governed by an Employee Handbook, and loan agreements between employer and employee.",
+    "documentary_evidence": [
+      "Complaint and statement of facts",
+      "Statement of defence and counterclaim",
+      "Written addresses on jurisdiction",
+      "Judgment of Lagos High Court in Suit No ID/1088/2009"
+    ],
+    "witness_evidence": []
+  },
+  "claims_and_reliefs": {
+    "causes_of_action": [
+      "Recovery of mortgage and personal loans",
+      "Recovery of interest on loans",
+      "Recovery of unamortised value of generator"
+    ],
+    "claims": [
+      {
+        "claim": "Recovery of N30,000,000 principal sum of mortgage loan taken on 31st December 2007.",
+        "legal_basis": "Loan agreement",
+        "claimant": "Zenith Bank Plc",
+        "against": "Mr Obaro Odeghe"
+      },
+      {
+        "claim": "Recovery of N19,000,000 principal sum of mortgage loan taken on 21st March 2007.",
+        "legal_basis": "Loan agreement",
+        "claimant": "Zenith Bank Plc",
+        "against": "Mr Obaro Odeghe"
+      },
+      {
+        "claim": "Recovery of N6,000,000 principal sum of personal loan taken on 29th November 2005.",
+        "legal_basis": "Loan agreement",
+        "claimant": "Zenith Bank Plc",
+        "against": "Mr Obaro Odeghe"
+      },
+      {
+        "claim": "Interest on loans totaling N55,000,000 at 21% per annum from 15th January 2008 until judgment, and thereafter at 10% per annum.",
+        "legal_basis": "Loan agreement and market rate",
+        "claimant": "Zenith Bank Plc",
+        "against": "Mr Obaro Odeghe"
+      },
+      {
+        "claim": "Recovery of N952,000 being unamortised value of 27 KVA Generator.",
+        "legal_basis": "Employment benefit",
+        "claimant": "Zenith Bank Plc",
+        "against": "Mr Obaro Odeghe"
+      }
+    ],
+    "reliefs_sought": [
+      {
+        "relief_number": "a",
+        "relief": "Payment of N30,000,000 principal sum of mortgage loan.",
+        "category": "Monetary"
+      },
+      {
+        "relief_number": "b",
+        "relief": "Payment of N19,000,000 principal sum of mortgage loan.",
+        "category": "Monetary"
+      },
+      {
+        "relief_number": "c",
+        "relief": "Payment of N6,000,000 principal sum of personal loan.",
+        "category": "Monetary"
+      },
+      {
+        "relief_number": "d",
+        "relief": "Interest on loans totaling N55,000,000 at 21% per annum from 15th January 2008 until judgment, and thereafter at 10% per annum.",
+        "category": "Monetary"
+      },
+      {
+        "relief_number": "e",
+        "relief": "Payment of N952,000 being unamortised value of 27 KVA Generator.",
+        "category": "Monetary"
+      }
+    ],
+    "issues_for_determination": [
+      {
+        "issue_number": "I",
+        "issue": "Whether this Honourable Court has the jurisdiction to entertain the claimant’s suit as constituted.",
+        "raised_by": "Claimant"
+      },
+      {
+        "issue_number": "II",
+        "issue": "Whether this Honourable Court has the jurisdiction to entertain the defendant’s counter claim as constituted.",
+        "raised_by": "Claimant"
+      },
+      {
+        "issue_number": "I",
+        "issue": "Considering the nature of the claimant’s claim, Sections 272 and 254C (1) of the 1999 Constitution (as amended) and the final judgement of the Lagos State High Court in Suit No ID/1088/2009, does the National Industrial Court have jurisdiction to determine the claimant’s claim?",
+        "raised_by": "Defendant"
+      },
+      {
+        "issue_number": "II",
+        "issue": "Considering the provisions of Section 254C (1) (k) of the 1999 Constitution (as amended), Order 18 Rule 1, of the National Industrial Court Rules, 2007, and the declaratory order of the High Court of Lagos State in Suit No ID/1088/2009 affirming the defendant’s right to his severance entitlement, does the National Industrial Court have the jurisdiction to determine defendant/counter-claimant’s counter-claim?",
+        "raised_by": "Defendant"
+      }
+    ],
+    "questions_of_law": [
+      "Whether the National Industrial Court has jurisdiction over claims relating to recovery of loans granted by an employer to an employee.",
+      "Whether the counterclaim is barred by the doctrine of res judicata.",
+      "Whether the claims are statute barred under the Limitation Law of Lagos State."
+    ]
+  },
+  "arguments": {
+    "claimant_arguments": [
+      "The subject matter of the claim is the right of the employer to be repaid loans given to the defendant, which amounts to a debt.",
+      "The claim falls within Section 254C (1) (a) of the 1999 Constitution as amended.",
+      "The action is not statute barred because the defendant acknowledged the debt during cross-examination on 9th June 2010, within six years.",
+      "The court does not have jurisdiction to entertain the defendant’s counterclaim or to interpret the judgment of the Lagos State High Court.",
+      "The counterclaim is caught by the doctrine of res judicata.",
+      "The counterclaim is statute barred under Section 8 (1) of the Limitation Law of Lagos State."
+    ],
+    "defendant_arguments": [
+      "The claimant’s claim has been determined in the final judgment of the Lagos High Court in Suit No ID/1088/2009, and no appeal was filed.",
+      "The National Industrial Court cannot sit on appeal over the decision of a State High Court.",
+      "The action is an abuse of the judicial process.",
+      "The claim is for recovery of mortgage sum and accrued interest arising from a simple mortgage contract, which is a banker/customer relationship, not an employment matter.",
+      "The counterclaim is a labour dispute arising from non-payment of severance benefits, which falls within Section 254C (1) of the 1999 Constitution.",
+      "The declaratory judgment of the High Court affirmed the right to 100% severance benefit, and the counterclaim seeks to ascertain the specific amount due."
+    ],
+    "appellant_arguments": [],
+    "respondent_arguments": [],
+    "submissions": [],
+    "party_authorities": [
+      {
+        "party": "Claimant",
+        "authority": "Thadani v National Bank of Nigeria Ltd [1972] 1 SC 75 at 80",
+        "proposition": "Where a person liable has acknowledged the debt, the right of action is deemed to have accrued on the date of acknowledgement."
+      },
+      {
+        "party": "Claimant",
+        "authority": "R.A.S.C. v Akib [2006] 13 NWLR (Pt 997) 333 at 352",
+        "proposition": "Court lacks jurisdiction to interpret judgment of co-ordinate court."
+      },
+      {
+        "party": "Claimant",
+        "authority": "F.R.I.N v Gold [2007] 11 NWLR (Pt 1044) 1 at 19",
+        "proposition": "Jurisdiction issue."
+      },
+      {
+        "party": "Claimant",
+        "authority": "Obi v INEC [2007] 11 NWLR (Pt 1046) 560",
+        "proposition": "Jurisdiction issue."
+      },
+      {
+        "party": "Claimant",
+        "authority": "Alor v Ngene [2007] 17 NWLR (Pt 1062) 163 at 177",
+        "proposition": "Striking out for lack of leave does not bar re-filing."
+      },
+      {
+        "party": "Claimant",
+        "authority": "Agbasi v Obi [1998] 2 NWLR (Pt 536) 1 at 10",
+        "proposition": "Res judicata."
+      },
+      {
+        "party": "Claimant",
+        "authority": "Dzungwe v Gbishe [1985] 2 NWLR (Pt 8) 528 at 537",
+        "proposition": "Res judicata."
+      },
+      {
+        "party": "Claimant",
+        "authority": "Makun v F.U.T. Minna [2011] 18 NWLR (Pt 1278) 190 at 227",
+        "proposition": "Res judicata."
+      },
+      {
+        "party": "Claimant",
+        "authority": "Ukaegbu v Ugoji [1991] 6 NWLR (Pt 196) 127",
+        "proposition": "Res judicata."
+      },
+      {
+        "party": "Defendant",
+        "authority": "Diginyandi v INEC (No. 1) [2010] 18 NWLR (Pt 1224) 1 at 74",
+        "proposition": "Abuse of judicial process."
+      },
+      {
+        "party": "Defendant",
+        "authority": "Saraki v Kotoye [1992] 7 NWLR (Pt 264) 156 at 188-189",
+        "proposition": "Abuse of judicial process."
+      },
+      {
+        "party": "Defendant",
+        "authority": "Pakky Balogun v Alhaje Ode [2007] LPELR-719 (SC)",
+        "proposition": "Abuse of judicial process."
+      },
+      {
+        "party": "Defendant",
+        "authority": "Dakolo v Dakolo [2011] LPELR-915 (SC)",
+        "proposition": "Abuse of judicial process."
+      },
+      {
+        "party": "Defendant",
+        "authority": "African Re Corp v JDP Construction Nig Ltd [2003] 13 NWLR (Pt 838) 635",
+        "proposition": "Abuse of judicial process."
+      },
+      {
+        "party": "Defendant",
+        "authority": "UBN Plc v Integrated Timber & Plywood produces [2000] LPELR-10629 (CA)",
+        "proposition": "Banker/customer relationship jurisdiction."
+      },
+      {
+        "party": "Defendant",
+        "authority": "FBN v NTIA [2014] LPELR-24104",
+        "proposition": "Banker/customer relationship jurisdiction."
+      },
+      {
+        "party": "Defendant",
+        "authority": "Okoya v Santilli [1990] 2 NWLR (Pt 131) 172",
+        "proposition": "Jurisdiction to ascertain amount due."
+      }
+    ]
+  },
+  "evidence": {
+    "exhibits": [],
+    "witnesses": [],
+    "documentary_evidence": [
+      "Complaint and statement of facts",
+      "Statement of defence and counterclaim",
+      "Written addresses",
+      "Judgment in Suit No ID/1088/2009"
+    ],
+    "oral_evidence": [],
+    "expert_evidence": [],
+    "evidential_findings": []
+  },
+  "judicial_analysis": {
+    "findings_of_fact": [
+      {
+        "issue": "Nature of claims",
+        "finding": "The claims are in respect of mortgage and personal loans granted to the defendant during employment, and the alleged indebtedness."
+      },
+      {
+        "issue": "Counterclaim",
+        "finding": "The counterclaim relates to severance benefits already determined by the Lagos High Court in Suit No ID/1088/2009."
+      }
+    ],
+    "findings_of_law": [
+      {
+        "issue": "Jurisdiction over loan recovery",
+        "finding": "The National Industrial Court lacks jurisdiction over claims relating to loans and commercial transactions, as they do not fall within Section 254C (1) (a) & (k) of the 1999 Constitution."
+      },
+      {
+        "issue": "Res judicata",
+        "finding": "The counterclaim is barred by the doctrine of res judicata as the issue of severance pay was finally determined by the Lagos High Court."
+      }
+    ],
+    "reasoning": "The court held that jurisdiction is determined by the claimant's claim. The claims relate to recovery of loans, which are commercial transactions not connected to employment matters under Section 254C (1) (a) & (k). The counterclaim is res judicata because the Lagos High Court had already decided on severance benefits. Therefore, the court declined jurisdiction over both the suit and counterclaim.",
+    "issue_analysis": [
+      {
+        "issue_number": "I",
+        "issue": "Whether the National Industrial Court has jurisdiction to entertain the claimant’s suit.",
+        "arguments": {
+          "claimant": "The claim is for recovery of loans, which is a debt and falls within Section 254C (1) (a) of the Constitution.",
+          "defendant": "The claim is a banker/customer relationship matter, not an employment matter, and the High Court has jurisdiction."
+        },
+        "judicial_analysis": "The court examined the claims and found they relate to loans and commercial transactions, not employment matters. Section 254C (1) (a) & (k) does not cover such claims.",
+        "holding": "The court lacks jurisdiction to entertain the claimant’s suit.",
+        "ratio_decidendi": "The National Industrial Court's jurisdiction is limited to labour and employment matters; claims for recovery of loans, even if granted during employment, are commercial transactions outside its jurisdiction.",
+        "result": "Suit struck out for want of jurisdiction."
+      },
+      {
+        "issue_number": "II",
+        "issue": "Whether the National Industrial Court has jurisdiction to entertain the defendant’s counterclaim.",
+        "arguments": {
+          "claimant": "The counterclaim is res judicata and statute barred.",
+          "defendant": "The counterclaim is a labour dispute arising from non-payment of severance benefits, which falls within Section 254C (1) (k)."
+        },
+        "judicial_analysis": "The court found that the issue of severance benefits was already finally determined by the Lagos High Court in Suit No ID/1088/2009. The counterclaim is an attempt to re-litigate the same issue.",
+        "holding": "The counterclaim is barred by res judicata and the court lacks jurisdiction.",
+        "ratio_decidendi": "A counterclaim that seeks to re-litigate an issue already finally determined by a court of competent jurisdiction is barred by res judicata, and the National Industrial Court lacks jurisdiction to entertain it.",
+        "result": "Counterclaim struck out for want of jurisdiction."
+      }
+    ],
+    "holdings": [
+      {
+        "issue_number": "I",
+        "issue": "Jurisdiction over claimant’s suit",
+        "holding": "The court has no jurisdiction over the suit as it relates to loan recovery, not employment matters.",
+        "result": "Struck out."
+      },
+      {
+        "issue_number": "II",
+        "issue": "Jurisdiction over counterclaim",
+        "holding": "The counterclaim is res judicata and the court has no jurisdiction.",
+        "result": "Struck out."
+      }
+    ],
+    "ratio_decidendi": [
+      {
+        "issue": "Jurisdiction over loan recovery",
+        "principle": "The National Industrial Court's jurisdiction under Section 254C (1) (a) & (k) does not extend to claims for recovery of loans, which are commercial transactions.",
+        "application": "The claimant's claims for loan recovery were outside the court's jurisdiction.",
+        "holding": "Suit struck out."
+      },
+      {
+        "issue": "Res judicata",
+        "principle": "A counterclaim that re-litigates an issue already decided by a court of competent jurisdiction is barred by res judicata.",
+        "application": "The counterclaim for severance benefits was already determined by the Lagos High Court.",
+        "holding": "Counterclaim struck out."
+      }
+    ],
+    "obiter_dicta": [],
+    "legal_principles": [
+      {
+        "principle": "Jurisdiction is determined by the claimant's claim.",
+        "context": "The court considered the complaint and statement of facts.",
+        "source": "Madukolu v Nkemdilim [1962] 1 ANLR 587"
+      },
+      {
+        "principle": "Res judicata bars re-litigation of issues finally determined.",
+        "context": "The counterclaim was on the same issue of severance benefits.",
+        "source": "Common law principle"
+      }
+    ],
+    "statutory_interpretation": [
+      {
+        "statute": "Constitution of the Federal Republic of Nigeria 1999 (as amended)",
+        "provision": "Section 254C (1) (a) & (k)",
+        "interpretation": "The provisions confer jurisdiction on the National Industrial Court for labour, employment, and related matters, but not for commercial transactions like loan recovery.",
+        "application": "The court found the claims did not fall within these provisions."
+      },
+      {
+        "statute": "Limitation Law of Lagos State CAP L67 2003",
+        "provision": "Section 8 (1) (a)",
+        "interpretation": "Actions founded on simple contract shall not be brought after six years from accrual of cause of action.",
+        "application": "The court did not rule on this as the counterclaim was struck out for res judicata."
+      }
+    ],
+    "constitutional_analysis": [
+      {
+        "provision": "Section 254C (1) (a) & (k) of the 1999 Constitution",
+        "interpretation": "The jurisdiction of the National Industrial Court is limited to labour and employment matters, including payment or non-payment of salaries, wages, pensions, gratuities, allowances, benefits, and other entitlements.",
+        "application": "The court held that loan recovery claims are not within this jurisdiction."
+      }
+    ],
+    "precedent_analysis": [
+      {
+        "authority": "Madukolu v Nkemdilim",
+        "citation": "[1962] 1 ANLR 587",
+        "treatment": "Followed",
+        "proposition": "Conditions for exercise of jurisdiction.",
+        "reasoning": "The court applied the principle that jurisdiction is determined by the claim."
+      },
+      {
+        "authority": "Magaji v Matari",
+        "citation": "[2000] 5 SC 46 at 55",
+        "treatment": "Followed",
+        "proposition": "Jurisdiction is fundamental and should be taken at the earliest opportunity.",
+        "reasoning": "The court raised jurisdiction suo motu."
+      },
+      {
+        "authority": "Popoola Elabanjo v Dawodu",
+        "citation": "[2006] All FWLR (Pt 328) 604 at 646",
+        "treatment": "Followed",
+        "proposition": "Jurisdiction is fundamental.",
+        "reasoning": "The court considered jurisdiction first."
+      },
+      {
+        "authority": "A-G Anambra v A-G Federation",
+        "citation": "[1993] 6 NWLR (Pt 302) 692",
+        "treatment": "Followed",
+        "proposition": "Jurisdiction is determined by the claim.",
+        "reasoning": "The court looked at the complaint and statement of facts."
+      },
+      {
+        "authority": "A-G Federation v Oshiomhole",
+        "citation": "[2004] 3 NWLR (Pt 860) 305",
+        "treatment": "Followed",
+        "proposition": "Jurisdiction is determined by the claim.",
+        "reasoning": "The court looked at the complaint and statement of facts."
+      }
+    ],
+    "evidential_findings": [],
+    "judicial_observations": []
+  },
+  "authorities": {
+    "cases_cited": [
+      {
+        "case_name": "Thadani v National Bank of Nigeria Ltd",
+        "citation": "[1972] 1 SC 75 at 80",
+        "court": "Supreme Court",
+        "year": 1972,
+        "proposition": "Acknowledgement of debt restarts limitation period.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "R.A.S.C. v Akib",
+        "citation": "[2006] 13 NWLR (Pt 997) 333 at 352",
+        "court": "Supreme Court",
+        "year": 2006,
+        "proposition": "Court cannot interpret judgment of co-ordinate court.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "F.R.I.N v Gold",
+        "citation": "[2007] 11 NWLR (Pt 1044) 1 at 19",
+        "court": "Supreme Court",
+        "year": 2007,
+        "proposition": "Jurisdiction.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Obi v INEC",
+        "citation": "[2007] 11 NWLR (Pt 1046) 560",
+        "court": "Supreme Court",
+        "year": 2007,
+        "proposition": "Jurisdiction.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Diginyandi v INEC (No. 1)",
+        "citation": "[2010] 18 NWLR (Pt 1224) 1 at 74",
+        "court": "Supreme Court",
+        "year": 2010,
+        "proposition": "Abuse of judicial process.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Saraki v Kotoye",
+        "citation": "[1992] 7 NWLR (Pt 264) 156 at 188-189",
+        "court": "Supreme Court",
+        "year": 1992,
+        "proposition": "Abuse of judicial process.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Pakky Balogun v Alhaje Ode",
+        "citation": "[2007] LPELR-719 (SC)",
+        "court": "Supreme Court",
+        "year": 2007,
+        "proposition": "Abuse of judicial process.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Dakolo v Dakolo",
+        "citation": "[2011] LPELR-915 (SC)",
+        "court": "Supreme Court",
+        "year": 2011,
+        "proposition": "Abuse of judicial process.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "African Re Corp v JDP Construction Nig Ltd",
+        "citation": "[2003] 13 NWLR (Pt 838) 635",
+        "court": "Supreme Court",
+        "year": 2003,
+        "proposition": "Abuse of judicial process.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "UBN Plc v Integrated Timber & Plywood produces",
+        "citation": "[2000] LPELR-10629 (CA)",
+        "court": "Court of Appeal",
+        "year": 2000,
+        "proposition": "Banker/customer relationship jurisdiction.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "FBN v NTIA",
+        "citation": "[2014] LPELR-24104",
+        "court": "Court of Appeal",
+        "year": 2014,
+        "proposition": "Banker/customer relationship jurisdiction.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Okoya v Santilli",
+        "citation": "[1990] 2 NWLR (Pt 131) 172",
+        "court": "Supreme Court",
+        "year": 1990,
+        "proposition": "Jurisdiction to ascertain amount due.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Alor v Ngene",
+        "citation": "[2007] 17 NWLR (Pt 1062) 163 at 177",
+        "court": "Supreme Court",
+        "year": 2007,
+        "proposition": "Striking out for lack of leave does not bar re-filing.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Agbasi v Obi",
+        "citation": "[1998] 2 NWLR (Pt 536) 1 at 10",
+        "court": "Supreme Court",
+        "year": 1998,
+        "proposition": "Res judicata.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Dzungwe v Gbishe",
+        "citation": "[1985] 2 NWLR (Pt 8) 528 at 537",
+        "court": "Supreme Court",
+        "year": 1985,
+        "proposition": "Res judicata.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Makun v F.U.T. Minna",
+        "citation": "[2011] 18 NWLR (Pt 1278) 190 at 227",
+        "court": "Supreme Court",
+        "year": 2011,
+        "proposition": "Res judicata.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Ukaegbu v Ugoji",
+        "citation": "[1991] 6 NWLR (Pt 196) 127",
+        "court": "Supreme Court",
+        "year": 1991,
+        "proposition": "Res judicata.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Madukolu v Nkemdilim",
+        "citation": "[1962] 1 ANLR 587",
+        "court": "Supreme Court",
+        "year": 1962,
+        "proposition": "Conditions for exercise of jurisdiction.",
+        "treatment": "Followed",
+        "cited_by": "Court",
+        "importance": "Key"
+      },
+      {
+        "case_name": "Magaji v Matari",
+        "citation": "[2000] 5 SC 46 at 55",
+        "court": "Supreme Court",
+        "year": 2000,
+        "proposition": "Jurisdiction is fundamental.",
+        "treatment": "Followed",
+        "cited_by": "Court",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Popoola Elabanjo v Dawodu",
+        "citation": "[2006] All FWLR (Pt 328) 604 at 646",
+        "court": "Supreme Court",
+        "year": 2006,
+        "proposition": "Jurisdiction is fundamental.",
+        "treatment": "Followed",
+        "cited_by": "Court",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "A-G Anambra v A-G Federation",
+        "citation": "[1993] 6 NWLR (Pt 302) 692",
+        "court": "Supreme Court",
+        "year": 1993,
+        "proposition": "Jurisdiction is determined by the claim.",
+        "treatment": "Followed",
+        "cited_by": "Court",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "A-G Federation v Oshiomhole",
+        "citation": "[2004] 3 NWLR (Pt 860) 305",
+        "court": "Supreme Court",
+        "year": 2004,
+        "proposition": "Jurisdiction is determined by the claim.",
+        "treatment": "Followed",
+        "cited_by": "Court",
+        "importance": "Supporting"
+      }
+    ],
+    "statutes": [
+      {
+        "name": "Constitution of the Federal Republic of Nigeria 1999 (as amended)",
+        "provision": "Section 254C (1) (a) & (k)",
+        "proposition": "Jurisdiction of the National Industrial Court."
+      },
+      {
+        "name": "Limitation Law of Lagos State CAP L67 2003",
+        "provision": "Section 8 (1) (a)",
+        "proposition": "Six-year limitation for simple contract."
+      },
+      {
+        "name": "Limitation Law of Lagos State",
+        "provision": "Section 38 (1)",
+        "proposition": "Acknowledgement of debt restarts limitation period."
+      }
+    ],
+    "constitutional_provisions": [
+      {
+        "instrument": "Constitution of the Federal Republic of Nigeria 1999 (as amended)",
+        "article_or_section": "Section 254C (1) (a) & (k)",
+        "proposition": "Jurisdiction of the National Industrial Court over labour and employment matters."
+      },
+      {
+        "instrument": "Constitution of the Federal Republic of Nigeria 1999 (as amended)",
+        "article_or_section": "Section 272",
+        "proposition": "Jurisdiction of State High Courts."
+      },
+      {
+        "instrument": "Constitution of the Federal Republic of Nigeria 1999 (as amended)",
+        "article_or_section": "Section 240",
+        "proposition": "Hierarchy of courts."
+      }
+    ],
+    "regulations": [],
+    "rules": [
+      {
+        "name": "National Industrial Court Rules, 2007",
+        "rule": "Order 18 Rule 1",
+        "proposition": "Special referee for determining monetary value."
+      }
+    ],
+    "international_instruments": [],
+    "other_authorities": []
+  },
+  "precedent_relationships": [
+    {
+      "authority": "Madukolu v Nkemdilim",
+      "citation": "[1962] 1 ANLR 587",
+      "relationship": "Followed",
+      "proposition": "Conditions for exercise of jurisdiction.",
+      "context": "The court applied the principle to determine jurisdiction."
+    },
+    {
+      "authority": "Magaji v Matari",
+      "citation": "[2000] 5 SC 46 at 55",
+      "relationship": "Followed",
+      "proposition": "Jurisdiction is fundamental.",
+      "context": "The court raised jurisdiction suo motu."
+    },
+    {
+      "authority": "Popoola Elabanjo v Dawodu",
+      "citation": "[2006] All FWLR (Pt 328) 604 at 646",
+      "relationship": "Followed",
+      "proposition": "Jurisdiction is fundamental.",
+      "context": "The court considered jurisdiction first."
+    },
+    {
+      "authority": "A-G Anambra v A-G Federation",
+      "citation": "[1993] 6 NWLR (Pt 302) 692",
+      "relationship": "Followed",
+      "proposition": "Jurisdiction is determined by the claim.",
+      "context": "The court looked at the complaint and statement of facts."
+    },
+    {
+      "authority": "A-G Federation v Oshiomhole",
+      "citation": "[2004] 3 NWLR (Pt 860) 305",
+      "relationship": "Followed",
+      "proposition": "Jurisdiction is determined by the claim.",
+      "context": "The court looked at the complaint and statement of facts."
+    }
+  ],
+  "outcome": {
+    "decision": "Both the claimant’s suit and the defendant’s counterclaim are struck out for want of jurisdiction.",
+    "overall_result": "Struck out",
+    "orders": [
+      "Claimant’s suit struck out for want of jurisdiction.",
+      "Defendant’s counterclaim struck out for want of jurisdiction.",
+      "No order as to costs."
+    ],
+    "reliefs": [
+      {
+        "relief_number": "a",
+        "relief": "Payment of N30,000,000 principal sum of mortgage loan.",
+        "result": "Struck out",
+        "reason": "Lack of jurisdiction."
+      },
+      {
+        "relief_number": "b",
+        "relief": "Payment of N19,000,000 principal sum of mortgage loan.",
+        "result": "Struck out",
+        "reason": "Lack of jurisdiction."
+      },
+      {
+        "relief_number": "c",
+        "relief": "Payment of N6,000,000 principal sum of personal loan.",
+        "result": "Struck out",
+        "reason": "Lack of jurisdiction."
+      },
+      {
+        "relief_number": "d",
+        "relief": "Interest on loans totaling N55,000,000.",
+        "result": "Struck out",
+        "reason": "Lack of jurisdiction."
+      },
+      {
+        "relief_number": "e",
+        "relief": "Payment of N952,000 unamortised value of generator.",
+        "result": "Struck out",
+        "reason": "Lack of jurisdiction."
+      }
+    ],
+    "reliefs_granted": [],
+    "reliefs_refused": [],
+    "reliefs_struck_out": [
+      "All reliefs sought by the claimant.",
+      "Counterclaim for severance entitlement."
+    ],
+    "reliefs_dismissed": [],
+    "damages": [],
+    "compensation": [],
+    "costs": {
+      "awarded": false,
+      "amount": "",
+      "recipient": "",
+      "details": "No order as to costs."
+    },
+    "interest": {
+      "awarded": false,
+      "rate": "",
+      "start_date": "",
+      "end_date": "",
+      "basis": ""
+    },
+    "compliance_deadline": "",
+    "declarations": [],
+    "injunctions": [],
+    "specific_orders": [],
+    "final_disposition": "Suit and counterclaim struck out."
+  },
+  "legal_knowledge": {
+    "holdings": [
+      "The National Industrial Court lacks jurisdiction over claims for recovery of loans granted by an employer to an employee.",
+      "A counterclaim that re-litigates an issue already decided by a court of competent jurisdiction is barred by res judicata."
+    ],
+    "legal_principles": [
+      "Jurisdiction is determined by the claimant's claim.",
+      "Res judicata bars re-litigation of issues finally determined."
+    ],
+    "ratio_decidendi": [
+      "The National Industrial Court's jurisdiction under Section 254C (1) (a) & (k) does not extend to claims for recovery of loans, which are commercial transactions.",
+      "A counterclaim that seeks to re-litigate an issue already finally determined by a court of competent jurisdiction is barred by res judicata."
+    ],
+    "obiter_dicta": [],
+    "causes_of_action": [
+      "Recovery of mortgage and personal loans",
+      "Recovery of interest on loans",
+      "Recovery of unamortised value of generator"
+    ],
+    "legal_issues": [
+      "Jurisdiction of the National Industrial Court over loan recovery claims.",
+      "Application of res judicata to counterclaim."
+    ],
+    "practice_areas": [
+      "Labour and Employment Law",
+      "Civil Procedure",
+      "Banking and Finance Law"
+    ],
+    "sub_practice_areas": [
+      "Jurisdiction",
+      "Res Judicata"
+    ],
+    "legal_concepts": [
+      "Jurisdiction",
+      "Res Judicata",
+      "Limitation of Actions",
+      "Employment Relationship",
+      "Loan Recovery"
+    ],
+    "doctrines": [
+      "Res Judicata",
+      "Limitation of Actions"
+    ],
+    "remedies": [
+      "Striking out for want of jurisdiction"
+    ],
+    "employment_law_topics": [
+      "Severance Benefits",
+      "Employee Loans"
+    ],
+    "jurisdictional_issues": [
+      "Whether the National Industrial Court has jurisdiction over loan recovery claims.",
+      "Whether the counterclaim is barred by res judicata."
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "National Industrial Court",
+      "jurisdiction",
+      "loan recovery",
+      "mortgage loan",
+      "personal loan",
+      "severance benefits",
+      "res judicata",
+      "Limitation Law",
+      "Zenith Bank",
+      "Obaro Odeghe"
+    ],
+    "searchable_concepts": [
+      "Jurisdiction of NICN",
+      "Loan recovery as employment matter",
+      "Res judicata in counterclaim",
+      "Limitation of actions"
+    ],
+    "semantic_topics": [
+      "Employment law jurisdiction",
+      "Banking and finance litigation",
+      "Civil procedure"
+    ],
+    "legal_entities": [
+      "Zenith Bank Plc",
+      "Mr Obaro Odeghe",
+      "National Industrial Court",
+      "Lagos High Court"
+    ],
+    "statutes_referenced": [
+      "Constitution 1999 Section 254C",
+      "Limitation Law of Lagos State"
+    ],
+    "cases_referenced": [
+      "Madukolu v Nkemdilim",
+      "Thadani v National Bank",
+      "R.A.S.C. v Akib"
+    ],
+    "citation_phrases": [
+      "Section 254C (1) (a) & (k)",
+      "res judicata",
+      "statute barred"
+    ],
+    "fact_patterns": [
+      "Employer suing former employee for loan recovery",
+      "Counterclaim for severance benefits after High Court judgment"
+    ],
+    "relief_types": [
+      "Monetary reliefs",
+      "Interest",
+      "Declaration"
+    ],
+    "decision_types": [
+      "Ruling on jurisdiction",
+      "Striking out"
+    ]
+  },
+  "graph_rag": {
+    "entities": [
+      {
+        "name": "Zenith Bank Plc",
+        "type": "Claimant"
+      },
+      {
+        "name": "Mr Obaro Odeghe",
+        "type": "Defendant"
+      },
+      {
+        "name": "National Industrial Court",
+        "type": "Court"
+      },
+      {
+        "name": "Lagos High Court",
+        "type": "Court"
+      },
+      {
+        "name": "Section 254C (1) (a) & (k)",
+        "type": "Constitutional Provision"
+      },
+      {
+        "name": "Res Judicata",
+        "type": "Legal Doctrine"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Zenith Bank Plc",
+        "relationship": "employed",
+        "target": "Mr Obaro Odeghe",
+        "evidence": "Defendant was an employee of the claimant."
+      },
+      {
+        "source": "Zenith Bank Plc",
+        "relationship": "granted loans to",
+        "target": "Mr Obaro Odeghe",
+        "evidence": "Mortgage and personal loans granted during employment."
+      },
+      {
+        "source": "Mr Obaro Odeghe",
+        "relationship": "filed counterclaim against",
+        "target": "Zenith Bank Plc",
+        "evidence": "Counterclaim for severance entitlement."
+      },
+      {
+        "source": "National Industrial Court",
+        "relationship": "lacks jurisdiction over",
+        "target": "Loan recovery claims",
+        "evidence": "Claims are commercial transactions not within Section 254C."
+      },
+      {
+        "source": "Counterclaim",
+        "relationship": "barred by",
+        "target": "Res Judicata",
+        "evidence": "Issue already determined by Lagos High Court."
+      }
+    ],
+    "case_relationships": [
+      {
+        "case": "Suit No ID/1088/2009",
+        "citation": "",
+        "relationship": "res judicata",
+        "context": "Lagos High Court judgment on severance benefits."
+      }
+    ],
+    "statute_relationships": [
+      {
+        "statute": "Constitution of the Federal Republic of Nigeria 1999 (as amended)",
+        "provision": "Section 254C (1) (a) & (k)",
+        "relationship": "interpreted",
+        "context": "Jurisdiction of NICN not extending to loan recovery."
+      }
+    ],
+    "legal_principle_relationships": [
+      {
+        "principle": "Res judicata",
+        "case": "Suit No ID/1088/2009",
+        "relationship": "applied"
+      }
+    ]
+  },
+  "citation_network": {
+    "authorities_cited": [
+      "Thadani v National Bank of Nigeria Ltd [1972] 1 SC 75",
+      "R.A.S.C. v Akib [2006] 13 NWLR (Pt 997) 333",
+      "F.R.I.N v Gold [2007] 11 NWLR (Pt 1044) 1",
+      "Obi v INEC [2007] 11 NWLR (Pt 1046) 560",
+      "Diginyandi v INEC (No. 1) [2010] 18 NWLR (Pt 1224) 1",
+      "Saraki v Kotoye [1992] 7 NWLR (Pt 264) 156",
+      "Pakky Balogun v Alhaje Ode [2007] LPELR-719 (SC)",
+      "Dakolo v Dakolo [2011] LPELR-915 (SC)",
+      "African Re Corp v JDP Construction Nig Ltd [2003] 13 NWLR (Pt 838) 635",
+      "UBN Plc v Integrated Timber & Plywood produces [2000] LPELR-10629 (CA)",
+      "FBN v NTIA [2014] LPELR-24104",
+      "Okoya v Santilli [1990] 2 NWLR (Pt 131) 172",
+      "Alor v Ngene [2007] 17 NWLR (Pt 1062) 163",
+      "Agbasi v Obi [1998] 2 NWLR (Pt 536) 1",
+      "Dzungwe v Gbishe [1985] 2 NWLR (Pt 8) 528",
+      "Makun v F.U.T. Minna [2011] 18 NWLR (Pt 1278) 190",
+      "Ukaegbu v Ugoji [1991] 6 NWLR (Pt 196) 127",
+      "Madukolu v Nkemdilim [1962] 1 ANLR 587",
+      "Magaji v Matari [2000] 5 SC 46",
+      "Popoola Elabanjo v Dawodu [2006] All FWLR (Pt 328) 604",
+      "A-G Anambra v A-G Federation [1993] 6 NWLR (Pt 302) 692",
+      "A-G Federation v Oshiomhole [2004] 3 NWLR (Pt 860) 305"
+    ],
+    "authorities_followed": [
+      "Madukolu v Nkemdilim [1962] 1 ANLR 587",
+      "Magaji v Matari [2000] 5 SC 46",
+      "Popoola Elabanjo v Dawodu [2006] All FWLR (Pt 328) 604",
+      "A-G Anambra v A-G Federation [1993] 6 NWLR (Pt 302) 692",
+      "A-G Federation v Oshiomhole [2004] 3 NWLR (Pt 860) 305"
+    ],
+    "authorities_distinguished": [],
+    "authorities_rejected": [],
+    "authorities_overruled": [],
+    "authorities_relied_upon": [
+      "Madukolu v Nkemdilim [1962] 1 ANLR 587",
+      "Magaji v Matari [2000] 5 SC 46",
+      "Popoola Elabanjo v Dawodu [2006] All FWLR (Pt 328) 604",
+      "A-G Anambra v A-G Federation [1993] 6 NWLR (Pt 302) 692",
+      "A-G Federation v Oshiomhole [2004] 3 NWLR (Pt 860) 305"
+    ]
+  },
+  "metadata_quality": {
+    "extraction_confidence": 0.95,
+    "fields_missing": [],
+    "fields_uncertain": [],
+    "requires_review": false,
+    "review_reasons": [],
+    "source_completeness": "complete",
+    "ai_extraction_model": "deepseek-chat",
+    "prompt_version": "nicn-v3.2-single-call",
+    "extracted_at": "2026-10-02T09:58:31.827482+00:00"
+  }
+}

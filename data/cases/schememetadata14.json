@@ -1,0 +1,1419 @@
+{
+  "schema_version": "nicn-ai-metadata-v3.2",
+  "source": {
+    "court": "National Industrial Court of Nigeria",
+    "jurisdiction": "Nigeria",
+    "source_url": "",
+    "source_id": "499",
+    "document_id": "499",
+    "file_name": "full_text.txt",
+    "downloaded_at": "",
+    "document_type": "judgment",
+    "language": "English",
+    "pages": null,
+    "word_count": 9854,
+    "extraction_status": "complete",
+    "completeness_confidence": "HIGH"
+  },
+  "case": {
+    "title": "Miss Victoria Ikolomi v. SGS Scanning Nigeria Limited",
+    "case_number": "NICN/LA/564/2012",
+    "court": "National Industrial Court of Nigeria",
+    "judicial_division": "Lagos",
+    "judge": "Hon. Justice B. B. Kanyip",
+    "judgment_date": "2014-07-17",
+    "year": 2014,
+    "claimants": [
+      "Miss Victoria Ikolomi"
+    ],
+    "defendants": [
+      "SGS Scanning Nigeria Limited"
+    ],
+    "appellants": [],
+    "respondents": [],
+    "applicants": [],
+    "interested_parties": [],
+    "counsel": []
+  },
+  "procedural_history": {
+    "originating_proceedings": "Complaint dated and filed on 7th November 2012.",
+    "procedural_posture": "Trial concluded; parties filed written addresses; judgment delivered.",
+    "previous_decisions": [],
+    "interlocutory_applications": [
+      "Order of 4th June 2013 granting claimant leave to amend statement of facts and file additional documents and witness statement on oath."
+    ],
+    "appeals": [],
+    "orders_before_trial": [],
+    "procedural_events": [
+      "Claimant filed complaint, statement of facts, witness statement on oath, list of witness, list of documents and copies of documents.",
+      "Defendant filed memorandum of appearance, statement of defence, list of witnesses, witness statement on oath, list of documents and copies of documents.",
+      "Claimant testified as CW; Emmanuel Idowu Adenipekun testified for defendant as DW.",
+      "Parties filed written addresses: defendant's dated 21st January 2014; claimant's dated 20th February 2014 but filed 21st February 2014; defendant's reply on points of law dated 4th March 2014."
+    ]
+  },
+  "facts": {
+    "material_facts": [
+      "Claimant was employed by defendant.",
+      "Claimant and two other staff (Charles Ozah and Ekene Odagu) were queried for breach of audit procedure regarding issuance of Risk Assessment Reports (RARs) for certificate numbers CN/000092432/001 and CN/000092433/001.",
+      "The RARs were undervalued, causing lower import duties and loss of revenue to the Federal Government.",
+      "Claimant responded to query admitting breach of audit procedure and gross misconduct.",
+      "Claimant was summarily dismissed by letter dated 28th August 2012 for corruption.",
+      "Claimant accepted terms of dismissal letter, including discharge of defendant from all claims.",
+      "Defendant's investigation could not establish that claimant received recharge cards, but assumed she did because two others did."
+    ],
+    "chronology": [
+      {
+        "date": "2012-07-03",
+        "event": "Claimant and two others allegedly sidetracked procedure for issuance of RARs."
+      },
+      {
+        "date": "2012-08-07",
+        "event": "Verbal discussion between claimant and defendant regarding breach."
+      },
+      {
+        "date": "2012-08-09",
+        "event": "Query issued to claimant (Exhibit C1/D1)."
+      },
+      {
+        "date": "2012-08-28",
+        "event": "Claimant summarily dismissed by letter (Exhibit C2/D3)."
+      },
+      {
+        "date": "2012-08-31",
+        "event": "Claimant signed acceptance of terms of dismissal letter."
+      },
+      {
+        "date": "2012-11-07",
+        "event": "Claimant filed complaint at NICN."
+      },
+      {
+        "date": "2013-06-04",
+        "event": "Court granted leave to amend statement of facts."
+      },
+      {
+        "date": "2014-07-17",
+        "event": "Judgment delivered."
+      }
+    ],
+    "admitted_facts": [
+      "Claimant breached audit procedure.",
+      "Claimant admitted breach in response to query.",
+      "Claimant accepted terms of dismissal letter."
+    ],
+    "disputed_facts": [
+      "Whether breach of audit procedure equates to corruption.",
+      "Whether claimant was afforded fair hearing.",
+      "Whether claimant received recharge cards or other inducement."
+    ],
+    "background_facts": [
+      "Defendant is a company providing scanning services.",
+      "Claimant worked as a Ticketing and Reservation Officer with Beverly Travels Ltd at time of trial."
+    ],
+    "employment_relationship": "Ordinary master-servant employment, not with statutory flavour.",
+    "contractual_relationship": "Contract of employment incorporating SGS Code of Integrity, Human Resources Policy Manual, and RAR Issuance Procedure.",
+    "documentary_evidence": [
+      "Exhibits C1-C6 for claimant; D1-D12 for defendant."
+    ],
+    "witness_evidence": [
+      "Claimant testified as CW; Emmanuel Idowu Adenipekun testified as DW."
+    ]
+  },
+  "claims_and_reliefs": {
+    "causes_of_action": [
+      "Unlawful summary dismissal",
+      "Breach of contract of employment",
+      "Denial of fair hearing"
+    ],
+    "claims": [
+      {
+        "claim": "Declaration that summary dismissal is illegal, unlawful, null and void.",
+        "legal_basis": "Unlawful dismissal, breach of contract",
+        "claimant": "Miss Victoria Ikolomi",
+        "against": "SGS Scanning Nigeria Limited"
+      },
+      {
+        "claim": "Declaration that claimant was not afforded fair hearing.",
+        "legal_basis": "Constitutional right to fair hearing",
+        "claimant": "Miss Victoria Ikolomi",
+        "against": "SGS Scanning Nigeria Limited"
+      },
+      {
+        "claim": "Order compelling defendant to pay salary and entitlement up till date.",
+        "legal_basis": "Contract of employment",
+        "claimant": "Miss Victoria Ikolomi",
+        "against": "SGS Scanning Nigeria Limited"
+      },
+      {
+        "claim": "N200,000.00 as special damages for solicitor's professional fees.",
+        "legal_basis": "Special damages",
+        "claimant": "Miss Victoria Ikolomi",
+        "against": "SGS Scanning Nigeria Limited"
+      },
+      {
+        "claim": "Order compelling defendant to reinstate claimant.",
+        "legal_basis": "Unlawful dismissal",
+        "claimant": "Miss Victoria Ikolomi",
+        "against": "SGS Scanning Nigeria Limited"
+      },
+      {
+        "claim": "N25 Million as general damages for unlawful dismissal and breach of contract.",
+        "legal_basis": "General damages",
+        "claimant": "Miss Victoria Ikolomi",
+        "against": "SGS Scanning Nigeria Limited"
+      }
+    ],
+    "reliefs_sought": [
+      {
+        "relief_number": "1",
+        "relief": "Declaration that summary dismissal via letter dated 28th August 2012 is illegal, unlawful, null and void.",
+        "category": "Declaration"
+      },
+      {
+        "relief_number": "2",
+        "relief": "Declaration that claimant was not afforded fair hearing before summary dismissal.",
+        "category": "Declaration"
+      },
+      {
+        "relief_number": "3",
+        "relief": "Order compelling defendant to pay salary and entitlement up till date.",
+        "category": "Monetary"
+      },
+      {
+        "relief_number": "4",
+        "relief": "N200,000.00 as special damages for solicitor's professional fees.",
+        "category": "Special damages"
+      },
+      {
+        "relief_number": "5",
+        "relief": "Order compelling defendant to reinstate claimant to duty post.",
+        "category": "Reinstatement"
+      },
+      {
+        "relief_number": "6",
+        "relief": "N25 Million as general damages for unlawful dismissal and breach of contract.",
+        "category": "General damages"
+      }
+    ],
+    "issues_for_determination": [
+      {
+        "issue_number": "1",
+        "issue": "Whether the claimant is entitled to a declaration that her summary dismissal is illegal, unlawful, null and void; and if so, whether her contract was validly terminated.",
+        "raised_by": "Defendant and Claimant"
+      },
+      {
+        "issue_number": "2",
+        "issue": "Whether the claimant was afforded fair hearing prior to her summary dismissal.",
+        "raised_by": "Defendant and Claimant"
+      },
+      {
+        "issue_number": "3",
+        "issue": "Whether having regard to the contract of employment the claimant is entitled to general damages.",
+        "raised_by": "Defendant and Claimant"
+      },
+      {
+        "issue_number": "4",
+        "issue": "Whether having accepted the terms and conditions of the letter of dismissal, the defendant is discharged from all claims, liabilities or obligations.",
+        "raised_by": "Defendant and Claimant"
+      },
+      {
+        "issue_number": "5",
+        "issue": "Whether having regard to the contract of employment the claimant is entitled to special damages.",
+        "raised_by": "Claimant"
+      }
+    ],
+    "questions_of_law": [
+      "Whether breach of audit procedure equates to corruption.",
+      "Whether fair hearing requires specific allegation to be put to employee.",
+      "Whether acceptance of terms in dismissal letter discharges employer from all claims."
+    ]
+  },
+  "arguments": {
+    "claimant_arguments": [
+      "Claimant was queried for breach of audit procedure but dismissed for corruption, which she was not given opportunity to defend.",
+      "Denial of fair hearing as corruption allegation not put to her.",
+      "Dismissal based on assumption that she received recharge cards.",
+      "Entitled to general damages as dismissal letter prejudiced her job prospects.",
+      "Acceptance of terms of dismissal letter does not waive right to challenge dismissal in court.",
+      "Entitled to special damages for solicitor's fees as unchallenged."
+    ],
+    "defendant_arguments": [
+      "Claimant's employment not with statutory flavour; remedy is damages, not reinstatement.",
+      "Claimant was afforded fair hearing through query and response.",
+      "Breach of audit procedure amounts to corruption under Code of Integrity.",
+      "Claimant admitted gross misconduct.",
+      "Claimant accepted terms of dismissal letter, discharging defendant from all claims.",
+      "Claimant not entitled to general damages or solicitor's fees.",
+      "Claimant failed to prove special damages."
+    ],
+    "appellant_arguments": [],
+    "respondent_arguments": [],
+    "submissions": [],
+    "party_authorities": [
+      {
+        "party": "Defendant",
+        "authority": "Chukwumah v. Shell Petroleum [1993] 4 NWLR (Pt. 289) 512",
+        "proposition": "Ordinary master-servant employment: remedy for wrongful termination is damages, not specific performance."
+      },
+      {
+        "party": "Defendant",
+        "authority": "Imonikhe v. Unity Bank Plc [2011] 12 NWLR (Pt. 1262) 624 SC",
+        "proposition": "Query and answer satisfies fair hearing."
+      },
+      {
+        "party": "Defendant",
+        "authority": "Guinness Nigeria Plc v. Nwoke (2000) 12 NWLR (Pt. 689) 135",
+        "proposition": "It is unethical for litigant to pass solicitor's fees to opponent."
+      },
+      {
+        "party": "Claimant",
+        "authority": "Omman v. Ekpe [2001] 1 NWLR (Pt. 641) 365",
+        "proposition": "Onus on claimant to prove case on preponderance of evidence."
+      },
+      {
+        "party": "Claimant",
+        "authority": "Anazodo v. Pazmeck Inter Trade [2008] All FWLR (Pt. 432) 1201",
+        "proposition": "Special damages must be pleaded and proved; unchallenged evidence sufficient."
+      }
+    ]
+  },
+  "evidence": {
+    "exhibits": [
+      {
+        "identifier": "C1",
+        "description": "Query issued to claimant dated 9th August 2012.",
+        "party": "Claimant",
+        "relevance": "Shows allegation of breach of audit procedure."
+      },
+      {
+        "identifier": "C2",
+        "description": "Letter of summary dismissal dated 28th August 2012.",
+        "party": "Claimant",
+        "relevance": "Shows dismissal for corruption."
+      },
+      {
+        "identifier": "D1",
+        "description": "Same as C1 but acknowledged receipt by claimant on 9.8.12.",
+        "party": "Defendant",
+        "relevance": "Proof of receipt of query."
+      },
+      {
+        "identifier": "D2",
+        "description": "Claimant's response to query.",
+        "party": "Defendant",
+        "relevance": "Admission of breach and gross misconduct."
+      },
+      {
+        "identifier": "D3",
+        "description": "Same as C2, letter of dismissal.",
+        "party": "Defendant",
+        "relevance": "Dismissal for corruption."
+      },
+      {
+        "identifier": "D4",
+        "description": "Query to Charles Ozah.",
+        "party": "Defendant",
+        "relevance": "Shows similar pattern."
+      },
+      {
+        "identifier": "D5",
+        "description": "Charles Ozah's reply to query.",
+        "party": "Defendant",
+        "relevance": "Admission of wrongdoing."
+      },
+      {
+        "identifier": "D6",
+        "description": "Dismissal letter to Charles Ozah.",
+        "party": "Defendant",
+        "relevance": "Shows dismissal."
+      },
+      {
+        "identifier": "D7",
+        "description": "Query to Ekene Odagu.",
+        "party": "Defendant",
+        "relevance": "Shows similar pattern."
+      },
+      {
+        "identifier": "D8",
+        "description": "Ekene Odagu's reply to query.",
+        "party": "Defendant",
+        "relevance": "Admission of wrongdoing."
+      },
+      {
+        "identifier": "D9",
+        "description": "Dismissal letter to Ekene Odagu.",
+        "party": "Defendant",
+        "relevance": "Shows dismissal."
+      },
+      {
+        "identifier": "D10",
+        "description": "Human Resources Policy Manual.",
+        "party": "Defendant",
+        "relevance": "Contains clause 15.0(v) on summary dismissal."
+      },
+      {
+        "identifier": "D11",
+        "description": "SGS Code of Integrity.",
+        "party": "Defendant",
+        "relevance": "Defines corruption and integrity rules."
+      },
+      {
+        "identifier": "D12",
+        "description": "RAR Issuance Procedure/Channel.",
+        "party": "Defendant",
+        "relevance": "Shows procedure breached."
+      }
+    ],
+    "witnesses": [
+      {
+        "name": "Miss Victoria Ikolomi",
+        "party": "Claimant",
+        "role": "Claimant",
+        "evidence_summary": "Testified on her own behalf; admitted breach of audit procedure but denied corruption; claimed denial of fair hearing."
+      },
+      {
+        "name": "Emmanuel Idowu Adenipekun",
+        "party": "Defendant",
+        "role": "Trade Analyst",
+        "evidence_summary": "Testified for defendant; stated investigation showed claimant breached audit procedure; could not establish she received recharge cards but assumed she did."
+      }
+    ],
+    "documentary_evidence": [
+      "Exhibits C1-C6 and D1-D12 as listed."
+    ],
+    "oral_evidence": [],
+    "expert_evidence": [],
+    "evidential_findings": [
+      {
+        "evidence": "DW's testimony under cross-examination",
+        "finding": "Defendant could not establish that claimant received recharge cards or any inducement.",
+        "credibility": "Credible"
+      },
+      {
+        "evidence": "Claimant's response to query (Exhibit D2)",
+        "finding": "Claimant admitted breach of audit procedure and gross misconduct.",
+        "credibility": "Credible"
+      }
+    ]
+  },
+  "judicial_analysis": {
+    "findings_of_fact": [
+      {
+        "issue": "Whether breach of audit procedure equates to corruption",
+        "finding": "Breach of audit procedure is not the same as corruption; they are separate and distinct."
+      },
+      {
+        "issue": "Whether claimant received inducement",
+        "finding": "Defendant could not establish that claimant received any inducement; assumption was made."
+      },
+      {
+        "issue": "Whether claimant was afforded fair hearing",
+        "finding": "Claimant was queried and responded; fair hearing satisfied."
+      },
+      {
+        "issue": "Whether claimant admitted misconduct",
+        "finding": "Claimant admitted breach of audit procedure, which is disregard of rules and regulations under clause 15.0(v)."
+      }
+    ],
+    "findings_of_law": [
+      {
+        "issue": "Whether dismissal for corruption is valid when employee admitted breach of audit procedure",
+        "finding": "Dismissal for corruption not justified, but dismissal valid due to admitted breach of audit procedure amounting to serious misconduct."
+      },
+      {
+        "issue": "Whether acceptance of terms of dismissal letter discharges employer from all claims",
+        "finding": "Acceptance discharges employer from all claims, including court actions."
+      },
+      {
+        "issue": "Whether claimant entitled to general damages",
+        "finding": "Not entitled; no wrongful dismissal established; damages limited to salary in lieu of notice if wrongful."
+      },
+      {
+        "issue": "Whether claimant entitled to solicitor's fees as special damages",
+        "finding": "Not entitled; it is unethical and against public policy."
+      }
+    ],
+    "reasoning": "The court found that the claimant was queried for breach of audit procedure, which she admitted. The dismissal letter stated corruption, but the court held that breach of audit procedure is not corruption. However, the dismissal was still valid because breach of audit procedure falls under disregard of rules and regulations, which is serious misconduct under clause 15.0(v). The claimant was afforded fair hearing through the query and response. The claimant accepted the terms of the dismissal letter, discharging the defendant from all claims. The claims for damages and solicitor's fees failed.",
+    "issue_analysis": [
+      {
+        "issue_number": "1",
+        "issue": "Whether the claimant is entitled to a declaration that her summary dismissal is illegal, unlawful, null and void; and if so, whether her contract was validly terminated.",
+        "arguments": {
+          "claimant": "Dismissal for corruption when queried for breach of audit procedure is illegal and unlawful.",
+          "defendant": "Dismissal valid as claimant admitted gross misconduct and was afforded fair hearing."
+        },
+        "judicial_analysis": "The court found that corruption is not the same as breach of audit procedure. However, breach of audit procedure is disregard of rules and regulations, which is serious misconduct under clause 15.0(v). The claimant admitted this. Therefore, the dismissal is valid.",
+        "holding": "Dismissal is valid; claimant not entitled to declaration.",
+        "ratio_decidendi": "An employer can dismiss an employee for serious misconduct, including disregard of rules and regulations, even if the specific label used in the dismissal letter is inaccurate, provided the employee admitted conduct constituting serious misconduct.",
+        "result": "Relief 1 refused."
+      },
+      {
+        "issue_number": "2",
+        "issue": "Whether the claimant was afforded fair hearing prior to her summary dismissal.",
+        "arguments": {
+          "claimant": "Not afforded fair hearing as corruption allegation not put to her.",
+          "defendant": "Query and response satisfied fair hearing."
+        },
+        "judicial_analysis": "The claimant was queried and responded in writing. This satisfies fair hearing as per Imonikhe v. Unity Bank Plc.",
+        "holding": "Fair hearing was accorded.",
+        "ratio_decidendi": "A query given and answered satisfies the requirement of fair hearing in employment disciplinary proceedings.",
+        "result": "Relief 2 refused."
+      },
+      {
+        "issue_number": "3",
+        "issue": "Whether having regard to the contract of employment the claimant is entitled to general damages.",
+        "arguments": {
+          "claimant": "Entitled to general damages as dismissal letter prejudiced job prospects.",
+          "defendant": "Not entitled; no wrongful dismissal; damages limited to salary in lieu of notice."
+        },
+        "judicial_analysis": "The dismissal was valid, so no wrongful dismissal. Even if wrongful, general damages not available in ordinary master-servant employment; only salary in lieu of notice.",
+        "holding": "Not entitled to general damages.",
+        "ratio_decidendi": "In ordinary master-servant employment, damages for wrongful dismissal are limited to salary in lieu of notice; general damages for injured feelings or loss of job prospects are not recoverable.",
+        "result": "Relief 6 refused."
+      },
+      {
+        "issue_number": "4",
+        "issue": "Whether having accepted the terms and conditions of the letter of dismissal, the defendant is discharged from all claims, liabilities or obligations.",
+        "arguments": {
+          "claimant": "Acceptance does not waive right to challenge dismissal in court.",
+          "defendant": "Acceptance discharges defendant from all claims, including court actions."
+        },
+        "judicial_analysis": "The terms of the dismissal letter are wide enough to include court actions. The claimant accepted the terms, discharging the defendant from all claims.",
+        "holding": "Defendant discharged from all claims.",
+        "ratio_decidendi": "A valid agreement discharging an employer from all claims arising from employment bars subsequent court action by the employee.",
+        "result": "All claims barred."
+      },
+      {
+        "issue_number": "5",
+        "issue": "Whether having regard to the contract of employment the claimant is entitled to special damages.",
+        "arguments": {
+          "claimant": "Entitled to special damages for solicitor's fees as unchallenged.",
+          "defendant": "Not entitled; it is unethical and against public policy."
+        },
+        "judicial_analysis": "Claim for solicitor's fees as special damages fails as it is unethical and against public policy.",
+        "holding": "Not entitled to special damages.",
+        "ratio_decidendi": "A litigant cannot pass on the burden of solicitor's fees to the opponent as special damages.",
+        "result": "Relief 4 refused."
+      }
+    ],
+    "holdings": [
+      {
+        "issue_number": "1",
+        "issue": "Validity of dismissal",
+        "holding": "Dismissal valid.",
+        "result": "Relief 1 refused."
+      },
+      {
+        "issue_number": "2",
+        "issue": "Fair hearing",
+        "holding": "Fair hearing accorded.",
+        "result": "Relief 2 refused."
+      },
+      {
+        "issue_number": "3",
+        "issue": "General damages",
+        "holding": "Not entitled.",
+        "result": "Relief 6 refused."
+      },
+      {
+        "issue_number": "4",
+        "issue": "Discharge from claims",
+        "holding": "Defendant discharged.",
+        "result": "All claims barred."
+      },
+      {
+        "issue_number": "5",
+        "issue": "Special damages",
+        "holding": "Not entitled.",
+        "result": "Relief 4 refused."
+      }
+    ],
+    "ratio_decidendi": [
+      {
+        "issue": "Dismissal for misconduct",
+        "principle": "An employer can dismiss an employee for serious misconduct, including disregard of rules and regulations, even if the specific label used in the dismissal letter is inaccurate, provided the employee admitted conduct constituting serious misconduct.",
+        "application": "Claimant admitted breach of audit procedure, which is disregard of rules and regulations under clause 15.0(v).",
+        "holding": "Dismissal valid."
+      },
+      {
+        "issue": "Fair hearing",
+        "principle": "A query given and answered satisfies the requirement of fair hearing in employment disciplinary proceedings.",
+        "application": "Claimant was queried and responded in writing.",
+        "holding": "Fair hearing accorded."
+      },
+      {
+        "issue": "Damages for wrongful dismissal",
+        "principle": "In ordinary master-servant employment, damages for wrongful dismissal are limited to salary in lieu of notice; general damages for injured feelings or loss of job prospects are not recoverable.",
+        "application": "Claimant's employment was ordinary master-servant; no wrongful dismissal established.",
+        "holding": "General damages refused."
+      },
+      {
+        "issue": "Discharge from claims",
+        "principle": "A valid agreement discharging an employer from all claims arising from employment bars subsequent court action by the employee.",
+        "application": "Claimant accepted terms of dismissal letter discharging defendant from all claims.",
+        "holding": "All claims barred."
+      },
+      {
+        "issue": "Solicitor's fees",
+        "principle": "A litigant cannot pass on the burden of solicitor's fees to the opponent as special damages.",
+        "application": "Claimant claimed N200,000 as solicitor's fees.",
+        "holding": "Special damages refused."
+      }
+    ],
+    "obiter_dicta": [],
+    "legal_principles": [
+      {
+        "principle": "Fair hearing is opportunity; query and answer satisfies it.",
+        "context": "Employment disciplinary proceedings.",
+        "source": "Imonikhe v. Unity Bank Plc [2011] 12 NWLR (Pt. 1262) 624 SC"
+      },
+      {
+        "principle": "Employer can dismiss for serious misconduct including disregard of rules and regulations.",
+        "context": "Summary dismissal.",
+        "source": "Clause 15.0(v) of Human Resources Policy Manual"
+      },
+      {
+        "principle": "Damages for wrongful dismissal limited to salary in lieu of notice in ordinary master-servant employment.",
+        "context": "Wrongful termination.",
+        "source": "Chukwumah v. Shell Petroleum [1993] 4 NWLR (Pt. 289) 512"
+      },
+      {
+        "principle": "Solicitor's fees cannot be claimed as special damages.",
+        "context": "Costs.",
+        "source": "Guinness Nigeria Plc v. Nwoke (2000) 12 NWLR (Pt. 689) 135"
+      }
+    ],
+    "statutory_interpretation": [],
+    "constitutional_analysis": [
+      {
+        "provision": "Section 36 of the 1999 Constitution",
+        "interpretation": "Fair hearing requires opportunity to be heard.",
+        "application": "Claimant was queried and responded, satisfying fair hearing."
+      }
+    ],
+    "precedent_analysis": [
+      {
+        "authority": "Imonikhe v. Unity Bank Plc",
+        "citation": "[2011] 12 NWLR (Pt. 1262) 624 SC",
+        "treatment": "Followed",
+        "proposition": "Query and answer satisfies fair hearing.",
+        "reasoning": "Applied to facts."
+      },
+      {
+        "authority": "Chukwumah v. Shell Petroleum",
+        "citation": "[1993] 4 NWLR (Pt. 289) 512",
+        "treatment": "Followed",
+        "proposition": "Damages for wrongful dismissal limited to salary in lieu of notice.",
+        "reasoning": "Applied to facts."
+      },
+      {
+        "authority": "Guinness Nigeria Plc v. Nwoke",
+        "citation": "(2000) 12 NWLR (Pt. 689) 135",
+        "treatment": "Followed",
+        "proposition": "Solicitor's fees not recoverable as special damages.",
+        "reasoning": "Applied to facts."
+      }
+    ],
+    "evidential_findings": [],
+    "judicial_observations": [
+      "The court noted the repetitive numbering in defendant's written address and missing paragraphs in claimant's written address.",
+      "The court observed that the claimant's counsel's argument on issue 4 was poorly expressed."
+    ]
+  },
+  "authorities": {
+    "cases_cited": [
+      {
+        "case_name": "Chukwumah v. Shell Petroleum",
+        "citation": "[1993] 4 NWLR (Pt. 289) 512",
+        "court": "Supreme Court",
+        "year": 1993,
+        "proposition": "Ordinary master-servant employment: remedy for wrongful termination is damages, not specific performance.",
+        "treatment": "Followed",
+        "cited_by": "Defendant",
+        "importance": "High"
+      },
+      {
+        "case_name": "Co-operative Development Bank v. Essien",
+        "citation": "[2001] 4 NWLR (Pt. 704) 479",
+        "court": "Supreme Court",
+        "year": 2001,
+        "proposition": "Damages for wrongful termination.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "FCDA v. Sule",
+        "citation": "[1994] 3 NWLR (Pt. 332) 257",
+        "court": "Supreme Court",
+        "year": 1994,
+        "proposition": "Employment with statutory flavour.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Nwosu v. Imo State Environmental and Sanitation Authority",
+        "citation": "[1990] 2 NWLR (Pt. 135) 688",
+        "court": "Supreme Court",
+        "year": 1990,
+        "proposition": "Employment with statutory flavour.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Olarewaju v. Afribank (Nig.) Plc",
+        "citation": "[2001] 13 NWLR (Pt. 731) 691",
+        "court": "Supreme Court",
+        "year": 2001,
+        "proposition": "Employment with statutory flavour.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Buba v. NCATC",
+        "citation": "[1991] 5 NWLR (Pt. 192) 388",
+        "court": "Supreme Court",
+        "year": 1991,
+        "proposition": "Incorporation of staff manuals into contract of employment.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Efet v. INEC",
+        "citation": "[2011] 7 NWLR (Pt. 1247) 447",
+        "court": "Supreme Court",
+        "year": 2011,
+        "proposition": "Incorporation of staff manuals into contract of employment.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Imonike v. Unity Bank Plc",
+        "citation": "[2011] 12 NWLR (Pt. 1262) 649",
+        "court": "Supreme Court",
+        "year": 2011,
+        "proposition": "Employer's right to discipline erring employee.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Azenabor v. Bayero University, Kano",
+        "citation": "[2009] 17 NWLR (Pt. 1169) 96",
+        "court": "Supreme Court",
+        "year": 2009,
+        "proposition": "Employer can terminate for good or bad reason or no reason.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Fakuade v. OAUTH",
+        "citation": "[1993] 5 NWLR (Pt. 291) 47",
+        "court": "Supreme Court",
+        "year": 1993,
+        "proposition": "Employer can terminate for good or bad reason or no reason.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Nitel Plc v. Akwa",
+        "citation": "[2006] 2 NWLR (Pt. 964) 391",
+        "court": "Court of Appeal",
+        "year": 2006,
+        "proposition": "Employer can terminate for good or bad reason or no reason.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Commissioner for Works, Benue State v. Devcon Ltd",
+        "citation": "[1988] 3 NWLR (Pt. 83) 407",
+        "court": "Supreme Court",
+        "year": 1988,
+        "proposition": "Employer can terminate for good or bad reason or no reason.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Yusuf v. Union Bank of Nigeria Ltd",
+        "citation": "[1996] 6 NWLR (Pt. 457) 632",
+        "court": "Supreme Court",
+        "year": 1996,
+        "proposition": "Grounds for summary dismissal include gross misconduct.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Inakoju v. Adeleke",
+        "citation": "[2007] 4 NWLR (Pt. 1025) 423",
+        "court": "Supreme Court",
+        "year": 2007,
+        "proposition": "Fair hearing principles.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Maikyo v. Itodo",
+        "citation": "[2007] 7 NWLR (Pt. 1034) 443",
+        "court": "Supreme Court",
+        "year": 2007,
+        "proposition": "Burden of proving breach of fair hearing.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Imonikhe v. Unity Bank Plc",
+        "citation": "[2011] 12 NWLR (Pt. 1262) 624",
+        "court": "Supreme Court",
+        "year": 2011,
+        "proposition": "Query and answer satisfies fair hearing.",
+        "treatment": "Followed",
+        "cited_by": "Defendant",
+        "importance": "High"
+      },
+      {
+        "case_name": "Guinness Nigeria Plc v. Nwoke",
+        "citation": "(2000) 12 NWLR (Pt. 689) 135",
+        "court": "Court of Appeal",
+        "year": 2000,
+        "proposition": "Solicitor's fees not recoverable as special damages.",
+        "treatment": "Followed",
+        "cited_by": "Defendant",
+        "importance": "High"
+      },
+      {
+        "case_name": "SPDC Nig. v. Okonedo",
+        "citation": "[2008] 9 NWLR (Pt. 1091) 85",
+        "court": "Supreme Court",
+        "year": 2008,
+        "proposition": "Affirmed Guinness v. Nwoke.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Ifeata v. SPDC (Nig) Ltd",
+        "citation": "[2006] 8 NWLR (Pt. 983) 585",
+        "court": "Supreme Court",
+        "year": 2006,
+        "proposition": "Measure of damages for wrongful dismissal.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Omman v. Ekpe",
+        "citation": "[2001] 1 NWLR (Pt. 641) 365",
+        "court": "Supreme Court",
+        "year": 2001,
+        "proposition": "Onus on claimant to prove case on preponderance of evidence.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Godwin Iweha v. Ebice Company Limited",
+        "citation": "[2004] 11 CLRN 135",
+        "court": "Supreme Court",
+        "year": 2004,
+        "proposition": "Employer must justify dismissal when challenged.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Industrial Cartons Ltd v. National Union of Paper and Paper Converters Workers",
+        "citation": "[1980 – 1981] NICLR 54",
+        "court": "National Industrial Court",
+        "year": 1981,
+        "proposition": "New path for compensation for wrongful termination.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Michellin (Nigeria) Ltd v. Footwear, Leather and Rubber Products Senior Staff Association",
+        "citation": "[1980 – 1981] NICLR 153",
+        "court": "National Industrial Court",
+        "year": 1981,
+        "proposition": "New path for compensation for wrongful termination.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Musa v. Yerima",
+        "citation": "[1997] 7 NWLR (Pt. 511) 27",
+        "court": "Supreme Court",
+        "year": 1997,
+        "proposition": "Uncontroverted averment accepted as truth.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Anazodo v. Pazmeck Inter Trade",
+        "citation": "[2008] All FWLR (Pt. 432) 1201",
+        "court": "Supreme Court",
+        "year": 2008,
+        "proposition": "Special damages must be pleaded and proved.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Uman v. Owoeye",
+        "citation": "[2003] 9 NWLR (Pt. 825) 221",
+        "court": "Supreme Court",
+        "year": 2003,
+        "proposition": "Unchallenged evidence sufficient for special damages.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Obasuyi v. Business Ventures Ltd",
+        "citation": "[2000] 5 NWLR (Pt. 658) 668",
+        "court": "Supreme Court",
+        "year": 2000,
+        "proposition": "Special damages must be particularized and proved.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Combined Trade Ltd v. All States Trust Bank Ltd",
+        "citation": "[1998] 12 NWLR (Pt. 576) 56",
+        "court": "Supreme Court",
+        "year": 1998,
+        "proposition": "Cause of action determines evidence.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Daodu v. United Bank for Africa Plc",
+        "citation": "[2004] 9 NWLR (Pt. 878) 276",
+        "court": "Supreme Court",
+        "year": 2004,
+        "proposition": "Employer must establish reason for termination is within contract.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Gateway Bank of Nigeria Plc v. Abosede",
+        "citation": "[2002] 1 WRN 135",
+        "court": "Supreme Court",
+        "year": 2002,
+        "proposition": "Dismissal not wrongful unless in breach of contract.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Shell Petroleum v. Lawson Jack",
+        "citation": "[1998] 4 NWLR (Pt. 545) 249",
+        "court": "Supreme Court",
+        "year": 1998,
+        "proposition": "Damages for wrongful dismissal do not include injured feelings.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "ACB Plc v. Nbisike",
+        "citation": "[1995] 8 NWLR (Pt. 416) 725",
+        "court": "Court of Appeal",
+        "year": 1995,
+        "proposition": "Employer need not allege specific misconduct at dismissal.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "High"
+      },
+      {
+        "case_name": "Ajayi v. Texaco Nig. Ltd",
+        "citation": "[1987] 3 NWLR (Pt. 62) 577",
+        "court": "Supreme Court",
+        "year": 1987,
+        "proposition": "No fixed rule on degree of misconduct for dismissal.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "CCB (Nig.) Ltd v. Nwankwo",
+        "citation": "[1993] 4 NWLR (Pt. 286) 159",
+        "court": "Court of Appeal",
+        "year": 1993,
+        "proposition": "Misconduct justifying dismissal.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Damisa v. UBA Plc",
+        "citation": "[2005] 9 NWLR (Pt. 931) 526",
+        "court": "Court of Appeal",
+        "year": 2005,
+        "proposition": "Gross negligence can justify dismissal.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "Ado v. Comm., Works, Benue State",
+        "citation": "[2007] 15 NWLR (Pt. 1058) 429",
+        "court": "Court of Appeal",
+        "year": 2007,
+        "proposition": "Employee must mitigate damages.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "Medium"
+      },
+      {
+        "case_name": "BCC Plc v. Ager",
+        "citation": "[2010] 9 NWLR (Pt. 1199) 292",
+        "court": "Supreme Court",
+        "year": 2010,
+        "proposition": "Distinction between wrongful dismissal and null dismissal.",
+        "treatment": "Cited",
+        "cited_by": "Court",
+        "importance": "High"
+      }
+    ],
+    "statutes": [
+      {
+        "name": "National Industrial Court (NIC) Rules 2007",
+        "provision": "Order 19 Rule 13",
+        "proposition": "Written addresses after trial."
+      },
+      {
+        "name": "National Industrial Court (NIC) Rules 2007",
+        "provision": "Order 20 Rule 2",
+        "proposition": "Numbering of paragraphs in written addresses."
+      }
+    ],
+    "constitutional_provisions": [
+      {
+        "instrument": "Constitution of the Federal Republic of Nigeria 1999 (as amended)",
+        "article_or_section": "Section 36",
+        "proposition": "Right to fair hearing."
+      }
+    ],
+    "regulations": [],
+    "rules": [],
+    "international_instruments": [],
+    "other_authorities": []
+  },
+  "precedent_relationships": [
+    {
+      "authority": "Imonikhe v. Unity Bank Plc",
+      "citation": "[2011] 12 NWLR (Pt. 1262) 624 SC",
+      "relationship": "Followed",
+      "proposition": "Query and answer satisfies fair hearing.",
+      "context": "Fair hearing in employment disciplinary proceedings."
+    },
+    {
+      "authority": "Chukwumah v. Shell Petroleum",
+      "citation": "[1993] 4 NWLR (Pt. 289) 512",
+      "relationship": "Followed",
+      "proposition": "Damages for wrongful dismissal limited to salary in lieu of notice.",
+      "context": "Measure of damages."
+    },
+    {
+      "authority": "Guinness Nigeria Plc v. Nwoke",
+      "citation": "(2000) 12 NWLR (Pt. 689) 135",
+      "relationship": "Followed",
+      "proposition": "Solicitor's fees not recoverable as special damages.",
+      "context": "Special damages."
+    }
+  ],
+  "outcome": {
+    "decision": "Claimant's claims dismissed.",
+    "overall_result": "Claims dismissed; no order as to cost.",
+    "orders": [
+      "Claims dismissed.",
+      "No order as to cost."
+    ],
+    "reliefs": [
+      {
+        "relief_number": "1",
+        "relief": "Declaration that summary dismissal is illegal, unlawful, null and void.",
+        "result": "Refused",
+        "reason": "Dismissal valid due to admitted serious misconduct."
+      },
+      {
+        "relief_number": "2",
+        "relief": "Declaration that claimant was not afforded fair hearing.",
+        "result": "Refused",
+        "reason": "Fair hearing accorded through query and response."
+      },
+      {
+        "relief_number": "3",
+        "relief": "Order compelling defendant to pay salary and entitlement up till date.",
+        "result": "Refused",
+        "reason": "Dismissal valid; no entitlement."
+      },
+      {
+        "relief_number": "4",
+        "relief": "N200,000.00 as special damages for solicitor's professional fees.",
+        "result": "Refused",
+        "reason": "Unethical and against public policy."
+      },
+      {
+        "relief_number": "5",
+        "relief": "Order compelling defendant to reinstate claimant.",
+        "result": "Refused",
+        "reason": "Dismissal valid; no reinstatement."
+      },
+      {
+        "relief_number": "6",
+        "relief": "N25 Million as general damages for unlawful dismissal and breach of contract.",
+        "result": "Refused",
+        "reason": "No wrongful dismissal; general damages not available."
+      }
+    ],
+    "reliefs_granted": [],
+    "reliefs_refused": [
+      "Relief 1",
+      "Relief 2",
+      "Relief 3",
+      "Relief 4",
+      "Relief 5",
+      "Relief 6"
+    ],
+    "reliefs_struck_out": [],
+    "reliefs_dismissed": [
+      "All claims dismissed."
+    ],
+    "damages": [],
+    "compensation": [],
+    "costs": {
+      "awarded": false,
+      "amount": "",
+      "recipient": "",
+      "details": "No order as to cost."
+    },
+    "interest": {
+      "awarded": false,
+      "rate": "",
+      "start_date": "",
+      "end_date": "",
+      "basis": ""
+    },
+    "compliance_deadline": "",
+    "declarations": [],
+    "injunctions": [],
+    "specific_orders": [],
+    "final_disposition": "Claims dismissed."
+  },
+  "legal_knowledge": {
+    "holdings": [
+      "Breach of audit procedure is not the same as corruption.",
+      "Dismissal valid for serious misconduct (disregard of rules and regulations).",
+      "Query and answer satisfies fair hearing.",
+      "Acceptance of terms of dismissal letter discharges employer from all claims.",
+      "Solicitor's fees not recoverable as special damages.",
+      "General damages not available in ordinary master-servant employment."
+    ],
+    "legal_principles": [
+      "Fair hearing is opportunity; query and answer satisfies it.",
+      "Employer can dismiss for serious misconduct including disregard of rules and regulations.",
+      "Damages for wrongful dismissal limited to salary in lieu of notice in ordinary master-servant employment.",
+      "Solicitor's fees cannot be claimed as special damages.",
+      "A valid agreement discharging an employer from all claims bars subsequent court action."
+    ],
+    "ratio_decidendi": [
+      "An employer can dismiss an employee for serious misconduct, including disregard of rules and regulations, even if the specific label used in the dismissal letter is inaccurate, provided the employee admitted conduct constituting serious misconduct.",
+      "A query given and answered satisfies the requirement of fair hearing in employment disciplinary proceedings.",
+      "In ordinary master-servant employment, damages for wrongful dismissal are limited to salary in lieu of notice; general damages for injured feelings or loss of job prospects are not recoverable.",
+      "A valid agreement discharging an employer from all claims arising from employment bars subsequent court action by the employee.",
+      "A litigant cannot pass on the burden of solicitor's fees to the opponent as special damages."
+    ],
+    "obiter_dicta": [],
+    "causes_of_action": [
+      "Unlawful summary dismissal",
+      "Breach of contract of employment",
+      "Denial of fair hearing"
+    ],
+    "legal_issues": [
+      "Whether breach of audit procedure equates to corruption.",
+      "Whether fair hearing requires specific allegation to be put to employee.",
+      "Whether acceptance of terms in dismissal letter discharges employer from all claims.",
+      "Whether general damages available for wrongful dismissal.",
+      "Whether solicitor's fees recoverable as special damages."
+    ],
+    "practice_areas": [
+      "Employment Law",
+      "Labour Law",
+      "Contract Law"
+    ],
+    "sub_practice_areas": [
+      "Wrongful Dismissal",
+      "Summary Dismissal",
+      "Fair Hearing",
+      "Damages"
+    ],
+    "legal_concepts": [
+      "Summary dismissal",
+      "Fair hearing",
+      "Gross misconduct",
+      "Master-servant employment",
+      "Damages",
+      "Special damages",
+      "General damages",
+      "Discharge from claims"
+    ],
+    "doctrines": [
+      "Audi alteram partem",
+      "Nemo judex in causa sua"
+    ],
+    "remedies": [
+      "Damages",
+      "Reinstatement",
+      "Declaration"
+    ],
+    "employment_law_topics": [
+      "Summary dismissal",
+      "Fair hearing",
+      "Misconduct",
+      "Damages for wrongful dismissal",
+      "Solicitor's fees"
+    ],
+    "jurisdictional_issues": []
+  },
+  "retrieval": {
+    "keywords": [
+      "summary dismissal",
+      "breach of audit procedure",
+      "corruption",
+      "fair hearing",
+      "query",
+      "gross misconduct",
+      "damages",
+      "solicitor's fees",
+      "discharge from claims",
+      "National Industrial Court"
+    ],
+    "searchable_concepts": [
+      "Unlawful dismissal",
+      "Fair hearing in employment",
+      "Summary dismissal for misconduct",
+      "Damages for wrongful termination",
+      "Special damages for solicitor's fees",
+      "Discharge from liability"
+    ],
+    "semantic_topics": [
+      "Employment law",
+      "Labour law",
+      "Wrongful dismissal",
+      "Fair hearing",
+      "Contract of employment"
+    ],
+    "legal_entities": [
+      "Miss Victoria Ikolomi",
+      "SGS Scanning Nigeria Limited",
+      "Hon. Justice B. B. Kanyip",
+      "National Industrial Court of Nigeria"
+    ],
+    "statutes_referenced": [
+      "National Industrial Court (NIC) Rules 2007",
+      "Constitution of the Federal Republic of Nigeria 1999 (as amended)"
+    ],
+    "cases_referenced": [
+      "Chukwumah v. Shell Petroleum",
+      "Imonikhe v. Unity Bank Plc",
+      "Guinness Nigeria Plc v. Nwoke",
+      "Omman v. Ekpe",
+      "Anazodo v. Pazmeck Inter Trade",
+      "BCC Plc v. Ager"
+    ],
+    "citation_phrases": [
+      "[1993] 4 NWLR (Pt. 289) 512",
+      "[2011] 12 NWLR (Pt. 1262) 624 SC",
+      "(2000) 12 NWLR (Pt. 689) 135",
+      "[2001] 1 NWLR (Pt. 641) 365",
+      "[2008] All FWLR (Pt. 432) 1201",
+      "[2010] 9 NWLR (Pt. 1199) 292"
+    ],
+    "fact_patterns": [
+      "Employee queried for breach of audit procedure but dismissed for corruption",
+      "Employee admitted breach of procedure",
+      "Employee accepted terms of dismissal letter",
+      "Employer could not establish employee received inducement"
+    ],
+    "relief_types": [
+      "Declaration",
+      "Monetary",
+      "Reinstatement",
+      "Special damages",
+      "General damages"
+    ],
+    "decision_types": [
+      "Dismissal of claims",
+      "No order as to cost"
+    ]
+  },
+  "graph_rag": {
+    "entities": [
+      {
+        "name": "Miss Victoria Ikolomi",
+        "type": "Person"
+      },
+      {
+        "name": "SGS Scanning Nigeria Limited",
+        "type": "Organization"
+      },
+      {
+        "name": "National Industrial Court of Nigeria",
+        "type": "Court"
+      },
+      {
+        "name": "Hon. Justice B. B. Kanyip",
+        "type": "Judge"
+      },
+      {
+        "name": "Charles Ozah",
+        "type": "Person"
+      },
+      {
+        "name": "Ekene Odagu",
+        "type": "Person"
+      },
+      {
+        "name": "Emmanuel Idowu Adenipekun",
+        "type": "Person"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Miss Victoria Ikolomi",
+        "relationship": "employed by",
+        "target": "SGS Scanning Nigeria Limited",
+        "evidence": "Claimant worked for defendant."
+      },
+      {
+        "source": "Miss Victoria Ikolomi",
+        "relationship": "dismissed by",
+        "target": "SGS Scanning Nigeria Limited",
+        "evidence": "Summary dismissal letter dated 28th August 2012."
+      },
+      {
+        "source": "Miss Victoria Ikolomi",
+        "relationship": "queried by",
+        "target": "SGS Scanning Nigeria Limited",
+        "evidence": "Query dated 9th August 2012."
+      },
+      {
+        "source": "Charles Ozah",
+        "relationship": "colleague of",
+        "target": "Miss Victoria Ikolomi",
+        "evidence": "Both investigated for breach."
+      },
+      {
+        "source": "Ekene Odagu",
+        "relationship": "colleague of",
+        "target": "Miss Victoria Ikolomi",
+        "evidence": "Both investigated for breach."
+      }
+    ],
+    "case_relationships": [
+      {
+        "case": "Imonikhe v. Unity Bank Plc",
+        "citation": "[2011] 12 NWLR (Pt. 1262) 624 SC",
+        "relationship": "Followed",
+        "context": "Fair hearing."
+      },
+      {
+        "case": "Chukwumah v. Shell Petroleum",
+        "citation": "[1993] 4 NWLR (Pt. 289) 512",
+        "relationship": "Followed",
+        "context": "Damages for wrongful dismissal."
+      },
+      {
+        "case": "Guinness Nigeria Plc v. Nwoke",
+        "citation": "(2000) 12 NWLR (Pt. 689) 135",
+        "relationship": "Followed",
+        "context": "Solicitor's fees."
+      }
+    ],
+    "statute_relationships": [
+      {
+        "statute": "Constitution of the Federal Republic of Nigeria 1999 (as amended)",
+        "provision": "Section 36",
+        "relationship": "Interpreted",
+        "context": "Fair hearing."
+      },
+      {
+        "statute": "National Industrial Court (NIC) Rules 2007",
+        "provision": "Order 19 Rule 13",
+        "relationship": "Applied",
+        "context": "Written addresses."
+      }
+    ],
+    "legal_principle_relationships": [
+      {
+        "principle": "Fair hearing is opportunity; query and answer satisfies it.",
+        "case": "Imonikhe v. Unity Bank Plc",
+        "relationship": "Established by"
+      },
+      {
+        "principle": "Damages for wrongful dismissal limited to salary in lieu of notice.",
+        "case": "Chukwumah v. Shell Petroleum",
+        "relationship": "Established by"
+      },
+      {
+        "principle": "Solicitor's fees not recoverable as special damages.",
+        "case": "Guinness Nigeria Plc v. Nwoke",
+        "relationship": "Established by"
+      }
+    ]
+  },
+  "citation_network": {
+    "authorities_cited": [
+      "Chukwumah v. Shell Petroleum [1993] 4 NWLR (Pt. 289) 512",
+      "Imonikhe v. Unity Bank Plc [2011] 12 NWLR (Pt. 1262) 624 SC",
+      "Guinness Nigeria Plc v. Nwoke (2000) 12 NWLR (Pt. 689) 135",
+      "Omman v. Ekpe [2001] 1 NWLR (Pt. 641) 365",
+      "Anazodo v. Pazmeck Inter Trade [2008] All FWLR (Pt. 432) 1201",
+      "BCC Plc v. Ager [2010] 9 NWLR (Pt. 1199) 292"
+    ],
+    "authorities_followed": [
+      "Imonikhe v. Unity Bank Plc [2011] 12 NWLR (Pt. 1262) 624 SC",
+      "Chukwumah v. Shell Petroleum [1993] 4 NWLR (Pt. 289) 512",
+      "Guinness Nigeria Plc v. Nwoke (2000) 12 NWLR (Pt. 689) 135"
+    ],
+    "authorities_distinguished": [],
+    "authorities_rejected": [],
+    "authorities_overruled": [],
+    "authorities_relied_upon": [
+      "Imonikhe v. Unity Bank Plc [2011] 12 NWLR (Pt. 1262) 624 SC",
+      "Chukwumah v. Shell Petroleum [1993] 4 NWLR (Pt. 289) 512",
+      "Guinness Nigeria Plc v. Nwoke (2000) 12 NWLR (Pt. 689) 135",
+      "ACB Plc v. Nbisike [1995] 8 NWLR (Pt. 416) 725",
+      "BCC Plc v. Ager [2010] 9 NWLR (Pt. 1199) 292"
+    ]
+  },
+  "metadata_quality": {
+    "extraction_confidence": 0.95,
+    "fields_missing": [],
+    "fields_uncertain": [],
+    "requires_review": false,
+    "review_reasons": [],
+    "source_completeness": "complete",
+    "ai_extraction_model": "deepseek-chat",
+    "prompt_version": "nicn-v3.2-single-call",
+    "extracted_at": "2026-10-02T09:54:57.430205+00:00"
+  }
+}

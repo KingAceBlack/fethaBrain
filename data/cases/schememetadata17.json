@@ -1,0 +1,874 @@
+{
+  "schema_version": "nicn-ai-metadata-v3.2",
+  "source": {
+    "court": "National Industrial Court of Nigeria",
+    "jurisdiction": "Nigeria",
+    "source_url": "",
+    "source_id": "449",
+    "document_id": "449",
+    "file_name": "full_text.txt",
+    "downloaded_at": "",
+    "document_type": "judgment",
+    "language": "English",
+    "pages": null,
+    "word_count": 1250,
+    "extraction_status": "complete",
+    "completeness_confidence": "HIGH"
+  },
+  "case": {
+    "title": "Julian Eboh v. Metro Group Limited",
+    "case_number": "NICN/CA/668/2013",
+    "court": "National Industrial Court of Nigeria",
+    "judicial_division": "Lagos Judicial Division",
+    "judge": "Hon. Justice O.A. Obaseki-Osaghae",
+    "judgment_date": "2015-02-10",
+    "year": 2015,
+    "claimants": [
+      "Julian Eboh"
+    ],
+    "defendants": [
+      "Metro Group Limited"
+    ],
+    "appellants": [],
+    "respondents": [],
+    "applicants": [
+      "Metro Group Limited"
+    ],
+    "interested_parties": [],
+    "counsel": [
+      {
+        "name": "John Nwosu",
+        "represents": "Claimant/Respondent"
+      },
+      {
+        "name": "C. Kakson",
+        "represents": "Defendant/Applicant"
+      }
+    ]
+  },
+  "procedural_history": {
+    "originating_proceedings": "Motion on notice filed by the defendant/applicant dated 31st October 2014 seeking an order striking out the suit for abuse of court process.",
+    "procedural_posture": "Ruling on a motion on notice seeking to strike out the suit for abuse of court process.",
+    "previous_decisions": [],
+    "interlocutory_applications": [
+      "Motion on notice dated 31st October 2014 seeking to strike out the suit for abuse of court process."
+    ],
+    "appeals": [],
+    "orders_before_trial": [],
+    "procedural_events": [
+      "Suit No. ID/1098/2008 was transferred from the Lagos State High Court to the National Industrial Court and listed as Suit No. NICN/LA/637/2013.",
+      "Claimant filed a notice of discontinuance in Suit No. NICN/LA/637/2013 on 13th June 2014."
+    ]
+  },
+  "facts": {
+    "material_facts": [
+      "The claimant was an employee of the defendant and sustained personal injury in the course of his employment.",
+      "The defendant filed a motion to strike out the suit as an abuse of court process, alleging that Suit No. NICN/LA/637/2013 pending before Court 5 involved the same parties and subject matter.",
+      "The claimant discontinued Suit No. NICN/LA/637/2013 by a notice of discontinuance filed on 13th June 2014.",
+      "The defendant did not exhibit the originating processes in Suit No. ID/1098/2008 (now NICN/LA/637/2013)."
+    ],
+    "chronology": [
+      {
+        "date": "2008",
+        "event": "Suit No. ID/1098/2008 filed at the Lagos State High Court."
+      },
+      {
+        "date": "2013",
+        "event": "Suit No. NICN/CA/668/2013 filed at the National Industrial Court."
+      },
+      {
+        "date": "2014-06-13",
+        "event": "Claimant filed a notice of discontinuance in Suit No. NICN/LA/637/2013."
+      },
+      {
+        "date": "2014-10-31",
+        "event": "Defendant filed a motion on notice to strike out the suit for abuse of court process."
+      },
+      {
+        "date": "2014-11-24",
+        "event": "Claimant filed a 17-paragraph counter-affidavit and written address."
+      },
+      {
+        "date": "2015-02-10",
+        "event": "Court delivered its ruling dismissing the motion with costs."
+      }
+    ],
+    "admitted_facts": [
+      "The claimant filed a notice of discontinuance in Suit No. NICN/LA/637/2013 on 13th June 2014."
+    ],
+    "disputed_facts": [
+      "Whether Suit No. NICN/CA/668/2013 constitutes an abuse of court process due to the pendency of Suit No. NICN/LA/637/2013."
+    ],
+    "background_facts": [
+      "The claimant sustained personal injury in the course of his employment with the defendant.",
+      "The claimant's suit involves claims of personal injury, negligence, and want of duty of care."
+    ],
+    "employment_relationship": "The claimant was an employee of the defendant.",
+    "contractual_relationship": "Employment relationship between the claimant and the defendant.",
+    "documentary_evidence": [
+      "Notice of discontinuance filed in Suit No. NICN/LA/637/2013 on 13th June 2014 (Exhibits JE1-3)."
+    ],
+    "witness_evidence": []
+  },
+  "claims_and_reliefs": {
+    "causes_of_action": [
+      "Personal injury",
+      "Negligence",
+      "Breach of duty of care"
+    ],
+    "claims": [
+      {
+        "claim": "Claim for personal injury, negligence, and want of duty of care arising from an injury sustained in the course of employment.",
+        "legal_basis": "Common law negligence and duty of care.",
+        "claimant": "Julian Eboh",
+        "against": "Metro Group Limited"
+      }
+    ],
+    "reliefs_sought": [],
+    "issues_for_determination": [
+      {
+        "issue_number": "1",
+        "issue": "Whether this suit as presently constituted is an abuse of the process of this Honourable Court.",
+        "raised_by": "Defendant/Applicant"
+      },
+      {
+        "issue_number": "1",
+        "issue": "Whether the High Court of Lagos State has the jurisdiction to transfer a case to this court.",
+        "raised_by": "Claimant/Respondent"
+      },
+      {
+        "issue_number": "2",
+        "issue": "Whether this suit as it is constituted is an abuse of court process.",
+        "raised_by": "Claimant/Respondent"
+      }
+    ],
+    "questions_of_law": [
+      "Whether the National Industrial Court can sit on appeal over a decision of the Lagos State High Court.",
+      "Whether the transfer of a case from the Lagos State High Court to the National Industrial Court is valid."
+    ]
+  },
+  "arguments": {
+    "claimant_arguments": [
+      "The High Court of Lagos State lacks jurisdiction to transfer a case to the National Industrial Court; the transfer of Suit No. ID/1098/2008 is a nullity.",
+      "The suit is not an abuse of court process because the claimant has locus standi and the statement of claim discloses a cause of action.",
+      "The claimant was unaware of the transfer and discontinued Suit No. NICN/LA/637/2013 upon discovering it.",
+      "Striking out the suit would prejudice the claimant who suffered injury and is threatened with permanent disability."
+    ],
+    "defendant_arguments": [
+      "The suit is an abuse of court process because Suit No. NICN/LA/637/2013 pending before Court 5 involves the same parties and subject matter (personal injury, negligence, want of duty of care).",
+      "Filing two concurrent actions for the same reliefs constitutes an abuse of court process."
+    ],
+    "appellant_arguments": [],
+    "respondent_arguments": [],
+    "submissions": [
+      "Defendant submitted that abuse of court process includes multiplicity of actions on the same subject matter against the same opponent.",
+      "Claimant submitted that jurisdiction is fundamental and a court acting without jurisdiction renders its judgment a nullity.",
+      "Claimant submitted that the High Court Law of Lagos State does not confer jurisdiction on the High Court to transfer a case to the National Industrial Court."
+    ],
+    "party_authorities": [
+      {
+        "party": "Defendant/Applicant",
+        "authority": "Ministry of Works v. Tomas (Nig) Ltd [2002] 2 NWLR (Pt. 752) 775",
+        "proposition": "Definition of abuse of court process."
+      },
+      {
+        "party": "Defendant/Applicant",
+        "authority": "Morgan v. W.A.A Engineering Co. Ltd (1971) 1 NMLR 221",
+        "proposition": "Filing two concurrent actions for same reliefs is an abuse of court process."
+      },
+      {
+        "party": "Claimant/Respondent",
+        "authority": "Gombe v. P.W (Nig) Ltd & Ors [1990] 5 NWLR (Pt. 151) 473",
+        "proposition": "Jurisdiction is conferred by the Constitution or statute."
+      },
+      {
+        "party": "Claimant/Respondent",
+        "authority": "Pwoza v. Jang [1992] 7 NWLR (Pt. 251) 120",
+        "proposition": "A judgment without jurisdiction is a nullity."
+      },
+      {
+        "party": "Claimant/Respondent",
+        "authority": "Ndayako v. Dantoro [2004] 13 NWLR (Pt. 889) 189",
+        "proposition": "A judgment without jurisdiction is a nullity."
+      },
+      {
+        "party": "Claimant/Respondent",
+        "authority": "Akegbejo & Ors v. Ataga & Ors [1998] 1 NWLR (Pt. 534) 459",
+        "proposition": "Transfer of a case without jurisdiction is invalid."
+      },
+      {
+        "party": "Claimant/Respondent",
+        "authority": "Okolo v. Union Bank of Nigeria Plc [2004] All FWLR (Pt. 197) 981",
+        "proposition": "Transfer of a case without jurisdiction is invalid."
+      },
+      {
+        "party": "Claimant/Respondent",
+        "authority": "Tyonzughul v. A.G Benue State [2005] 5 NWLR (Pt.918) 226",
+        "proposition": "Where a court lacks jurisdiction, the only order is striking out, not transfer."
+      },
+      {
+        "party": "Claimant/Respondent",
+        "authority": "Ilori v. Benson [2000] 9 NWLR (Pt.673) 570",
+        "proposition": "Where a court lacks jurisdiction, the only order is striking out, not transfer."
+      },
+      {
+        "party": "Claimant/Respondent",
+        "authority": "C.G.G Nig. Ltd v. Amaewhule [2006] 3 NWLR (Pt.967) 282",
+        "proposition": "Where a court lacks jurisdiction, the only order is striking out, not transfer."
+      },
+      {
+        "party": "Claimant/Respondent",
+        "authority": "NDIC v. CBN [2002] 7 NWLR (Pt.766) 272",
+        "proposition": "Where a court lacks jurisdiction, the only order is striking out, not transfer."
+      },
+      {
+        "party": "Claimant/Respondent",
+        "authority": "Ode v. Balogun [1990] 10 NWLR (Pt. 622) 214",
+        "proposition": "Abuse of court process arises from improper use of judicial process."
+      },
+      {
+        "party": "Claimant/Respondent",
+        "authority": "Ali v. Albasir & Ors [2008] 3 NWLR (Pt. 1073) 94",
+        "proposition": "Abuse of court process arises from multiplicity of actions."
+      },
+      {
+        "party": "Claimant/Respondent",
+        "authority": "Adesokan v. Adeogorolu [1997] 3 SCNJ P.1",
+        "proposition": "An action cannot be an abuse of court process when the claimant has locus standi and the statement of claim discloses a cause of action."
+      }
+    ]
+  },
+  "evidence": {
+    "exhibits": [
+      {
+        "identifier": "JE1-3",
+        "description": "Notice of discontinuance filed in Suit No. NICN/LA/637/2013 on 13th June 2014.",
+        "party": "Claimant",
+        "relevance": "Shows that the claimant discontinued the earlier suit, negating the allegation of abuse of court process."
+      }
+    ],
+    "witnesses": [],
+    "documentary_evidence": [
+      "Notice of discontinuance in Suit No. NICN/LA/637/2013."
+    ],
+    "oral_evidence": [],
+    "expert_evidence": [],
+    "evidential_findings": [
+      {
+        "evidence": "Notice of discontinuance filed by the claimant in Suit No. NICN/LA/637/2013.",
+        "finding": "The claimant discontinued the earlier suit; the parties listed on the notice are not the same as in this suit.",
+        "credibility": "Credible and uncontroverted."
+      }
+    ]
+  },
+  "judicial_analysis": {
+    "findings_of_fact": [
+      {
+        "issue": "Abuse of court process",
+        "finding": "The defendant failed to exhibit the originating processes in Suit No. NICN/LA/637/2013, so the court cannot ascertain multiplicity of suits. The claimant discontinued that suit, and the parties are not the same."
+      }
+    ],
+    "findings_of_law": [
+      {
+        "issue": "Abuse of court process",
+        "finding": "The suit is not an abuse of court process."
+      },
+      {
+        "issue": "Jurisdiction to transfer",
+        "finding": "The National Industrial Court is a court of co-ordinate jurisdiction with the Lagos State High Court and cannot sit on appeal over the High Court's decision. The issue of validity of the transfer is for the Court of Appeal."
+      }
+    ],
+    "reasoning": "The defendant alleged abuse of court process due to a pending suit, but failed to provide the originating processes to substantiate the claim. The claimant showed that the earlier suit was discontinued. The court held that the suit is not an abuse of process. On the claimant's argument that the transfer from the High Court was a nullity, the court held that it cannot sit on appeal over a decision of a court of co-ordinate jurisdiction; such challenge should be made to the Court of Appeal.",
+    "issue_analysis": [
+      {
+        "issue_number": "1",
+        "issue": "Whether this suit as presently constituted is an abuse of the process of this Honourable Court.",
+        "arguments": {
+          "claimant": "The suit is not an abuse of court process because the claimant has locus standi and the statement of claim discloses a cause of action; the earlier suit was discontinued.",
+          "defendant": "The suit is an abuse of court process because Suit No. NICN/LA/637/2013 involves the same parties and subject matter."
+        },
+        "judicial_analysis": "The defendant did not exhibit the originating processes in Suit No. NICN/LA/637/2013, so the court cannot verify the alleged multiplicity. The claimant exhibited a notice of discontinuance showing the earlier suit was discontinued, and the parties are not the same.",
+        "holding": "The suit is not an abuse of the process of court.",
+        "ratio_decidendi": "For a suit to be struck out for abuse of court process on grounds of multiplicity of actions, the applicant must provide evidence of the pending suit; a discontinued suit cannot found an allegation of abuse.",
+        "result": "Motion dismissed."
+      },
+      {
+        "issue_number": "2",
+        "issue": "Whether the High Court of Lagos State has the jurisdiction to transfer a case to this court.",
+        "arguments": {
+          "claimant": "The High Court of Lagos State lacks jurisdiction to transfer a case to the National Industrial Court; the transfer is a nullity.",
+          "defendant": "Not addressed in the ruling as the issue was raised by the claimant."
+        },
+        "judicial_analysis": "The National Industrial Court is a court of co-ordinate jurisdiction with the Lagos State High Court and is not empowered to sit on appeal over the decisions of the High Court. The validity of the transfer order is a matter for the Court of Appeal.",
+        "holding": "The issue is misconceived and irrelevant to the application; the court cannot sit on appeal over the High Court's order.",
+        "ratio_decidendi": "A court of co-ordinate jurisdiction cannot review or sit on appeal over the decision of another court of co-ordinate jurisdiction; such challenge must be pursued in the appellate court.",
+        "result": "Issue resolved against the claimant; motion dismissed."
+      }
+    ],
+    "holdings": [
+      {
+        "issue_number": "1",
+        "issue": "Abuse of court process",
+        "holding": "The suit is not an abuse of court process.",
+        "result": "Motion dismissed."
+      },
+      {
+        "issue_number": "2",
+        "issue": "Jurisdiction to transfer",
+        "holding": "The National Industrial Court cannot sit on appeal over the Lagos State High Court's transfer order.",
+        "result": "Issue resolved against the claimant."
+      }
+    ],
+    "ratio_decidendi": [
+      {
+        "issue": "Abuse of court process",
+        "principle": "A suit cannot be struck out for abuse of court process on grounds of multiplicity of actions where the alleged pending suit has been discontinued and the parties are not the same.",
+        "application": "The claimant discontinued Suit No. NICN/LA/637/2013, and the parties on the notice of discontinuance are not the same as in this suit.",
+        "holding": "The suit is not an abuse of court process."
+      },
+      {
+        "issue": "Jurisdiction to transfer",
+        "principle": "A court of co-ordinate jurisdiction cannot sit on appeal over the decision of another court of co-ordinate jurisdiction.",
+        "application": "The National Industrial Court is a court of co-ordinate jurisdiction with the Lagos State High Court and cannot review the latter's transfer order.",
+        "holding": "The challenge to the transfer order is for the Court of Appeal."
+      }
+    ],
+    "obiter_dicta": [],
+    "legal_principles": [
+      {
+        "principle": "Abuse of court process",
+        "context": "Filing multiple actions on the same subject matter against the same party.",
+        "source": "Case law"
+      },
+      {
+        "principle": "Jurisdiction",
+        "context": "A court acting without jurisdiction renders its judgment a nullity.",
+        "source": "Constitution and case law"
+      },
+      {
+        "principle": "Co-ordinate jurisdiction",
+        "context": "A court cannot sit on appeal over a court of co-ordinate jurisdiction.",
+        "source": "Case law"
+      }
+    ],
+    "statutory_interpretation": [],
+    "constitutional_analysis": [],
+    "precedent_analysis": [
+      {
+        "authority": "Ministry of Works v. Tomas (Nig) Ltd",
+        "citation": "[2002] 2 NWLR (Pt. 752) 775",
+        "treatment": "Cited",
+        "proposition": "Definition of abuse of court process.",
+        "reasoning": "Cited by defendant to define abuse of court process."
+      },
+      {
+        "authority": "Morgan v. W.A.A Engineering Co. Ltd",
+        "citation": "(1971) 1 NMLR 221",
+        "treatment": "Cited",
+        "proposition": "Filing two concurrent actions for same reliefs is an abuse of court process.",
+        "reasoning": "Cited by defendant to support allegation of abuse."
+      },
+      {
+        "authority": "Gombe v. P.W (Nig) Ltd & Ors",
+        "citation": "[1990] 5 NWLR (Pt. 151) 473",
+        "treatment": "Cited",
+        "proposition": "Jurisdiction is conferred by the Constitution or statute.",
+        "reasoning": "Cited by claimant to argue lack of jurisdiction."
+      },
+      {
+        "authority": "Pwoza v. Jang",
+        "citation": "[1992] 7 NWLR (Pt. 251) 120",
+        "treatment": "Cited",
+        "proposition": "A judgment without jurisdiction is a nullity.",
+        "reasoning": "Cited by claimant."
+      },
+      {
+        "authority": "Ndayako v. Dantoro",
+        "citation": "[2004] 13 NWLR (Pt. 889) 189",
+        "treatment": "Cited",
+        "proposition": "A judgment without jurisdiction is a nullity.",
+        "reasoning": "Cited by claimant."
+      },
+      {
+        "authority": "Akegbejo & Ors v. Ataga & Ors",
+        "citation": "[1998] 1 NWLR (Pt. 534) 459",
+        "treatment": "Cited",
+        "proposition": "Transfer of a case without jurisdiction is invalid.",
+        "reasoning": "Cited by claimant."
+      },
+      {
+        "authority": "Okolo v. Union Bank of Nigeria Plc",
+        "citation": "[2004] All FWLR (Pt. 197) 981",
+        "treatment": "Cited",
+        "proposition": "Transfer of a case without jurisdiction is invalid.",
+        "reasoning": "Cited by claimant."
+      },
+      {
+        "authority": "Tyonzughul v. A.G Benue State",
+        "citation": "[2005] 5 NWLR (Pt.918) 226",
+        "treatment": "Cited",
+        "proposition": "Where a court lacks jurisdiction, the only order is striking out, not transfer.",
+        "reasoning": "Cited by claimant."
+      },
+      {
+        "authority": "Ilori v. Benson",
+        "citation": "[2000] 9 NWLR (Pt.673) 570",
+        "treatment": "Cited",
+        "proposition": "Where a court lacks jurisdiction, the only order is striking out, not transfer.",
+        "reasoning": "Cited by claimant."
+      },
+      {
+        "authority": "C.G.G Nig. Ltd v. Amaewhule",
+        "citation": "[2006] 3 NWLR (Pt.967) 282",
+        "treatment": "Cited",
+        "proposition": "Where a court lacks jurisdiction, the only order is striking out, not transfer.",
+        "reasoning": "Cited by claimant."
+      },
+      {
+        "authority": "NDIC v. CBN",
+        "citation": "[2002] 7 NWLR (Pt.766) 272",
+        "treatment": "Cited",
+        "proposition": "Where a court lacks jurisdiction, the only order is striking out, not transfer.",
+        "reasoning": "Cited by claimant."
+      },
+      {
+        "authority": "Ode v. Balogun",
+        "citation": "[1990] 10 NWLR (Pt. 622) 214",
+        "treatment": "Cited",
+        "proposition": "Abuse of court process arises from improper use of judicial process.",
+        "reasoning": "Cited by claimant."
+      },
+      {
+        "authority": "Ali v. Albasir & Ors",
+        "citation": "[2008] 3 NWLR (Pt. 1073) 94",
+        "treatment": "Cited",
+        "proposition": "Abuse of court process arises from multiplicity of actions.",
+        "reasoning": "Cited by claimant."
+      },
+      {
+        "authority": "Adesokan v. Adeogorolu",
+        "citation": "[1997] 3 SCNJ P.1",
+        "treatment": "Cited",
+        "proposition": "An action cannot be an abuse of court process when the claimant has locus standi and the statement of claim discloses a cause of action.",
+        "reasoning": "Cited by claimant."
+      }
+    ],
+    "evidential_findings": [],
+    "judicial_observations": []
+  },
+  "authorities": {
+    "cases_cited": [
+      {
+        "case_name": "Ministry of Works v. Tomas (Nig) Ltd",
+        "citation": "[2002] 2 NWLR (Pt. 752) 775",
+        "court": "",
+        "year": 2002,
+        "proposition": "Definition of abuse of court process.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Morgan v. W.A.A Engineering Co. Ltd",
+        "citation": "(1971) 1 NMLR 221",
+        "court": "",
+        "year": 1971,
+        "proposition": "Filing two concurrent actions for same reliefs is an abuse of court process.",
+        "treatment": "Cited",
+        "cited_by": "Defendant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Gombe v. P.W (Nig) Ltd & Ors",
+        "citation": "[1990] 5 NWLR (Pt. 151) 473",
+        "court": "",
+        "year": 1990,
+        "proposition": "Jurisdiction is conferred by the Constitution or statute.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Pwoza v. Jang",
+        "citation": "[1992] 7 NWLR (Pt. 251) 120",
+        "court": "",
+        "year": 1992,
+        "proposition": "A judgment without jurisdiction is a nullity.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Ndayako v. Dantoro",
+        "citation": "[2004] 13 NWLR (Pt. 889) 189",
+        "court": "",
+        "year": 2004,
+        "proposition": "A judgment without jurisdiction is a nullity.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Akegbejo & Ors v. Ataga & Ors",
+        "citation": "[1998] 1 NWLR (Pt. 534) 459",
+        "court": "",
+        "year": 1998,
+        "proposition": "Transfer of a case without jurisdiction is invalid.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Okolo v. Union Bank of Nigeria Plc",
+        "citation": "[2004] All FWLR (Pt. 197) 981",
+        "court": "",
+        "year": 2004,
+        "proposition": "Transfer of a case without jurisdiction is invalid.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Tyonzughul v. A.G Benue State",
+        "citation": "[2005] 5 NWLR (Pt.918) 226",
+        "court": "",
+        "year": 2005,
+        "proposition": "Where a court lacks jurisdiction, the only order is striking out, not transfer.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Ilori v. Benson",
+        "citation": "[2000] 9 NWLR (Pt.673) 570",
+        "court": "",
+        "year": 2000,
+        "proposition": "Where a court lacks jurisdiction, the only order is striking out, not transfer.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "C.G.G Nig. Ltd v. Amaewhule",
+        "citation": "[2006] 3 NWLR (Pt.967) 282",
+        "court": "",
+        "year": 2006,
+        "proposition": "Where a court lacks jurisdiction, the only order is striking out, not transfer.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "NDIC v. CBN",
+        "citation": "[2002] 7 NWLR (Pt.766) 272",
+        "court": "",
+        "year": 2002,
+        "proposition": "Where a court lacks jurisdiction, the only order is striking out, not transfer.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Ode v. Balogun",
+        "citation": "[1990] 10 NWLR (Pt. 622) 214",
+        "court": "",
+        "year": 1990,
+        "proposition": "Abuse of court process arises from improper use of judicial process.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Ali v. Albasir & Ors",
+        "citation": "[2008] 3 NWLR (Pt. 1073) 94",
+        "court": "",
+        "year": 2008,
+        "proposition": "Abuse of court process arises from multiplicity of actions.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      },
+      {
+        "case_name": "Adesokan v. Adeogorolu",
+        "citation": "[1997] 3 SCNJ P.1",
+        "court": "",
+        "year": 1997,
+        "proposition": "An action cannot be an abuse of court process when the claimant has locus standi and the statement of claim discloses a cause of action.",
+        "treatment": "Cited",
+        "cited_by": "Claimant",
+        "importance": "Supporting"
+      }
+    ],
+    "statutes": [],
+    "constitutional_provisions": [],
+    "regulations": [],
+    "rules": [
+      {
+        "name": "National Industrial Court Rules, 2007",
+        "provision": "Order 11 Rule 1",
+        "proposition": "Basis for application."
+      }
+    ],
+    "international_instruments": [],
+    "other_authorities": []
+  },
+  "precedent_relationships": [],
+  "outcome": {
+    "decision": "Motion dismissed with costs of N5,000 awarded in favour of the claimant.",
+    "overall_result": "Motion dismissed.",
+    "orders": [
+      "Motion on notice dismissed.",
+      "Costs of N5,000 awarded in favour of the claimant."
+    ],
+    "reliefs": [],
+    "reliefs_granted": [],
+    "reliefs_refused": [],
+    "reliefs_struck_out": [],
+    "reliefs_dismissed": [],
+    "damages": [],
+    "compensation": [],
+    "costs": {
+      "awarded": true,
+      "amount": "N5,000",
+      "recipient": "Claimant",
+      "details": "Costs awarded in favour of the claimant."
+    },
+    "interest": {
+      "awarded": false,
+      "rate": "",
+      "start_date": "",
+      "end_date": "",
+      "basis": ""
+    },
+    "compliance_deadline": "",
+    "declarations": [],
+    "injunctions": [],
+    "specific_orders": [],
+    "final_disposition": "Motion dismissed with costs."
+  },
+  "legal_knowledge": {
+    "holdings": [
+      "The suit is not an abuse of court process.",
+      "The National Industrial Court cannot sit on appeal over the Lagos State High Court's transfer order."
+    ],
+    "legal_principles": [
+      "Abuse of court process",
+      "Jurisdiction",
+      "Co-ordinate jurisdiction"
+    ],
+    "ratio_decidendi": [
+      "A suit cannot be struck out for abuse of court process on grounds of multiplicity of actions where the alleged pending suit has been discontinued and the parties are not the same.",
+      "A court of co-ordinate jurisdiction cannot sit on appeal over the decision of another court of co-ordinate jurisdiction."
+    ],
+    "obiter_dicta": [],
+    "causes_of_action": [
+      "Personal injury",
+      "Negligence",
+      "Breach of duty of care"
+    ],
+    "legal_issues": [
+      "Abuse of court process",
+      "Jurisdiction to transfer"
+    ],
+    "practice_areas": [
+      "Civil Procedure",
+      "Employment Law",
+      "Tort Law"
+    ],
+    "sub_practice_areas": [
+      "Abuse of Process",
+      "Jurisdiction"
+    ],
+    "legal_concepts": [
+      "Abuse of court process",
+      "Jurisdiction",
+      "Co-ordinate jurisdiction",
+      "Transfer of cases"
+    ],
+    "doctrines": [
+      "Abuse of court process",
+      "Jurisdiction"
+    ],
+    "remedies": [
+      "Striking out",
+      "Costs"
+    ],
+    "employment_law_topics": [
+      "Workplace injury",
+      "Employer's duty of care"
+    ],
+    "jurisdictional_issues": [
+      "Transfer of case from High Court to National Industrial Court",
+      "Co-ordinate jurisdiction"
+    ]
+  },
+  "retrieval": {
+    "keywords": [
+      "abuse of court process",
+      "jurisdiction",
+      "transfer",
+      "National Industrial Court",
+      "Lagos High Court",
+      "personal injury",
+      "negligence",
+      "duty of care",
+      "discontinuance",
+      "co-ordinate jurisdiction"
+    ],
+    "searchable_concepts": [
+      "abuse of court process",
+      "multiplicity of actions",
+      "jurisdiction to transfer",
+      "co-ordinate jurisdiction",
+      "notice of discontinuance"
+    ],
+    "semantic_topics": [
+      "Abuse of court process",
+      "Jurisdiction",
+      "Transfer of cases",
+      "Employment injury"
+    ],
+    "legal_entities": [
+      "National Industrial Court",
+      "Lagos State High Court",
+      "Julian Eboh",
+      "Metro Group Limited"
+    ],
+    "statutes_referenced": [],
+    "cases_referenced": [
+      "Ministry of Works v. Tomas (Nig) Ltd",
+      "Morgan v. W.A.A Engineering Co. Ltd",
+      "Gombe v. P.W (Nig) Ltd & Ors",
+      "Pwoza v. Jang",
+      "Ndayako v. Dantoro",
+      "Akegbejo & Ors v. Ataga & Ors",
+      "Okolo v. Union Bank of Nigeria Plc",
+      "Tyonzughul v. A.G Benue State",
+      "Ilori v. Benson",
+      "C.G.G Nig. Ltd v. Amaewhule",
+      "NDIC v. CBN",
+      "Ode v. Balogun",
+      "Ali v. Albasir & Ors",
+      "Adesokan v. Adeogorolu"
+    ],
+    "citation_phrases": [
+      "abuse of court process",
+      "jurisdiction",
+      "transfer of case",
+      "co-ordinate jurisdiction"
+    ],
+    "fact_patterns": [
+      "Employee sustained injury at work",
+      "Multiple suits filed",
+      "Discontinuance of earlier suit",
+      "Motion to strike out for abuse of process"
+    ],
+    "relief_types": [
+      "Striking out",
+      "Costs"
+    ],
+    "decision_types": [
+      "Ruling",
+      "Motion dismissed"
+    ]
+  },
+  "graph_rag": {
+    "entities": [
+      {
+        "name": "Julian Eboh",
+        "type": "Person"
+      },
+      {
+        "name": "Metro Group Limited",
+        "type": "Organization"
+      },
+      {
+        "name": "National Industrial Court of Nigeria",
+        "type": "Court"
+      },
+      {
+        "name": "Lagos State High Court",
+        "type": "Court"
+      },
+      {
+        "name": "Hon. Justice O.A. Obaseki-Osaghae",
+        "type": "Judge"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Julian Eboh",
+        "relationship": "employee of",
+        "target": "Metro Group Limited",
+        "evidence": "Claimant sustained injury in the course of his employment with the defendant."
+      },
+      {
+        "source": "Julian Eboh",
+        "relationship": "filed suit against",
+        "target": "Metro Group Limited",
+        "evidence": "Suit No. NICN/CA/668/2013."
+      },
+      {
+        "source": "Metro Group Limited",
+        "relationship": "filed motion against",
+        "target": "Julian Eboh",
+        "evidence": "Motion to strike out suit for abuse of court process."
+      }
+    ],
+    "case_relationships": [
+      {
+        "case": "Suit No. NICN/LA/637/2013",
+        "citation": "",
+        "relationship": "discontinued",
+        "context": "Claimant filed notice of discontinuance on 13th June 2014."
+      }
+    ],
+    "statute_relationships": [],
+    "legal_principle_relationships": [
+      {
+        "principle": "Abuse of court process",
+        "case": "Ministry of Works v. Tomas (Nig) Ltd",
+        "relationship": "cited"
+      },
+      {
+        "principle": "Co-ordinate jurisdiction",
+        "case": "",
+        "relationship": "applied"
+      }
+    ]
+  },
+  "citation_network": {
+    "authorities_cited": [
+      "Ministry of Works v. Tomas (Nig) Ltd [2002] 2 NWLR (Pt. 752) 775",
+      "Morgan v. W.A.A Engineering Co. Ltd (1971) 1 NMLR 221",
+      "Gombe v. P.W (Nig) Ltd & Ors [1990] 5 NWLR (Pt. 151) 473",
+      "Pwoza v. Jang [1992] 7 NWLR (Pt. 251) 120",
+      "Ndayako v. Dantoro [2004] 13 NWLR (Pt. 889) 189",
+      "Akegbejo & Ors v. Ataga & Ors [1998] 1 NWLR (Pt. 534) 459",
+      "Okolo v. Union Bank of Nigeria Plc [2004] All FWLR (Pt. 197) 981",
+      "Tyonzughul v. A.G Benue State [2005] 5 NWLR (Pt.918) 226",
+      "Ilori v. Benson [2000] 9 NWLR (Pt.673) 570",
+      "C.G.G Nig. Ltd v. Amaewhule [2006] 3 NWLR (Pt.967) 282",
+      "NDIC v. CBN [2002] 7 NWLR (Pt.766) 272",
+      "Ode v. Balogun [1990] 10 NWLR (Pt. 622) 214",
+      "Ali v. Albasir & Ors [2008] 3 NWLR (Pt. 1073) 94",
+      "Adesokan v. Adeogorolu [1997] 3 SCNJ P.1"
+    ],
+    "authorities_followed": [],
+    "authorities_distinguished": [],
+    "authorities_rejected": [],
+    "authorities_overruled": [],
+    "authorities_relied_upon": []
+  },
+  "metadata_quality": {
+    "extraction_confidence": 0.95,
+    "fields_missing": [],
+    "fields_uncertain": [],
+    "requires_review": false,
+    "review_reasons": [],
+    "source_completeness": "complete",
+    "ai_extraction_model": "deepseek-chat",
+    "prompt_version": "nicn-v3.2-single-call",
+    "extracted_at": "2026-10-02T09:22:04.011498+00:00"
+  }
+}
